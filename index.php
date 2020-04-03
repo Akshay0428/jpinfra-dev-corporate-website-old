@@ -1529,54 +1529,53 @@ transition:all .6s ease-in-out;
             	 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/Safety.jpg" alt="Safety">
                     <h5>National Safety Week:</h5>
-                    <p>Endorsing safety week by implementing standard safety protocol and precautionary  measures</p>
+                    <p>Endorsing safety week by implementing standard safety protocol and precautionary measures</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/christmas.jpg" alt="christmas">
-                    <h5>Twins Day celebration :</h5>
-                    <p>Team bonding at its highest – When two (or many) become one </p>
-                    
-                    <p>Excitement at its highest with double dhamaka.</p>
+                    <h5>Christmas Celebration:</h5>
+                    <p>JP Infra gives back to society and plays Santa to the kids.</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/Diwali.jpg" alt="Diwali">
-                    <h5>Pottery workshop- Connect to Art</h5>
-                    <p> October 4, 2019</p>
+                    <h5>Diwali Celebration:</h5>
+                    <p>Building team spirit and togetherness with grand Diwali celebrations and scrumptious food.</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/ganesha.jpg" alt="ganesha">
-                    <h5>Pottery workshop- Connect to Art</h5>
-                    <p> October 4, 2019</p>
+                    <h5>My home My Ganesha :</h5>
+                    <p>JP Infra celebrates Ganpati by bringing Lord Ganesha into its own temple</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/gudi-padwa.jpg" alt="gudi-padwa">
-                    <h5>Pottery workshop- Connect to Art</h5>
-                    <p> October 4, 2019</p>
+                    <h5>Gudi Padwa Celebration @JP North :</h5>
+                    <p>JP Infra celebrates the start of a new year with reverence and holiness.</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/independance.jpg" alt="independance">
-                    <h5>Pottery workshop- Connect to Art</h5>
-                    <p> October 4, 2019</p>
+                    <h5>What Is Your Freedom:</h5>
+                    <p>The team @JP Infra depicts what freedom means to each of them</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/Joy_of_giving.jpg" alt="Joy_of_giving">
-                    <h5>Pottery workshop- Connect to Art</h5>
-                    <p> October 4, 2019</p>
+                    <h5>JP Infra Christmas 2016:</h5>
+                    <p>The team @ JP Infra celebrates Christmas with a spirit of oneness and togetherness</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/pottery_activity.jpg" alt="pottery_activity">
-                    <h5>Pottery workshop- Connect to Art</h5>
-                    <p> October 4, 2019</p>
+                    <h5>Pottery Workshop:</h5>
+                    <p>Teaching you the basics of pottery to allow your inner artist to shine</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/twins-day.jpg" alt="twins-day">
-                    <h5>Pottery workshop- Connect to Art</h5>
-                    <p> October 4, 2019</p>
+                    <h5>Twins Day celebration :</h5>
+                    <p>Team bonding at its highest – When two (or many) become one</p>
+                      <p>  Excitement at its highest with double dhamaka.</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/utrang.jpg" alt="utrang">
-                    <h5>Pottery workshop- Connect to Art</h5>
-                    <p> October 4, 2019</p>
+                    <h5>JP Udtarang :</h5>
+                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
                 </div>
             </div>
             <div class="clearfix"></div> 

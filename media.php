@@ -8,12 +8,116 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
 
 <style>
+.marg{
+    margin: 60px 0px;
+}
+.sep {width:100%;}
+.sep .image-hover {margin:0px 0px 0px 0px}
+
+/****** image hover ******/
+
+.image-hover * {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+.image-hover {position:relative;
+    width:450px;
+    height:200px;
+    display:inline-block;
+    overflow:hidden;
+    /*background:#fff;*/
+    /*border:10px solid #fff;*/
+    /*box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
+    /*-moz-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
+    /*-webkit-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3)*/
+    
+}
+.image-hover a {text-decoration:none}
+
+.image-hover img {
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+    height: 30vh;
+}
+
+/*** effect - shadow 1 ***/
+
+.img-shadow-1
+{
+-webkit-box-shadow:none;
+-moz-box-shadow: none;
+box-shadow: none;
+}
+
+.img-shadow-1:hover
+{
+transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-ms-transform:scale(1.1);
+-o-transform:scale(1.1);
+
+-webkit-box-shadow: 0 58px 36px -56px black;
+-moz-box-shadow: 0 58px 36px -56px black;
+box-shadow: 0 58px 36px -56px black;
+}
+
+.img-shadow-1
+{
+transition:all .6s ease-in-out;
+-webkit-transition:all .6s ease-in-out;
+-moz-transition:all .6s ease-in-out;
+-ms-transition:all .6s ease-in-out;
+-o-transition:all .6s ease-in-out;
+}
+
+.img-shadow-1:hover
+{
+transition:all .6s ease-in-out;
+-webkit-transition:all .6s ease-in-out;
+-moz-transition:all .6s ease-in-out;
+-ms-transition:all .6s ease-in-out;
+-o-transition:all .6s ease-in-out;
+}
+.sss{
+    width: 21%;
+}
+.sep .image-hover {
+    margin: 10px 8px 10px 8px;
+    height:auto;
+}
+.new {
+    width: 100%;
+    margin: 0 auto;
+}
+.image-hover.img-shadow-1.sss h5 {
+    color: #2e5689;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    padding: 2px;
+}
+.image-hover.img-shadow-1.sss p {
+    text-align: center;
+    font-weight: 400;
+    color: #000;
+        text-transform: capitalize;
+}
+.media_sletters .prev-button-home {
+    top: 50%;
+}
+.media_sletters .next-button-home{
+    top: 50%;
+}
+.media_evimg .prev-button-home {
+    top: 45%;
+}
+.media_evimg .next-button-home{
+    top: 45%;
+}
 /**********************
 slick slider
 ***********************/
 
 .glimpse-main {
-    background-color: #2e568945;
+    background-color:#e1e1e1;
     width: 100%;
     padding: 6px 153px;
     margin-top: 0px!important;
@@ -56,10 +160,10 @@ slick slider
 .prev-button-home {
     color: #999;
     position: absolute;
-    top: 40%;
-    left: -25px;
+    top: 27%;
+    left: -50px;
     font-size: 1.5em;
-    background-image: url(images/arrow_2.png);
+    background-image: url(img/arrow_2.png);
     width: 27px;
     height: 18px;
     border: none;
@@ -73,14 +177,15 @@ slick slider
 .next-button-home {
     color: #999;
     position: absolute;
-    top: 40%;
+    top: 27%;
     font-size: 1.5em;
-    background-image: url(images/arrow_1.png);
+    background-image: url(img/arrow_1.png);
     width: 28px;
     height: 18px;
     border: none;
     background-color: transparent;
     outline: none !important;
+    left: 103%;
 }
 .next-button-home :hover {
     cursor: pointer;
@@ -95,103 +200,76 @@ slick slider
 	   </div>
 	   <div class="clearfix"></div>
 <!-- glimpse jp desktop start -->
-    <div class="glimpse-main desktop">
- 
-      <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Media</h1>
-      
-      <div class="contact_line"></div>
-        
+ <div class="glimpse-main desktop marg">
+    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Media</h1>
+    <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
+
           <!-- slider desktop start -->
-        <div class="media_responsive">
-            <div class="media_glimpse-slider desktop">
-                <div class="media_glimpse-col">
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media1.jpg" class="myimgresize">
-                    </div>
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media2.jpg" class="myimgresize">
-                    </div>
-                    <div class="clearfix"></div> 
+        <div class="sep">
+            <div class="new slide-media">
+                 <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/Safety.jpg" alt="Safety">
+                    <h5>National Safety Week:</h5>
+                    <p>Endorsing safety week by implementing standard safety protocol and precautionary measures</p>
                 </div>
-    
-                <div class="media_glimpse-col">
-                    <div class="media_glimpse-col-middle">
-                        <img src="img/media2.jpg" class="mybigimgresize">
-                    </div>    
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/christmas.jpg" alt="christmas">
+                    <h5>Christmas Celebration:</h5>
+                    <p>JP Infra gives back to society and plays Santa to the kids.</p>
                 </div>
-    
-                <div class="media_glimpse-col">
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media3.jpg" class="myimgresize">
-                    </div>
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media4.jpg" class="myimgresize">
-                    </div>
-                    <div class="clearfix"></div> 
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/Diwali.jpg" alt="Diwali">
+                    <h5>Diwali Celebration:</h5>
+                    <p>Building team spirit and togetherness with grand Diwali celebrations and scrumptious food.</p>
                 </div>
-                <div class="clearfix"></div> 
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/ganesha.jpg" alt="ganesha">
+                    <h5>My home My Ganesha :</h5>
+                    <p>JP Infra celebrates Ganpati by bringing Lord Ganesha into its own temple</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/gudi-padwa.jpg" alt="gudi-padwa">
+                    <h5>Gudi Padwa Celebration @JP North :</h5>
+                    <p>JP Infra celebrates the start of a new year with reverence and holiness.</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/independance.jpg" alt="independance">
+                    <h5>What Is Your Freedom:</h5>
+                    <p>The team @JP Infra depicts what freedom means to each of them</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/Joy_of_giving.jpg" alt="Joy_of_giving">
+                    <h5>JP Infra Christmas 2016:</h5>
+                    <p>The team @ JP Infra celebrates Christmas with a spirit of oneness and togetherness</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/pottery_activity.jpg" alt="pottery_activity">
+                    <h5>Pottery Workshop:</h5>
+                    <p>Teaching you the basics of pottery to allow your inner artist to shine</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/twins-day.jpg" alt="twins-day">
+                    <h5>Twins Day celebration :</h5>
+                    <p>Team bonding at its highest – When two (or many) become one</p>
+                      <p>  Excitement at its highest with double dhamaka.</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/utrang.jpg" alt="utrang">
+                    <h5>JP Udtarang :</h5>
+                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/nL0aKmi_U6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+                    <h5>Women's Day 2020</h5>
+                    <!-- <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p> -->
+                </div>
             </div>
-            <div class="media_glimpse-slider desktop">
-                <div class="media_glimpse-col">
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media5.jpg" class="myimgresize">
-                    </div>
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media6.jpg" class="myimgresize">
-                    </div>
-                    <div class="clearfix"></div> 
-                </div>
-    
-                <div class="media_glimpse-col">
-                    <div class="media_glimpse-col-middle">
-                        <img src="img/media2.jpg" class="mybigimgresize">
-                    </div>    
-                </div>
-    
-                <div class="media_glimpse-col">
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media7.jpg" class="myimgresize">
-                    </div>
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media8.jpg" class="myimgresize">
-                    </div>
-                    <div class="clearfix"></div> 
-                </div>
-                <div class="clearfix"></div> 
-            </div>
-            <div class="media_glimpse-slider desktop">
-                <div class="media_glimpse-col">
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media9.jpg" class="myimgresize">
-                    </div>
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media10.jpg" class="myimgresize">
-                    </div>
-                    <div class="clearfix"></div> 
-                </div>
-    
-                <div class="media_glimpse-col">
-                    <div class="media_glimpse-col-middle">
-                        <img src="img/media2.jpg" class="mybigimgresize">
-                    </div>    
-                </div>
-    
-                <div class="media_glimpse-col">
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media1.jpg" class="myimgresize">
-                    </div>
-                    <div class="media_glimpse-col-inner">
-                        <img src="img/media1.jpg" class="myimgresize">
-                    </div>
-                    <div class="clearfix"></div> 
-                </div>
-                <div class="clearfix"></div> 
-            </div>
-        </div>
-        
+            <div class="clearfix"></div> 
+          </div>
         <!-- desktop end -->
         <div class="clearfix"></div> 
-    </div>
+</div>
+    <!-- glimpse new jp desktop ends -->
     <!-- glimpse jp desktop ends -->
 
 
@@ -241,7 +319,7 @@ slick slider
 
 <!-- article start -->
 
-<div class="media_art">
+<div class="media_art marg">
     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Articles</h1>
     <div class="contact_line"></div>
 
@@ -474,7 +552,7 @@ slick slider
 <!-- article end -->
 
 <!-- new slater -->
-<div class="media_news">
+<div class="media_news marg">
     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Newsletters</h1>
     <div class="contact_line"></div>
 
@@ -497,9 +575,16 @@ slick slider
             </div>
             
             <div class="column_news">
-                <img src="img/newssletter2.jpg" alt="Trulli" style="width:100%" class="news_img">
+                <img src="img/newssletter2.jpg" alt="3rd" style="width:100%" class="news_img">
                 <div class="media_hveff">
                     <p class="media_hvtext"><a href="http://www.jpinfra.com/images/media/JP-North-Newsletter-3rd-Edition-December-2018.pdf" class="meext" target="_blank">North - Newsletter 3rd Edition</a></p>
+                </div>
+            </div>
+
+            <div class="column_news">
+                <img src="img/Newsletter-5.jpg" alt="4th" style="width:100%" class="news_img">
+                <div class="media_hveff">
+                    <p class="media_hvtext"><a href="http://www.jpinfra.com/images/media/JP-North-Newsletter-3rd-Edition-December-2018.pdf" class="meext" target="_blank">North - Newsletter 4rd Edition</a></p>
                 </div>
             </div>
 
@@ -515,7 +600,7 @@ slick slider
 <!-- close news slater -->
 
 <!-- event start -->
-<div class="media_event">
+<div class="media_event marg">
     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Events</h1>
     <div class="contact_line"></div>
 
@@ -666,105 +751,106 @@ slick slider
 <script>
 
 $('.event-responsive').slick({
-  dots: false,
-  infinite: true,
-  speed: 300,
-  arrow: true,
-  autoplay: true,
-  prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow_left.png'>",
-  nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow_right.png'>",
-  slidesToShow: 4,
-  slidesToScroll: 1,
-  responsive: [
-    {
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 4,
-        dots: false,
-        autoplay: true,
-        arrow: true,
-        prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow_left.png'>",
-        nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow_right.png'>",
-        slidesToScroll: 1,
-        infinite: true,
-        dots: false
-      }
-    },
-    {
-      breakpoint: 600,
-      settings: {
-        slidesToShow: 1,
-        dots: false,
-        autoplay: true,
-        arrow: true,
-        slidesToScroll: 1
-      }
-    },
-    {
-      breakpoint: 480,
-      settings: {
-        slidesToShow: 1,
-        dots: false,
-        autoplay: true,
-        arrow: true,
-        slidesToScroll: 1
-      }
-    }
-  ]
-});
+    dots: false,
+    arrow: true,
+    prevArrow:'<button type="button" class="prev-button-home"></button>',
+          nextArrow:'<button type="button" class="next-button-home"></button>',
+    infinite: true,
+    autoplay: true,
+    speed: 300,
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    responsive: [
+        {
+        breakpoint: 1024,
+        settings: {
+            slidesToShow: 4,
+            slidesToScroll: 1,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                nextArrow:'<button type="button" class="next-button-home"></button>',
+            infinite: true,
+            dots: false
+        }
+        },
+        {
+        breakpoint: 600,
+        settings: {
+            slidesToShow: 1,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                nextArrow:'<button type="button" class="next-button-home"></button>',
+            slidesToScroll: 1
+        }
+        },
+        {
+        breakpoint: 480,
+        settings: {
+            slidesToShow: 1,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                    nextArrow:'<button type="button" class="next-button-home"></button>',
+            slidesToScroll: 1
+        }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+    ]
+    });
 
 </script>
 
 
 <script>
-
 $('.news-responsive').slick({
-  dots: true,
-  infinite: true,
-  speed: 300,
-  arrow: true,
-  autoplay: true,
-  prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow_left.png'>",
-  nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow_right.png'>",
-  slidesToShow: 3,
-  slidesToScroll: 1,
-  responsive: [
-    {
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 3,
-        dots: true,
-        autoplay: true,
-        arrow: true,
-        prevArrow:"<img class='a-left control-c prev slick-prev' src='../img/arrow_left.png'>",
-        nextArrow:"<img class='a-right control-c next slick-next' src='../img/arrow_right.png'>",
-        slidesToScroll: 1,
-        infinite: true,
-        dots: false
-      }
-    },
-    {
-      breakpoint: 600,
-      settings: {
-        slidesToShow: 1,
-        dots: true,
-        autoplay: true,
-        arrow: true,
-        slidesToScroll: 1
-      }
-    },
-    {
-      breakpoint: 480,
-      settings: {
-        slidesToShow: 1,
-        dots: true,
-        autoplay: true,
-        arrow: true,
-        slidesToScroll: 1
-      }
-    }
-  ]
-});
+    dots: false,
+    arrow: true,
+    prevArrow:'<button type="button" class="prev-button-home"></button>',
+          nextArrow:'<button type="button" class="next-button-home"></button>',
+    infinite: true,
+    autoplay: true,
+    speed: 300,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    responsive: [
+        {
+        breakpoint: 1024,
+        settings: {
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                nextArrow:'<button type="button" class="next-button-home"></button>',
+            infinite: true,
+            dots: false
+        }
+        },
+        {
+        breakpoint: 600,
+        settings: {
+            slidesToShow: 1,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                nextArrow:'<button type="button" class="next-button-home"></button>',
+            slidesToScroll: 1
+        }
+        },
+        {
+        breakpoint: 480,
+        settings: {
+            slidesToShow: 1,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                    nextArrow:'<button type="button" class="next-button-home"></button>',
+            slidesToScroll: 1
+        }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+    ]
+    });
 
 </script>
 
@@ -880,7 +966,57 @@ $('.media_responsive').slick({
 </script>
 
 <!-- media slider -->
+<script>
+    $('.slide-media').slick({
+    dots: false,
+    arrow: true,
+    prevArrow:'<button type="button" class="prev-button-home"></button>',
+          nextArrow:'<button type="button" class="next-button-home"></button>',
+    infinite: true,
+    autoplay: true,
+    speed: 300,
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    responsive: [
+        {
+        breakpoint: 1024,
+        settings: {
+            slidesToShow: 4,
+            slidesToScroll: 1,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                nextArrow:'<button type="button" class="next-button-home"></button>',
+            infinite: true,
+            dots: false
+        }
+        },
+        {
+        breakpoint: 600,
+        settings: {
+            slidesToShow: 1,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                nextArrow:'<button type="button" class="next-button-home"></button>',
+            slidesToScroll: 1
+        }
+        },
+        {
+        breakpoint: 480,
+        settings: {
+            slidesToShow: 1,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                    nextArrow:'<button type="button" class="next-button-home"></button>',
+            slidesToScroll: 1
+        }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+    ]
+    });
 
+</script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.js"></script>
