@@ -1,121 +1,84 @@
 <?php include 'header.php';?>
-    <link rel="stylesheet" type="text/css" href="css/style1.css">
-    <link rel="stylesheet" type="text/css" href="css/responsive1.css">
-    
 
- <style>
-    .line_human {
-        height: 2px;
-        position: absolute;
-        left: 16%;
-        width: 29%;
-        top: 143%;
-        z-index: 99;
-        background-color: #2c5686;
-    }
-    .main_absolute {
-        position: absolute;
-        left: 40%;
-        top: 118%;
-    }
-    .content_abs {
-        width: 39%;
-        background-color: #76869D;
-        padding: 25px;
-    }
-    .content_abs p {
-        margin: 20px 0px;
-    }
- </style>   
-    <a href="index.php">
-        <div class="logo-banner">
-    	   <img src="img/JP Infra Logo.png">
-    	</div>
-    </a>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
     
+    <style>
+        .slick-dots {
+            text-align: center;
+            margin: 0 0 10px 0;
+            padding: 35px 0px 20px 0px;
+        }
+        .slick-dots li {
+          display: inline-block;
+          margin-left: 4px;
+          margin-right: 4px;
+        }
+        .slick-dots li.slick-active button {
+            border: 1px solid #1b405b !important;
+        }
+        .slick-dots li button {
+          font: 0/0 a;
+          text-shadow: none;
+          color: transparent;
+          background-color: #486b99;
+          border: none;
+          width: 6px;
+          height: 12px;
+          border-radius: 50%;
+        }
+        /* Custom Arrow */
+        .prev-button {
+            color: #999;
+            position: absolute;
+            top: 30%;
+            left: -40px;
+            font-size: 1.5em;
+            background-image: url(img/arrow_2.png);
+            width: 27px;
+            height: 18px;
+            border: none;
+            background-color: transparent;
+            outline: none !important;
+        }
+        .prev-button :hover {
+          cursor: pointer;
+          color: black;
+        }
+    
+        .next-button {
+          color: #999;
+          position: absolute;
+          top: 30%;
+          font-size: 1.5em;
+          background-image: url("img/arrow_1.png");
+          right: -35px;
+          width: 28px;
+          height: 18px;
+          border: none;
+          background-color: transparent;
+          outline: none !important;
+        }
+        .next-button :hover {
+          cursor: pointer;
+          color: black;
+        }
+    
+        @media screen and (max-width: 800px) {
+          .next-button {
+            display: none !important;
+          }
+        }
 
-    <div class="section fp-section fp-table active fp-completely" id="section1" data-anchor="secondPage" style="background-color: rgb(0, 0, 0); height: 700px;">
-        <div class="fp-tableCell" style="height: 625px;">
-            <div class="main-wrapper">
-                <div class="slider-col gray animation active">
-                    <div class="caption animation">
-                        <h2>Design Innovation</h2>
-                        <p>Believing in community living and open spaces, JP Infra builds projects that
-encourage these aspects through providing vehicle-free zones, garden areas,
-meditation centres and amenities for fun group activity</p>
-                    </div>
-                </div>
-                <div class="slider-col yellow animation">
-                    <div class="caption animation">
-                        <h2>Integrated Living</h2>
-                        <p>JP Infra offers you the best of all worlds within the same campus so you can enjoy
-peaceful living through features like jogging tracks, Yoga pavilion, Open to sky
-swimming pool, Herbs and spice garden, local coffee shops and spas, etc.</p>
-                    </div>
-                </div>
-                <div class="slider-col blue animation">
-                    <div class="caption animation">
-                        <h2>Because We Care</h2>
-                        <p>We at JP Infra believe that those who work tirelessly to ensure our projects are a
-success are more important than the buildings itself so we offer additional benefits
-like on-campus schools for their children</p>
-                    </div>
-                </div>
-                <div class="slider-col orange animation">
-                    <div class="caption animation">
-                        <h2>Our Carbon Footprint</h2>
-                        <p>Our pledge to a better and greener tomorrow is evident through our eco-friendly
-initiatives like rain-water harvesting, waste management and usage of solar panels
-in construction.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+    </style>
+    
+    
+<!-- banner start -->
+ 
+
+    <div class="logo-banner">
+           <img src="img/JP Infra Logo.png">
     </div>
-
-
-
-<!-- Human Touch start here-->
-
-    <section class="human_sec">
-        <div class="container_main">
-            <div class="human_main">
-                <div class="main_absolute">
-                        <div class="content_abs">
-                            <p class="head_con">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                            <p class="para_con">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."</p>
-                        </div>
-                </div>
-                <div class="line_human">
-                </div>
-                <div class="human_col">
-                    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">The <br> Human Touch</h1>
-                    <!-- <div class="lable_line">
-                        <img src="img/Gray-Head-line.png" class="northimage">
-                    </div> -->
-                    <div class="padding-project" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>   
-                        <div class="clearfix"></div>
-                    </div>
-                    <div class="human-img">
-                        <img src="img/video-human.png" class="img-cls">
-                        <div class="clearfix"></div>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-                <div class="human_col mob_human">
-                    <div class="human-img">
-                        <img src="img/Playground.jpg" class="img-cls2">
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </section>
-
-
-<!-- Human Touch end here -->
+<!-- Banner end Here -->
 
 <!-- Carbon Foot Print Starts Here-->
  <section class="Integral_sec">
@@ -224,7 +187,6 @@ in construction.</p>
 
 <!-- Carbon Foot Print Ends Here -->
 
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 <script>
@@ -293,13 +255,57 @@ in construction.</p>
 
 </script>
 
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.js"></script>
-<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script> -->
 
-    <script src="js/jquery-fullPage.js" type="text/javascript"></script>
-    <script src="js/home-script.js" type="text/javascript"></script>
-
-    <?php include 'footer.php';?>
+        <script>
+        $('.integral_slider').slick({
+            dots: true,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button"></button>',
+            nextArrow:'<button type="button" class="next-button"></button>',
+            infinite: false,
+            autoplay: true,
+            speed: 300,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            responsive: [
+                {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    arrow: true,
+                    prevArrow:'<button type="button" class="prev-button"></button>',
+                    nextArrow:'<button type="button" class="next-button"></button>',
+                    infinite: false,
+                    dots: true
+                }
+                },
+                {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    arrow: true,
+                    prevArrow:'<button type="button" class="prev-button"></button>',
+                    nextArrow:'<button type="button" class="next-button"></button>',
+                    slidesToScroll: 1
+                }
+                },
+                {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    arrow: true,
+                    prevArrow:'<button type="button" class="prev-button"></button>',
+                    nextArrow:'<button type="button" class="next-button"></button>',
+                    slidesToScroll: 1
+                }
+                }
+                // You can unslick at a given breakpoint now by adding:
+                // settings: "unslick"
+                // instead of a settings object
+            ]
+            });
+        </script>   
+<?php include 'footer.php';?>
