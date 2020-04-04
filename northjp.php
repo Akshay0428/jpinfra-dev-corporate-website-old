@@ -558,43 +558,43 @@ section.main-slider {
                
                <div class="way-np">
 				    <div class="way-slider">
-				        <img class="img-way-life m_hide" src="img/jpnorthpage/new/lion.jpg" alt="lion">
+				        <img class="img-way-life" src="img/jpnorthpage/new/lion.jpg" alt="lion">
 				        <p class="way-slider-txt">Reside in pride just like the majestic Lion’ s statue</p>
 					</div>
 					<div class="way-slider">
-					    <img class="img-way-life m_hide" src="img/jpnorthpage/new/horse.jpg" alt="horse">
+					    <img class="img-way-life" src="img/jpnorthpage/new/horse.jpg" alt="horse">
 					    <p class="way-slider-txt">Live gracefully with a new perspective to life as the royal Horse’s statue</p>
 					</div>
 					<div class="way-slider">
-					    <img class="img-way-life m_hide" src="img/jpnorthpage/new/Barista.jpg" alt="Barista">
+					    <img class="img-way-life" src="img/jpnorthpage/new/Barista.jpg" alt="Barista">
 					    <p class="way-slider-txt">A fresh start to every day at your nearest Barista</p>
 					</div>
 					<div class="way-slider">
-					    <img class="img-way-life m_hide" src="img/jpnorthpage/new/cafe.jpg" alt="cafe">
+					    <img class="img-way-life" src="img/jpnorthpage/new/cafe.jpg" alt="cafe">
 					    <p class="way-slider-txt">Find out what’s brewing at your neighbourhood Café</p>
 					</div>
 					<div class="way-slider">
-					    <img class="img-way-life m_hide" src="img/jpnorthpage/new/Clubhouse.jpg" alt="Clubhouse">
+					    <img class="img-way-life" src="img/jpnorthpage/new/Clubhouse.jpg" alt="Clubhouse">
 					    <p class="way-slider-txt">Bond with like-minded people at our exclusive Clubhouse</p>
 					</div>
 					<div class="way-slider">
-				        <img class="img-way-life m_hide" src="img/jpnorthpage/new/Games-Room.jpg" alt="Games-Room">
+				        <img class="img-way-life" src="img/jpnorthpage/new/Games-Room.jpg" alt="Games-Room">
 				        <p class="way-slider-txt">Have a healthy competition & endless entertainment in the next door Game Room</p>
 					</div>
 					<div class="way-slider">
-					    <img class="img-way-life m_hide" src="img/jpnorthpage/new/Gym3.jpg" alt="Gym3">
+					    <img class="img-way-life" src="img/jpnorthpage/new/Gym3.jpg" alt="Gym3">
 					    <p class="way-slider-txt">Get ripped the right way at our fully equipped Gym</p>
 					</div>
 					<div class="way-slider">
-					    <img class="img-way-life m_hide" src="img/jpnorthpage/new/Lakme-Salon.jpg" alt="Lakme-Salon">
+					    <img class="img-way-life" src="img/jpnorthpage/new/Lakme-Salon.jpg" alt="Lakme-Salon">
 					    <p class="way-slider-txt">Get styled by the runway experts at your nearest Lakmé Salon</p>
 					</div>
 					<div class="way-slider">
-					    <img class="img-way-life m_hide" src="img/jpnorthpage/new/Library.jpg" alt="Library">
+					    <img class="img-way-life" src="img/jpnorthpage/new/Library.jpg" alt="Library">
 					    <p class="way-slider-txt">Catch up on your favourite novel at our knowledge-rich Library</p>
 					</div>
 					<div class="way-slider">
-					    <img class="img-way-life m_hide" src="img/jpnorthpage/new/Little-Millennium-Kids-2.jpg" alt="Little-Millennium-Kids-2">
+					    <img class="img-way-life" src="img/jpnorthpage/new/Little-Millennium-Kids-2.jpg" alt="Little-Millennium-Kids-2">
 					    <p class="way-slider-txt">A perfect place for the tiny- tots to play and learn at your nearest Little Millenium School</p>
 					</div>
 				</div>

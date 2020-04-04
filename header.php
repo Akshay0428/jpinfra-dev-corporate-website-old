@@ -63,7 +63,8 @@
 					<div class="triangle-up"></div>
 					<ul class="ulMenu">
 					  <li class="li-1"><a href="northjp.php">NORTH</a></li>
-					  <li class="li-3"><a href="media.php">MEDIA</a></li>
+					  <li class="li-1"><a href="media.php">MEDIA</a></li>
+					  <li class="li-3"><a href="nri_corner.php">NRI CORNER</a></li>
 					</ul>    
 				  </div>
 			    </li>

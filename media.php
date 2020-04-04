@@ -259,9 +259,19 @@ slick slider
                     <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/nL0aKmi_U6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+                    <img src="img/media/Launch_Of_Clubhouse_1.jpg" alt="Launch_Of_Clubhouse1">
+                    <h5>Launch Of Clubhouse :</h5>
+                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/Launch_Of_Clubhouse_2.jpg" alt="Launch_Of_Clubhouse2">
+                    <h5>Launch Of Clubhouse :</h5>
+                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/nL0aKmi_U6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
                     <h5>Women's Day 2020</h5>
-                    <!-- <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p> -->
+                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
                 </div>
             </div>
             <div class="clearfix"></div> 
@@ -584,7 +594,7 @@ slick slider
             <div class="column_news">
                 <img src="img/Newsletter-5.jpg" alt="4th" style="width:100%" class="news_img">
                 <div class="media_hveff">
-                    <p class="media_hvtext"><a href="http://www.jpinfra.com/images/media/JP-North-Newsletter-3rd-Edition-December-2018.pdf" class="meext" target="_blank">North - Newsletter 4rd Edition</a></p>
+                    <p class="media_hvtext"><a href="img/New Newsletter_ 17 March 2020_Final_CC.pdf" class="meext" target="_blank">North - Newsletter 4rd Edition</a></p>
                 </div>
             </div>
 
