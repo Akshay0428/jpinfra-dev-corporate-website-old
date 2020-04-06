@@ -1596,27 +1596,27 @@ transition:all .6s ease-in-out;
                   <a  href="img/New Newsletter_ 17 March 2020_Final_CC.pdf" target="_blank">
                     <img src="img/media/Mira-road.jpg" alt="Mira-road"></a>
                     <h5>Mira-road:</h5>
-                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                    <p>blog</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <iframe width="245px" height="185px" src="https://www.youtube.com/embed/nL0aKmi_U6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
                     <h5>Women's Day 2020</h5>
-                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                    <!-- <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p> -->
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <iframe width="245px" height="185px" src="https://www.youtube.com/embed/7AX1_RNJkd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
                     <h5>Homebuyers Given Financial Creditors Status</h5>
-                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                    <!-- <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p> -->
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <iframe width="245px" height="185px" src="https://www.youtube.com/embed/3_gy342pBqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Gudi Padwa Offer- CNBZ Awaaz</h5>
-                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                    <!-- <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p> -->
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/o3qLmsuw118" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Zee Business Property Plus</h5>
-                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                    <!-- <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p> -->
                 </div>
             </div>
             <div class="clearfix"></div> 
