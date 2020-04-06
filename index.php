@@ -116,6 +116,11 @@ transition:all .6s ease-in-out;
     top: 30%;
     right: -46px;
 }
+.container_main_pushing{
+      width: 85%;
+    margin: 0 auto;
+    max-width: 98%;
+}
    /**********************
    slick slider
    ***********************/
@@ -1052,7 +1057,7 @@ transition:all .6s ease-in-out;
 <!--Sustainability-->
 <div class="bghome-push"></div>
 <section class="pushing-new">
-    <div class="container_main">
+    <div class="container_main_pushing">
         <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
         <div class="liveHead" data-aos="fade-down" data-aos-duration="3000">building responsibly</div>
         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Pushing Boundaries</h1>
