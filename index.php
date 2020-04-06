@@ -1577,6 +1577,21 @@ transition:all .6s ease-in-out;
                     <h5>JP Udtarang :</h5>
                     <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
                 </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/Launch_Of_Clubhouse_1.jpg" alt="Launch_Of_Clubhouse1">
+                    <h5>Launch Of Clubhouse :</h5>
+                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <img src="img/media/Launch_Of_Clubhouse_2.jpg" alt="Launch_Of_Clubhouse2">
+                    <h5>Launch Of Clubhouse :</h5>
+                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/nL0aKmi_U6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+                    <h5>Women's Day 2020</h5>
+                    <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
+                </div>
             </div>
             <div class="clearfix"></div> 
           </div>
