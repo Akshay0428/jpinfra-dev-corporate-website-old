@@ -259,12 +259,12 @@ slick slider
                     <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
-                    <img src="img/media/Launch_Of_Clubhouse_1.jpg" alt="Launch_Of_Clubhouse1">
+                    <img src="img/media/Launch-Of-Clubhouse.jpg" alt="Launch-Of-Clubhouse">
                     <h5>Launch Of Clubhouse :</h5>
                     <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
-                    <img src="img/media/Launch_Of_Clubhouse_2.jpg" alt="Launch_Of_Clubhouse2">
+                    <img src="img/media/Launch-Of-Hotcake.jpg" alt="Launch-Of-Hotcake">
                     <h5>Launch Of Clubhouse :</h5>
                     <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
                 </div>
