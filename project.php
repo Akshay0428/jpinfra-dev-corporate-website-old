@@ -886,29 +886,6 @@
 				<div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
 					<p>The passion and panache with which JP Infra approaches and delivers its projects is reflected in our projects and by our happy customers.</p>   
 				</div>
-				<!-- videos slider start -->
-				<!--<div class="testimonial-slider-main">-->
-				<!--    <div class="testimonial-slider">-->
-				<!--		<iframe width="100%" height="220" src="https://www.youtube.com/embed/mkayzdFA-lY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-				<!--		<h5>A company that has always believed</h5>-->
-				<!--	</div>-->
-				<!--	<div class="testimonial-slider">-->
-				<!--		<iframe width="100%" height="220" src="https://www.youtube.com/embed/wZ7EUileetQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-				<!--		<h5>A company that has always believed</h5>-->
-				<!--	</div>-->
-				<!--	<div class="testimonial-slider">-->
-				<!--	    <iframe width="100%" height="220" src="https://www.youtube.com/embed/U6xEiX8FcXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-				<!--		<h5>A company that has always believed</h5>-->
-				<!--	</div>-->
-				<!--	<div class="testimonial-slider">-->
-				<!--	    <iframe width="100%" height="220" src="https://www.youtube.com/embed/CvYsh9WOjW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-				<!--		<h5>A company that has always believed</h5>-->
-				<!--	</div>-->
-				<!--	<div class="testimonial-slider">-->
-				<!--		<iframe width="100%" height="220" src="https://www.youtube.com/embed/6piNiusgKRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-				<!--		<h5>A company that has always believed</h5>-->
-				<!--	</div>-->
-				<!--</div>-->
 				
 			<div class="testimonial-slider-main">	
 				<div class="jp-testimonial">

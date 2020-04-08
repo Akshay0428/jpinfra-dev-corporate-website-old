@@ -2083,6 +2083,10 @@ p.center_para {
 }
 .testimonial_main {
     width: 100%;
+    background-image: url(../img/project/testimonial/testimonial-bg.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 .testimonial-slider-main {
     width: 65%;
@@ -2117,10 +2121,14 @@ p.center_para {
     width: 68%;
     margin: 0 auto;
     margin-bottom: 25px;
+    color: #fff;
 }
 .testimonial-slider-main h5 {
     font-size: 16px;
     padding-top: 10px;
+}
+.testimonial_main h1.aos-init.aos-animate {
+    color: #fff !important;
 }
 /*.btn_more_pro {*/
 /*    transition: letter-spacing .5s ease;*/

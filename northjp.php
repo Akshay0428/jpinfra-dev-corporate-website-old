@@ -627,7 +627,7 @@ section.main-slider {
 <!--transforming mira road  -->
     <div class="jp-north-page-transforming-main parallax-mira width-100 pos-relative">
         <!--<img class="img-width m_hide" src="img/Transforming_Mira_Road.jpg">-->
-        <img class="img-width d_hide" src="img/Transforming_Mira_Road_mobile.jpg">
+        <img class="img-width d_hide" src="img/img/Transformating-Miraroadimg.jpg">
         <div class="jp-north-page-transforming-text-main pos-absolute">
             <!--<h1 class="jp-north-page-heading-txt tf-42px" data-aos="fade-up" data-aos-duration="3000">transforming mira road</h1>-->
             <h6 class="jp-north-page-subheading tx-align  new-margin" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls. North is designed with a vision to

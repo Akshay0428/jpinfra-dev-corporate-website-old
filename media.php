@@ -112,10 +112,6 @@ transition:all .6s ease-in-out;
 .media_evimg .next-button-home{
     top: 45%;
 }
-/**********************
-slick slider
-***********************/
-
 .glimpse-main {
     background-color:#e1e1e1;
     width: 100%;
@@ -123,6 +119,10 @@ slick slider
     margin-top: 0px!important;
     padding-top: 90px;
 }
+/**********************
+slick slider
+***********************/
+
 .slick-dots li button {
     font: 0/0 a;
     text-shadow: none;
@@ -191,6 +191,21 @@ slick slider
     cursor: pointer;
     color: black;
 }
+@media only screen and (max-width:768px){
+    .glimpse-main {
+        background-color:#e1e1e1;
+        width: 100%;
+        padding: 0;
+        margin-top: 0px!important;
+        padding-top: 90px;
+    }
+button.next-button-home.slick-arrow {
+    display: none !important;
+}
+button.prev-button-home.slick-arrow {
+    display: none !important;
+}
+}
 </style>
 <!-- media start -->
 <div class="logo-banner">
@@ -200,7 +215,7 @@ slick slider
 	   </div>
 	   <div class="clearfix"></div>
 <!-- glimpse jp desktop start -->
- <div class="glimpse-main desktop marg">
+ <div class="glimpse-main marg">
     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Media</h1>
     <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
 
@@ -305,14 +320,11 @@ slick slider
 
 
     <!-- glimpse jp mobile start -->
-    <div class="media_glimpse-main mobile">
+<!--     <div class="media_glimpse-main mobile">
 
         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">media</h1>
       
         <div class="contact_line"></div>
-
-
-        <!-- slider mobile start -->
         <div class="media_glimpse-slider responsivehomeproj">
             <div class="media_glimpse-col">
                 <div class="media_glimpse-col-inner">
@@ -342,8 +354,7 @@ slick slider
                 </div>
             </div>
         </div>
-        <!-- slider mobile ends -->
-    </div>
+    </div> -->
     <!-- glimpse jp mobile start -->
 
 <!-- media close -->
@@ -887,58 +898,54 @@ $('.news-responsive').slick({
 
 <script>
 
-$('.article-responsive').slick({
-  dots: false,
-  infinite: true,
-  speed: 300,
-  arrow: true,
-  autoplay: true,
-  prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow_left.png'>",
-  nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow_right.png'>",
-  slidesToShow: 6,
-  slidesToScroll: 1,
-  responsive: [
-    {
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 6,
-        dots: false,
-        autoplay: true,
-        arrow: true,
-        prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow_left.png'>",
-        nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow_right.png'>",
-        slidesToScroll: 1,
-        infinite: true,
-        dots: false
-      }
-    },
-    {
-      breakpoint: 600,
-      settings: {
-        slidesToShow: 1,
-        dots: false,
-        autoplay: true,
-        arrow: true,
-        prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow_left.png'>",
-        nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow_right.png'>",
-        slidesToScroll: 1
-      }
-    },
-    {
-      breakpoint: 480,
-      settings: {
-        slidesToShow: 1,
-        dots: false,
-        autoplay: true,
-        arrow: true,
-        prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow_left.png'>",
-        nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow_right.png'>",
-        slidesToScroll: 1
-      }
-    }
-  ]
-});
-
+    $('.article-responsive').slick({
+    dots: false,
+    arrow: true,
+    prevArrow:'<button type="button" class="prev-button-home"></button>',
+          nextArrow:'<button type="button" class="next-button-home"></button>',
+    infinite: true,
+    autoplay: true,
+    speed: 300,
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    responsive: [
+        {
+        breakpoint: 1024,
+        settings: {
+            slidesToShow: 4,
+            slidesToScroll: 1,
+            arrow: true,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                nextArrow:'<button type="button" class="next-button-home"></button>',
+            infinite: true,
+            dots: false
+        }
+        },
+        {
+        breakpoint: 600,
+        settings: {
+            slidesToShow: 1,
+            arrow: false,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                nextArrow:'<button type="button" class="next-button-home"></button>',
+            slidesToScroll: 1
+        }
+        },
+        {
+        breakpoint: 480,
+        settings: {
+            slidesToShow: 1,
+            arrow: false,
+            prevArrow:'<button type="button" class="prev-button-home"></button>',
+                    nextArrow:'<button type="button" class="next-button-home"></button>',
+            slidesToScroll: 1
+        }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+    ]
+    });
 </script>
 
 <!--media desktop-->
@@ -1025,7 +1032,7 @@ $('.media_responsive').slick({
         breakpoint: 600,
         settings: {
             slidesToShow: 1,
-            arrow: true,
+            arrow: false,
             prevArrow:'<button type="button" class="prev-button-home"></button>',
                 nextArrow:'<button type="button" class="next-button-home"></button>',
             slidesToScroll: 1
@@ -1035,7 +1042,7 @@ $('.media_responsive').slick({
         breakpoint: 480,
         settings: {
             slidesToShow: 1,
-            arrow: true,
+            arrow: false,
             prevArrow:'<button type="button" class="prev-button-home"></button>',
                     nextArrow:'<button type="button" class="next-button-home"></button>',
             slidesToScroll: 1
