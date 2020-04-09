@@ -658,8 +658,10 @@ a.carousel-control.right {
     line-height: 1;
 }
 .main_title_deliver {
-    margin: 5% auto;
-    width: 80%;
+    margin: 0 auto;
+    width: 90%;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 /*--------------------------------------------------------------
 Counter
@@ -801,7 +803,18 @@ Projects Delivered
     margin-bottom: 0;
 }
 .delivered-projects-carousel {
-    width: 75%;
+    width: 100%;
+}
+.abt-slide-heading{
+    background-color: #ddd;
+}
+.abt-slide-heading h6{
+    margin: 0;
+    padding: 15px 0;
+    text-align: center;
+    color: #2e5689;
+    font-size: 14px;
+    font-weight: 800;
 }
    
 .columews {
@@ -968,7 +981,7 @@ img.arrow_button {
 }
 .about_us {
     margin-top: 35px;
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
 }
 .deliver_main ul.slick-dots {
@@ -976,7 +989,7 @@ img.arrow_button {
     left: 41% !important;
 }
 .delivered-projects-text {
-    width: 70%;
+    width: 100%;
     margin: 0 auto;
 }
 .delivered-proj-para p{
@@ -1005,6 +1018,7 @@ img.arrow_button {
     font-size: 12px;
     font-weight: 400;
     text-align:left;
+    margin-top: 20px;
 }
 .jpabout-projects-button{
     width: 50%;

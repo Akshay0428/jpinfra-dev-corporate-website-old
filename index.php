@@ -686,7 +686,7 @@ transition:all .6s ease-in-out;
          </div>
          <div class="clearfix"></div>
       </div>
-    <div class="main-abt-slider">
+    <!-- <div class="main-abt-slider">
         <div class="row about_us">
             <div class="col-md-1"></div>
             <div class="col-md-5">
@@ -732,9 +732,6 @@ transition:all .6s ease-in-out;
             <div class="col-md-1"></div>
             <div class="col-md-5">
                 <div class="delivered-projects-text">
-                    <!--<div class="delivered-proj-para">-->
-                    <!--    <p>A company that has always believed in following a contemporary and comprehensive approach, JP Infra has grown and continues to grow at a rapid pace. JP Infra promises its residents international standards of living with state-of-the-art amenities to provide the ultimate living experience.</p>-->
-                    <!--</div>-->
                     <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
                         <div class="delivered-proj-top-line"></div>
                         <h1>DELIVERED PROJECTS</h1>
@@ -777,9 +774,6 @@ transition:all .6s ease-in-out;
             <div class="col-md-1"></div>
             <div class="col-md-5">
                 <div class="delivered-projects-text">
-                    <!--<div class="delivered-proj-para">-->
-                    <!--    <p>A company that has always believed in following a contemporary and comprehensive approach, JP Infra has grown and continues to grow at a rapid pace. JP Infra promises its residents international standards of living with state-of-the-art amenities to provide the ultimate living experience.</p>-->
-                    <!--</div>-->
                     <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
                         <div class="delivered-proj-top-line"></div>
                         <h1>DELIVERED PROJECTS</h1>
@@ -821,9 +815,6 @@ transition:all .6s ease-in-out;
             <div class="col-md-1"></div>
             <div class="col-md-5">
                 <div class="delivered-projects-text">
-                    <!--<div class="delivered-proj-para">-->
-                    <!--    <p>A company that has always believed in following a contemporary and comprehensive approach, JP Infra has grown and continues to grow at a rapid pace. JP Infra promises its residents international standards of living with state-of-the-art amenities to provide the ultimate living experience.</p>-->
-                    <!--</div>-->
                     <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
                         <div class="delivered-proj-top-line"></div>
                         <h1>DELIVERED PROJECTS</h1>
@@ -865,9 +856,6 @@ transition:all .6s ease-in-out;
             <div class="col-md-1"></div>
             <div class="col-md-5">
                 <div class="delivered-projects-text">
-                    <!--<div class="delivered-proj-para">-->
-                    <!--    <p>A company that has always believed in following a contemporary and comprehensive approach, JP Infra has grown and continues to grow at a rapid pace. JP Infra promises its residents international standards of living with state-of-the-art amenities to provide the ultimate living experience.</p>-->
-                    <!--</div>-->
                     <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
                         <div class="delivered-proj-top-line"></div>
                         <h1>DELIVERED PROJECTS</h1>
@@ -909,9 +897,6 @@ transition:all .6s ease-in-out;
             <div class="col-md-1"></div>
             <div class="col-md-5">
                 <div class="delivered-projects-text">
-                    <!--<div class="delivered-proj-para">-->
-                    <!--    <p>A company that has always believed in following a contemporary and comprehensive approach, JP Infra has grown and continues to grow at a rapid pace. JP Infra promises its residents international standards of living with state-of-the-art amenities to provide the ultimate living experience.</p>-->
-                    <!--</div>-->
                     <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
                         <div class="delivered-proj-top-line"></div>
                         <h1>DELIVERED PROJECTS</h1>
@@ -953,9 +938,6 @@ transition:all .6s ease-in-out;
             <div class="col-md-1"></div>
             <div class="col-md-5">
                 <div class="delivered-projects-text">
-                    <!--<div class="delivered-proj-para">-->
-                    <!--    <p>A company that has always believed in following a contemporary and comprehensive approach, JP Infra has grown and continues to grow at a rapid pace. JP Infra promises its residents international standards of living with state-of-the-art amenities to provide the ultimate living experience.</p>-->
-                    <!--</div>-->
                     <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
                         <div class="delivered-proj-top-line"></div>
                         <h1>DELIVERED PROJECTS</h1>
@@ -993,7 +975,66 @@ transition:all .6s ease-in-out;
             <div class="col-md-1"></div>
             <div class="clearfix"></div>
         </div>
-    </div>  
+    </div> -->  
+      <div class="row about_us">
+            <div class="col-md-4">
+                <div class="delivered-projects-text">
+                    <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
+                        <div class="delivered-proj-top-line"></div>
+                        <h1>DELIVERED PROJECTS</h1>
+                        <p>Unity Towers in Worli promises an unmatched living experience with its immaculate architecture and unparalleled aesthetics – enjoyable from the comfort of your living room sofa as well.</p>
+                        <div class="clearfix"></div>
+                        <div class="delivered-proj-bot-line"></div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="col-md-8">
+              <div class="col-md-4">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/JP-Decks.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>JP DECKS</h6>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="clearfix"></div>
+              </div>
+              <div class="col-md-4">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/Unity.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>Unity Tower</h6>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="clearfix"></div>
+              </div>
+              <div class="col-md-4">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/Celeste.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>Celeste</h6>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="clearfix"></div>
+              </div>                
+            </div>
+            <div class="col-md-1"></div>
+            <div class="clearfix"></div>
+        </div>
       <div class="clearfix"></div>
    </div>
    <div class="clearfix"></div>
