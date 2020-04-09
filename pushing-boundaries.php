@@ -1,10 +1,7 @@
 <?php include 'header.php';?>
     <link rel="stylesheet" type="text/css" href="css/style1.css">
     <link rel="stylesheet" type="text/css" href="css/responsive1.css">
-    
-      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
  <style>
     .line_human {
         height: 2px;
@@ -19,6 +16,7 @@
         position: absolute;
         left: 40%;
         top: 118%;
+        z-index: 9;
     }
     .content_abs {
         width: 39%;
@@ -27,6 +25,12 @@
     }
     .content_abs p {
         margin: 20px 0px;
+    }
+    .carousel-indicators li {
+        background: #fff;
+        margin: 0 3px;
+        width: 10px;
+        height: 7px;
     }
  </style>   
     <a href="index.php">
@@ -120,14 +124,14 @@ in construction.</p>
                                 </div>
 
                                 <!-- Left and right controls -->
-                                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+<!--                                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
                                   <span class="glyphicon glyphicon-chevron-left"></span>
                                   <span class="sr-only">Previous</span>
                                 </a>
                                 <a class="right carousel-control" href="#myCarousel" data-slide="next">
                                   <span class="glyphicon glyphicon-chevron-right"></span>
                                   <span class="sr-only">Next</span>
-                                </a>
+                                </a> -->
                             </div>
                         </div>
 
@@ -137,15 +141,15 @@ in construction.</p>
                         <div class="clearfix"></div>
                     </div> -->
                     </div>
-                    <div class="human_col mob_human">
-                        <div class="human-img">
-                            <img src="img/Playground.jpg" class="img-cls2">
-                            <div class="clearfix"></div>
-                        </div>
-                    </div>
                     <div class="clearfix"></div>
                 </div>
-            <div class="clearfix"></div>
+                <div class="human_col mob_human">
+                    <div class="human-img">
+                        <img src="img/Playground.jpg" class="img-cls2">
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
         </div>
         <div class="clearfix"></div>
     </section>

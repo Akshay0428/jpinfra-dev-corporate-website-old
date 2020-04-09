@@ -2037,7 +2037,7 @@ h1 {
     width: 100%;
     background-color: #d9e2ee;
     padding-top: 20px;
-    margin:60px auto;
+    /*margin:60px auto;*/
     padding-bottom: 60px;
 }
 .delivery_project .container_aks {
@@ -2087,6 +2087,9 @@ p.center_para {
     background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 90vh;
+    max-height: 100vh;
 }
 .testimonial-slider-main {
     width: 65%;
@@ -2129,6 +2132,47 @@ p.center_para {
 }
 .testimonial_main h1.aos-init.aos-animate {
     color: #fff !important;
+}
+.test-slider-main{
+    width: 100%;
+    margin: 10% auto;
+}
+.test-slider-div{
+    width: 33.33%;
+    float: left;
+}
+.test-inner {
+    width: 100%;
+}
+.test-img {
+    width: 25%;
+    float: left;
+}
+.test-text {
+    width: 65%;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.test-text p {
+    color: #fff;
+    font-weight: 500;
+    margin-left: 10px;
+    font-size: 12px;
+}
+.test-text h6 {
+    color: #fff;
+    text-align: left;
+    text-transform: uppercase;
+    margin-left: 10px;
+    font-weight: 500;
+    letter-spacing: 1.2px;
+}
+.padd-test{
+    padding: 40px  0px;
+}
+.proj-property{
+    margin-top: 0 !important;
 }
 /*.btn_more_pro {*/
 /*    transition: letter-spacing .5s ease;*/

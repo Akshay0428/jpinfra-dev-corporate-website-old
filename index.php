@@ -1596,7 +1596,7 @@ transition:all .6s ease-in-out;
                   <a  href="img/New Newsletter_ 17 March 2020_Final_CC.pdf" target="_blank">
                     <img src="img/media/Mira-road.jpg" alt="Mira-road"></a>
                     <h5>Mira-road:</h5>
-                    <p>blog</p>
+                    <p>North - Newsletter 4rd Edition</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <iframe width="245px" height="185px" src="https://www.youtube.com/embed/nL0aKmi_U6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 

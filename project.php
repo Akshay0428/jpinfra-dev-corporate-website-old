@@ -61,7 +61,20 @@
 	    	  cursor: pointer;
 	    	  color: black;
 	    	}
-	    
+	    	.test-slider-main .prev-button {
+	    		background-image: url(img/project/testimonial/Arrow_test_right.png) !important;
+			    top: 30%;
+			    left: -70px;
+			    width: 50px;
+			    height: 25px;
+	    	}
+	    	.test-slider-main .next-button {
+	    		background-image: url(img/project/testimonial/Arrow_test_left.png) !important;
+			    top: 30%;
+			    right: -50px;
+			    width: 50px;
+			    height: 26px;
+	    	}
 	    	@media screen and (max-width: 800px) {
 	    	  .next-button {
 	    	    display: none !important;
@@ -874,7 +887,7 @@
 
 			<!--testimonials starts  -->
 		<div class="testimonial_main">
-		    <div class="new-del-project">
+		    <div class="new-del-project padd-test">
 		        <div class="lable_line">
 				<img src="img/Gray-Head-line.png" class="northimage">
 			</div>
@@ -886,8 +899,46 @@
 				<div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
 					<p>The passion and panache with which JP Infra approaches and delivers its projects is reflected in our projects and by our happy customers.</p>   
 				</div>
+
+				<div class="test-slider-main">
+					<div class="test-slider-div">
+						<div class="test-inner">
+							<div class="test-img"><img src="img/project/testimonial/Charu.png" alt="Charu"></div>
+							<div class="test-text"><p>"I like everything. The concept is very good. Construction-wise, the height of the flat and everything is the same as what they had shown us."</p>
+								<h6>dhiraj patil</h6>
+						</div>
+						</div>
+					</div>
+					<div class="test-slider-div">
+						<div class="test-inner">
+							<div class="test-img"><img src="img/project/testimonial/Nitin.png" alt="Nitin"></div>
+							<div class="test-text"><p>"JP Infra is fulfilling the promises which they made to the customers. I am totally satisfied."</p>
+								<h6>dhiraj patil</h6>
+						</div>
+						</div>
+					</div>
+					<div class="test-slider-div">
+						<div class="test-inner">
+							<div class="test-img"><img src="img/project/testimonial/Bijal.png" alt="Bijal"></div>
+							<div class="test-text"><p>"This is what we call as life!"</p>
+								<h6>dhiraj patil</h6>
+						</div>
+						</div>
+					</div>
+					<div class="test-slider-div">
+						<div class="test-inner">
+							<div class="test-img"><img src="img/project/testimonial/Nitin.png" alt="Nitin"></div>
+							<div class="test-text"><p>"JP Infra is fulfilling the promises which they made to the customers. I am totally satisfied."</p>
+								<h6>dhiraj patil</h6>
+						</div>
+						</div>
+					</div>
+				</div>
+
+
+
 				
-			<div class="testimonial-slider-main">	
+<!-- 			<div class="testimonial-slider-main">	
 				<div class="jp-testimonial">
 				    <div class="testi-text">
 				        <div class="left-comma"><img src="img/project/testimonial/left-inverted-comma.png" alt="left-inverted-comma"></div>
@@ -948,9 +999,7 @@
 				    </div>
     				<div class="clearfix"></div>    
 				</div>
-			</div>	
-				
-				<!-- videos slider ends -->	
+			</div>	 -->
 				<div class="clearfix"></div>
 			</div>
 		    </div>
@@ -960,7 +1009,7 @@
 		<!-- testimonials ends -->
 
 			<!-- above testimonials start -->
-			<div class="abovefooter_main">
+			<div class="abovefooter_main proj-property">
 				<div class="container_aks bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">    
 					<h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Looking for a property,<br> but not sure where to start?</h1>
 					<div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -1039,25 +1088,25 @@
 
 			
 			
-			$('.testimonial-slider-main').slick({
+			$('.test-slider-main').slick({
 			dots: false,
 			arrow: true,
-			prevArrow:'<button type="button" class="prev-button"></button>',
-	        nextArrow:'<button type="button" class="next-button"></button>',
+			prevArrow:'<button type="button" class="prev-button right-arrow"></button>',
+	        nextArrow:'<button type="button" class="next-button right-arrow"></button>',
 			infinite: true,
 			autoplay: true,
 			speed: 300,
-			slidesToShow: 1,
+			slidesToShow: 3,
 			slidesToScroll: 1,
 			responsive: [
 				{
 				breakpoint: 1024,
 				settings: {
-					slidesToShow: 1,
+					slidesToShow: 3,
 					slidesToScroll: 1,
 					arrow: true,
-					prevArrow:'<button type="button" class="prev-button"></button>',
-	        		nextArrow:'<button type="button" class="next-button"></button>',
+					prevArrow:'<button type="button" class="prev-button test-right-arrow"></button>',
+	        		nextArrow:'<button type="button" class="next-button test-left-arrow"></button>',
 					infinite: true,
 					dots: false
 				}
@@ -1067,8 +1116,8 @@
 				settings: {
 					slidesToShow: 1,
 					arrow: true,
-					prevArrow:'<button type="button" class="prev-button"></button>',
-	        		nextArrow:'<button type="button" class="next-button"></button>',
+					prevArrow:'<button type="button" class="prev-button test-right-arrow"></button>',
+	        		nextArrow:'<button type="button" class="next-button test-left-arrow"></button>',
 					slidesToScroll: 1
 				}
 				},
@@ -1077,8 +1126,8 @@
 				settings: {
 					slidesToShow: 1,
 					arrow: true,
-					prevArrow:'<button type="button" class="prev-button"></button>',
-	       			nextArrow:'<button type="button" class="next-button"></button>',
+					prevArrow:'<button type="button" class="prev-button test-right-arrow"></button>',
+	       			nextArrow:'<button type="button" class="next-button test-left-arrow"></button>',
 					slidesToScroll: 1
 				}
 				}
