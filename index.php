@@ -1030,20 +1030,33 @@ transition:all .6s ease-in-out;
                     </div>
                   </div>
                   <div class="clearfix"></div>
+              </div>
+              <div class="col-md-4">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/Celeste.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>Celeste</h6>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="clearfix"></div>
               </div> 
               <div class="col-md-4">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Unity.jpg" alt="delivered-projects">
+                            <img src="img/home/delivered-projects/Celeste.jpg" alt="delivered-projects">
                         </div>
                         <div class="abt-slide-heading">
-                            <h6>Unity Tower</h6>
+                            <h6>Celeste</h6>
                         </div>
                     </div>
                   </div>
                   <div class="clearfix"></div>
-              </div>               
+              </div>                 
             </div>
             <div class="col-md-1"></div>
             <div class="clearfix"></div>
