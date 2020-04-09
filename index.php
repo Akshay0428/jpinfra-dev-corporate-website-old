@@ -2042,8 +2042,10 @@ transition:all .6s ease-in-out;
    				// instead of a settings object
    			]
    			});
+
+
    $('.main-abt-slider').slick({
-     dots: false,
+     dots: true,
      infinite: true,
      speed: 300,
      arrow: false,
@@ -2059,7 +2061,7 @@ transition:all .6s ease-in-out;
            slidesToShow: 3,
            dots: true,
            autoplay: true,
-           arrow: false,
+           arrow: true,
            prevArrow:"<img class='a-left control-c prev slick-prev' src='../img/arrow_left.png'>",
            nextArrow:"<img class='a-right control-c next slick-next' src='../img/arrow_right.png'>",
            slidesToScroll: 1,
@@ -2073,7 +2075,7 @@ transition:all .6s ease-in-out;
            slidesToShow: 1,
            dots: true,
            autoplay: true,
-           arrow: false,
+           arrow: true,
            slidesToScroll: 1
          }
        },
@@ -2083,13 +2085,12 @@ transition:all .6s ease-in-out;
            slidesToShow: 1,
            dots: true,
            autoplay: true,
-           arrow: false,
+           arrow: true,
            slidesToScroll: 1
          }
        }
      ]
    });
-   
    
    
    
