@@ -816,6 +816,12 @@ Projects Delivered
     font-size: 14px;
     font-weight: 800;
 }
+.abt-jp-slider:hover .abt-slide-heading{
+    background-color: #2e5689;
+}
+.abt-jp-slider:hover .abt-slide-heading h6{
+    color: #fff;
+}
    
 .columews {
     position: relative;
