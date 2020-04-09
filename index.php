@@ -991,7 +991,7 @@ transition:all .6s ease-in-out;
                 </div>
                 <div class="clearfix"></div>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-8 main-abt-slider">
               <div class="col-md-4">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
@@ -1030,7 +1030,20 @@ transition:all .6s ease-in-out;
                     </div>
                   </div>
                   <div class="clearfix"></div>
-              </div>                
+              </div> 
+              <div class="col-md-4">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/Unity.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>Unity Tower</h6>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="clearfix"></div>
+              </div>               
             </div>
             <div class="col-md-1"></div>
             <div class="clearfix"></div>
@@ -2030,20 +2043,20 @@ transition:all .6s ease-in-out;
    			]
    			});
    $('.main-abt-slider').slick({
-     dots: true,
+     dots: false,
      infinite: true,
      speed: 300,
      arrow: false,
      autoplay: true,
      prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow_left.png'>",
      nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow_right.png'>",
-     slidesToShow: 1,
+     slidesToShow: 3,
      slidesToScroll: 1,
      responsive: [
        {
          breakpoint: 1024,
          settings: {
-           slidesToShow: 1,
+           slidesToShow: 3,
            dots: true,
            autoplay: true,
            arrow: false,

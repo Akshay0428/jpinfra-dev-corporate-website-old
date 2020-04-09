@@ -905,7 +905,7 @@
 						<div class="test-inner">
 							<div class="test-img"><img src="img/project/testimonial/Charu.png" alt="Charu"></div>
 							<div class="test-text"><p>"I like everything. The concept is very good. Construction-wise, the height of the flat and everything is the same as what they had shown us."</p>
-								<h6>dhiraj patil</h6>
+								<h6>Charu</h6>
 						</div>
 						</div>
 					</div>
@@ -913,7 +913,7 @@
 						<div class="test-inner">
 							<div class="test-img"><img src="img/project/testimonial/Nitin.png" alt="Nitin"></div>
 							<div class="test-text"><p>"JP Infra is fulfilling the promises which they made to the customers. I am totally satisfied."</p>
-								<h6>dhiraj patil</h6>
+								<h6>Nitin</h6>
 						</div>
 						</div>
 					</div>
@@ -921,7 +921,7 @@
 						<div class="test-inner">
 							<div class="test-img"><img src="img/project/testimonial/Bijal.png" alt="Bijal"></div>
 							<div class="test-text"><p>"This is what we call as life!"</p>
-								<h6>dhiraj patil</h6>
+								<h6>Bijal</h6>
 						</div>
 						</div>
 					</div>
@@ -929,7 +929,7 @@
 						<div class="test-inner">
 							<div class="test-img"><img src="img/project/testimonial/Nitin.png" alt="Nitin"></div>
 							<div class="test-text"><p>"JP Infra is fulfilling the promises which they made to the customers. I am totally satisfied."</p>
-								<h6>dhiraj patil</h6>
+								<h6>Nitin</h6>
 						</div>
 						</div>
 					</div>
