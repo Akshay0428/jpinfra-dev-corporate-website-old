@@ -8,7 +8,7 @@
         position: absolute;
         left: 16%;
         width: 29%;
-        top: 143%;
+        top: 146%;
         z-index: 99;
         background-color: #2c5686;
     }
@@ -95,7 +95,7 @@ in construction.</p>
                 <div class="line_human">
                 </div>
                 <div class="human_col">
-                    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">The <br> Human Touch</h1>
+                    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Design Innovation</h1>
                     <!-- <div class="lable_line">
                         <img src="img/Gray-Head-line.png" class="northimage">
                     </div> -->

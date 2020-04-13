@@ -1003,7 +1003,7 @@ transition:all .6s ease-in-out;
                         </div>
                     </div>
                   </div>
-                  <div class="clearfix"></div>
+                  <!-- <div class="clearfix"></div> -->
               </div>
               <div class="col-md-4">
                   <div class="delivered-projects-carousel">
@@ -1016,7 +1016,7 @@ transition:all .6s ease-in-out;
                         </div>
                     </div>
                   </div>
-                  <div class="clearfix"></div>
+                  <!-- <div class="clearfix"></div> -->
               </div>
               <div class="col-md-4">
                   <div class="delivered-projects-carousel">
@@ -1029,7 +1029,7 @@ transition:all .6s ease-in-out;
                         </div>
                     </div>
                   </div>
-                  <div class="clearfix"></div>
+                  <!-- <div class="clearfix"></div> -->
               </div>
               <div class="col-md-4">
                   <div class="delivered-projects-carousel">
@@ -1042,21 +1042,9 @@ transition:all .6s ease-in-out;
                         </div>
                     </div>
                   </div>
-                  <div class="clearfix"></div>
+                  <!-- <div class="clearfix"></div> -->
               </div> 
-              <div class="col-md-4">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Celeste.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>Celeste</h6>
-                        </div>
-                    </div>
-                  </div>
-                  <div class="clearfix"></div>
-              </div>                 
+             
             </div>
             <div class="col-md-1"></div>
             <div class="clearfix"></div>
@@ -1197,7 +1185,7 @@ transition:all .6s ease-in-out;
    <div class="container_main">
       <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
       <div class="liveHead" data-aos="fade-down" data-aos-duration="3000">Future Living, Today</div>
-      <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Other Projects</h1>
+      <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Our Projects</h1>
       <p class="pr_cntr_p" data-aos="fade-up" data-aos-duration="3000">To us, home is not just a place but also a feeling. We believe in building homes that enhance your living space as well as your lifestyle. Nestled amongst greenery, we feel that healthy homes are happy homes.</p>
       <div class="project">
          <div class="pr_tab">

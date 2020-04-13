@@ -643,7 +643,7 @@ button.prev-button-home.slick-arrow {
 
 <!-- event start -->
 <div class="media_event marg">
-    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Events</h1>
+    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Workplace Events</h1>
     <div class="contact_line"></div>
 
     <div class="media_evimg">

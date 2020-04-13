@@ -1452,7 +1452,7 @@ Sustainability
 --------------------------------------------------------------*/
 .pushing-new {
     position: absolute;
-    top: 235%;
+    top: 230%;
 }
 .bghome-push {
     background-color: #e1e1e1;
@@ -3236,13 +3236,13 @@ h1 {
 }
 .bghome-push {
     background-color: #e1e1e1;
-    height: 35vh;
+    height: 40vh;
     margin-top: 40px;
     max-height: 80vh;
 }
 .pushing-new {
     position: absolute;
-    top: 175%;
+    top: 168%;
 }
 /*--------------------------------------------------------------
 Home Page
