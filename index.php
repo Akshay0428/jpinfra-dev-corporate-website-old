@@ -993,6 +993,7 @@ transition:all .6s ease-in-out;
             </div>
             <div class="col-md-8 main-abt-slider">
               <div class="col-md-4">
+                <a href="http://www.jpinfra.com/jp-decks/">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1003,9 +1004,10 @@ transition:all .6s ease-in-out;
                         </div>
                     </div>
                   </div>
-                  <!-- <div class="clearfix"></div> -->
+                </a>
               </div>
               <div class="col-md-4">
+                <a href="http://www.jpinfra.com/unity-tower.html">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1016,9 +1018,10 @@ transition:all .6s ease-in-out;
                         </div>
                     </div>
                   </div>
-                  <!-- <div class="clearfix"></div> -->
+                </a>
               </div>
               <div class="col-md-4">
+                <a href="https://www.jpinfra.com/jp-north/celeste/">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1029,22 +1032,62 @@ transition:all .6s ease-in-out;
                         </div>
                     </div>
                   </div>
-                  <!-- <div class="clearfix"></div> -->
+                </a>
               </div>
               <div class="col-md-4">
+                <a href="https://www.jpinfra.com/jp-north/gardencity/">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Celeste.jpg" alt="delivered-projects">
+                            <img src="img/home/delivered-projects/Atria.jpg" alt="delivered-projects">
                         </div>
                         <div class="abt-slide-heading">
-                            <h6>Celeste</h6>
+                            <h6>Atria</h6>
                         </div>
                     </div>
                   </div>
-                  <!-- <div class="clearfix"></div> -->
+                </a>
               </div> 
-             
+              <div class="col-md-4">
+                <a href="http://www.jpinfra.com/chalet-amar/">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/Chalet-Amar.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>Chalet Amar</h6>
+                        </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/Dreamland.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>Dreamland</h6>
+                        </div>
+                    </div>
+                  </div>
+              </div>
+              <div class="col-md-4">
+                <a href="https://www.jpinfra.com/jp-north/gardencity/">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/Estella.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>Estella</h6>
+                        </div>
+                    </div>
+                  </div>
+                </a>
+              </div>             
             </div>
             <div class="col-md-1"></div>
             <div class="clearfix"></div>
