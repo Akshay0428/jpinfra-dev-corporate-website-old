@@ -5,11 +5,11 @@
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.6/assets/owl.carousel.min.css">
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.6/owl.carousel.min.js"></script>
-<script src="https://narangrealty.com/narang_website/assets/js/modernizr-custom.js"></script>
+<script src="otherprojslider.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>   
-<link rel="stylesheet" href="https://narangrealty.com/assets/slider.css">
+<link rel="stylesheet" href="css/otherprojslider.css">
 <style>
     video#myVideo {
     width: 100%;
@@ -1230,6 +1230,23 @@ transition:all .6s ease-in-out;
                         <div class="container__center">
                            <div class="swiper-container ongoingclass">
                               <div class="swiper-wrapper">
+                                  <div class="swiper-slide">
+                                    <div class="swiper-slide__block">
+                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                          <a target="_blank" href="https://www.jpinfra.com/boulevard.html">
+                                          <img src="img/home/ongoing/boulevard.jpg" alt="boulevard">
+                                          </a>
+                                       </div>
+                                       <div class="swiper-slide__block__text">
+                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Boulevard</h2>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">EASY ACCESSIBILITY EASY LIFE</h3>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled amidst one of the most well connected suburbs of Mumbai, Boulevard witnesses spacious homes equipped with state-of-the-art amenities. Modelled to offer the most comfortable and luxurious lifestyle experience, it’s the perfect escape from the hustle and bustle of the busy city. Boulevard’s lavish homes are designed to provide the experience of a utopian dream home. </p>
+                                          <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
+                                          <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
+                                          <span data-swiper-parallax-y="60%" class="number">1</span>
+                                       </div>
+                                    </div>
+                                 </div>
                                  <div class="swiper-slide">
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
@@ -1244,24 +1261,24 @@ transition:all .6s ease-in-out;
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">30+ OUTDOOR</p>-->
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">Amenities to keep you Healthy & Fit</p>-->
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">1</span>
+                                          <span data-swiper-parallax-y="60%" class="number">2</span>
                                        </div>
                                     </div>
                                  </div>
-                                 <div class="swiper-slide">
+                                  <div class="swiper-slide">
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="https://www.jpinfra.com/boulevard.html">
-                                          <img src="img/home/ongoing/boulevard.jpg" alt="boulevard">
+                                          <a target="_blank" href="#">
+                                          <img src="img/home/ongoing/Elara.jpg" alt="Elara">
                                           </a>
                                        </div>
                                        <div class="swiper-slide__block__text">
-                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Boulevard</h2>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">EASY ACCESSIBILITY EASY LIFE</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled amidst one of the most well connected suburbs of Mumbai, Boulevard witnesses spacious homes equipped with state-of-the-art amenities. Modelled to offer the most comfortable and luxurious lifestyle experience, it’s the perfect escape from the hustle and bustle of the busy city. Boulevard’s lavish homes are designed to provide the experience of a utopian dream home. </p>
+                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Elara</h2>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED LUSH GREEN VIEWS</h3>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled in lush green surroundings, JP North’s Elara offers a home that goes beyond the 4 walls of your room. Situated in the heart of nature, it is well connected to both the Eastern & Western routes of the city. Equipped with a vast range of amenities, Elara provides you with a well rounded & tranquil lifestyle.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
                                           <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">2</span>
+                                          <span data-swiper-parallax-y="60%" class="number">3</span>
                                        </div>
                                     </div>
                                  </div>
@@ -1277,23 +1294,6 @@ transition:all .6s ease-in-out;
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">A HAVEN OF PURE BLISS AND DELIGHT</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">JP North’s Euphoria offers a lifestyle where you are in touch with nature everyday, encompassing all the requisites of a perfect dream home. It provides an ambience brimming with restaurants, salons, top-notch institutes and various other lifestyle conveniences.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">3</span>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swiper-slide">
-                                    <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="#">
-                                          <img src="img/home/ongoing/Elara.jpg" alt="Elara">
-                                          </a>
-                                       </div>
-                                       <div class="swiper-slide__block__text">
-                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Elara</h2>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED LUSH GREEN VIEWS</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled in lush green surroundings, JP North’s Elara offers a home that goes beyond the 4 walls of your room. Situated in the heart of nature, it is well connected to both the Eastern & Western routes of the city. Equipped with a vast range of amenities, Elara provides you with a well rounded & tranquil lifestyle.</p>
-                                          <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
-                                          <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">4</span>
                                        </div>
                                     </div>
@@ -2106,7 +2106,7 @@ transition:all .6s ease-in-out;
      $('.slider').wrap('<div class="slider-wrap" />');
      $('.slider').slick({
        autoplay: true,
-       autoplaySpeed: 5000,
+       autoplaySpeed: 500,
        draggable: true,
        arrows: false,
        dots: true,
@@ -2152,7 +2152,7 @@ transition:all .6s ease-in-out;
    prevButton: ".swiper-button-prev",
    paginationClickable: !0,
    spaceBetween: 0,
-   autoplay: 2500,
+   autoplay: 10000,
    loop: !0
    });
    } else {
@@ -2166,7 +2166,7 @@ transition:all .6s ease-in-out;
    spaceBetween: 0,
    speed: 1500,
    parallax: !0,
-   autoplay: 2500,
+   autoplay: 10000,
    loop: !0
    });
    }
@@ -2179,7 +2179,7 @@ transition:all .6s ease-in-out;
    prevButton: ".swiper-button-prev",
    paginationClickable: !0,
    spaceBetween: 0,
-   autoplay: 2500,
+   autoplay: 10000,
    loop: !0
    });
    } else {
@@ -2193,7 +2193,7 @@ transition:all .6s ease-in-out;
    spaceBetween: 0,
    speed: 1500,
    parallax: !0,
-   autoplay: 2500,
+   autoplay: 10000,
    loop: !0
    });
    }
