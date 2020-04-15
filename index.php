@@ -1625,7 +1625,7 @@ transition:all .6s ease-in-out;
  <div class="glimpse-main">
     <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
       <div class="liveHead" data-aos="fade-down" data-aos-duration="3000">at our visual best</div>
-         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">A Glimpse of JP Infra</h1>
+         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Glimpses of JP Infra</h1>
           <!-- slider desktop start -->
         <div class="sep">
             <div class="new slide-media">
