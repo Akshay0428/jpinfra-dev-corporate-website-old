@@ -415,6 +415,9 @@ h2{
 .fontweight{
     font-weight: 500;
 }
+.fontweight-bold{
+    font-weight: 600;
+}
 /*--------------------------------------------------------------
 Home Page
 --------------------------------------------------------------*/
@@ -3827,7 +3830,7 @@ Sustainability Page
     left: 44%;
 }
 .pb-integrate-main {
-    margin-top: 12%;
+    margin-top: 15%;
 }
 .pb-integrate-txt {
     width: 80%;
@@ -3876,11 +3879,12 @@ Sustainability Page
     width: 50%;
     float: left;
     background-color: #fff;
-    padding: 41.5px 48px;
+    padding: 32.5px 48px;
     position: relative;
 }
 .pbslider-care-txt h3 {
     color: #2e5689;
+    padding: 0px 0px 15px 0px;
 }
 .pbcare-line {
     width: 10%;
@@ -3888,10 +3892,11 @@ Sustainability Page
     background-color: #2e5689;
     position: absolute;
     left: 43%;
-    top: 20%;
+    top: 17%;
 }
 .pb-h1 {
     padding: 40px 0px 0px 0px;
+    text-transform: capitalize;
 }
 p.head_con {
     font-size: 22px;
