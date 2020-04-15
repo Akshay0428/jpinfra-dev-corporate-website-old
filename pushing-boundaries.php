@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
     <link rel="stylesheet" type="text/css" href="css/style1.css">
     <link rel="stylesheet" type="text/css" href="css/responsive1.css">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
  <style>
     .line_human {
         height: 2px;
@@ -32,6 +32,65 @@
         width: 10px;
         height: 7px;
     }
+.slick-dots {
+    text-align: center;
+    margin: 10px 0px;
+    padding: 0;
+}
+        .slick-dots li {
+          display: inline-block;
+          margin-left: 4px;
+          margin-right: 4px;
+        }
+        .slick-dots li.slick-active button {
+            border: 1px solid #1b405b !important;
+        }
+        .slick-dots li button {
+          font: 0/0 a;
+          text-shadow: none;
+          color: transparent;
+          background-color: #486b99;
+          border: none;
+          width: 6px;
+          height: 12px;
+          border-radius: 50%;
+        }
+        /* Custom Arrow */
+        .prev-button {
+            color: #999;
+            position: absolute;
+            top: 40%;
+            left: -40px;
+            font-size: 1.5em;
+            background-image: url(img/arrow_2.png);
+            width: 27px;
+            height: 18px;
+            border: none;
+            background-color: transparent;
+            outline: none !important;
+        }
+        .prev-button :hover {
+          cursor: pointer;
+          color: black;
+        }
+    
+        .next-button {
+          color: #999;
+          position: absolute;
+          top: 40%;
+          font-size: 1.5em;
+          background-image: url("img/arrow_1.png");
+          right: -35px;
+          width: 28px;
+          height: 18px;
+          border: none;
+          background-color: transparent;
+          outline: none !important;
+        }
+        .next-button :hover {
+          cursor: pointer;
+          color: black;
+        }
  </style>   
     <a href="index.php">
         <div class="logo-banner">
@@ -114,13 +173,13 @@ in construction.</p>
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/video-human.png" class="img-cls">
+                                    <img src="img/pushing_boundaries/The-Human-touch--2.jpg" class="img-cls">
                                 </div>
                                 <div class="item">
-                                    <img src="img/video-human.png" class="img-cls">
+                                    <img src="img/pushing_boundaries/The-Human-touch--2.jpg" class="img-cls">
                                 </div>
                                 <div class="item">
-                                    <img src="img/video-human.png" class="img-cls">
+                                    <img src="img/pushing_boundaries/The-Human-touch--2.jpg" class="img-cls">
                                 </div>
 
                                 <!-- Left and right controls -->
@@ -145,7 +204,7 @@ in construction.</p>
                 </div>
                 <div class="human_col mob_human">
                     <div class="human-img">
-                        <img src="img/Playground.jpg" class="img-cls2">
+                        <img src="img/pushing_boundaries/The-Human-touch-1.jpg" class="img-cls2">
                         <div class="clearfix"></div>
                     </div>
                 </div>
@@ -156,6 +215,86 @@ in construction.</p>
 
 
 <!-- Human Touch end here -->
+
+<!-- integrated living start-->
+<div class="pb-integrate-main">
+    <div class="container_main">
+        <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Integrated Living</h1>
+        <div class="pb-integrate-txt">
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+        </div>
+        <div class="integrate-icons-div">
+            <div class="integrate-icons">
+                <div class="icon-integ">
+                    <img src="img/pushing_boundaries/baristacoffee.png" align="baristacoffee">
+                </div>
+                <div class="icon-integ pb-icon-borderl">
+                    <img src="img/pushing_boundaries/lakme-Salon.jpg" align="lakme-Salon">
+                </div>
+                <div class="icon-integ pb-icon-borderr">
+                    <img src="img/pushing_boundaries/little_millennium.jpg" align="little_millennium">
+                </div>
+                <div class="icon-integ">
+                    <img src="img/pushing_boundaries/Podar-International-School-Logo.jpg" align="Podar-International-School-Logo">
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+
+
+<!-- integrated living ends-->
+
+<!-- because we care start -->
+<div  class="pb-care">
+    <div class="container_main">
+        <h1 class="pb-h1" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Because we care</h1>
+        <div class="pb-care-txt" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
+            <p class="fontweight">A company that has always believed in following a contemporary and comprehensive approach, JP Infra has grown and continues to grow at a rapid pace. JP Infra promises its residents international standards of living with state-of-the-art amenities to provide the ultimate living experience.</p>
+        </div>
+        <div class="clearfix"></div>  
+        <div class="pb-care-slider-main">
+            <div class="pb-slider">
+                <div class="pb-care-img">
+                    <img src="img/pushing_boundaries/Labour-School.jpg">
+                </div>
+                <div class="pbslider-care-txt">
+                    <div class="pbcare-line"></div>
+                    <h3 class="fontweight">Labour School</h3>
+                    <p class="fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                </div>
+            </div>
+            <div class="pb-slider">
+                <div class="pb-care-img">
+                    <img src="img/pushing_boundaries/Labour-School.jpg">
+                </div>
+                <div class="pbslider-care-txt">
+                    <div class="pbcare-line"></div>
+                    <h3 class="fontweight">Labour School</h3>
+                    <p class="fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                </div>
+            </div>
+            <div class="pb-slider">
+                <div class="pb-care-img">
+                    <img src="img/pushing_boundaries/Labour-School.jpg">
+                </div>
+                <div class="pbslider-care-txt">
+                    <div class="pbcare-line"></div>
+                    <h3 class="fontweight">Labour School</h3>
+                    <p class="fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>  
+    </div>
+
+</div>
+<!-- because we care ends -->
+
+
 
 <!-- Carbon Foot Print Starts Here-->
  <section class="Integral_sec">
@@ -334,10 +473,60 @@ in construction.</p>
 </script>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.js"></script>
-<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.js"></script>
+
+    <script>
+        $('.pb-care-slider-main').slick({
+            dots: true,
+            arrow: false,
+            prevArrow:false,
+            nextArrow:false,
+            infinite: true,
+            autoplay: true,
+            speed: 300,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            responsive: [
+                {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    arrow: true,
+                    prevArrow:false,
+                    nextArrow:false,
+                    infinite: false,
+                    dots: true
+                }
+                },
+                {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    arrow: true,
+                    prevArrow:false,
+                    nextArrow:false,
+                    slidesToScroll: 1
+                }
+                },
+                {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    arrow: true,
+                    prevArrow:false,
+                    nextArrow:false,
+                    slidesToScroll: 1
+                }
+                }
+                // You can unslick at a given breakpoint now by adding:
+                // settings: "unslick"
+                // instead of a settings object
+            ]
+            });
+    
+    </script>
 
     <script src="js/jquery-fullPage.js" type="text/javascript"></script>
     <script src="js/home-script.js" type="text/javascript"></script>
