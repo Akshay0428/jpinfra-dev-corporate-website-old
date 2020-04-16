@@ -117,7 +117,7 @@ transition:all .6s ease-in-out;
     width: 100%;
     padding: 6px 153px;
     margin-top: 0px!important;
-    padding-top: 90px;
+    /*padding-top: 90px;*/
 }
 /**********************
 slick slider
@@ -208,16 +208,28 @@ button.prev-button-home.slick-arrow {
 }
 </style>
 <!-- media start -->
-<div class="logo-banner">
-	       <a href="https://www.dotwisedigital.com/jpuat">
+    <div class="logo-banner">
+    	<a href="https://www.dotwisedigital.com/jpuat">
             <img src="img/JP Infra Logo.png">
         </a>
-	   </div>
-	   <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+
+
+    <!-- media bg start-->
+    <div class="media-background">
+        <h1>Media</h1>
+        <div class="media-white-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus</p>
+        </div>
+    </div>
+    <!-- media bg end -->
+
 <!-- glimpse jp desktop start -->
- <div class="glimpse-main marg">
-    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Media</h1>
+ <div class="glimpse-main marg">    
     <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
+    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Media</h1>
+
 
           <!-- slider desktop start -->
         <div class="sep">
@@ -362,8 +374,9 @@ button.prev-button-home.slick-arrow {
 <!-- article start -->
 
 <div class="media_art marg">
+     <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Articles</h1>
-    <div class="contact_line"></div>
+<!--     <div class="contact_line"></div> -->
 
     <div class="media_article">
 
@@ -595,8 +608,9 @@ button.prev-button-home.slick-arrow {
 
 <!-- new slater -->
 <div class="media_news marg">
+     <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Newsletters</h1>
-    <div class="contact_line"></div>
+    <!-- <div class="contact_line"></div> -->
 
     <div class="media_sletters">
 
@@ -643,8 +657,9 @@ button.prev-button-home.slick-arrow {
 
 <!-- event start -->
 <div class="media_event marg">
+     <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Workplace Events</h1>
-    <div class="contact_line"></div>
+    <!-- <div class="contact_line"></div> -->
 
     <div class="media_evimg">
         <div class="row event-responsive">

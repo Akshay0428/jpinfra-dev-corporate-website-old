@@ -1,4 +1,5 @@
 <?php include 'header.php';?>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
     <link rel="stylesheet" type="text/css" href="css/style1.css">
     <link rel="stylesheet" type="text/css" href="css/responsive1.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
@@ -32,65 +33,87 @@
         width: 10px;
         height: 7px;
     }
-.slick-dots {
-    text-align: center;
-    margin: 10px 0px;
-    padding: 0;
-}
-        .slick-dots li {
-          display: inline-block;
-          margin-left: 4px;
-          margin-right: 4px;
-        }
-        .slick-dots li.slick-active button {
-            border: 1px solid #1b405b !important;
-        }
-        .slick-dots li button {
-          font: 0/0 a;
-          text-shadow: none;
-          color: transparent;
-          background-color: #486b99;
-          border: none;
-          width: 6px;
-          height: 12px;
-          border-radius: 50%;
-        }
-        /* Custom Arrow */
-        .prev-button {
-            color: #999;
-            position: absolute;
-            top: 40%;
-            left: -40px;
-            font-size: 1.5em;
-            background-image: url(img/arrow_2.png);
-            width: 27px;
-            height: 18px;
-            border: none;
-            background-color: transparent;
-            outline: none !important;
-        }
-        .prev-button :hover {
-          cursor: pointer;
-          color: black;
-        }
-    
-        .next-button {
-          color: #999;
-          position: absolute;
-          top: 40%;
-          font-size: 1.5em;
-          background-image: url("img/arrow_1.png");
-          right: -35px;
-          width: 28px;
-          height: 18px;
-          border: none;
-          background-color: transparent;
-          outline: none !important;
-        }
-        .next-button :hover {
-          cursor: pointer;
-          color: black;
-        }
+    /**********************
+    slick slider
+    ***********************/
+   .slick-next {
+        right: -69px!important;
+   }
+   .slick-prev {
+        left: -72px!important;
+   }
+   .slick-dots li button {
+       font: 0/0 a;
+       text-shadow: none;
+       color: transparent;
+       background-color: #486b9945!important;
+       border: none;
+       width: 17px!important;
+       height: 16px!important;
+       border-radius: 50%;
+    }
+    .slick-dots {
+        text-align: center;
+        margin: 0px 0px;
+        padding: 0;
+    }
+    .slick-dots li {
+       display: inline-block;
+       margin-left: 4px;
+       margin-right: 4px;
+    }
+    .slick-dots li.slick-active button {
+        border: 1px solid #1b405b !important;
+    }
+    .slick-dots li button:before {
+        top: -2px !important;
+        left: -1px !important;
+    }
+   .slick-dots li button {
+   font: 0/0 a;
+   text-shadow: none;
+   color: transparent;
+   background-color: #486b9900!important;
+   border: none;
+   width: 6px;
+   height: 12px;
+   border-radius: 50%;
+   }
+   /* Custom Arrow */
+   .prev-button-home {
+   color: #999;
+   position: absolute;
+   top: 40%;
+   left: -25px;
+   font-size: 1.5em;
+   background-image: url(img/arrow_2.png);
+   width: 27px;
+   height: 18px;
+   border: none;
+   background-color: transparent;
+   outline: none !important;
+   }
+   .prev-button-home :hover {
+   cursor: pointer;
+   color: black;
+   }
+   .next-button-home {
+   color: #999;
+   position: absolute;
+   top: 40%;
+   font-size: 1.5em;
+   background-image: url(img/arrow_1.png);
+   right: -25px;
+   width: 28px;
+   height: 18px;
+   border: none;
+   background-color: transparent;
+   outline: none !important;
+   }
+   .next-button-home :hover {
+   cursor: pointer;
+   color: black;
+   }
  </style>   
     <a href="index.php">
         <div class="logo-banner">
@@ -219,6 +242,7 @@ in construction.</p>
 <!-- integrated living start-->
 <div class="pb-integrate-main">
     <div class="container_main">
+      <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Integrated Living</h1>
         <div class="pb-integrate-txt">
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
@@ -251,6 +275,7 @@ in construction.</p>
 <!-- because we care start -->
 <div  class="pb-care">
     <div class="container_main">
+      <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
         <h1 class="pb-h1" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Because we care</h1>
         <div class="pb-care-txt" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <p class="fontweight">A company that has always believed in following a contemporary and comprehensive approach, JP Infra has grown and continues to grow at a rapid pace. JP Infra promises its residents international standards of living with state-of-the-art amenities to provide the ultimate living experience.</p>
@@ -301,6 +326,7 @@ in construction.</p>
         
         <div class="container_main carbon_main text-center">
             <div class="container_main text-center">
+              <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
                 <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Our Carbon Footprint</h1>
                 <div class="liveHead2 padding-project" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
                     <p class="carbon_txt">We at JP Infra believe in saving our environment and have ensured we follow what we believe in.</p>

@@ -1204,7 +1204,7 @@ transition:all .6s ease-in-out;
     <div class="main-div-jp">
         <h1 class="banner-title" data-aos="zoom-in-down" data-aos-duration="2000">North - A Lifestyle</h1>
         <P class="banner-subtitle1" data-aos="zoom-in-down" data-aos-duration="2000">Transforming Mira Road </P>
-        <p class="banner-subtitle" data-aos="zoom-in-down" data-aos-duration="2000">A breathtaking mélange of architecture & nature, JP North aims to provide a wholesome and elegant lifestyle. Be it quality education or a trendy cafe to unwind at, JP North has got all your needs covered at Mira Road. Designed for excellence, JP North’s extensive list of amenities and attention to details is what makes it the dream home to live in.
+        <p class="banner-subtitle" data-aos="zoom-in-down" data-aos-duration="2000">North Mumbai has seen rapid development in recent years thanks to the space crunch and cluttered, boxy apartments available in south Mumbai. Infrastructure has played a crucial role in driving growth. The aspiring Mumbaikar welcomes the new preferred hub of North Mumbai, which can be clearly seen with the sizeable emergence of affordable homes. Enhanced connectivity is one of the prime reasons that has led to increased housing demand in North Mumbai.  
         </p>
        <!--btn-->
        <div class="jplife-button">
@@ -1768,6 +1768,7 @@ transition:all .6s ease-in-out;
 <!--contact us-->
 <div class="contact-us">
    <div class="line"></div>
+   <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
    <h5 data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">WE'RE HERE TO HELP YOU</h5>
    <h1 data-aos="fade-up" data-aos-duration="3000">Contact Us</h1>
    <div class="contact-div">

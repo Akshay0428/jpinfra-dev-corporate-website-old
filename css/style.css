@@ -414,9 +414,13 @@ h2{
 }
 .fontweight{
     font-weight: 500;
+    color: #000;
 }
 .fontweight-bold{
     font-weight: 600;
+}
+.txt-align{
+    text-align: center;
 }
 /*--------------------------------------------------------------
 Home Page
@@ -2376,7 +2380,37 @@ div.abovefooter_main > div.container_aks.bg-3.text-center.wow.fadeIn > div.liveH
 /*--------------------------------------------------------------
 Media Page
 --------------------------------------------------------------*/
-
+.media-background {
+    width: 100%;
+    margin: 0px 0 170px 0;
+    background: url(../img/media/Media-Banner.jpg);
+    padding: 40px 0;
+    background-size: 100% 100%;
+    background-position: center;
+    position: relative;
+}
+.media-background h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 200;
+    margin: 30px 0 70px 0;
+}
+.media-white-sec{
+    position: absolute;
+    background-color: #fff;
+    width: 80%;
+    left: 10%;
+    top: 72%;
+    padding: 50px 70px;
+    box-shadow: 0px 3px 4px 1px #eee;
+}
+.media-white-sec p{
+    text-align: center;
+    margin: 0;
+    font-weight: 400;
+}
 .clearrb {
     clear: both;
 }
@@ -2644,7 +2678,7 @@ Contact Page
     width: 100px;
     height: 3px;
     background: #929191c2;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 .contact_desk {
@@ -3193,6 +3227,111 @@ a.ftr_maill:active {
     
 
 /************************nri corner page end************8/
+
+/************************work with us page start************/
+.resume-box {
+    width: 42%;
+    margin: 12px auto;
+    border: 1px solid #000;
+    border-left: 2px solid #2e5689;
+    border-bottom: 2px solid #2e5689;
+}
+.resume-txt {
+    width: 42%;
+    text-align: center;
+    float: left;
+    padding: 5px 5px;
+}
+.resume-txt h5 {
+    text-transform: capitalize;
+    color: #000;
+    font-size: 16px;
+}
+.resume-arrow {
+    width: 14%;
+    float: left;
+    padding: 12px 8px;
+}
+.mail-resume h5{
+    text-transform: none;
+    color: #2E5689;
+    font-weight: 600;
+}
+.position-wwu{
+    padding: 60px 0px;
+}
+.content-wwu {
+    border-left: 1px solid #2e568985;
+    border-right: 1px solid #2e568985;
+    border-bottom: 1px solid #2e568985;
+    background-color: #fff;
+    display:none;
+    padding-top: 15px;
+}
+.set-border a {
+    border: 1px solid #2e568985;
+    color: #2e5689;
+}
+.set-border > a.active {
+    background-color: #ffffff;
+    color: #2e5689;
+    border-bottom: 1px solid #2e5689 !important;
+}
+.content-wwu p{
+    display: block;
+    padding: 0px 350px 15px 40px;
+    text-decoration: none;
+    color: #333;
+    font-size: 15px;
+    font-weight: 400;
+    border-top: 0;
+    margin: 0;
+}
+.wwu-bttn button {
+    color: #2e5689;
+    border: 1px solid #2e568970;
+    width: 10%;
+    background-color: #fff;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin-left: 88%;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+/*blue btn*/
+.wwu-btn {
+    width: 35%;
+    margin: 0 auto;
+    background-color: #2e5689;
+    margin-bottom: 8%;
+}
+.wwu-btn-txt {
+    width: 85%;
+    float: left;
+    color: #fff;
+    padding: 15px 10px 15px 10px;
+    text-align: center;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 200;
+}
+.wwu-btn-arrow {
+    width: 12%;
+    padding: 15px 8px 0px 0px;
+    float: left;
+    content: "\e900";
+    position: relative;
+    left: 0;
+    transition: .2s ease-out;
+    cursor: pointer;
+}
+.wwu-btn-arrow:hover {
+    left: 4px;
+}
+.wwu-bold{
+    font-weight: bold;
+}
+/************************work with us page ends************/
 /*--------------------------------------------------------------
 Responsive
 --------------------------------------------------------------*/
@@ -3861,6 +4000,7 @@ Sustainability Page
 }
 .pb-care {
     background-color: #e1e1e1;
+    padding: 40px 0px;
 }
 .pb-slider{
     width: 80%;
@@ -3895,7 +4035,6 @@ Sustainability Page
     top: 17%;
 }
 .pb-h1 {
-    padding: 40px 0px 0px 0px;
     text-transform: capitalize;
 }
 p.head_con {

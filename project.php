@@ -295,11 +295,12 @@
 
 			<!-- ongoing projects start -->
 			<div class="ongoing_project">	
-				<div class="container_aks bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">    
-					<h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Ongoing Projects</h1>
-						<div class="lable_line">
+				<div class="container_aks bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
+					<div class="lable_line">
 							<img src="img/Gray-Head-line.png" class="northimage">
-						</div>
+						</div>  
+					<h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Ongoing Projects</h1>
+						
 						<div class="liveHead2 padding-project" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
 							<!--<p>Over the past __ years, JP Infra has delivered __ square meters of happiness and strives to continue providing dream homes to help you realize your dreams and live the life you were always meant to.</p>   -->
 						</div>
@@ -585,11 +586,11 @@
 			<!-- delivery projects start -->
 			<div class="delivery_project">
 			    <div class="new-del-project">
-			        <div class="container_aks bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">    
-					    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Delivered Projects</h1>
-						<div class="lable_line">
+			        <div class="container_aks bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;"> <div class="lable_line">
 							<img src="img/Gray-Head-line.png" class="northimage">
-						</div>
+						</div>   
+					    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Delivered Projects</h1>
+						
 						<div class="liveHead2 padding-project" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
 							<!--<p>In the hustle and bustle of the busy city, JP Infra offers a thoughtful lifestyle for its residents to enjoy ultra-modern amenities with state-of-the-art technology, sustainable development, and lush-green landscapes.</p>   -->
 						</div>

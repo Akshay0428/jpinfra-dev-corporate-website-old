@@ -9,9 +9,10 @@
     <img src="img/Contact-us-banner.jpg" alt="contact_banner" class="contact_desk">
     <img src="img/jp_contact_mobile_banner.jpg" alt="contact_image" class="contact_mob">
 </div>
-<div class="contact_frm">
+<div class="contact_frm"> 
+   <div class="contact_line"></div>
     <h1 data-aos="fade-up" data-aos-duration="3000">Find Us Here</h1>
-    <div class="contact_line"></div>
+
     <div class="contact_finfo">
         <div class="contact_linfo desktop_cont">
             <h5><img src="img/add.png" alt="icon" class="contact_ifcon">JP Infra Mumbai Pvt. Ltd.</h5><p class="texxxt">4th Floor, Viraj Towers, Western Express Highway, Near WEH Metro Station, Andheri(E), Mumbai-400093</p>
