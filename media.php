@@ -228,7 +228,7 @@ button.prev-button-home.slick-arrow {
 <!-- glimpse jp desktop start -->
  <div class="glimpse-main marg">    
     <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
-    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Media</h1>
+    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Glimpse of JP Infra</h1>
 
 
           <!-- slider desktop start -->
@@ -656,7 +656,7 @@ button.prev-button-home.slick-arrow {
 <!-- close news slater -->
 
 <!-- event start -->
-<div class="media_event marg">
+<div class="media_event marg" id="mediapage_link">
      <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Workplace Events</h1>
     <!-- <div class="contact_line"></div> -->

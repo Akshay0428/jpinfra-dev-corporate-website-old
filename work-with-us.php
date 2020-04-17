@@ -33,7 +33,8 @@
                 <img src="img/work-with-us/arrow-wws.png" alt="arrow">
             </div>
             <div class="resume-txt mail-resume">
-                <h5>carrers@jpinfra.com</h5>
+              <!-- <a href="carrers@jpinfra.com" target="_top"><h5>carrers@jpinfra.com</h5></a> -->
+              <a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="_top"><h5>carrers@jpinfra.com</h5></a>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -122,12 +123,13 @@
     <!-- blue button start-->
     <div class="wwu-btn-event container_main">
         <div class="wwu-btn">
+          <a href="media.php#mediapage_link">
             <div class="wwu-btn-txt">click to<span class="wwu-bold"> view workplace events</span></div>
             <div class="wwu-btn-arrow">
                 <img src="img/Project-arrow-white.png" alt="arrow">
             </div>
             <div class="clearfix"></div>
-         </div>
+         </div></a>
         <div class="clearfix"></div>
     </div>
     <!-- blue button end-->
