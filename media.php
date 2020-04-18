@@ -228,7 +228,7 @@ button.prev-button-home.slick-arrow {
 <!-- glimpse jp desktop start -->
  <div class="glimpse-main marg">    
     <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
-    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Glimpse of JP Infra</h1>
+    <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Glimpses of JP Infra</h1>
 
 
           <!-- slider desktop start -->

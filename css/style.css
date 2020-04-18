@@ -3229,6 +3229,9 @@ a.ftr_maill:active {
 /************************nri corner page end************8/
 
 /************************work with us page start************/
+.wwu-main {
+    margin: 40px 0px;
+}
 .resume-box {
     width: 42%;
     margin: 12px auto;
@@ -3309,14 +3312,14 @@ a.ftr_maill:active {
     width: 85%;
     float: left;
     color: #fff;
-    padding: 15px 10px 15px 10px;
+    padding: 15px 10px 15px 22px;
     text-align: center;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 200;
 }
 .wwu-btn-arrow {
-    width: 12%;
+    width: 10%;
     padding: 15px 8px 0px 0px;
     float: left;
     content: "\e900";
@@ -3381,7 +3384,11 @@ about us page
     float: left;
     border: 1px solid #000;
     padding: 10px;
-    margin: 0px 77px 0px 10px;
+    margin: 26px;
+    filter: grayscale(100%);
+}
+.leader-box:hover{
+ filter: none;
 }
 .leader-box-img {
     width: 50%;
@@ -3394,13 +3401,6 @@ about us page
 }
 .leader-box-txt h3 {
     font-size: 20px;
-}
-.leader-box1 {
-    width: 45%;
-    float: left;
-    border: 1px solid #000;
-    padding: 10px;
-    margin: 0px 10px;
 }
 .redevelopment-abtus {
     width: 100%;
@@ -3433,16 +3433,16 @@ about us page
 .abtpaebtn-txt {
     color: #fff;
     text-align: center;
-    width: 65%;
+    width: 69%;
     float: left;
     text-transform: uppercase;
-    padding: 10px 0px 10px 9px;
+    padding: 10px 0px 10px 15px;
     font-weight: 600;
     letter-spacing: 0.8px;
     font-size: 14px;
 }
 .abtpaebtn-arow {
-    width: 33%;
+    width: 29%;
     padding: 9px 9px 9px 9px;
     float: left;
     content: "\e900";
@@ -3454,6 +3454,31 @@ about us page
 }
 .abtpaebtn-arow:hover {
     left: 4px;
+}
+.achievements {
+    margin: 40px auto;
+}
+.achievements-slider {
+    padding: 20px 0px;
+}
+.abtpage-achievement {
+    width: 25%;
+    float: left;
+    margin: 44px;
+    position: relative;
+}
+.achievements-p {
+    position: absolute;
+    width: 67%;
+    text-align: center;
+    top: 17%;
+    left: 15%;
+    padding: 25px 8px;
+}
+.abt-p-width {
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
 }
 /*--------------------------------------------------------------
 Responsive
