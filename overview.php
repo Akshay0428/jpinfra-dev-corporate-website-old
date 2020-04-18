@@ -80,7 +80,7 @@
     <!-- about jp infra start -->
     <div class="container_main abt-us-margin abt-us-jpinfra">
       <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
-      <h1 class="texttransform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">about jp infra</h1>
+      <h1 class="texttransform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">about JP infra</h1>
       <div class="abtus-jpinfra">
         <div class="abtus-txt">
           <h3 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
