@@ -26,22 +26,22 @@ Author: Akshay Khambe
 /*}*/
 
 html{
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 *,
 *:before,
 *:after{
-	-webkit-box-sizing: inherit;
-	-moz-box-sizing: inherit;
-	box-sizing: inherit;
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
 }
 body{
-	margin: 0;
-	padding: 0;
-	font-family: 'Poppins', sans-serif;
-	background-color: #fff;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff;
 }
 img{
     width:100%;
@@ -176,7 +176,7 @@ Header
     line-height: 0px;
 }
 .header_fx{
-	width: 100%;
+    width: 100%;
     position: absolute;
     top: 0;
     background-color: #fff;
@@ -676,49 +676,49 @@ a.carousel-control.right {
 Counter
 --------------------------------------------------------------*/
 .below-banner-section{
-		width: 100%;
-		background: url(https://www.dotwisedigital.com/jpinfra/img/Projects-BG.jpg);
-		padding: 40px 0;
-		background-size: 100% 100%;
-		background-position: center;
+        width: 100%;
+        background: url(https://www.dotwisedigital.com/jpinfra/img/Projects-BG.jpg);
+        padding: 40px 0;
+        background-size: 100% 100%;
+        background-position: center;
 }
 .content-div{
-	    width: 80%;
-		margin: auto;
+        width: 80%;
+        margin: auto;
 }
 .numbers-div {
-		width: 24.22%;
-		float: left;
-		padding: 0 20px;
+        width: 24.22%;
+        float: left;
+        padding: 0 20px;
 }
 .border-ryt{
-		border-right: 1px solid #fff;
+        border-right: 1px solid #fff;
 }
 .number-content{
-		width: 50%;
-    	float: left;
+        width: 50%;
+        float: left;
 }
 
 .number-content h1 {
-		font-size: 50px;
-		color: #fff;
-		letter-spacing: 2px;
-		margin: 0;
-		text-align: right;
+        font-size: 50px;
+        color: #fff;
+        letter-spacing: 2px;
+        margin: 0;
+        text-align: right;
         padding: 0px 10px 0px 0px;
         font-weight: 100;
 }
 .number-content p {
         font-size: 16px;
-		color: #fff;
-		margin: 0px 0;
-		padding: 8px 0px 0px 20px;
-		/*font-family: POPPINS-REGULAR;*/
-		font-weight: 500;
-		    line-height: 1.2;
+        color: #fff;
+        margin: 0px 0;
+        padding: 8px 0px 0px 20px;
+        /*font-family: POPPINS-REGULAR;*/
+        font-weight: 500;
+            line-height: 1.2;
 }
 .marg-left{
-		margin-left: 30px !important;
+        margin-left: 30px !important;
 }
 /*--------------------------------------------------------------
 JP North parallax
@@ -815,7 +815,11 @@ Projects Delivered
     width: 100%;
 }
 .abt-slide-heading{
-    background-color: #ddd;
+    display: block;
+    background: linear-gradient(to right, #2e5689 50%, #ddd 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .5s ease-out;
 }
 .abt-slide-heading h6{
     margin: 0;
@@ -826,7 +830,7 @@ Projects Delivered
     font-weight: 800;
 }
 .abt-jp-slider:hover .abt-slide-heading{
-    background-color: #2e5689;
+    background-position: left bottom;
 }
 .abt-jp-slider:hover .abt-slide-heading h6{
     color: #fff;
@@ -904,9 +908,9 @@ Projects Delivered
     float: left;
 }
 .col-del2{
-	
-	width: 75%;
-	float: left;
+    
+    width: 75%;
+    float: left;
 }
 .liveHead2 {
     width: 100%;
@@ -961,11 +965,11 @@ img.arrow_button {
     margin-top: 0px;
 }
 .overLine{
-	width: 90px;
-	background:grey;
-	height: 2px;
-	position: absolute;
-	top: 0px;
+    width: 90px;
+    background:grey;
+    height: 2px;
+    position: absolute;
+    top: 0px;
 }
 .btmDiv {
     background-color: #cecccd;
@@ -991,7 +995,7 @@ img.arrow_button {
     text-transform: uppercase;
 }
 .liveHead3{
-	
+    
     font-size: 12px;
 }
 .about_us {
@@ -1143,19 +1147,19 @@ img.arrow_button_abt {
     padding: 12px 12px;
 }
 .indi1{
-	position: relative !important;
-	top: 16px;
+    position: relative !important;
+    top: 16px;
 }
 .indi1 li{
-	background-color: white !important ;
+    background-color: white !important ;
 
 }
 .dot{
-	width: 6px;height: 6px;
-	background: grey;
-	position: relative;
-	top: 2px;
-	left: 2px;
+    width: 6px;height: 6px;
+    background: grey;
+    position: relative;
+    top: 2px;
+    left: 2px;
     border-radius: 10px;
 }
 .indi1 li.active {    
@@ -2516,7 +2520,7 @@ img.mybigimgresize {
     left: 6%;
     bottom: 6%;
     right: 6%;
-	text-align: center;
+    text-align: center;
 }
 .column_news:hover .media_hveff {
     opacity: 1;
@@ -2707,7 +2711,7 @@ form p {
 .contact_rinfo {
     width: 56%;
     float: right;
-	border: 1px solid #6f6c6c14;
+    border: 1px solid #6f6c6c14;
     padding: 3% 11%;
     box-shadow: 0px 1px 5px 1px #aaaaaa45;
 }
@@ -3053,22 +3057,22 @@ footer img{
 All Extra Stuff
 --------------------------------------------------------------*/
 .top_arow{
-	width:25px;
-	height:33px;
-	position:fixed;
-	right:2%;
-	bottom:2%;
-	display:none;
-	transition-duration: 1s;
-	background-image:url('../img/top.png');
-	cursor:pointer;
-	z-index:999999999999999999;
+    width:25px;
+    height:33px;
+    position:fixed;
+    right:2%;
+    bottom:2%;
+    display:none;
+    transition-duration: 1s;
+    background-image:url('../img/top.png');
+    cursor:pointer;
+    z-index:999999999999999999;
 }
 .top_arow:hover{
-	transition-duration: 1s;
-	cursor:pointer;
-	background-image:url('../img/top-b.png');
-	display:none;
+    transition-duration: 1s;
+    cursor:pointer;
+    background-image:url('../img/top-b.png');
+    display:none;
 }
 .widget ul li {
     padding: 0;
@@ -3800,14 +3804,14 @@ img.arrow_button_css {
     font-size: 20px;
 }
 .col-del1{
-	
-	width: 100%;
-	float: none;
+    
+    width: 100%;
+    float: none;
 }
 .col-del2{
-	
-	width: 100%;
-	float: none;
+    
+    width: 100%;
+    float: none;
 }
 .banner-north {
     margin-top: 32px;
@@ -4015,10 +4019,10 @@ Media Page
     font-size: 20px;
 }
 .desktop{
-	display: none;
+    display: none;
 }
 .mobile{
-	display: block;
+    display: block;
 }
 
 /*--------------------------------------------------------------
