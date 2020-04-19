@@ -3227,10 +3227,80 @@ a.ftr_maill:active {
     width: 31%;
     margin: 0 auto;
     margin-top: 40px;
-}
-    
+}    
 
-/************************nri corner page end************8/
+/************************nri corner page end************/
+.blog-banner{
+    position: relative;
+}
+.blog-box{
+    position: absolute;
+    bottom: -160px;
+    background: #fff;
+    width: 80%;
+    left: 10%;
+    padding: 30px;
+    box-shadow: 0.5px 3px 4px 3px #dddddd5e;
+}
+.blog-box p{
+    text-align: center;
+    font-weight: 400;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+section#blogs-here {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 260px;
+    margin-bottom: 80px;
+}
+#blogs-here h5{
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 19px;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+#blogs-here p{
+    font-weight: 500;
+    color: #2E5689;
+}
+.blogs-here {
+    margin-top: 60px;
+}
+.load-more {
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.load-more h5{
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    margin: 15px 10px !important;
+}
+.load-more .know-arrow-project-property {
+    width: 15%;
+    float: left;
+    margin-top: 8px;
+    content: "\e900";
+    margin-left: 0;
+    position: relative;
+    bottom: -4px;
+    left: 0;
+    transition: .2s ease-out;
+    cursor: pointer;
+}
+.load-more .project-property-button{
+    border: 1.5px solid #486b99;
+}
+
+
+/************************blog page start************/
+
+
+/************************blog page end************/
 
 /************************work with us page start************/
 .wwu-main {
