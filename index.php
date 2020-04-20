@@ -993,7 +993,7 @@ transition:all .6s ease-in-out;
             </div>
             <div class="col-md-8 main-abt-slider">
               <div class="col-md-4">
-                <a href="http://www.jpinfra.com/jp-decks/">
+                <a href="http://www.jpinfra.com/jp-decks/" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1007,7 +1007,7 @@ transition:all .6s ease-in-out;
                 </a>
               </div>
               <div class="col-md-4">
-                <a href="http://www.jpinfra.com/unity-tower.html">
+                <a href="http://www.jpinfra.com/unity-tower.html" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1021,7 +1021,7 @@ transition:all .6s ease-in-out;
                 </a>
               </div>
               <div class="col-md-4">
-                <a href="https://www.jpinfra.com/jp-north/celeste/">
+                <a href="https://www.jpinfra.com/jp-north/celeste/" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1035,7 +1035,7 @@ transition:all .6s ease-in-out;
                 </a>
               </div>
               <div class="col-md-4">
-                <a href="https://www.jpinfra.com/jp-north/gardencity/">
+                <a href="https://www.jpinfra.com/jp-north/gardencity/" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1049,7 +1049,7 @@ transition:all .6s ease-in-out;
                 </a>
               </div> 
               <div class="col-md-4">
-                <a href="http://www.jpinfra.com/chalet-amar/">
+                <a href="http://www.jpinfra.com/chalet-amar/" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1075,7 +1075,7 @@ transition:all .6s ease-in-out;
                   </div>
               </div>
               <div class="col-md-4">
-                <a href="https://www.jpinfra.com/jp-north/gardencity/">
+                <a href="https://www.jpinfra.com/jp-north/gardencity/" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
