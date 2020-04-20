@@ -4177,7 +4177,8 @@ Sustainability Page
     font-size: 16px;
 }
 .human-img {
-    width: 100%;
+    width: 80%;
+    float: right;
 }
 .content_abs p {
     text-align: justify;

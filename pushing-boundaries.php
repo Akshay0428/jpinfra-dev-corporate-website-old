@@ -227,7 +227,7 @@ in construction.</p>
                 </div>
                 <div class="human_col mob_human">
                     <div class="human-img">
-                        <img src="img/pushing_boundaries/The-Human-touch-1.jpg" class="img-cls2">
+                        <img src="img/pushing_boundaries/humanright.jpg" class="img-cls2">
                         <div class="clearfix"></div>
                     </div>
                 </div>
