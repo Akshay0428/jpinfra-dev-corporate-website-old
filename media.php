@@ -607,7 +607,7 @@ button.prev-button-home.slick-arrow {
 <!-- article end -->
 
 <!-- new slater -->
-<div class="media_news marg">
+<div class="media_news padding-media">
      <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Newsletters</h1>
     <!-- <div class="contact_line"></div> -->
@@ -656,7 +656,7 @@ button.prev-button-home.slick-arrow {
 <!-- close news slater -->
 
 <!-- event start -->
-<div class="media_event marg" id="mediapage_link">
+<div class="media_event padding-media" id="mediapage_link">
      <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Workplace Events</h1>
     <!-- <div class="contact_line"></div> -->

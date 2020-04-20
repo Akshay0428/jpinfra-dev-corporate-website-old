@@ -284,7 +284,7 @@ in construction.</p>
         <div class="pb-care-slider-main">
             <div class="pb-slider">
                 <div class="pb-care-img">
-                    <img src="img/pushing_boundaries/Labour-School.jpg">
+                    <img src="img/pushing_boundaries/Labour-School-2.jpg">
                 </div>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line"></div>
@@ -294,11 +294,11 @@ in construction.</p>
             </div>
             <div class="pb-slider">
                 <div class="pb-care-img">
-                    <img src="img/pushing_boundaries/Labour-School.jpg">
+                    <img src="img/pushing_boundaries/Mira-Bhayander-Rising.jpg">
                 </div>
                 <div class="pbslider-care-txt">
-                    <div class="pbcare-line"></div>
-                    <h3 class="fontweight-bold">Labour School</h3>
+                    <div class="pbcare-line pbcareline-mira"></div>
+                    <h3 class="fontweight-bold">Mira Bhayander Rising</h3>
                     <p class="fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
             </div>
@@ -307,8 +307,8 @@ in construction.</p>
                     <img src="img/pushing_boundaries/Labour-School.jpg">
                 </div>
                 <div class="pbslider-care-txt">
-                    <div class="pbcare-line"></div>
-                    <h3 class="fontweight-bold">Labour School</h3>
+                    <div class="pbcare-line pbcareline-labour"></div>
+                    <h3 class="fontweight-bold">School for Labourer's</h3>
                     <p class="fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
             </div>
@@ -376,12 +376,12 @@ in construction.</p>
                             <div class="rainwater">
                                 <div class="solar-content">
                                     <div class="solar-img">
-                                        <img src="img/solar.jpg" alt="solar">
+                                        <img src="img/pushing_boundaries/rainwater-harvesting.jpg" alt="rainwater-harvesting">
                                     </div>
                                     <div class="solar-txt">
                                         <div class="solar-img-txt">
                                             <div class="solar-icon">
-                                                <img src="img/Solar-Icon.png" class="img-icon">
+                                                <img src="img/pushing_boundaries/RAINWATER-HARVESTING-icon.png" class="img-icon">
                                             </div>
                                             <div class="solar-para">
                                                 <h6>RAINWATER HARVESTING</h6>
@@ -397,12 +397,12 @@ in construction.</p>
                             <div class="waste">
                                 <div class="solar-content">
                                     <div class="solar-img">
-                                        <img src="img/solar.jpg" alt="solar">
+                                        <img src="img/pushing_boundaries/Waste-management.jpg" alt="Waste-management">
                                     </div>
                                     <div class="solar-txt">
                                         <div class="solar-img-txt">
                                             <div class="solar-icon">
-                                                <img src="img/Solar-Icon.png" class="img-icon">
+                                                <img src="img/pushing_boundaries/WASTE-MANAGEMENT-icon.png" class="img-icon">
                                             </div>
                                             <div class="solar-para">
                                                 <h6>WASTE MANAGEMENT</h6>

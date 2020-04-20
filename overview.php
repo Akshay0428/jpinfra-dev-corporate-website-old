@@ -117,11 +117,11 @@
           </div>
           <div class="leader-box">
             <div class="leader-box-img">
-              <img src="img/about-us/MR.-Vijay-Jain.jpg" alt="leader2">
+              <img src="img/about-us/MR-Shubham-Jain.jpg" alt="leader2">
             </div>
             <div class="leader-box-txt">
-              <h3 class="abtus-color fontweight-bold">MR. Vijay Jain</h3>
-              <h6 class="abtus-color texttransform">chairman</h6>
+              <h3 class="abtus-color fontweight-bold">MR. Shubham Jain</h3>
+              <h6 class="abtus-color texttransform">Managing Director</h6>
               <p class="fontweight">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, </p>
             </div>
           </div>
@@ -210,9 +210,9 @@
 
     <!-- blue button start-->
     <div class="wwu-btn-event container_main">
-        <div class="wwu-btn">
+        <div class="wwu-btn over-btn">
           <a href="work-with-us.php#position-available">
-            <div class="wwu-btn-txt over-btntxt">click to<span class="wwu-bold"> view the position available</span></div>
+            <div class="wwu-btn-txt over-btntxt">click to<span class="wwu-bold"> view the positions available</span></div>
             <div class="wwu-btn-arrow over-btnarrow">
                 <img src="img/Project-arrow-white.png" alt="arrow">
             </div>

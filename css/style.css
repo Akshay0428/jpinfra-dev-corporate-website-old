@@ -118,7 +118,9 @@ dropdown
 .nav-border{
     border-bottom: 1px solid #ccc;
 }
-
+.padding-media{
+    padding: 60px 0px;
+}
 /*--------------------------------------------------------------
 Basic Reset
 --------------------------------------------------------------*/
@@ -2542,7 +2544,6 @@ a.meext {
     background-color:#fff;
     text-align: center;
     margin: 0 auto;
-    padding-top: 15px;
 }
 .column {
     float: left;
@@ -3583,7 +3584,7 @@ overview page
     padding: 0px 20px;
 }
 .leader-box-txt h3 {
-    font-size: 20px;
+    font-size: 18px;
 }
 .redevelopment-abtus {
     width: 100%;
@@ -3667,7 +3668,11 @@ overview page
     padding: 16px 0px 16px 8px;
 }
 .over-btnarrow{
-    padding: 15px 0px 0px 9px; 
+    padding: 16px 0px 0px 0px;
+    width: 8%;
+}
+.over-btn{
+    width: 40%;
 }
 /*--------------------------------------------------------------
 Responsive
@@ -4371,6 +4376,12 @@ Sustainability Page
     position: absolute;
     left: 43%;
     top: 17%;
+}
+.pbcareline-mira{
+    left: 62%;
+}
+.pbcareline-labour{
+    left: 59%;
 }
 .pb-h1 {
     text-transform: capitalize;
