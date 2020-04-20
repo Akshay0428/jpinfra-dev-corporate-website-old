@@ -3411,7 +3411,7 @@ section#blogs-here {
 /************************work with us page ends************/
 
 /*--------------------------------------------------------------
-about us page
+overview page
 --------------------------------------------------------------*/
 .abtus-jpinfra {
     position: relative;
@@ -3553,6 +3553,12 @@ about us page
     width: 80%;
     margin: 30px auto;
     text-align: center;
+}
+.over-btntxt{
+    padding: 16px 0px 16px 8px;
+}
+.over-btnarrow{
+    padding: 15px 0px 0px 9px; 
 }
 /*--------------------------------------------------------------
 Responsive

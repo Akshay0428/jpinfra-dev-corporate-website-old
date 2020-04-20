@@ -159,7 +159,7 @@
     <div class="redevelopment-abtus">
       <div class="container_main">
         <div class="abt-blueline"></div>
-        <h1 class="texttransform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">our redevelopment project</h1>
+        <h1 class="texttransform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">our redevelopment projects</h1>
         <p class="txt-align fontweight redevelopment-p" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
         <div class="abtpage-btn">
           <div class="abtpaebtn-txt">know more</div>
@@ -211,9 +211,9 @@
     <!-- blue button start-->
     <div class="wwu-btn-event container_main">
         <div class="wwu-btn">
-          <a href="media.php#mediapage_link">
-            <div class="wwu-btn-txt">click to<span class="wwu-bold"> view workplace events</span></div>
-            <div class="wwu-btn-arrow">
+          <a href="work-with-us.php#position-available">
+            <div class="wwu-btn-txt over-btntxt">click to<span class="wwu-bold"> view the position available</span></div>
+            <div class="wwu-btn-arrow over-btnarrow">
                 <img src="img/Project-arrow-white.png" alt="arrow">
             </div>
             <div class="clearfix"></div>

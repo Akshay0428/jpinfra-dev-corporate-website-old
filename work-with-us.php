@@ -34,7 +34,7 @@
             </div>
             <div class="resume-txt mail-resume">
               <!-- <a href="carrers@jpinfra.com" target="_top"><h5>carrers@jpinfra.com</h5></a> -->
-              <a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="_top"><h5>careers@jpinfra.com</h5></a>
+              <a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="blank"><h5>careers@jpinfra.com</h5></a>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -44,7 +44,7 @@
     <!-- send resume end -->
 
     <!-- Position available start -->
-    <div class="container_main position-wwu">
+    <div class="container_main position-wwu" id="position-available">
         <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Position Available</h1>
         <p class="fontweight txt-align" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
