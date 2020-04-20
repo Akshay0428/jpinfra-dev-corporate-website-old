@@ -11,113 +11,99 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>   
 <link rel="stylesheet" href="https://narangrealty.com/assets/slider.css">
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-
 <style>
-    video#myVideo {
-    width: 100%;
-}
-		
-.sep {width:100%;}
-.sep .image-hover {margin:0px 0px 0px 0px}
-
-/****** image hover ******/
-
-.image-hover * {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
-.image-hover {position:relative;
-    width:450px;
-    height:200px;
-    display:inline-block;
-    overflow:hidden;
-    /*background:#fff;*/
-    /*border:10px solid #fff;*/
-    /*box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
-    /*-moz-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
-    /*-webkit-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3)*/
-    
-}
-.image-hover a {text-decoration:none}
-
-.image-hover img {
-    margin: 0px 0px 0px 0px;
-    width: 100%;
-    height: 30vh;
-}
-
-/*** effect - shadow 1 ***/
-
-.img-shadow-1
-{
--webkit-box-shadow:none;
--moz-box-shadow: none;
-box-shadow: none;
-}
-
-.img-shadow-1:hover
-{
-transform:scale(1.1);
--webkit-transform:scale(1.1);
--moz-transform:scale(1.1);
--ms-transform:scale(1.1);
--o-transform:scale(1.1);
-
--webkit-box-shadow: 0 58px 36px -56px black;
--moz-box-shadow: 0 58px 36px -56px black;
-box-shadow: 0 58px 36px -56px black;
-}
-
-.img-shadow-1
-{
-transition:all .6s ease-in-out;
--webkit-transition:all .6s ease-in-out;
--moz-transition:all .6s ease-in-out;
--ms-transition:all .6s ease-in-out;
--o-transition:all .6s ease-in-out;
-}
-
-.img-shadow-1:hover
-{
-transition:all .6s ease-in-out;
--webkit-transition:all .6s ease-in-out;
--moz-transition:all .6s ease-in-out;
--ms-transition:all .6s ease-in-out;
--o-transition:all .6s ease-in-out;
-}
-.sss{
-	width: 21%;
-}
-.sep .image-hover {
-    margin: 10px 8px 10px 8px;
-    height:auto;
-}
-.new {
-    width: 100%;
-    margin: 0 auto;
-}
-.image-hover.img-shadow-1.sss h5 {
-    color: #2e5689;
-    font-size: 14px;
-    font-weight: 600;
-    text-align: center;
-    padding: 2px;
-}
-.image-hover.img-shadow-1.sss p {
-    text-align: center;
-    font-weight: 400;
-    color: #000;
-        text-transform: capitalize;
-}
-.image-hover:hover {
-    
-}
-.new.slide-media.slick-initialized.slick-slider .prev-button-home {
-    top: 30%;
-    left: -43px;
-
-}
-.new.slide-media.slick-initialized.slick-slider  .next-button-home {
-    top: 30%;
-    right: -46px;
-}
+   video#myVideo {
+   width: 100%;
+   }
+   .sep {width:100%;}
+   .sep .image-hover {margin:0px 0px 0px 0px}
+   /****** image hover ******/
+   .image-hover * {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+   .image-hover {position:relative;
+   width:450px;
+   height:200px;
+   display:inline-block;
+   overflow:hidden;
+   /*background:#fff;*/
+   /*border:10px solid #fff;*/
+   /*box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
+   /*-moz-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
+   /*-webkit-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3)*/
+   }
+   .image-hover a {text-decoration:none}
+   .image-hover img {
+   margin: 0px 0px 0px 0px;
+   width: 100%;
+   height: 30vh;
+   }
+   /*** effect - shadow 1 ***/
+   .img-shadow-1
+   {
+   -webkit-box-shadow:none;
+   -moz-box-shadow: none;
+   box-shadow: none;
+   }
+   .img-shadow-1:hover
+   {
+   transform:scale(1.1);
+   -webkit-transform:scale(1.1);
+   -moz-transform:scale(1.1);
+   -ms-transform:scale(1.1);
+   -o-transform:scale(1.1);
+   -webkit-box-shadow: 0 58px 36px -56px black;
+   -moz-box-shadow: 0 58px 36px -56px black;
+   box-shadow: 0 58px 36px -56px black;
+   }
+   .img-shadow-1
+   {
+   transition:all .6s ease-in-out;
+   -webkit-transition:all .6s ease-in-out;
+   -moz-transition:all .6s ease-in-out;
+   -ms-transition:all .6s ease-in-out;
+   -o-transition:all .6s ease-in-out;
+   }
+   .img-shadow-1:hover
+   {
+   transition:all .6s ease-in-out;
+   -webkit-transition:all .6s ease-in-out;
+   -moz-transition:all .6s ease-in-out;
+   -ms-transition:all .6s ease-in-out;
+   -o-transition:all .6s ease-in-out;
+   }
+   .sss{
+   width: 21%;
+   }
+   .sep .image-hover {
+   margin: 10px 8px 10px 8px;
+   height:auto;
+   }
+   .new {
+   width: 100%;
+   margin: 0 auto;
+   }
+   .image-hover.img-shadow-1.sss h5 {
+   color: #2e5689;
+   font-size: 14px;
+   font-weight: 600;
+   text-align: center;
+   padding: 2px;
+   }
+   .image-hover.img-shadow-1.sss p {
+   text-align: center;
+   font-weight: 400;
+   color: #000;
+   text-transform: capitalize;
+   }
+   .image-hover:hover {
+   }
+   .new.slide-media.slick-initialized.slick-slider .prev-button-home {
+   top: 30%;
+   left: -43px;
+   }
+   .new.slide-media.slick-initialized.slick-slider  .next-button-home {
+   top: 30%;
+   right: -46px;
+   }
    /**********************
    slick slider
    ***********************/
@@ -254,86 +240,98 @@ transition:all .6s ease-in-out;
        
    });
 </script>
-
-    <section class="main-slider">
-     
-           <!-- Carousel items -->
-            <div class="logo-banner">
-                <a href="https://www.dotwisedigital.com/jpuat">
-                    <img src="img/JP Infra Logo.png">
-                </a>
-            </div>
-            <div class="blog-banner">
-              <img src="img/blog/blog_banner.jpg" alt="blog_banner">
-              <div class="blog-box">
-                <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
-                <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="aos-init aos-animate">Blog</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
-              </div>
-            </div>
-            <div class="clearfix"></div>
-    </section>
-    <!-- Banner end Hrere -->
-
-    <section id="blogs-here">
-      <div class="blogs-here">
-        <div class="col-md-4">
-          <img src="img/blog/blog1.jpg" alt="blog1">
-          <h5>Why are young couples buying their own Home?</h5>
-          <p>20 July 2018</p>
-        </div>
-        <div class="col-md-4">
-          <img src="img/blog/blog1.jpg" alt="blog1">
-          <h5>Why are young couples buying their own Home?</h5>
-          <p>20 July 2018</p>
-        </div>
-        <div class="col-md-4">
-          <img src="img/blog/blog1.jpg" alt="blog1">
-          <h5>Why are young couples buying their own Home?</h5>
-          <p>20 July 2018</p>
-        </div>
-        <div class="clearfix"></div>
+<section class="main-slider">
+   <!-- Carousel items -->
+   <div class="logo-banner">
+      <a href="https://www.dotwisedigital.com/jpuat">
+      <img src="img/JP Infra Logo.png">
+      </a>
+   </div>
+   <div class="blog-banner">
+      <img src="img/blog/blog_banner.jpg" alt="blog_banner">
+      <div class="blog-box">
+         <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
+         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="aos-init aos-animate">Blog</h1>
+         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
       </div>
-      <div class="blogs-here">
-        <div class="col-md-4">
-          <img src="img/blog/blog1.jpg" alt="blog1">
-          <h5>Why are young couples buying their own Home?</h5>
-          <p>20 July 2018</p>
-        </div>
-        <div class="col-md-4">
-          <img src="img/blog/blog1.jpg" alt="blog1">
-          <h5>Why are young couples buying their own Home?</h5>
-          <p>20 July 2018</p>
-        </div>
-        <div class="col-md-4">
-          <img src="img/blog/blog1.jpg" alt="blog1">
-          <h5>Why are young couples buying their own Home?</h5>
-          <p>20 July 2018</p>
-        </div>
-        <div class="clearfix"></div>
+   </div>
+   <div class="clearfix"></div>
+</section>
+<!-- Banner end Hrere -->
+<section id="blogs-here">
+   <div class="blogs-here">
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
       </div>
-      <div class="load-more">
-        <div class="project-property-button contact-btn">
-          <div class="know-text-project-property">
-              <button type="submit" id="button_enquiry_desktop" onclick="myfunction();return(false);"><h5>LOAD MORE</h5></button>
-          </div>
-          <div class="know-arrow-project-property">
-            <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
-          </div>
-          <div class="clearfix"></div>
-        </div>
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
+      </div>
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
       </div>
       <div class="clearfix"></div>
-    </section>
-
-
-
+   </div>
+   <div class="blogs-here">
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
+      </div>
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
+      </div>
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
+      </div>
+      <div class="clearfix"></div>
+   </div>
+   <div class="load-more">
+      <div class="project-property-button contact-btn">
+         <div class="know-text-project-property">
+            <button type="submit" id="button_enquiry_desktop" onclick="myfunction();return(false);">
+               <h5>LOAD MORE</h5>
+            </button>
+         </div>
+         <div class="know-arrow-project-property">
+            <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
+         </div>
+         <div class="clearfix"></div>
+      </div>
+   </div>
+   <div class="clearfix"></div>
+</section>
 <!---->
 <script src="js/send.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.js"></script>
-
-
 <!--media desktop-->
 <script>
    // Carousel Auto-Cycle
@@ -344,7 +342,6 @@ transition:all .6s ease-in-out;
    });
    
 </script>
-
 <script type="text/javascript">
    var i, maxItems = $('.slider .item').length;
    function slideshow() {
