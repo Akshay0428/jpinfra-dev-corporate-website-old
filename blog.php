@@ -258,7 +258,7 @@
    <div class="clearfix"></div>
 </section>
 <!-- Banner end Hrere -->
-<section id="blogs-here">
+<!-- <section id="blogs-here">
    <div class="blogs-here">
       <div class="col-md-4">
          <img src="img/blog/blog1.jpg" alt="blog1">
@@ -293,6 +293,76 @@
          <h5>Why are young couples buying their own Home?</h5>
          <p>20 July 2018</p>
       </div>>
+      <div class="clearfix"></div>
+   </div>
+   <div class="load-more">
+      <div class="project-property-button contact-btn">
+         <div class="know-text-project-property">
+            <button type="submit" id="button_enquiry_desktop" onclick="myfunction();return(false);">
+               <h5>LOAD MORE</h5>
+            </button>
+         </div>
+         <div class="know-arrow-project-property">
+            <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
+         </div>
+         <div class="clearfix"></div>
+      </div>
+   </div>
+   <div class="clearfix"></div>
+   </section> -->
+<section id="blogs-here">
+   <div class="blogs-here">
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
+      </div>
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
+      </div>
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
+      </div>
+      <div class="clearfix"></div>
+   </div>
+   <div class="blogs-here">
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
+      </div>
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
+      </div>
+      <div class="col-md-4">
+         <a href="#" class="blogs-here-new">
+         <img src="img/blog/blog1.jpg" alt="blog1" class="blogs-here-new">
+         <span class="blogs-here-overlay"></span>
+         </a>
+         <h5>Why are young couples buying their own Home?</h5>
+         <p>20 July 2018</p>
+      </div>
       <div class="clearfix"></div>
    </div>
    <div class="load-more">
