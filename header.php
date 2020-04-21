@@ -66,7 +66,7 @@
 					  <li class="li-1"><a href="northjp.php">NORTH</a></li>
 					  <li class="li-1"><a href="media.php">MEDIA</a></li>
 					  <li class="li-1"><a href="blog.php">BLOGS</a></li>
-					  <li class="li-1"><a href="nri_corner.php">NRI</a></li>
+					  <li class="li-1"><a href="nri_corner.php">NRI CORNER</a></li>
 					  <li class="li-3"><a href="work-with-us.php">WORK WITH US</a></li>
 					</ul>    
 				  </div>
