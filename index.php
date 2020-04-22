@@ -267,7 +267,7 @@ transition:all .6s ease-in-out;
                 </a>
             </div>
             <video autoplay muted loop id="myVideo">
-              <source src="video/final_home.mp4" type="video/mp4">
+              <source src="video/final-home-video.mp4" type="video/mp4">
             </video>
 
     </section>
