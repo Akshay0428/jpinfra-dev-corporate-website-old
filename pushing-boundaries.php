@@ -196,13 +196,13 @@ in construction.</p>
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/pushing_boundaries/The-Human-touch--2.jpg" class="img-cls">
+                                    <img src="img/pushing_boundaries/humanleft.jpg" class="img-cls">
                                 </div>
                                 <div class="item">
-                                    <img src="img/pushing_boundaries/The-Human-touch--2.jpg" class="img-cls">
+                                    <img src="img/pushing_boundaries/humanleft.jpg" class="img-cls">
                                 </div>
                                 <div class="item">
-                                    <img src="img/pushing_boundaries/The-Human-touch--2.jpg" class="img-cls">
+                                    <img src="img/pushing_boundaries/humanleft.jpg" class="img-cls">
                                 </div>
 
                                 <!-- Left and right controls -->
