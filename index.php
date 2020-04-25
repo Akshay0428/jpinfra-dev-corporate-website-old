@@ -982,7 +982,7 @@ transition:all .6s ease-in-out;
                     <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
                         <div class="delivered-proj-top-line"></div>
                         <h1>DELIVERED PROJECTS</h1>
-                        <p>Unity Towers in Worli promises an unmatched living experience with its immaculate architecture and unparalleled aesthetics – enjoyable from the comfort of your living room sofa as well.</p>
+                        <p>We strive to provide the best-in-class projects to the consumers who have put their faith and trust in us. Our delivered projects are a symbol of what we give back to the community in many different ways, be it through our sustainable living, quick project deliveries or just overall well-thought out completed projects.</p>
                         <div class="clearfix"></div>
                         <div class="delivered-proj-bot-line"></div>
                         <div class="clearfix"></div>
