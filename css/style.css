@@ -424,6 +424,9 @@ h2{
 .txt-align{
     text-align: center;
 }
+.marg{
+    margin: 60px 0px;
+}
 /*--------------------------------------------------------------
 Home Page
 --------------------------------------------------------------*/
@@ -758,11 +761,12 @@ JP North parallax
 }
 .banner-subtitle {
     box-shadow: -15px -15px 15px rgba(0, 0, 0, 0.07);
-    width: 46%;
+    width: 47%;
     font-weight: 200;
     text-align: right;
     margin: 0%;
     color: #fff;
+    float: right;
     margin-left: 444px;
     font-size: 14px;
 }
@@ -1641,8 +1645,302 @@ Media Gallery
     width:80%;
     margin: 0 auto;
 }
+/*--------------------------------------------------------------
+north Page
+--------------------------------------------------------------*/
+section.main-npslider {
+    height: 93vh;
+}
 
+.jp-north-page-way-life-main.width-100{
+    background-color: #00000014;
+    padding: 79px 0px;
+        margin-top: 46px;
+}
+    .way-slider-txt {
+        color: #000;
+        font-size: 16px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0;
+        margin-top: 12px;
+        margin-bottom: -5px;
+    }
+    .new-margin {
+        margin-top: 20% !important;
+    }
 
+    .parallax-mira{
+        position: relative;
+        height: 100vh;
+        background: url(../img/Transformating-Miraroadimg.jpg) no-repeat center/cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-top: 0px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .width-100{
+        width: 100%;
+    }
+    .width-80{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .img-width{
+        width:100%;
+    }
+    .color-heading{
+        color: #2e5484;;
+    }
+    .color-black{
+        color: #000;
+        font-weight: 400;
+    }
+    .p-width {
+        width: 80%;
+        margin: 30px 0px 0px 0px;
+        font-weight: 300;
+        font-size: 16px;
+        color: #252525;
+        text-align: left;
+        line-height: 1.3;
+        word-spacing: 2.5px;
+    }
+    .tf-42px{
+        font-size: 42px;
+        font-weight: 600;
+        color: #2e5484;
+        margin: 0px 0px 30px 0px;
+    }
+    .tf-h6{
+        font-size:12px;
+    }
+    .margin-top{
+        margin:50px 0px 50px 0px;
+    }
+    h6.jp-north-page-subheading.tx-align.aos-init.aos-animate {
+        color: #fff;
+        width: 85%;
+    }
+    .pos-relative{
+        position: relative;
+    }
+    .pos-absolute{
+        position: absolute;
+    }
+    .jp-north-page-banner-img{
+        top: 10%;
+    }
+    .jp-north-page-banner-text-main{
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .jp-north-page-banner-text-h1{
+        text-transform: uppercase;
+        font-weight: 300;
+        font-size: 50px;
+    }
+    .jp-north-page-banner-text-h6 {
+        color: #333333;
+        width: 90%;
+        margin: 0 auto;
+        line-height: 1.2;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    .tx-align{
+        text-align: center;
+    }
+    .jp-north-page-way-life-main-text{
+        width: 50%;
+    }
+    .float-left{
+        float: left;
+    }
+    .jp-north-page-way-life-main-img{
+        width: 50%;
+    }
+    .h2-css{
+        margin: 0px;
+        padding: 0px;
+        text-transform: capitalize;
+        font-size: 36px;
+        font-weight: 600;
+    }
+    .jp-north-page-transforming-text-main {
+        top: 10%;
+    }
+    .jp-north-page-heading-txt{
+        text-transform: capitalize;
+    }
+    .jp-north-page-subheading {
+        width: 80%;
+        margin: 0 auto;
+        line-height: 1.4;
+        color: #333333;
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .np-living-space-slider {
+        width: 20%;
+    }
+    .inner-div-np {
+        width: 99%;
+        margin: 0 auto;
+    }
+    .inner-div-np-text {
+        top: 80%;
+        color: #fff;
+        width: 100%;
+        background-color: #00000096;
+    }
+    .inner-div-np-text h5 {
+        color: #fff;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 18px;
+        font-weight: 400;
+    }
+     .inner-div-np:hover .inner-div-np-text h5{
+        color: #000;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .inner-div-np-text h6 {
+        color: #fff;
+        text-transform: capitalize;
+        font-size: 18px;
+        font-weight: 300;
+        text-align: center;
+    }
+    .np-bl-patch {
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+    }
+    .inner-div-np:hover .np-bl-patch {
+        opacity: 1;
+        background-color: #ffffffab;
+    }
+    .inner-div-np:hover .inner-div-np-text{
+        
+        opacity: 1;
+        background-color: transparent; 
+    }
+    .jp-north-page-themed-garden-heading {
+        top: 15%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .jp-north-page-themed-garden-main {
+        margin: 0px;
+    }
+        
+    .themed-garden-16-span {
+        font-size: 4em;
+        font-family: PlayfairDisplay-Bold;
+        
+    }
+    .themed-garden-text-themed {
+        font-family: PlayfairDisplay-Regular;
+        font-size: 2em;
+        font-weight: 300;
+    }
+    .jp-north-page-themed-garden-heading h1 {
+       color: white;  /* Fallback: assume this color ON TOP of image */
+       background: url(img/green-forest-np.jpg) no-repeat;
+       -webkit-background-clip: text;
+       -webkit-text-fill-color: transparent;
+           background-size: cover;
+           
+    background-position: bottom;
+           
+    }
+    .top{
+        top: 25%;
+        left: 12%;
+    }
+    .jp-north-page-abovefooter_main{
+        width: 100%;
+        background-color: #00000014;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .above-footer-color {
+        color: #5b7595;
+        font-weight: 700;
+        font-size: 40px;
+    }
+    .np-greypatch {
+        position: absolute;
+        background-color: #ececec;
+        height: 210px;
+        width: 44%;
+        top: 57%;
+        left: 64%;
+        z-index: -1;
+    }
+    .np-img-leaf {
+        width: 9%;
+        left: 23%;
+        top: 94%;
+    }
+    .np-img-leaf2 {
+        width: 5%;
+        left: 93%;
+        top: 110%;
+    }
+    .np-img-leaf3 {
+        width: 6%;
+        left: 3%;
+        top: 156%;
+    }
+    .np-img-leaf4 {
+        width: 9%;
+        left: 80%;
+        top: 94%;
+    }
+    .np-img-leaf5 {
+        width: 6%;
+        left: 3%;
+        top: 320%;
+    }
+    .np-img-leaf6 {
+        width: 7%;
+        left: 7%;
+        top: 10%;
+    }
+    .np-img-leaf7 {
+        width: 8%;
+        left: 85%;
+        top: 0%;
+    }
+    .np-img-leaf8 {
+        width: 8%;
+        left: 81%;
+        top: 94%;
+    }
+    .north-logo {
+        width: 5%;
+        top: 31%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+    }
+
+    video#myVideonpnorth {
+        width: 100%;
+    }
 /*--------------------------------------------------------------
 Other Projects
 --------------------------------------------------------------*/
@@ -2386,6 +2684,108 @@ div.abovefooter_main > div.container_aks.bg-3.text-center.wow.fadeIn > div.liveH
 /*--------------------------------------------------------------
 Media Page
 --------------------------------------------------------------*/
+
+.sep {width:100%;}
+.sep .image-hover {margin:0px 0px 0px 0px}
+
+/****** image hover ******/
+
+.image-hover * {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+.image-hover {position:relative;
+    width:450px;
+    height:200px;
+    display:inline-block;
+    overflow:hidden;
+    /*background:#fff;*/
+    /*border:10px solid #fff;*/
+    /*box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
+    /*-moz-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
+    /*-webkit-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3)*/
+    
+}
+.image-hover a {text-decoration:none}
+
+.image-hover img {
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+    height: 30vh;
+}
+
+/*** effect - shadow 1 ***/
+
+.img-shadow-1
+{
+-webkit-box-shadow:none;
+-moz-box-shadow: none;
+box-shadow: none;
+}
+
+.img-shadow-1:hover
+{
+transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-ms-transform:scale(1.1);
+-o-transform:scale(1.1);
+
+-webkit-box-shadow: 0 58px 36px -56px black;
+-moz-box-shadow: 0 58px 36px -56px black;
+box-shadow: 0 58px 36px -56px black;
+}
+
+.img-shadow-1
+{
+transition:all .6s ease-in-out;
+-webkit-transition:all .6s ease-in-out;
+-moz-transition:all .6s ease-in-out;
+-ms-transition:all .6s ease-in-out;
+-o-transition:all .6s ease-in-out;
+}
+
+.img-shadow-1:hover
+{
+transition:all .6s ease-in-out;
+-webkit-transition:all .6s ease-in-out;
+-moz-transition:all .6s ease-in-out;
+-ms-transition:all .6s ease-in-out;
+-o-transition:all .6s ease-in-out;
+}
+.sss{
+    width: 21%;
+}
+.sep .image-hover {
+    margin: 10px 8px 10px 8px;
+    height:auto;
+}
+.new {
+    width: 100%;
+    margin: 0 auto;
+}
+.image-hover.img-shadow-1.sss h5 {
+    color: #2e5689;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    padding: 2px;
+}
+.image-hover.img-shadow-1.sss p {
+    text-align: center;
+    font-weight: 400;
+    color: #000;
+        text-transform: capitalize;
+}
+.media_sletters .prev-button-home {
+    top: 50%;
+}
+.media_sletters .next-button-home{
+    top: 50%;
+}
+.media_evimg .prev-button-home {
+    top: 45%;
+}
+.media_evimg .next-button-home{
+    top: 45%;
+}
 .media-background {
     width: 100%;
     margin: 0px 0 170px 0;
@@ -3829,11 +4229,6 @@ Contact Page
 /*--------------------------------------------------------------
 Home Page
 --------------------------------------------------------------*/
-
-/*--------------------------------------------------------------
-Project Page
---------------------------------------------------------------*/
-
 /*--------------------------------------------------------------
 Media Page
 --------------------------------------------------------------*/
@@ -4061,6 +4456,139 @@ span#ccode input[type="text"] {
 .carousel-fade .carousel-inner {
     background: #0000;
 }
+/*--------------------------------------------------------------
+north Page
+--------------------------------------------------------------*/
+section.main-npslider {
+    height: auto;
+}
+video#myVideonpnorth {
+            width: 100%;
+        }
+        .logo-banner {
+            width: 30%;
+            max-width: 50%;
+            top: 5%;
+            left: 5%;
+        }
+        .jp-north-page-banner-text-main {
+            width: 90%;
+            font-size:16px;
+        }
+        .jp-north-page-way-life-main-text {
+            width: 100%;
+            float: none; 
+            margin-bottom: 50px;
+        }
+        .h2-css {
+            font-size: 28px;
+            text-align: center;
+        }
+        .jp-north-page-way-life-main-img {
+            width: 100%;
+            float:none;
+        }
+        .p-width {
+            width: 90%;
+            text-align: center;
+            font-size: 14px;
+            margin: 0 auto;
+            margin-top: 35px;
+        }
+        .jp-north-page-banner-text-h1 {
+            text-transform: uppercase;
+            font-weight: 300;
+            font-size: 36px;
+        }
+        .jp-north-page-way-life-main-divs {
+            width: 94%;
+            margin: 0 auto;
+        }
+        .tf-42px {
+            font-size: 20px;
+        }
+        .np-bl-patch{
+            background-color: #00000000;
+        }
+        /*.np-living-space-slider {*/
+        /*    width: 80%;*/
+        /*    float: none;*/
+        /*    margin: 0 auto;*/
+        /*}dont include*/
+        .np-img-leaf {
+            width: 20%;
+            left: 8%;
+        }
+        .above-footer-color {
+            font-size: 20px;
+        }
+        .jp-north-page-banner-text-h6 {
+            font-size: 16px;
+        }
+        .jp-north-page-subheading {
+            width: 90%;
+            font-size: 14px;
+        }
+        .top {
+            top: 25%;
+            left: 6%;
+        }
+        .tx-align p{
+            text-align:center !important;
+                font-size: 14px !important;
+        }
+        .jp-north-page-abovefooter_main {
+            width: 100%;
+            background-color: #00000014;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        .jp-north-page-way-life-main-text {
+            width: 100%;
+            float: none;
+            margin-bottom: 20px;
+        }
+        .margin-top {
+            margin: 35px 0px 0px 0px;
+        }
+        .inner-div-np-text {
+            top: 85%;
+        }
+        .jp-north-page-transforming-text-main {
+            top: 5%;
+        }
+        .tf-42px {
+            margin: 0px 0px 20px 0px;
+        }
+        .button-np {
+            width: 40%;
+            padding: 0px 6px 0px 14px;
+        }
+        .np-img-leaf3 {
+            width: 7%;
+            left: 90%;
+            top: 95%;
+        }
+        .np-img-leaf2 {
+            width: 7%;
+            left: 88%;
+            top: 146%;
+        }
+        .np-img-leaf5 {
+            width: 12%;
+            left: 9%;
+            top: 324%;
+        }
+        .mob-wid{
+            margin:0 auto;
+            width:80%;
+        }
+        .jp-north-page-themed-garden-heading {
+            top: 15%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 75%;
+        }
 /*--------------------------------------------------------------
 Project Page
 --------------------------------------------------------------*/

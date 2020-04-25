@@ -8,116 +8,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
 
 <style>
-.marg{
-    margin: 60px 0px;
-}
-.sep {width:100%;}
-.sep .image-hover {margin:0px 0px 0px 0px}
-
-/****** image hover ******/
-
-.image-hover * {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
-.image-hover {position:relative;
-    width:450px;
-    height:200px;
-    display:inline-block;
-    overflow:hidden;
-    /*background:#fff;*/
-    /*border:10px solid #fff;*/
-    /*box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
-    /*-moz-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
-    /*-webkit-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3)*/
-    
-}
-.image-hover a {text-decoration:none}
-
-.image-hover img {
-    margin: 0px 0px 0px 0px;
-    width: 100%;
-    height: 30vh;
-}
-
-/*** effect - shadow 1 ***/
-
-.img-shadow-1
-{
--webkit-box-shadow:none;
--moz-box-shadow: none;
-box-shadow: none;
-}
-
-.img-shadow-1:hover
-{
-transform:scale(1.1);
--webkit-transform:scale(1.1);
--moz-transform:scale(1.1);
--ms-transform:scale(1.1);
--o-transform:scale(1.1);
-
--webkit-box-shadow: 0 58px 36px -56px black;
--moz-box-shadow: 0 58px 36px -56px black;
-box-shadow: 0 58px 36px -56px black;
-}
-
-.img-shadow-1
-{
-transition:all .6s ease-in-out;
--webkit-transition:all .6s ease-in-out;
--moz-transition:all .6s ease-in-out;
--ms-transition:all .6s ease-in-out;
--o-transition:all .6s ease-in-out;
-}
-
-.img-shadow-1:hover
-{
-transition:all .6s ease-in-out;
--webkit-transition:all .6s ease-in-out;
--moz-transition:all .6s ease-in-out;
--ms-transition:all .6s ease-in-out;
--o-transition:all .6s ease-in-out;
-}
-.sss{
-    width: 21%;
-}
-.sep .image-hover {
-    margin: 10px 8px 10px 8px;
-    height:auto;
-}
-.new {
-    width: 100%;
-    margin: 0 auto;
-}
-.image-hover.img-shadow-1.sss h5 {
-    color: #2e5689;
-    font-size: 14px;
-    font-weight: 600;
-    text-align: center;
-    padding: 2px;
-}
-.image-hover.img-shadow-1.sss p {
-    text-align: center;
-    font-weight: 400;
-    color: #000;
-        text-transform: capitalize;
-}
-.media_sletters .prev-button-home {
-    top: 50%;
-}
-.media_sletters .next-button-home{
-    top: 50%;
-}
-.media_evimg .prev-button-home {
-    top: 45%;
-}
-.media_evimg .next-button-home{
-    top: 45%;
-}
 .glimpse-main {
     background-color:#e1e1e1;
-    width: 100%;
     padding: 6px 153px;
     margin-top: 0px!important;
-    /*padding-top: 90px;*/
 }
 /**********************
 slick slider
@@ -242,12 +136,12 @@ button.prev-button-home.slick-arrow {
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/christmas.jpg" alt="christmas">
                     <h5>Christmas Celebration:</h5>
-                    <p>JP Infra gives back to society and plays Santa to the kids.</p>
+                    <p>JP Infra gives back to society and plays Santa to the kids</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/Diwali.jpg" alt="Diwali">
                     <h5>Diwali Celebration:</h5>
-                    <p>Building team spirit and togetherness with grand Diwali celebrations and scrumptious food.</p>
+                    <p>Building team spirit and togetherness with grand Diwali celebrations and scrumptious food</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/ganesha.jpg" alt="ganesha">
@@ -257,7 +151,7 @@ button.prev-button-home.slick-arrow {
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/gudi-padwa.jpg" alt="gudi-padwa">
                     <h5>Gudi Padwa Celebration @JP North :</h5>
-                    <p>JP Infra celebrates the start of a new year with reverence and holiness.</p>
+                    <p>JP Infra celebrates the start of a new year with reverence and holiness</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/independance.jpg" alt="independance">
@@ -277,8 +171,8 @@ button.prev-button-home.slick-arrow {
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/twins-day.jpg" alt="twins-day">
                     <h5>Twins Day celebration :</h5>
-                    <p>Team bonding at its highest – When two (or many) become one</p>
-                      <p>  Excitement at its highest with double dhamaka.</p>
+                    <!-- <p>Team bonding at its highest – When two (or many) become one</p> -->
+                      <p>Excitement At Its Highest With Double Dhamaka</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/utrang.jpg" alt="utrang">

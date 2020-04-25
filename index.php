@@ -1204,7 +1204,7 @@ transition:all .6s ease-in-out;
     <div class="main-div-jp">
         <h1 class="banner-title" data-aos="zoom-in-down" data-aos-duration="2000">North - A Lifestyle</h1>
         <P class="banner-subtitle1" data-aos="zoom-in-down" data-aos-duration="2000">Transforming Mira Road </P>
-        <p class="banner-subtitle" data-aos="zoom-in-down" data-aos-duration="2000">North Mumbai has seen rapid development in recent years thanks to the space crunch and cluttered, boxy apartments available in south Mumbai. Infrastructure has played a crucial role in driving growth. The aspiring Mumbaikar welcomes the new preferred hub of North Mumbai, which can be clearly seen with the sizeable emergence of affordable homes. Enhanced connectivity is one of the prime reasons that has led to increased housing demand in North Mumbai.  
+        <p class="banner-subtitle" data-aos="zoom-in-down" data-aos-duration="2000">North Mumbai has gone through rapid development thanks to the space crunch and cluttered, boxy apartments in south Mumbai. Infrastructure has played a crucial role in driving growth. The aspiring Mumbaikar welcomes the sizeable emergence of affordable homes and enhanced connectivity in the new preferred hub of North Mumbai.  
         </p>
        <!--btn-->
        <div class="jplife-button">
@@ -1637,12 +1637,12 @@ transition:all .6s ease-in-out;
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/christmas.jpg" alt="christmas">
                     <h5>Christmas Celebration:</h5>
-                    <p>JP Infra gives back to society and plays Santa to the kids.</p>
+                    <p>JP Infra gives back to society and plays Santa to the kids</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/Diwali.jpg" alt="Diwali">
                     <h5>Diwali Celebration:</h5>
-                    <p>Building team spirit and togetherness with grand Diwali celebrations and scrumptious food.</p>
+                    <p>Building team spirit and togetherness with grand Diwali celebrations and scrumptious food</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/ganesha.jpg" alt="ganesha">
@@ -1652,7 +1652,7 @@ transition:all .6s ease-in-out;
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/gudi-padwa.jpg" alt="gudi-padwa">
                     <h5>Gudi Padwa Celebration @JP North :</h5>
-                    <p>JP Infra celebrates the start of a new year with reverence and holiness.</p>
+                    <p>JP Infra celebrates the start of a new year with reverence and holiness</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/independance.jpg" alt="independance">
@@ -1672,8 +1672,7 @@ transition:all .6s ease-in-out;
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/twins-day.jpg" alt="twins-day">
                     <h5>Twins Day celebration :</h5>
-                    <p>Team bonding at its highest – When two (or many) become one</p>
-                      <p>  Excitement at its highest with double dhamaka.</p>
+                    <p>Excitement At Its Highest With Double Dhamaka</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/utrang.jpg" alt="utrang">
