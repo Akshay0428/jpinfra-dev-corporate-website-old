@@ -3864,6 +3864,9 @@ a.blogs-here-new {
     color: #2e5689;
     border-bottom: 1px solid #2e5689 !important;
 }
+.wwu-lineheight{
+    line-height: 35px;
+}
 .content-wwu p{
     display: block;
     padding: 0px 350px 15px 40px;

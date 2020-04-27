@@ -56,18 +56,20 @@
                   <i class="fa fa-plus"></i>
                 </a>
                 <div class="content-wwu">
-                  <p>Calculation of Project IRR and Equity IRR.</p>
-                  <p>Analysis of costing for every project and reconciliation with various departments.</p>
-                  <p>Preparation of Financial Models for Term Loan, Feasibility Report for real estate projects.</p>
-                  <p>Analyzing the sources and application of funds.</p>
-                  <p>Approaching new lenders for term loan/construction finance/LAP facilities and preparing presentations, project & group level data, debt position of the company and other data as required to close the deal.</p>
-                  <p>Coordinating for disbursements, repayments for existing lenders.</p>
-                  <p>Working on non-fund based limit (Bank Guarantee).</p>
-                  <p>Working with Internal & external auditor for streamlining operating procedures, internal compliances, MIS and reports for business intelligence.</p>
-                  <p>Preparation of Monthly Compliance reports for Investors.</p>
-                  <p>Budgeted and actual variance report analysis.</p>
-                  <p>Closely working with Business Development team & responsible for due diligence process including legal, valuation & compliance aspects.</p>
-                  <p>Compliances with Banks & Relationship management with lenders.</p>
+                  <ul class="wwu-lineheight">
+                    <li>Calculation of Project IRR and Equity IRR.</li>
+                    <li>Analysis of costing for every project and reconciliation with various departments.</li>
+                    <li>Preparation of Financial Models for Term Loan, Feasibility Report for real estate projects.</li>
+                    <li>Analyzing the sources and application of funds.</li>
+                    <li>Approaching new lenders for term loan/construction finance/LAP facilities and preparing presentations, project & group level data, debt position of the company and other data as required to close the deal.</li>
+                    <li>Coordinating for disbursements, repayments for existing lenders.</li>
+                    <li>Working on non-fund based limit (Bank Guarantee).</li>
+                    <li>Working with Internal & external auditor for streamlining operating procedures, internal compliances, MIS and reports for business intelligence.</li>
+                    <li>Preparation of Monthly Compliance reports for Investors.</li>
+                    <li>Budgeted and actual variance report analysis.</li>
+                    <li>Closely working with Business Development team & responsible for due diligence process including legal, valuation & compliance aspects.</li>
+                    <li>Compliances with Banks & Relationship management with lenders.</li>
+                  </ul>
                     <div class="wwu-bttn">
                         <button>apply now</button>
                     </div>
@@ -79,10 +81,13 @@
               <i class="fa fa-plus"></i>
             </a>
             <div class="content-wwu">
-              <p>Collecting and Maintaining all relevant customer database and managing the MIS for CRM Team</p>
-              <p>Preparing & updating outstanding ageing report of multiple projects by using various formulas of excel</p>
-              <p>Manage monthly, weekly &daily dashboards and provide in-depth analysis through monthly presentations. </p>
-              <p>Preparing Audit reports of collections and reconcile it with the Accounts department</p>
+              <ul class="wwu-lineheight">
+                <li>Collecting and Maintaining all relevant customer database and managing the MIS for CRM Team</li>
+                <li>Preparing & updating outstanding ageing report of multiple projects by using various formulas of excel</li>
+                <li>Manage monthly, weekly &daily dashboards and provide in-depth analysis through monthly presentations. </li>
+                <li>Preparing Audit reports of collections and reconcile it with the Accounts department</li>
+              </ul>
+
               <div class="wwu-bttn">
                 <button>apply now</button>
               </div>
