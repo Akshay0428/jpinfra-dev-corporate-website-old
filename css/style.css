@@ -3868,6 +3868,13 @@ a.blogs-here-new {
     line-height: 35px;
     color: #000;
 }
+.content-wwu h3 {
+    text-transform: capitalize;
+    font-size: 20px;
+    padding-left: 42px;
+    color: #000;
+    font-weight: 600;
+}
 .content-wwu p{
     display: block;
     padding: 0px 350px 15px 40px;

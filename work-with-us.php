@@ -52,10 +52,11 @@
         <div class="accordion-container">
             <div class="set set-border">
                 <a>
-                 Assistant Manager/Manager- Fundraising 
+                 Assistant Manager/ Manager- Fundraising 
                   <i class="fa fa-plus"></i>
                 </a>
                 <div class="content-wwu">
+                  <h3>job description</h3>
                   <ul class="wwu-lineheight">
                     <li>Calculation of Project IRR and Equity IRR.</li>
                     <li>Analysis of costing for every project and reconciliation with various departments.</li>
@@ -81,6 +82,7 @@
               <i class="fa fa-plus"></i>
             </a>
             <div class="content-wwu">
+              <h3>job description</h3>
               <ul class="wwu-lineheight">
                 <li>Collecting and Maintaining all relevant customer database and managing the MIS for CRM Team</li>
                 <li>Preparing & updating outstanding ageing report of multiple projects by using various formulas of excel</li>
