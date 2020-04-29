@@ -3929,6 +3929,12 @@ a.blogs-here-new {
 .wwu-bold{
     font-weight: bold;
 }
+.btn-border a{
+    border: none;
+}
+button.btn-border h5 {
+    font-weight: 600;
+}
 /************************work with us page ends************/
 
 /*--------------------------------------------------------------

@@ -72,7 +72,7 @@
                     <li>Compliances with Banks & Relationship management with lenders.</li>
                   </ul>
                     <div class="wwu-bttn">
-                        <button>apply now</button>
+                        <button class="btn-border"><a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="blank"><h5>apply now</h5></a></button>
                     </div>
                 </div>
             </div>
@@ -91,7 +91,8 @@
               </ul>
 
               <div class="wwu-bttn">
-                <button>apply now</button>
+                <button class="btn-border"><a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="blank"><h5>apply now</h5></a>
+                </button>
               </div>
             </div>
           </div>
@@ -104,8 +105,9 @@
               <p>Pellentesque aliquam ligula libero, vitae imperdiet diam porta vitae. sed do eiusmod tempor incididunt ut labore et dolore     magna.</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 <div class="wwu-bttn">
-                    <button>apply now</button>
-                </div>
+                  <button class="btn-border"><a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="blank"><h5>apply now</h5></a>
+                  </button>
+                    </div>
             </div>
           </div>
           <div class="set set-border">
@@ -117,7 +119,8 @@
                 <p> Donec tincidunt consectetur orci at dignissim. Proin auctor aliquam justo, vitae luctus odio pretium scelerisque. </p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 <div class="wwu-bttn">
-                    <button>apply now</button>
+                  <button class="btn-border"><a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="blank"><h5>apply now</h5></a>
+                  </button>
                 </div>
             </div>
           </div>
@@ -130,7 +133,8 @@
                 <p> Donec tincidunt consectetur orci at dignissim. Proin auctor aliquam justo, vitae luctus odio pretium scelerisque. </p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 <div class="wwu-bttn">
-                    <button>apply now</button>
+                  <button class="btn-border"><a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="blank"><h5>apply now</h5></a>
+                  </button>
                 </div>
             </div>
           </div>
