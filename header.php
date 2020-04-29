@@ -8,12 +8,18 @@ function url(){
 	);
   }
   
- 
-$protocol = stripos($_SERVER['SERVER_PROTOCOL'], 'https') === true ? 'https://' : 'https://';
 // echo $_SERVER['SERVER_PROTOCOL']; die;
-$full_url = url() . $_SERVER['HTTP_HOST'] . "/jpuat/";
 // echo $full_url;
 // die;
+$hostUrl = $_SERVER['HTTP_HOST'];
+$arrayHostUrl = explode('.', $hostUrl);
+if($arrayHostUrl[sizeof($arrayHostUrl)-1]==="com"){
+
+	$full_url = url() . $_SERVER['HTTP_HOST'] . "/jpuat/";
+}
+else{
+	$full_url = url() . $_SERVER['HTTP_HOST'] . "/";
+}
 define('ASETS', $full_url); //define('ASETS',$full_url."assets");
 ?>
 <!doctype html>

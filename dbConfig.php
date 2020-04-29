@@ -9,7 +9,7 @@ if($arrayHostUrl[sizeof($arrayHostUrl)-1]==="com"){
 	$dbPassword = 'jpinfra@123';
 	$dbName = 'dotwised_jpinfra';
 }else{
-	$dbHost = 'localhost:3306';
+	$dbHost = 'localhost:3307';
 	$dbUsername = 'root';
 	$dbPassword = '';
 	$dbName = 'jpinfra';
