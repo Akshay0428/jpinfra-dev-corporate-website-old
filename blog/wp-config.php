@@ -20,6 +20,25 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+$hostUrl = $_SERVER['HTTP_HOST'];
+//define('HOSTURL', $full_url);
+$arrayHostUrl = explode('.', $hostUrl);
+if($arrayHostUrl[sizeof($arrayHostUrl)-1]==="com"){
+
+define('DB_NAME', 'dotwised_jpinfrablogs');
+
+/** MySQL database username */
+define('DB_USER', 'dotwised_jp');
+	
+/** MySQL database password */
+define('DB_PASSWORD', 'jpinfra@123');
+	
+/** MySQL hostname */
+define('DB_HOST', 'localhost');
+
+}
+else{
+
 define('DB_NAME', 'jpinfrablogs');
 
 /** MySQL database username */
@@ -31,6 +50,7 @@ define('DB_PASSWORD', '');
 /** MySQL hostname */
 define('DB_HOST', 'localhost:3307');
 
+}
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
 
