@@ -52,7 +52,7 @@
         <div class="accordion-container">
             <div class="set set-border">
                 <a>
-                 Assistant Manager/ Manager- Fundraising 
+                 Assistant Manager / Manager - Fundraising 
                   <i class="fa fa-plus"></i>
                 </a>
                 <div class="content-wwu">
@@ -157,7 +157,7 @@
 
 
     <!-- accordian script -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="js/slickminjscode.js"></script>
     <script>
         $(document).ready(function() {
           $(".set > a").on("click", function() {

@@ -982,7 +982,7 @@ transition:all .6s ease-in-out;
                     <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
                         <div class="delivered-proj-top-line"></div>
                         <h1>DELIVERED PROJECTS</h1>
-                        <p>We strive to provide the best-in-class projects to the consumers who have put their faith and trust in us. Our delivered projects are a symbol of what we give back to the community in many different ways, be it through our sustainable living, quick project deliveries or just overall well-thought out completed projects.</p>
+                        <p>We strive to provide the best-in-class projects to the consumers who have put their faith and trust in us. Our delivered projects are a symbol of what we give back.</p>
                         <div class="clearfix"></div>
                         <div class="delivered-proj-bot-line"></div>
                         <div class="clearfix"></div>
@@ -1925,7 +1925,7 @@ transition:all .6s ease-in-out;
 </div>
 <!---->
 <script src="js/send.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="js/slickminjscode.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.js"></script>
 <script>
    $('.slide-media').slick({
