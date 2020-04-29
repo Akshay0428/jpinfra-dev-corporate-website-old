@@ -1,6 +1,6 @@
 <?php 
-$protocol = stripos($_SERVER['SERVER_PROTOCOL'], 'https') === true ? 'https://' : 'http://';
-echo $_SERVER['SERVER_PROTOCOL']; die;
+$protocol = stripos($_SERVER['SERVER_PROTOCOL'], 'https') === true ? 'https://' : 'https://';
+// echo $_SERVER['SERVER_PROTOCOL']; die;
 $full_url = $protocol . $_SERVER['HTTP_HOST'] . "/jpuat/";
 define('ASETS', $full_url); //define('ASETS',$full_url."assets");
 ?>
