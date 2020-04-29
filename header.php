@@ -1,7 +1,19 @@
 <?php 
+function url(){
+	return sprintf(
+	  "%s://",
+	  isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https' : 'http',
+	  $_SERVER['SERVER_NAME'],
+	  $_SERVER['REQUEST_URI']
+	);
+  }
+  
+ 
 $protocol = stripos($_SERVER['SERVER_PROTOCOL'], 'https') === true ? 'https://' : 'https://';
 // echo $_SERVER['SERVER_PROTOCOL']; die;
-$full_url = $protocol . $_SERVER['HTTP_HOST'] . "/jpuat/";
+$full_url = url() . $_SERVER['HTTP_HOST'] . "/jpuat/";
+// echo $full_url;
+// die;
 define('ASETS', $full_url); //define('ASETS',$full_url."assets");
 ?>
 <!doctype html>
