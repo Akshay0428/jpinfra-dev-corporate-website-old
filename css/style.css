@@ -3660,7 +3660,7 @@ a.ftr_maill:active {
 section#blogs-here {
     width: 80%;
     margin: 0 auto;
-    margin-top: 260px;
+    margin-top: 200px;
     margin-bottom: 80px;
 }
 #blogs-here h5{
@@ -3674,7 +3674,7 @@ section#blogs-here {
     font-weight: 500;
     color: #2E5689;
 }
-.blogs-here {
+.blogs-here-col {
     margin-top: 60px;
 }
 .blogs-here-new img{

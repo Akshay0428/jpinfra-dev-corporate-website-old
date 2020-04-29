@@ -1,7 +1,13 @@
+<?php 
+$protocol = stripos($_SERVER['SERVER_PROTOCOL'], 'https') === true ? 'https://' : 'http://';
+$full_url = $protocol . $_SERVER['HTTP_HOST'] . "/";
+define('ASETS', $full_url); //define('ASETS',$full_url."assets");
+?>
 <!doctype html>
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  	<title>JP Infra</title>
+<base href="<?= ASETS ?>">
+	  <title>JP Infra</title>
     <!-- Required meta tags -->
     
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
