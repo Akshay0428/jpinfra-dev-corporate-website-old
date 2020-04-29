@@ -68,7 +68,7 @@
    top: 40%;
    left: -25px;
    font-size: 1.5em;
-   background-image: url(/img/arrow_2.png);
+   background-image: url(img/arrow_2.png);
    width: 27px;
    height: 18px;
    border: none;
@@ -84,7 +84,7 @@
    position: absolute;
    top: 40%;
    font-size: 1.5em;
-   background-image: url(/img/arrow_1.png);
+   background-image: url(img/arrow_1.png);
    right: -25px;
    width: 28px;
    height: 18px;
@@ -102,13 +102,13 @@
    <!-- Carousel items -->
    <div class="logo-banner">
       <a href="/index.php">
-      <img src="/img/JP Infra Logo.png">
+      <img src="img/JP Infra Logo.png">
       </a>
    </div>
    <div class="blog-banner">
-      <img src="/img/blog/blog_banner.jpg" alt="blog_banner">
+      <img src="img/blog/blog_banner.jpg" alt="blog_banner">
       <div class="blog-box">
-         <div class="lable_line"><img src="/img/Gray-Head-line.png" class="northimage"></div>
+         <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
          <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="aos-init aos-animate">Blog</h1>
          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
       </div>
