@@ -115,7 +115,8 @@
    </div>
    <div class="clearfix"></div>
 </section>
-
+<!-- Banner end Hrere -->
+<!-- <section id="blogs-here">
    <div class="blogs-here">
       <div class="col-md-4">
          <img src="img/blog/blog1.jpg" alt="blog1">
