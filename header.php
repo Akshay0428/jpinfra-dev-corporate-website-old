@@ -1,5 +1,5 @@
 <?php 
-$protocol = stripos($_SERVER['SERVER_PROTOCOL'], 'https') === true ? 'https://' : 'http://';
+$protocol = stripos($_SERVER['SERVER_PROTOCOL'], 'https') === true ? 'https://' : 'https://';
 $full_url = $protocol . $_SERVER['HTTP_HOST'] . "/";
 define('ASETS', $full_url); //define('ASETS',$full_url."assets");
 ?>
