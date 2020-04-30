@@ -1,6 +1,6 @@
 
 <!--Footer-->
-<footer>
+<footer class="mainfooter">
 	<div class="content-continer">
 		<div class="col-md-8 col-lg-8 footer-text">
 			<p>Copyright by JP INFRA. All rights reserved.</p>
