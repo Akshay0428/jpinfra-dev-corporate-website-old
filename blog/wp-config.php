@@ -48,7 +48,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost:3307');
+define('DB_HOST', 'localhost:3306');
 
 }
 /** Database Charset to use in creating database tables. */
@@ -97,7 +97,10 @@ $table_prefix  = 'wp_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
+ini_set('display_errors','Off');
+ini_set('error_reporting', E_ALL );
 define('WP_DEBUG', false);
+define('WP_DEBUG_DISPLAY', false);
 
 /* That's all, stop editing! Happy blogging. */
 
