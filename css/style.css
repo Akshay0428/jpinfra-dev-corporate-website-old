@@ -675,7 +675,7 @@ a.carousel-control.right {
     margin: 0 auto;
     width: 90%;
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 }
 /*--------------------------------------------------------------
 Counter
@@ -1032,7 +1032,7 @@ img.arrow_button {
 }
 .delivered-projects-head{
     border-left: 5px solid #ddd;
-    padding: 60px 0px 60px 25px;
+    padding: 70px 0px 70px 25px;
     margin-top: 0px;
     position: relative;
 }
