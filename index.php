@@ -1001,6 +1001,7 @@ transition:all .6s ease-in-out;
                         </div>
                         <div class="abt-slide-heading">
                             <h6>Unity Tower</h6>
+                            <p>Worli</p>
                         </div>
                     </div>
                   </div>
@@ -1016,6 +1017,7 @@ transition:all .6s ease-in-out;
                         </div>
                         <div class="abt-slide-heading">
                             <h6>JP DECKS</h6>
+                            <p>Goregaon</p>
                         </div>
                     </div>
                   </div>
@@ -1031,6 +1033,7 @@ transition:all .6s ease-in-out;
                         </div>
                         <div class="abt-slide-heading">
                             <h6>Chalet Amar</h6>
+                            <p>Juhu</p>
                         </div>
                     </div>
                   </div>
@@ -1045,6 +1048,7 @@ transition:all .6s ease-in-out;
                         </div>
                         <div class="abt-slide-heading">
                             <h6>North Celeste</h6>
+                            <p>Mira Road</p>
                         </div>
                     </div>
                   </div>
@@ -1059,6 +1063,7 @@ transition:all .6s ease-in-out;
                         </div>
                         <div class="abt-slide-heading">
                             <h6>Atria</h6>
+                            <p>North Garden City, Mira Road</p>
                         </div>
                     </div>
                   </div>
@@ -1074,6 +1079,7 @@ transition:all .6s ease-in-out;
                         </div>
                         <div class="abt-slide-heading">
                             <h6>Estella</h6>
+                            <p>North Garden City, Mira Road</p>
                         </div>
                     </div>
                   </div>
@@ -1087,6 +1093,7 @@ transition:all .6s ease-in-out;
                         </div>
                         <div class="abt-slide-heading">
                             <h6>Dream Land Apartment</h6>
+                            <p>Khar</p>
                         </div>
                     </div>
                   </div>

@@ -829,16 +829,25 @@ Projects Delivered
 }
 .abt-slide-heading h6{
     margin: 0;
-    padding: 15px 0;
+    padding: 15px 0 0 0;
     text-align: center;
     color: #2e5689;
     font-size: 14px;
     font-weight: 800;
 }
+.abt-slide-heading p{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
 .abt-jp-slider:hover .abt-slide-heading{
     background-position: left bottom;
 }
 .abt-jp-slider:hover .abt-slide-heading h6{
+    color: #fff;
+}
+.abt-jp-slider:hover .abt-slide-heading p{
     color: #fff;
 }
    
