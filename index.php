@@ -735,7 +735,7 @@ transition:all .6s ease-in-out;
                     <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
                         <div class="delivered-proj-top-line"></div>
                         <h1>DELIVERED PROJECTS</h1>
-                        <h6>Dreamland</h6>
+                        <h6>Dream Land Apartment</h6>
                         <p>Dreamland in Khar is surely a house of dreams with meticulously designed apartments. JP Infra offers you your dream house.</p>
                         <div class="clearfix"></div>
                         <div class="jpabout-projects-button">
@@ -993,20 +993,6 @@ transition:all .6s ease-in-out;
             </div>
             <div class="col-md-8 main-abt-slider">
               <div class="col-md-4">
-                <a href="http://www.jpinfra.com/jp-decks/" target="blank">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/JP-Decks.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>JP DECKS</h6>
-                        </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-4">
                 <a href="http://www.jpinfra.com/unity-tower.html" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
@@ -1020,6 +1006,36 @@ transition:all .6s ease-in-out;
                   </div>
                 </a>
               </div>
+
+              <div class="col-md-4">
+                <a href="http://www.jpinfra.com/jp-decks/" target="blank">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/JP-Decks.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>JP DECKS</h6>
+                        </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              
+              <div class="col-md-4">
+                <a href="http://www.jpinfra.com/chalet-amar/" target="blank">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/Chalet-Amar.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>Chalet Amar</h6>
+                        </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
               <div class="col-md-4">
                 <a href="https://www.jpinfra.com/jp-north/celeste/" target="blank">
                   <div class="delivered-projects-carousel">
@@ -1028,7 +1044,7 @@ transition:all .6s ease-in-out;
                             <img src="img/home/delivered-projects/Celeste.jpg" alt="delivered-projects">
                         </div>
                         <div class="abt-slide-heading">
-                            <h6>Celeste</h6>
+                            <h6>North Celeste</h6>
                         </div>
                     </div>
                   </div>
@@ -1048,32 +1064,7 @@ transition:all .6s ease-in-out;
                   </div>
                 </a>
               </div> 
-              <div class="col-md-4">
-                <a href="http://www.jpinfra.com/chalet-amar/" target="blank">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Chalet-Amar.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>Chalet Amar</h6>
-                        </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-4">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Dreamland.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>Dreamland</h6>
-                        </div>
-                    </div>
-                  </div>
-              </div>
+              
               <div class="col-md-4">
                 <a href="https://www.jpinfra.com/jp-north/gardencity/" target="blank">
                   <div class="delivered-projects-carousel">
@@ -1087,7 +1078,20 @@ transition:all .6s ease-in-out;
                     </div>
                   </div>
                 </a>
-              </div>             
+              </div>
+              <div class="col-md-4">
+                  <div class="delivered-projects-carousel">
+                    <div class="abt-jp-slider">
+                        <div class="abt-slide">
+                            <img src="img/home/delivered-projects/Dreamland.jpg" alt="delivered-projects">
+                        </div>
+                        <div class="abt-slide-heading">
+                            <h6>Dream Land Apartment</h6>
+                        </div>
+                    </div>
+                  </div>
+              </div>
+                           
             </div>
             <div class="col-md-1"></div>
             <div class="clearfix"></div>
@@ -1273,7 +1277,7 @@ transition:all .6s ease-in-out;
                         <div class="container__center">
                            <div class="swiper-container ongoingclass">
                               <div class="swiper-wrapper">
-                                  <div class="swiper-slide">
+<!--                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/boulevard.html">
@@ -1284,9 +1288,105 @@ transition:all .6s ease-in-out;
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Boulevard</h2>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">EASY ACCESSIBILITY EASY LIFE</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled amidst one of the most well connected suburbs of Mumbai, Boulevard witnesses spacious homes equipped with state-of-the-art amenities. Modelled to offer the most comfortable and luxurious lifestyle experience, it’s the perfect escape from the hustle and bustle of the busy city. Boulevard’s lavish homes are designed to provide the experience of a utopian dream home. </p>
+                                          <span data-swiper-parallax-y="60%" class="number">1</span>
+                                       </div>
+                                    </div>
+                                 </div> -->
+                                  <div class="swiper-slide">
+                                    <div class="swiper-slide__block">
+                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                          <a target="_blank" href="https://www.jpinfra.com/jp-north/codenamenowornever/">
+                                          <img src="img/home/ongoing/NON.jpg" alt="Codename Now or Never">
+                                          </a>
+                                       </div>
+                                       <div class="swiper-slide__block__text">
+                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Now or Never</h2>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">ANOTHER NORTHERN DELIGHT</h3>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Experience the finer things in life at Codename Now or Never and live life in style. A perfect blend of all things sweet, spicy and sour, it is sure to keep all your taste buds and preferences happy and satisfied.</p>
+                                          <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
+                                          <span data-swiper-parallax-y="60%" class="number">1</span>
+                                       </div>
+                                    </div>
+                                 </div>
+                                  <div class="swiper-slide">
+                                    <div class="swiper-slide__block">
+                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                          <a target="_blank" href="https://www.jpinfra.com/codenamehotcake/">
+                                          <img src="img/home/ongoing/Hotcake.jpg" alt="Codename Hotcake">
+                                          </a>
+                                       </div>
+                                       <div class="swiper-slide__block__text">
+                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Hotcake</h2>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">OPEN PAYMENT PLANS - YOUR HOUSE, YOUR CHOICE</h3>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Smartly planned, with every brick crafted to perfection, Codename Hotcake is styled to fulfil every need of your dream home. Equipped with the latest technology and necessities close at hand, Codename Hotcake aspires to make the experience at Mira Road better than your dreams.</p>
+                                          <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
+                                          <span data-swiper-parallax-y="60%" class="number">2</span>
+                                       </div>
+                                    </div>
+                                 </div>
+                                  <div class="swiper-slide">
+                                    <div class="swiper-slide__block">
+                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                          <a target="_blank" href="https://www.jpinfra.com/codenameopenstreets/">
+                                          <img src="img/home/ongoing/Open-Streets.jpg" alt="Codename Open Streets">
+                                          </a>
+                                       </div>
+                                       <div class="swiper-slide__block__text">
+                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Open Streets</h2>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">INSPIRED BY THE EUROPEAN CITY OF BARCELONA</h3>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Harmonizing nature, luxuries and convenience in European style, Codename Open Streets provides a grand lifestyle. Well-connected and equipped with the latest amenities, Mira Road’s North Garden City offers homes loved by one & all.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
                                           <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">1</span>
+                                          <span data-swiper-parallax-y="60%" class="number">3</span>
+                                       </div>
+                                    </div>
+                                 </div>
+                                  <div class="swiper-slide">
+                                    <div class="swiper-slide__block">
+                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                          <a target="_blank" href="#">
+                                          <img src="img/home/ongoing/Elara.jpg" alt="Elara">
+                                          </a>
+                                       </div>
+                                       <div class="swiper-slide__block__text">
+                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Elara</h2>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED LUSH GREEN VIEWS</h3>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled in lush green surroundings, JP North’s Elara offers a home that goes beyond the 4 walls of your room. Situated in the heart of nature, it is well connected to both the Eastern & Western routes of the city. Equipped with a vast range of amenities, Elara provides you with a well rounded & tranquil lifestyle.</p>
+                                          <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
+                                          <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
+                                          <span data-swiper-parallax-y="60%" class="number">4</span>
+                                       </div>
+                                    </div>
+                                 </div>
+                                  <div class="swiper-slide">
+                                    <div class="swiper-slide__block">
+                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                          <a target="_blank" href="#">
+                                          <img src="img/home/ongoing/Euphoria.jpg" alt="Euphoria">
+                                          </a>
+                                       </div>
+                                       <div class="swiper-slide__block__text">
+                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Euphoria</h2>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">A HAVEN OF PURE BLISS AND DELIGHT</h3>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">JP North’s Euphoria offers a lifestyle where you are in touch with nature everyday, encompassing all the requisites of a perfect dream home. It provides an ambience brimming with restaurants, salons, top-notch institutes and various other lifestyle conveniences.</p>
+                                          <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
+                                          <span data-swiper-parallax-y="60%" class="number">5</span>
+                                       </div>
+                                    </div>
+                                 </div>
+                                  <div class="swiper-slide">
+                                    <div class="swiper-slide__block">
+                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                          <a target="_blank" href="#">
+                                          <img src="img/home/ongoing/Alexa.jpg" alt="Alexa">
+                                          </a>
+                                       </div>
+                                       <div class="swiper-slide__block__text">
+                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Alexa</h2>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">AN OASIS OF LUXURY IN THE HEART OF MIRA ROAD</h3>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Designed to provide a myriad of experiences, JP North’s Alexa is set to incorporate tranquillity and serenity of nature into your lifestyle. Blended with all the latest amenities and everyday facilities, experience the futuristic lifestyle for the futuristic life at JP North Alexa.</p>
+                                          <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
+                                          <span data-swiper-parallax-y="60%" class="number">4</span>
                                        </div>
                                     </div>
                                  </div>
@@ -1304,105 +1404,7 @@ transition:all .6s ease-in-out;
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">30+ OUTDOOR</p>-->
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">Amenities to keep you Healthy & Fit</p>-->
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">2</span>
-                                       </div>
-                                    </div>
-                                 </div>
-                                  <div class="swiper-slide">
-                                    <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="#">
-                                          <img src="img/home/ongoing/Elara.jpg" alt="Elara">
-                                          </a>
-                                       </div>
-                                       <div class="swiper-slide__block__text">
-                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Elara</h2>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED LUSH GREEN VIEWS</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled in lush green surroundings, JP North’s Elara offers a home that goes beyond the 4 walls of your room. Situated in the heart of nature, it is well connected to both the Eastern & Western routes of the city. Equipped with a vast range of amenities, Elara provides you with a well rounded & tranquil lifestyle.</p>
-                                          <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
-                                          <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">3</span>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swiper-slide">
-                                    <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="#">
-                                          <img src="img/home/ongoing/Euphoria.jpg" alt="Euphoria">
-                                          </a>
-                                       </div>
-                                       <div class="swiper-slide__block__text">
-                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Euphoria</h2>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">A HAVEN OF PURE BLISS AND DELIGHT</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">JP North’s Euphoria offers a lifestyle where you are in touch with nature everyday, encompassing all the requisites of a perfect dream home. It provides an ambience brimming with restaurants, salons, top-notch institutes and various other lifestyle conveniences.</p>
-                                          <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">4</span>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swiper-slide">
-                                    <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="#">
-                                          <img src="img/home/ongoing/Alexa.jpg" alt="Alexa">
-                                          </a>
-                                       </div>
-                                       <div class="swiper-slide__block__text">
-                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Alexa</h2>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">AN OASIS OF LUXURY IN THE HEART OF MIRA ROAD</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Designed to provide a myriad of experiences, JP North’s Alexa is set to incorporate tranquillity and serenity of nature into your lifestyle. Blended with all the latest amenities and everyday facilities, experience the futuristic lifestyle for the futuristic life at JP North Alexa.</p>
-                                          <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">5</span>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swiper-slide">
-                                    <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="https://www.jpinfra.com/codenamehotcake/">
-                                          <img src="img/home/ongoing/Hotcake.jpg" alt="Codename Hotcake">
-                                          </a>
-                                       </div>
-                                       <div class="swiper-slide__block__text">
-                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Hotcake</h2>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">OPEN PAYMENT PLANS - YOUR HOUSE, YOUR CHOICE</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Smartly planned, with every brick crafted to perfection, Codename Hotcake is styled to fulfil every need of your dream home. Equipped with the latest technology and necessities close at hand, Codename Hotcake aspires to make the experience at Mira Road better than your dreams.</p>
-                                          <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">6</span>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swiper-slide">
-                                    <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="https://www.jpinfra.com/codenameopenstreets/">
-                                          <img src="img/home/ongoing/Open-Streets.jpg" alt="Codename Open Streets">
-                                          </a>
-                                       </div>
-                                       <div class="swiper-slide__block__text">
-                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Open Streets</h2>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">INSPIRED BY THE EUROPEAN CITY OF BARCELONA</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Harmonizing nature, luxuries and convenience in European style, Codename Open Streets provides a grand lifestyle. Well-connected and equipped with the latest amenities, Mira Road’s North Garden City offers homes loved by one & all.</p>
-                                          <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
-                                          <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">7</span>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swiper-slide">
-                                    <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="https://www.jpinfra.com/jp-north/codenamenowornever/">
-                                          <img src="img/home/ongoing/NON.jpg" alt="Codename Now or Never">
-                                          </a>
-                                       </div>
-                                       <div class="swiper-slide__block__text">
-                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Now or Never</h2>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">ANOTHER NORTHERN DELIGHT</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Experience the finer things in life at Codename Now or Never and live life in style. A perfect blend of all things sweet, spicy and sour, it is sure to keep all your taste buds and preferences happy and satisfied.</p>
-                                          <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">8</span>
                                        </div>
                                     </div>
                                  </div>
@@ -1419,8 +1421,9 @@ transition:all .6s ease-in-out;
                   </div>
                </div>
             </div>
+
             <!-- Ready-to-move --> 
-            <div class="projects-head">
+<!--             <div class="projects-head">
                 <h3>Ready to move Projects</h3>
             </div>
             <div class="pr_showcase" id="hProngoing">
@@ -1441,9 +1444,11 @@ transition:all .6s ease-in-out;
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Estella</h2>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">LUXURY BEYOND 4 WALLS</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">JP North’s Estella is designed to offer everything that one needs around a home, a stone’s throw away. Packed with avant-garde range of amenities and set against a backdrop of lush greenery, it desires to bring you to live in a world of beauty, leisure and security.</p>
-                                          <!--<p data-swiper-parallax-x="-40%" class="paragraphe">30+ OUTDOOR</p>-->
-                                          <!--<p data-swiper-parallax-x="-40%" class="paragraphe">Amenities to keep you Healthy & Fit</p>-->
-                                          <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
+                                          comment start
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">30+ OUTDOOR</p>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Amenities to keep you Healthy & Fit</p>
+                                          <a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>
+                                          comment ends
                                           <span data-swiper-parallax-y="60%" class="number">1</span>
                                        </div>
                                     </div>
@@ -1459,8 +1464,10 @@ transition:all .6s ease-in-out;
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Atria</h2>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">REDEFINING INTEGRATED LIVING</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">A dream home designed to offer you the ethereal experience of living amidst nature’s panoramas, North Atria offers you homes that focus on your overall well being. It endeavours to bring you the perfect rejuvenation for your soul, mind and body with its enormous and diverse range of lifestyle amenities. </p>
-                                          <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
-                                          <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
+                                          comment start
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       
+                                          <a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>
+                                          comment ends
                                           <span data-swiper-parallax-y="60%" class="number">2</span>
                                        </div>
                                     </div>
@@ -1473,10 +1480,12 @@ transition:all .6s ease-in-out;
                                           </a>
                                        </div>
                                        <div class="swiper-slide__block__text">
-                                          <h2 data-swiper-parallax-x="-60%" class="main__title">Celeste</h2>
+                                          <h2 data-swiper-parallax-x="-60%" class="main__title">North Celeste</h2>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">FUTURISTIC LIFESTYLE</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Encompassed within rich landscaped gardens and spaces, North Celeste offers you a lifestyle sprinkled with tranquillity and serenity. North Celeste offers a thoughtful lifestyle for its residents to enjoy ultra-modern amenities with state-of-the-art technology through impeccable and futuristic planning and architecture.</p>
-                                          <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
+                                          comment start
+                                          <a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>
+                                          comment ends
                                           <span data-swiper-parallax-y="60%" class="number">3</span>
                                        </div>
                                     </div>
@@ -1493,7 +1502,7 @@ transition:all .6s ease-in-out;
                      </div>
                   </div>
                </div>
-            </div>
+            </div> -->
          </div>
          <div class="clearfix"></div>
       </div>
