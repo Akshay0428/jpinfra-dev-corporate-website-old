@@ -1,4 +1,5 @@
 <?php include 'header.php';?>
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
@@ -1393,7 +1394,7 @@ transition:all .6s ease-in-out;
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">AN OASIS OF LUXURY IN THE HEART OF MIRA ROAD</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Designed to provide a myriad of experiences, JP North’s Alexa is set to incorporate tranquillity and serenity of nature into your lifestyle. Blended with all the latest amenities and everyday facilities, experience the futuristic lifestyle for the futuristic life at JP North Alexa.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
-                                          <span data-swiper-parallax-y="60%" class="number">4</span>
+                                          <span data-swiper-parallax-y="60%" class="number">6</span>
                                        </div>
                                     </div>
                                  </div>
