@@ -1,5 +1,13 @@
+<div class="clearfix"></div>
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+
+<?php get_template_part( is_front_page() || is_home() || is_front_page() && is_home() || is_archive() || is_search()); ?>
+
+
+<?php the_post_thumbnail(); ?>
 <header>
+<?php edit_post_link(); ?>
+<?php if ( ! is_search() ) { get_template_part( 'entry', 'meta' ); } ?>
 <?php if ( is_singular() ) {
 echo '<h1 class="entry-title">';
 } else {
@@ -10,9 +18,10 @@ echo '<h2 class="entry-title">';
 echo '</h1>';
 } else {
 echo '</h2>';
-} ?> <?php edit_post_link(); ?>
-<?php if ( ! is_search() ) { get_template_part( 'entry', 'meta' ); } ?>
+} ?>
 </header>
-<?php get_template_part( 'entry', ( is_front_page() || is_home() || is_front_page() && is_home() || is_archive() || is_search() ? 'summary' : 'content' ) ); ?>
+<div class="entry-content">
+<?php the_content(); ?>
+</div>
 <?php if ( is_singular() ) { get_template_part( 'entry-footer' ); } ?>
 </article>

@@ -115,6 +115,7 @@
    </div>
    <div class="clearfix"></div>
 </section>
+<div class="clearfix"></div>
 <!-- Banner end Hrere -->
 <!-- <section id="blogs-here">
    <div class="blogs-here">

@@ -2,11 +2,18 @@
  Inner blog Style CSS
  ********************************************************************/
 
- main#content {
+ /* main#content {
 	width: 60%;
 	padding: 30px 0px;
 	margin-left: 8%;
 	float: left;
+} */
+main#content {
+    width: 53%;
+    padding: 30px 0px;
+    margin-left: 10%;
+    float: left;
+    margin-top: 15%;
 }
 h1.entry-title {
     font-size: 25px;
@@ -22,11 +29,36 @@ h1.entry-title {
 	color: #000;
 	text-decoration: none;
 }
-aside#sidebar {
+/* aside#sidebar {
 	width: 20%;
 	float: left;
 	margin-left: 5%;
 	padding: 30px 0px;
+} */
+aside#sidebar {
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding: 30px 0px;
+    margin-top: 15%;
+}
+.rpwe-time {
+    color: #2E5689 !important;
+}
+li#recent-comments-2 {
+    display: none;
+}
+li#archives-2 {
+    display: none;
+}
+li#categories-2 {
+    display: none;
+}
+li#meta-2 {
+    display: none;
+}
+li#recent-posts-2 {
+    display: none;
 }
 .entry-meta {
     margin-bottom: 10px;
@@ -41,11 +73,28 @@ main#content a,
 aside#sidebar a {
 	color: #000;
 }
-textarea#comment {
+/* textarea#comment {
 	border: 1px solid #000;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	width: 41.35%;
+} */
+textarea#comment {
+    border: 1px solid #2e56896b !important;
+    font-family: roboto, sans-serif;
+    font-weight: 300;
+    width: 50%;
+    padding: 0px;
+    height: auto;
+}
+input {
+    padding: 10px !important;
+    width: 50% !important;
+    border: 1px solid #2e56896b !important;
+    margin: 4% 0% 0% 0% !important;
+    box-shadow: 0px 0px 0px 0px #1c385d5e !important;
+    font-size: 12px !important;
+    border-radius: 4% !important;
 }
 input#author,
 input#email,
@@ -57,13 +106,14 @@ input#url {
 	font-weight: bold;
 }
 input.search-submit {
-	text-align: center;
-	padding: 4px 14px 4px 14px;
-	border-radius: 50px;
-	color: #fff;
-	font-size: 14px;
-	background: #f44336bf;
-	font-weight: 100;
+	text-align: center !important;
+	padding: 4px 14px 4px 14px !important;
+	border-radius: 50px !important;
+	color: #fff !important;
+	font-size: 14px !important;
+	background: #f44336bf !important;
+	font-weight: 100 !important;
+	width: 247px !important;
 }
 .footer {
 	display: none;
@@ -85,6 +135,7 @@ input.search-field {
 	border: 1px solid #000;
 	border-radius: 35px;
 	padding: 4px 14px 4px 14px;
+	width: 247px !important;
 }
 input.search-submit:hover {
 	background: #fff;
@@ -125,13 +176,14 @@ input#submit:hover {
 	font-size: 12px;
 }
 input.search-submit {
-    text-align: center;
-    padding: 4px 14px 4px 14px;
-    border-radius: 50px;
-    color: #fff;
-    font-size: 14px;
-    background: #2E5689;
-    font-weight: 500;
+    text-align: center !important;
+    padding: 4px 14px 4px 14px !important;
+    border-radius: 50px !important;
+    color: #fff !important;
+    font-size: 14px !important;
+    background: #2E5689 !important;
+	font-weight: 500 !important;
+	width: 247px !important;
 }
 li#recent-posts-2,
 li#recent-comments-2,
@@ -150,6 +202,7 @@ h3#reply-title {
 	margin: 10px 0 10px 0;
 	font-weight: bold;
 }
+
 @media only screen and (max-width: 600px) {
 	main#content {
 		width: 96%;
