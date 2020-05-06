@@ -9,9 +9,10 @@
 	float: left;
 }
 h1.entry-title {
-	font-size: 40px;
-	font-weight: 600;
-	color: #000;
+    font-size: 25px;
+    font-weight: 600;
+    color: #000;
+    text-align: left;
 }
 .entry-title a {
 	font-weight: 600;
@@ -28,11 +29,13 @@ aside#sidebar {
 	padding: 30px 0px;
 }
 .entry-meta {
-	margin-bottom: 10px;
+    margin-bottom: 10px;
+    color: #2E5689;
 }
 .entry-content p {
-	margin-top: 40px;
-	margin-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-weight: 400;
 }
 main#content a,
 aside#sidebar a {
@@ -89,13 +92,13 @@ input.search-submit:hover {
 	border: 1px solid #f44336bf;
 }
 input#submit {
-	text-align: center;
-	padding: 4px 14px 4px 14px;
-	border-radius: 50px;
-	color: #fff;
-	font-size: 14px;
-	background: #f44336bf;
-	font-weight: 100;
+    text-align: center;
+    padding: 4px 14px 4px 14px;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 14px;
+    background: #2E5689;
+    font-weight: 500;
 }
 input#submit:hover {
 	background: #fff;
@@ -122,13 +125,13 @@ input#submit:hover {
 	font-size: 12px;
 }
 input.search-submit {
-	text-align: center;
-	padding: 4px 14px 4px 14px;
-	border-radius: 50px;
-	color: #fff;
-	font-size: 14px;
-	background: #f44336bf;
-	font-weight: 100;
+    text-align: center;
+    padding: 4px 14px 4px 14px;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 14px;
+    background: #2E5689;
+    font-weight: 500;
 }
 li#recent-posts-2,
 li#recent-comments-2,
