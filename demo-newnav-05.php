@@ -210,7 +210,7 @@
               </ul>
             </div>
           </div>
-
+          
           <a class='list-group-item' href='#'>Careers</a>
           <a class='list-group-item' href='#'>Contact Us</a>
         </div>
@@ -218,8 +218,13 @@
     </div>
   </div>
 
+
+<!-- js original -->
   <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script> -->
   <!-- <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script> -->
 
+
+
+<!-- our js -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
