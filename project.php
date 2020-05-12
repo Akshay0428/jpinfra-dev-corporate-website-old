@@ -342,7 +342,7 @@
 			                                </div>
 								</div>
 							</div> -->
-							1<div class="project-ongoing">
+							<div class="project-ongoing">
 								<div class="projectongoingimg columews">
 									<img src="img/project/ongoing/donald.jpg">
 									<div class="media_hveff_pro"><h5>EASY ACCESSIBILITY EASY LIFE</h5>

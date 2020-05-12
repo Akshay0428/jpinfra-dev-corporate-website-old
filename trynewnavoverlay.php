@@ -189,7 +189,7 @@
                 <div id="overlay" class="overlay">
                     <nav class="overlay-menu">
                         <ul>
-                            <li> <a href="#">project</a></li>
+                            <li>project</li>
                             <li> <a href="#">pushing boundaries</a></li>
                             <li> <a href="#">contact us</a></li>
                             <li> <a href="#">overview</a></li>
@@ -208,9 +208,9 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         <script>
             $('#toggle').click(function() {
-   $(this).toggleClass('active');
-   $('#overlay').toggleClass('open');
-  });
+			   $(this).toggleClass('active');
+			   $('#overlay').toggleClass('open');
+			  });
         </script>
     </body>
 
