@@ -691,8 +691,9 @@ Counter
         width: 80%;
         margin: auto;
 }
+
 .numbers-div {
-        width: 24.22%;
+        width: 33.33%;
         float: left;
         padding: 0 20px;
 }
@@ -721,6 +722,12 @@ Counter
         /*font-family: POPPINS-REGULAR;*/
         font-weight: 500;
             line-height: 1.2;
+}
+span.base_no {
+    font-size: 14px;
+}
+.adjust-margin{
+    margin-left: 25px;
 }
 .marg-left{
         margin-left: 30px !important;

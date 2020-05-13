@@ -361,50 +361,52 @@ transition:all .6s ease-in-out;
 <!--   </div>-->
 <!--</section>-->
 <!-- Banner end Hrere -->
-<!---Counter desktop start-->
+
+
+<!---Counter desktop new start-->
 <div class="below-banner-section m_hide">
    <div class="content-div" id="">
       <div class="numbers-div border-ryt">
          <div class="number-content">
-            <h1>50+</h1>
+            <h1>12+</h1>
          </div>
          <div class="number-content">
-            <p>YEARS<br>OF TRUST</p>
-         </div>
-         <div class="clearfix"></div>
-      </div>
-      <div class="numbers-div border-ryt">
-         <div class="number-content">
-            <h1>15+</h1>
-         </div>
-         <div class="number-content">
-            <p>GLOBAL<br>AWARDS</p>
+            <p>YEARS<br>OF GROWTH</p>
          </div>
          <div class="clearfix"></div>
       </div>
       <div class="numbers-div border-ryt">
          <div class="number-content">
-            <h1>7500+</h1>
+            <h1 class="adjust-margin">1200+</h1>
          </div>
          <div class="number-content">
-            <p class="marg-left">HAPPY<br>FAMILIES</p>
+            <p>APARTMENTS<br>IN FY 19-20</p>
          </div>
          <div class="clearfix"></div>
       </div>
       <div class="numbers-div">
          <div class="number-content">
-            <h1>150+</h1>
+            <h1>4 <span class="base_no">mn sq ft</span></h1>
          </div>
          <div class="number-content">
-            <p>ACRES OF <br>DEVELOPMENT</p>
+            <p>UNDER<br>CONSTRUCTION</p>
          </div>
          <div class="clearfix"></div>
       </div>
-      <div class="clearfix"></div>
    </div>
    <div class="clearfix"></div>
 </div>
-<!---Counter desktop ends-->
+<!---Counter desktop new ends-->
+
+
+
+
+
+
+
+
+
+
 <!---Counter mobile start-->
 <section class="main-slider below-banner-section d_hide">
    <div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
