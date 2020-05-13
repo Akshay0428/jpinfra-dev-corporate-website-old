@@ -7,7 +7,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>   
 <link rel="stylesheet" href="css/otherprojslider.css">
 <style>
-
+.swiper-button-prev {
+top: 95% !important;
+}
         .slick-dots {
     	    text-align: center;
     	    margin: 0 0 0px 0;
@@ -67,6 +69,12 @@
     	  cursor: pointer;
     	  color: black;
     	}
+        @media (min-width: 1200px){
+            .swiper-container {
+                height: auto;
+            }
+        }
+
     
     	@media screen and (max-width: 800px) {
     	  .next-button {
@@ -187,7 +195,7 @@
                                             <div class="swiper-slide__block np-swiper-slide">
                                                 <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
-                                                        <img src="img/home/ready-move/Celeste.jpg" alt="lion">
+                                                        <img src="img/jpnorthpage/new/lion.jpg" alt="lion">
                                                     </a>
                                                 </div>
                                             </div>
