@@ -727,7 +727,7 @@ span.base_no {
     font-size: 14px;
 }
 .adjust-margin{
-    margin-left: 25px;
+    margin-left: 25px !important;
 }
 .marg-left{
         margin-left: 30px !important;
