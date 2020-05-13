@@ -91,7 +91,13 @@ nav .center__navigation {
 	-webkit-transform: translateY(-50%) translateX(-50%);
 	transform: translateY(-50%) translateX(-50%);
 }
-
+    .np-swiper-slide .swiper-slide__block__img {
+        width: 100% !important;
+}
+.np-mergerd{
+    width: 50%;
+    float: left;
+}
 
 .swiper-button-next
 {

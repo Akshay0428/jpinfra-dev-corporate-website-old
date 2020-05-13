@@ -6,8 +6,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>   
 <link rel="stylesheet" href="css/otherprojslider.css">
-<style>
 
+
+
+<style>s
         .slick-dots {
     	    text-align: center;
     	    margin: 0 0 0px 0;
@@ -127,56 +129,7 @@
                 <h2 class="h2-css color-heading tf-42px" data-aos="fade-up" data-aos-duration="3000">An assured way of living</h2>
                <p class="color-black p-width m_hide" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls.  North is designed with a vision to provide a carefully crafted lavish environment for our residents, with each space planned with great thought and vision.  When you enter North, you enter into an oasis of greenery and serenity, a place of calm to come home to, from the fast-paced life of Mumbai.  16 themed gardens, a range of top-class amenities, car-free zones, safe zone for children and the elderly, and entertainment for the entire family, is what you get at North.  And all of this, in a socially responsible sustainable low-waste environment.  Come home to living, come home to North.  </p>
            </div>
-           <!-- old slider -->
-           <!-- <div class="jp-north-page-way-life-main-img img-width float-left pos-relative">
-               <img class="img-way-life m_hide" src="img/way-life-np.jpg">
-               <img class="img-way-life d_hide" src="img/way-life-mobile.jpg">
-               
-               <div class="way-np">
-				    <div class="way-slider">
-				        <img class="img-way-life" src="img/jpnorthpage/new/lion.jpg" alt="lion">
-				        <p class="way-slider-txt">Reside in pride just like the majestic Lion’ s statue</p>
-					</div>
-					<div class="way-slider">
-					    <img class="img-way-life" src="img/jpnorthpage/new/horse.jpg" alt="horse">
-					    <p class="way-slider-txt">Live gracefully with a new perspective to life as the royal Horse’s statue</p>
-					</div>
-					<div class="way-slider">
-					    <img class="img-way-life" src="img/jpnorthpage/new/Barista.jpg" alt="Barista">
-					    <p class="way-slider-txt">A fresh start to every day at your nearest Barista</p>
-					</div>
-					<div class="way-slider">
-					    <img class="img-way-life" src="img/jpnorthpage/new/cafe.jpg" alt="cafe">
-					    <p class="way-slider-txt">Find out what’s brewing at your neighbourhood Café</p>
-					</div>
-					<div class="way-slider">
-					    <img class="img-way-life" src="img/jpnorthpage/new/Clubhouse.jpg" alt="Clubhouse">
-					    <p class="way-slider-txt">Bond with like-minded people at our exclusive Clubhouse</p>
-					</div>
-					<div class="way-slider">
-				        <img class="img-way-life" src="img/jpnorthpage/new/Games-Room.jpg" alt="Games-Room">
-				        <p class="way-slider-txt">Have a healthy competition & endless entertainment in the next door Game Room</p>
-					</div>
-					<div class="way-slider">
-					    <img class="img-way-life" src="img/jpnorthpage/new/Gym3.jpg" alt="Gym3">
-					    <p class="way-slider-txt">Get ripped the right way at our fully equipped Gym</p>
-					</div>
-					<div class="way-slider">
-					    <img class="img-way-life" src="img/jpnorthpage/new/Lakme-Salon.jpg" alt="Lakme-Salon">
-					    <p class="way-slider-txt">Get styled by the runway experts at your nearest Lakmé Salon</p>
-					</div>
-					<div class="way-slider">
-					    <img class="img-way-life" src="img/jpnorthpage/new/Library.jpg" alt="Library">
-					    <p class="way-slider-txt">Catch up on your favourite novel at our knowledge-rich Library</p>
-					</div>
-					<div class="way-slider">
-					    <img class="img-way-life" src="img/jpnorthpage/new/Little-Millennium-Kids-2.jpg" alt="Little-Millennium-Kids-2">
-					    <p class="way-slider-txt">A perfect place for the tiny- tots to play and learn at your nearest Little Millenium School</p>
-					</div>
-				</div>
-			</div> -->
-               <!-- old slider ends -->
-            <div class="pr_showcase np-mergerd" id="hProngoing">
+               <div class="pr_showcase np-mergerd" id="hProngoing">
                 <div id="ongoing">
                     <div class="pr_cont_slider">
                         <div class="section__slider">
@@ -187,7 +140,7 @@
                                             <div class="swiper-slide__block np-swiper-slide">
                                                 <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
-                                                        <img src="img/home/ready-move/Celeste.jpg" alt="lion">
+                                                        <img src="img/jpnorthpage/new/lion.jpg" alt="lion">
                                                     </a>
                                                 </div>
                                             </div>
@@ -784,7 +737,12 @@
 			});
 	
 	</script>	
-	<script>
+
+
+
+
+    
+<script>
    if (window.innerWidth < 1200) {
    new Swiper(".ongoingclass", {
    direction: "horizontal",
@@ -840,6 +798,6 @@
    }
    
 </script>
-    
+	
 <!-- above footer ends -->
     <?php include 'footer.php';?>
