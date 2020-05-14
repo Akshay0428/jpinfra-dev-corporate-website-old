@@ -10,6 +10,17 @@
 .swiper-button-prev {
 top: 95% !important;
 }
+.section__slider .container__center:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    /* background: linear-gradient(to top, #f2f3f3, rgba(248, 248, 248, 0)); */
+}
         .slick-dots {
     	    text-align: center;
     	    margin: 0 0 0px 0;

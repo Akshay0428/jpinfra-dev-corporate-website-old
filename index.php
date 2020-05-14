@@ -368,7 +368,7 @@ transition:all .6s ease-in-out;
    <div class="content-div" id="">
       <div class="numbers-div border-ryt">
          <div class="number-content">
-            <h1>12+</h1>
+            <h1>12</h1>
          </div>
          <div class="number-content">
             <p>YEARS<br>OF GROWTH</p>
@@ -413,34 +413,26 @@ transition:all .6s ease-in-out;
       <div class="carousel-inner content-div slick-counter-mobile">
          <div class="item active numbers-div">
             <div class="number-content">
-               <h1>50+</h1>
+               <h1>12</h1>
             </div>
             <div class="number-content">
-               <p>YEARS<br>OF TRUST</p>
-            </div>
-         </div>
-         <div class="item numbers-div">
-            <div class="number-content">
-               <h1>15+</h1>
-            </div>
-            <div class="number-content">
-               <p>GLOBAL<br>AWARDS</p>
+               <p>YEARS<br>OF GROWTH</p>
             </div>
          </div>
          <div class="item numbers-div">
             <div class="number-content">
-               <h1>7500+</h1>
+               <h1 class="adjust-margin">1200+</h1>
             </div>
             <div class="number-content">
-               <p class="marg-left">HAPPY<br>FAMILIES</p>
+                <p>APARTMENTS<br>IN FY 19-20</p>
             </div>
          </div>
          <div class="item numbers-div">
             <div class="number-content">
-               <h1>150+</h1>
+               <h1>4 <span class="base_no">mn sq ft</span></h1>
             </div>
             <div class="number-content">
-               <p>ACRES OF <br>DEVELOPMENT</p>
+               <p>UNDER<br>CONSTRUCTION</p>
             </div>
          </div>
       </div>
