@@ -8,18 +8,18 @@
 <link rel="stylesheet" href="css/otherprojslider.css">
 <style>
 .swiper-button-prev {
-top: 95% !important;
+top: 94% !important;
 }
 .section__slider .container__center:after {
-    content: "";
-    display: block;
-    width: 100%;
     height: 0;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    z-index: 2;
-    /* background: linear-gradient(to top, #f2f3f3, rgba(248, 248, 248, 0)); */
+}
+.swiper-slide__block .swiper-slide__block__img {
+    width: 65%;
+    max-height: 476px;
+    height: 345px;
+    max-width: 735px;
+    overflow: hidden;
+    position: relative;
 }
         .slick-dots {
     	    text-align: center;
@@ -208,6 +208,10 @@ top: 95% !important;
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
                                                         <img src="img/jpnorthpage/new/lion.jpg" alt="lion">
                                                     </a>
+                                                    <div class="something">
+                                                        <p>sddaevvuubuydbeybfbu</p>
+                                                    </div>
+                                                    
                                                 </div>
                                             </div>
                                         </div>
