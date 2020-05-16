@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="css/otherprojslider.css">
 <style>
 .swiper-button-prev {
-top: 94% !important;
+top: 79.5% !important;
 }
 .section__slider .container__center:after {
     height: 0;
@@ -208,10 +208,9 @@ top: 94% !important;
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
                                                         <img src="img/jpnorthpage/new/lion.jpg" alt="lion">
                                                     </a>
-                                                    <div class="something">
-                                                        <p>sddaevvuubuydbeybfbu</p>
-                                                    </div>
-                                                    
+                                                </div>
+                                                <div class="way-slider-txt">
+                                                    <p>Reside in pride just like the majestic Lion’ s statue</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -222,6 +221,9 @@ top: 94% !important;
                                                         <img src="img/jpnorthpage/new/horse.jpg" alt="horse">
                                                     </a>
                                                 </div>
+                                                <div class="way-slider-txt">
+                                                    <p>Live gracefully with a new perspective to life as the royal Horse’s statue</p>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
@@ -230,6 +232,9 @@ top: 94% !important;
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Barista.jpg" alt="Barista">
                                                     </a>
+                                                </div>
+                                                <div class="way-slider-txt">
+                                                    <p>A fresh start to every day at your nearest Barista</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -240,6 +245,9 @@ top: 94% !important;
                                                         <img src="img/jpnorthpage/new/cafe.jpg" alt="cafe">
                                                     </a>
                                                 </div>
+                                                <div class="way-slider-txt">
+                                                    <p>Find out what’s brewing at your neighbourhood Café</p>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
@@ -248,6 +256,9 @@ top: 94% !important;
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Clubhouse.jpg" alt="Clubhouse">
                                                     </a>
+                                                </div>
+                                                <div class="way-slider-txt">
+                                                    <p>Bond with like-minded people at our exclusive Clubhouse</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -258,6 +269,9 @@ top: 94% !important;
                                                         <img src="img/jpnorthpage/new/Games-Room.jpg" alt="Games-Room">
                                                     </a>
                                                 </div>
+                                                <div class="way-slider-txt">
+                                                    <p>Have a healthy competition & endless entertainment in the next door Game Room</p>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
@@ -266,6 +280,9 @@ top: 94% !important;
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Gym3.jpg" alt="Gym3">
                                                     </a>
+                                                </div>
+                                                <div class="way-slider-txt">
+                                                    <p>Get ripped the right way at our fully equipped Gym</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -276,6 +293,9 @@ top: 94% !important;
                                                         <img src="img/jpnorthpage/new/Lakme-Salon.jpg" alt="Lakme-Salon">
                                                     </a>
                                                 </div>
+                                                <div class="way-slider-txt">
+                                                    <p>Get styled by the runway experts at your nearest Lakmé Salon</p>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
@@ -285,6 +305,9 @@ top: 94% !important;
                                                         <img src="img/jpnorthpage/new/Library.jpg" alt="Library">
                                                     </a>
                                                 </div>
+                                                <div class="way-slider-txt">
+                                                    <p>Catch up on your favourite novel at our knowledge-rich Library</p>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
@@ -293,6 +316,9 @@ top: 94% !important;
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Little-Millennium-Kids-2.jpg" alt="Little-Millennium-Kids-2">
                                                     </a>
+                                                </div>
+                                                <div class="way-slider-txt">
+                                                    <p>A perfect place for the tiny- tots to play and learn at your nearest Little Millenium School</p>
                                                 </div>
                                             </div>
                                         </div>
