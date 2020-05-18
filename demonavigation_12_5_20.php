@@ -249,21 +249,40 @@
                 <div id="overlay" class="overlay">
                     <nav class="overlay-menunav overlay-menu">
                             <ul class="nav">
-                                <li><a href="#">overview</a></li>
-                                <li><a href="#">contact</a></li>
+                                <li><a href="#">home</a></li>
                                 <li>
-                                  <a href="#">project</a>
-                                  <ul class="sub-menu">
-                                    <li><a href="#">ongoing</a></li>
-                                    <li><a href="#">delivered</a></li>
+                                	<a href="#">Overview</a>
+                                	<ul class="sub-menu">
+                                    <li><a href="#">About JP Infra</a></li>
+                                    <li><a href="#">Leadership</a></li>
+                                    <li><a href="#">Redevelopment Projects</a></li>
+                                    <li><a href="#">Achievements</a></li>
                                   </ul>
                                 </li>
                                 <li>
-                                    <a href="#">blogs</a>
+                                  <a href="#">project</a>
+                                  <ul class="sub-menu">
+                                    <li><a href="#">Ongoing Projects</a></li>
+                                    <li><a href="#">Delivered Projects</a></li>
+                                    <li><a href="#">Construction Updates</a></li>
+                                    <li><a href="#">Testimonials</a></li>
+                                  </ul>
+                                </li>
+                                <li>
+                                    <a href="#">Pushing Boundaries</a>
                                     <ul class="sub-menu">
-                                      <li><a href="#">blog 1</a></li>
-                                      <li><a href="#">blog 2</a></li>
-                                      <li><a href="#">blog 3</a></li>
+                                      <li><a href="#">Design Innovation</a></li>
+                                      <li><a href="#">Integrated Living </a></li>
+                                      <li><a href="#">Because We Care</a></li>
+                                      <li><a href="#">Our Carbon Footprint</a></li>
+                                    </ul>
+                                  </li>
+                                  <li>
+                                    <a href="#">North</a>
+                                    <ul class="sub-menu">
+                                      <li><a href="#">North An Assured Way Of Living</a></li>
+                                      <li><a href="#">Transforming Mira Road</a></li>
+                                      <li><a href="#">Projects</a></li>
                                     </ul>
                                   </li>
                               </ul>
