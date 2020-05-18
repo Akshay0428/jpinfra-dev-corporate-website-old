@@ -55,7 +55,7 @@
 }
 .overlay ul .sub-menu li a {
     font-size: 14px;
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 
 .nav>li>a:focus, .nav>li>a:hover {
