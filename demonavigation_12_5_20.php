@@ -62,6 +62,13 @@
     text-decoration: none;
      background-color: #eee0; 
 }
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 15px 0px;
+    font-size: 14px;
+    font-weight: 500;
+}
  .container {
 	 position: absolute;
 	 width: 100%;
@@ -179,7 +186,7 @@
 }
  .overlay nav {
 	 position: relative;
-	 height: 70%;
+	 height: auto;
 	 top: 50%;
 	 transform: translateY(-50%);
 	 font-size: 50px;
@@ -194,6 +201,7 @@
 	 display: inline-block;
 	 position: relative;
 	 height: auto;
+	 top: 5%;
 }
  .overlay ul li {
 	 display: block;
@@ -283,6 +291,15 @@
                                       <li><a href="#">North An Assured Way Of Living</a></li>
                                       <li><a href="#">Transforming Mira Road</a></li>
                                       <li><a href="#">Projects</a></li>
+                                    </ul>
+                                  </li>
+                                  <li>
+                                    <a href="#">Media</a>
+                                    <ul class="sub-menu">
+                                      <li><a href="#">Glimpses Of JP Infra</a></li>
+                                      <li><a href="#">Articles</a></li>
+                                      <li><a href="#">Newsletters</a></li>
+                                      <li><a href="#">Workplace Events</a></li>
                                     </ul>
                                   </li>
                               </ul>
