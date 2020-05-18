@@ -53,7 +53,10 @@
   display: none;
   margin-top: 15px;
 }
-
+.overlay ul .sub-menu li a {
+    font-size: 14px;
+    text-transform: uppercase;
+}
 
 .nav>li>a:focus, .nav>li>a:hover {
     text-decoration: none;
@@ -206,6 +209,8 @@
 	 color: #fff;
 	 text-decoration: none;
 	 overflow: hidden;
+	font-size: 20px;
+	text-transform: uppercase;
 }
  .overlay ul li a:hover:after, .overlay ul li a:focus:after, .overlay ul li a:active:after {
 	 width: 100%;
