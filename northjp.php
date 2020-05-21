@@ -8,19 +8,36 @@
 <link rel="stylesheet" href="css/otherprojslider.css">
 <style>
 .swiper-button-prev {
-top: 79.5% !important;
+top: 81.5% !important;
 }
 .section__slider .container__center:after {
     height: 0;
 }
+.swiper-button-prev {
+    bottom: 0;
+    background-color: #f2f3f3ad;
+}
+.swiper-button-next {
+    right: 300px;
+    background-color: #f2f3f3ad;
+}
+.swiper-button-prev i {
+    position: relative;
+    left: 87%;
+}
+.swiper-button-next i {
+    position: relative;
+    left: 82%;
+}
 .swiper-slide__block .swiper-slide__block__img {
     width: 65%;
     max-height: 476px;
-    height: 345px;
+    height: 390px;
     max-width: 735px;
     overflow: hidden;
     position: relative;
 }
+
         .slick-dots {
     	    text-align: center;
     	    margin: 0 0 0px 0;
@@ -842,7 +859,7 @@ top: 79.5% !important;
    prevButton: ".swiper-button-prev",
    paginationClickable: !0,
    spaceBetween: 0,
-   autoplay: 10000,
+   autoplay: 1500,
    loop: !0
    });
    } else {
@@ -856,7 +873,7 @@ top: 79.5% !important;
    spaceBetween: 0,
    speed: 1500,
    parallax: !0,
-   autoplay: 10000,
+   autoplay: 1500,
    loop: !0
    });
    }
@@ -869,7 +886,7 @@ top: 79.5% !important;
    prevButton: ".swiper-button-prev",
    paginationClickable: !0,
    spaceBetween: 0,
-   autoplay: 10000,
+   autoplay: 1500,
    loop: !0
    });
    } else {
@@ -883,7 +900,7 @@ top: 79.5% !important;
    spaceBetween: 0,
    speed: 1500,
    parallax: !0,
-   autoplay: 10000,
+   autoplay: 1500,
    loop: !0
    });
    }
