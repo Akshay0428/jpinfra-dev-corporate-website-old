@@ -3828,6 +3828,47 @@ a.blogs-here-new {
     border: 1.5px solid #486b99;
 }
 
+.inner-goback-button {
+    width: 20%;
+    margin: 20px auto;
+    border: 1px solid #486b99;
+    padding: 0px 5px 0px 20px;
+    float: left;
+}
+
+.button-goback-txt {
+    width: 58%;
+    float: left;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+
+.goback-arrow {
+    width: 20%;
+    float: left;
+    margin-top: 8px;
+    content: "\e900";
+    margin-left: 6px;
+    position: relative;
+    bottom: 2px;
+    left: 0;
+    transition: .2s ease-out;
+    cursor: pointer;
+}
+
+.inner-goback-button:hover .goback-arrow{
+    left: 4px; 
+}
+
+.button-goback-txt h5{
+
+    font-size: 12px;
+    color: #2e5689;
+    font-weight: 600;
+    text-transform: uppercase;
+    
+}
+
 /************************blog page end************/
 
 /************************work with us page start************/
