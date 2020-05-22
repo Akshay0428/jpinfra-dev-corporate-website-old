@@ -87,7 +87,7 @@
    <div class="container_main bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
       <div class="main_title_jpdesk">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
-            <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">About the project</h1>
+            <h1 class="txt-transform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">About the project</h1>
          <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">AVANT-GARDE HOMES FOR AVANT-GARDE LIFESTYLE</div>
 
          <div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -101,39 +101,39 @@
     <div class="container_main bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
       <div class="main_title_jpdesk pdng">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
-            <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Project Details</h1>
+            <h1 class="txt-transform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Project Details</h1>
       </div>
       <div class="pd-icon-main mrg-top">
         <div class="pd-icon-inner">
-          <div class="pd-icon">
+          <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <img src="img/jpdesk/2-&-3-BHK-Houses.png" alt="2-&-3-BHK-Houses">
             <p class="txt-align pdng-top">2 & 3 BHK Houses</p>
           </div>
           <div class="plus cmn_plus">
             <img src="img/jpdesk/Plus.png">
           </div>
-          <div class="pd-icon">
+          <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <img src="img/jpdesk/Gym.png" alt="Gym">
             <p class="txt-align pdng-top ">Gym</p> 
           </div>
           <div class="plus1 cmn_plus">
             <img src="img/jpdesk/Plus.png">
           </div>
-          <div class="pd-icon">
+          <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <img src="img/jpdesk/Swimming-Pool.png" alt="Swimming-Pool">
             <p class="txt-align pdng-top">Swimming Pool</p> 
           </div>
           <div class="plus2 cmn_plus">
             <img src="img/jpdesk/Plus.png">
           </div>
-          <div class="pd-icon">
+          <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <img src="img/jpdesk/Kids-Play-Area.png" alt="Kids-Play-Area">
             <p class="txt-align pdng-top">Kids Play Area</p> 
           </div>
           <div class="plus3 cmn_plus">
             <img src="img/jpdesk/Plus.png">
           </div>
-          <div class="pd-icon">
+          <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <img src="img/jpdesk/Amphitheatre.png" alt="Amphitheatre">
             <p class="txt-align pdng-top">Amphitheatre</p> 
           </div>

@@ -414,6 +414,9 @@ h2{
     padding: 10px 0px 10px 0px;
     line-height: 140%;
 }
+.txt-transform{
+    text-transform: capitalize;
+}
 .fontweight{
     font-weight: 500;
     color: #000;
@@ -1766,7 +1769,7 @@ section.main-npslider {
         margin-top: 46px;
 }
 .way-slider-txt p {
-    color: #d3d3d3;
+    color: #626262;
     font-size: 14px;
     font-weight: bold;
     text-align: center;

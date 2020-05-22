@@ -139,7 +139,7 @@ top: 81.5% !important;
     <section class="main-npslider">
 
             <video autoplay muted loop id="myVideonpnorth">
-              <source src="video/home_video.mp4" type="video/mp4">
+              <source src="video/north_video.mp4" type="video/mp4">
             </video>
             <div class="pos-absolute np-img-leaf">
                 <img src="img/01-leaf.png" class="img-width" alt="leaf-img">
