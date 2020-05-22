@@ -288,8 +288,8 @@ in construction.</p>
                 </div>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line pbcareline-labour"></div>
-                    <h3 class="fontweight-bold">School For Labourers' Children</h3>
-                    <p class="fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <h3 class="fontweight-bold">School for Labourers’ Children</h3>
+                    <p class="fontweight">We believe that the people who are working hard to transform our thoughts into reality are our responsibility. Every parent dreams of providing the best to their children. We strive to make our labourers’ lives a little easier by providing on-site schools so that they can educate their children easily.</p>
                 </div>
             </div>
               <div class="pb-slider">
@@ -298,8 +298,8 @@ in construction.</p>
                 </div>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line pbcareline-mira"></div>
-                    <h3 class="fontweight-bold">Mira-Bhayander Rising</h3>
-                    <p class="fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <h3 class="fontweight-bold">Mira Bhayander rising</h3>
+                    <p class="fontweight">A JP Infra initiative, Mira-Bhayander Rising has been conceptualized with the goal of building a community-based lifestyle in Mira Road for people to celebrate their neighborhoods with pride. The idea behind the initiative is to allow residents of Mira Road and Bhayander to engage in community events that help build community spirit and a feeling of togetherness.</p>
                 </div>
             </div>
             <div class="pb-slider">
@@ -308,8 +308,8 @@ in construction.</p>
                 </div>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line"></div>
-                    <h3 class="fontweight-bold">Ladies' Swimming Pool</h3>
-                    <p class="fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <h3 class="fontweight-bold">Ladies Swimming pool</h3>
+                    <p class="fontweight">We understand the concerns our residents might face and thus provide for maximum safety as well with a separate swimming pool for ladies. These fantastic women can now enjoy their much needed me-time without a care in the world.</p>
                 </div>
             </div>
         </div>
