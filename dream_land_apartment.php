@@ -73,11 +73,11 @@
 
 <section>
     <div class="banner_jp">
-        <img src="img/jp_delivered/banner/JP-Decks.jpg" alt="banner jp">
+        <img src="img/jp_delivered/jpdesk/jpdesk-banner.jpg" alt="banner jp">
     </div>
 </section>
-<div class="project-blue-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-    <h1>jp decks</h1>
+<div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
+    <h1>Dream Land Apartment</h1>
 </div>
 <div class="clearfix"></div>
 <!--banner ends -->
@@ -106,36 +106,36 @@
       <div class="pd-icon-main mrg-top">
         <div class="pd-icon-inner">
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/jpdesk/2-&-3-BHK-Houses.png" alt="2-&-3-BHK-Houses">
-            <p class="txt-align pdng-top">2 & 3 BHK Houses</p>
+            <img src="img/jp_delivered/Dream_Land_Apartment/Children’s-Play-Area.png" alt="Children’s-Play-Area">
+            <p class="txt-align pdng-top">Children’s Play Area</p>
           </div>
           <div class="plus cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/jpdesk/Gym.png" alt="Gym">
-            <p class="txt-align pdng-top ">Gym</p> 
+            <img src="img/jp_delivered/Dream_Land_Apartment/Gymnasium.png" alt="Gymnasium">
+            <p class="txt-align pdng-top ">Gymnasium</p> 
           </div>
           <div class="plus1 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/jpdesk/Swimming-Pool.png" alt="Swimming-Pool">
-            <p class="txt-align pdng-top">Swimming Pool</p> 
+            <img src="img/jp_delivered/Dream_Land_Apartment/Clubhouse.png" alt="Clubhouse">
+            <p class="txt-align pdng-top">Clubhouse</p> 
           </div>
           <div class="plus2 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/jpdesk/Kids-Play-Area.png" alt="Kids-Play-Area">
-            <p class="txt-align pdng-top">Kids Play Area</p> 
+            <img src="img/jp_delivered/Dream_Land_Apartment/Swimming-Pool.png" alt="Swimming-Pool">
+            <p class="txt-align pdng-top">Swimming Pool</p> 
           </div>
           <div class="plus3 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/jpdesk/Amphitheatre.png" alt="Amphitheatre">
-            <p class="txt-align pdng-top">Amphitheatre</p> 
+            <img src="img/jp_delivered/Dream_Land_Apartment/Servant-Room.png" alt="Servant-Room">
+            <p class="txt-align pdng-top">Servant Room</p> 
           </div>
         </div>
 

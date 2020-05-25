@@ -168,12 +168,11 @@ in construction.</p>
             <div class="human_main">
                 <div class="main_absolute">
                         <div class="content_abs">
-                            <p class="head_con">“Quality of life actually begins at home – it’s in your street, around your community” – </p>
-                            <p class="para_con">Charles Kennedy A prized city, Barcelona gave life back to their streets by introducing this concept and we, at JP Infra, are striving to do the same. In the hustle and bustle of Mumbai’s busy streets, you get to experience a pollution-free zone by restricting entry to carbon-emitting vehicles. JP Infra is proud to be part of bringing a slice of Europe to Mumbai to create a residential utopia, inspired by international style living.</p>
+                            <p class="head_con">“Quality of life actually begins at home – it’s in your street, around your community” – Charles Kennedy </p>
+                            <p class="para_con">A prized city, Barcelona gave life back to their streets by introducing this concept and we, at JP Infra, are striving to do the same. In the hustle and bustle of Mumbai’s busy streets, you get to experience a pollution-free zone by restricting entry to carbon-emitting vehicles. JP Infra is proud to be part of bringing a slice of Europe to Mumbai to create a residential utopia, inspired by international style living.</p>
                         </div>
                 </div>
-                <div class="line_human">
-                </div>
+                <!-- <div class="line_human"></div> -->
                 <div class="human_col">
                     <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Design Innovation</h1>
                     <!-- <div class="lable_line">

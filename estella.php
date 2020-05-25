@@ -73,11 +73,11 @@
 
 <section>
     <div class="banner_jp">
-        <img src="img/jp_delivered/banner/JP-Decks.jpg" alt="banner jp">
+        <img src="img/jp_delivered/banner/Estella.jpg" alt="Estella jp">
     </div>
 </section>
-<div class="project-blue-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-    <h1>jp decks</h1>
+<div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
+    <h1>Estella</h1>
 </div>
 <div class="clearfix"></div>
 <!--banner ends -->
@@ -106,36 +106,36 @@
       <div class="pd-icon-main mrg-top">
         <div class="pd-icon-inner">
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/jpdesk/2-&-3-BHK-Houses.png" alt="2-&-3-BHK-Houses">
-            <p class="txt-align pdng-top">2 & 3 BHK Houses</p>
+            <img src="img/jp_delivered/Estella/Banquet-Hall.png" alt="Banquet-Hall">
+            <p class="txt-align pdng-top">Banquet Hall</p>
           </div>
           <div class="plus cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/jpdesk/Gym.png" alt="Gym">
-            <p class="txt-align pdng-top ">Gym</p> 
+            <img src="img/jp_delivered/Estella/Creche.png" alt="Creche">
+            <p class="txt-align pdng-top ">Creche</p> 
           </div>
           <div class="plus1 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/jpdesk/Swimming-Pool.png" alt="Swimming-Pool">
-            <p class="txt-align pdng-top">Swimming Pool</p> 
+            <img src="img/jp_delivered/Estella/Gymnasium.png" alt="Gymnasium">
+            <p class="txt-align pdng-top">Gymnasium</p> 
           </div>
           <div class="plus2 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/jpdesk/Kids-Play-Area.png" alt="Kids-Play-Area">
-            <p class="txt-align pdng-top">Kids Play Area</p> 
+            <img src="img/jp_delivered/Estella/Open-to-Sky Swimming Pool.png" alt="Open-to-Sky Swimming Pool">
+            <p class="txt-align pdng-top">Open to Sky Swimming Pool</p> 
           </div>
           <div class="plus3 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/jpdesk/Amphitheatre.png" alt="Amphitheatre">
-            <p class="txt-align pdng-top">Amphitheatre</p> 
+            <img src="img/jp_delivered/Estella/Steam_sauna_and_spa.png" alt="Steam, Sauna and Spa">
+            <p class="txt-align pdng-top">Steam, Sauna and Spa</p> 
           </div>
         </div>
 
