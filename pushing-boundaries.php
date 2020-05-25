@@ -169,7 +169,7 @@ in construction.</p>
                 <div class="main_absolute">
                         <div class="content_abs">
                             <p class="head_con">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                            <p class="para_con">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."</p>
+                            <p class="para_con">Believing that people are at the heart of all the work we do, we at JP Infra have tried to bring the human element to its projects in innovative ways. Inspired by the European city of Barcelona, we have introduced the concept of vehicle-free zones within our communities. This allows for ample space for walking leisurely, kids to play and the busy worker bee to stop and smell the roses.</p>
                         </div>
                 </div>
                 <div class="line_human">
@@ -243,7 +243,7 @@ in construction.</p>
       <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Integrated Living</h1>
         <div class="pb-integrate-txt">
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <p>Home is where the heart is, and you shouldn’t have to travel far to live a healthy, comfortable and vibrant lifestyle. At JP Infra properties, you will find spas and salons to pamper yourself, coffee shops to help you unwind and the best of community living. Your child is also thought of with ample play areas and top schools and educational institutions to keep their learning maximized.</p>
         </div>
         <div class="integrate-icons-div">
             <div class="integrate-icons">
