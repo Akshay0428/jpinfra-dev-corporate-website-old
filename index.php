@@ -429,7 +429,7 @@ transition:all .6s ease-in-out;
          </div>
          <div class="item numbers-div">
             <div class="number-content">
-               <h1>4 <span class="base_no">mn sq ft</span></h1>
+               <h1 class="extra-mrg">4 <span class="base_no">mn sq ft</span></h1>
             </div>
             <div class="number-content">
                <p>UNDER<br>CONSTRUCTION</p>

@@ -746,7 +746,10 @@ span.base_no {
     margin-left: 25px !important;
 }
 .marg-left{
-        margin-left: 30px !important;
+    margin-left: 30px !important;
+}
+.extra-mrg{
+    margin-right: 15px !important;
 }
 /*--------------------------------------------------------------
 JP North parallax
