@@ -9,7 +9,7 @@
         position: absolute;
         left: 16%;
         width: 29%;
-        top: 146%;
+        top: 149%;
         z-index: 99;
         background-color: #2c5686;
     }
@@ -168,8 +168,8 @@ in construction.</p>
             <div class="human_main">
                 <div class="main_absolute">
                         <div class="content_abs">
-                            <p class="head_con">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                            <p class="para_con">Believing that people are at the heart of all the work we do, we at JP Infra have tried to bring the human element to its projects in innovative ways. Inspired by the European city of Barcelona, we have introduced the concept of vehicle-free zones within our communities. This allows for ample space for walking leisurely, kids to play and the busy worker bee to stop and smell the roses.</p>
+                            <p class="head_con">“Quality of life actually begins at home – it’s in your street, around your community” – </p>
+                            <p class="para_con">Charles Kennedy A prized city, Barcelona gave life back to their streets by introducing this concept and we, at JP Infra, are striving to do the same. In the hustle and bustle of Mumbai’s busy streets, you get to experience a pollution-free zone by restricting entry to carbon-emitting vehicles. JP Infra is proud to be part of bringing a slice of Europe to Mumbai to create a residential utopia, inspired by international style living.</p>
                         </div>
                 </div>
                 <div class="line_human">
