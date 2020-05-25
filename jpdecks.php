@@ -32,7 +32,7 @@
     top: 50%;
     left: -115px;
     font-size: 1.5em;
-    background-image: url(img/jpdesk/Arrow_2.png);
+    background-image: url(img/jp_delivered/jpdesk/Arrow_2.png);
     width: 64px;
     height: 34px;
     border: none;
@@ -49,7 +49,7 @@
     position: absolute;
     top: 50%;
     font-size: 1.5em;
-    background-image: url(img/jpdesk/Arrow_1.png);
+    background-image: url(img/jp_delivered/jpdesk/Arrow_1.png);
     right: -115px;
     width: 62px;
     height: 33px;
@@ -73,7 +73,7 @@
 
 <section>
     <div class="banner_jp">
-        <img src="img/jpdesk/jpdesk-banner.jpg" alt="banner jp">
+        <img src="img/jp_delivered/jpdesk/jpdesk-banner.jpg" alt="banner jp">
     </div>
 </section>
 <div class="project-blue-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -106,35 +106,35 @@
       <div class="pd-icon-main mrg-top">
         <div class="pd-icon-inner">
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jpdesk/2-&-3-BHK-Houses.png" alt="2-&-3-BHK-Houses">
+            <img src="img/jp_delivered/jpdesk/2-&-3-BHK-Houses.png" alt="2-&-3-BHK-Houses">
             <p class="txt-align pdng-top">2 & 3 BHK Houses</p>
           </div>
           <div class="plus cmn_plus">
-            <img src="img/jpdesk/Plus.png">
+            <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jpdesk/Gym.png" alt="Gym">
+            <img src="img/jp_delivered/jpdesk/Gym.png" alt="Gym">
             <p class="txt-align pdng-top ">Gym</p> 
           </div>
           <div class="plus1 cmn_plus">
-            <img src="img/jpdesk/Plus.png">
+            <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jpdesk/Swimming-Pool.png" alt="Swimming-Pool">
+            <img src="img/jp_delivered/jpdesk/Swimming-Pool.png" alt="Swimming-Pool">
             <p class="txt-align pdng-top">Swimming Pool</p> 
           </div>
           <div class="plus2 cmn_plus">
-            <img src="img/jpdesk/Plus.png">
+            <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jpdesk/Kids-Play-Area.png" alt="Kids-Play-Area">
+            <img src="img/jp_delivered/jpdesk/Kids-Play-Area.png" alt="Kids-Play-Area">
             <p class="txt-align pdng-top">Kids Play Area</p> 
           </div>
           <div class="plus3 cmn_plus">
-            <img src="img/jpdesk/Plus.png">
+            <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jpdesk/Amphitheatre.png" alt="Amphitheatre">
+            <img src="img/jp_delivered/jpdesk/Amphitheatre.png" alt="Amphitheatre">
             <p class="txt-align pdng-top">Amphitheatre</p> 
           </div>
         </div>
@@ -153,15 +153,15 @@
     </div>
     <div class="gallery-silder mrg-top">
       <div class="gal-img">
-        <img src="img/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
+        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
         <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
       </div>
       <div class="gal-img">
-        <img src="img/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
+        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
         <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
       </div>
       <div class="gal-img">
-        <img src="img/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
+        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
         <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
       </div>
     </div>

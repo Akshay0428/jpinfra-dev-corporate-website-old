@@ -128,9 +128,7 @@
                 <div class="slider-col gray animation active">
                     <div class="caption animation">
                         <h2>Design Innovation</h2>
-                        <p>Believing in community living and open spaces, JP Infra builds projects that
-encourage these aspects through providing vehicle-free zones, garden areas,
-meditation centres and amenities for fun group activity</p>
+                        <p>Believing in community living and open spaces, JP Infra builds projects that encourage these aspects through providing vehicle-free zones, garden areas, meditation centres and amenities for fun group activity</p>
                     </div>
                 </div>
                 <div class="slider-col yellow animation">
@@ -289,7 +287,7 @@ in construction.</p>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line pbcareline-labour"></div>
                     <h3 class="fontweight-bold">School for Labourers’ Children</h3>
-                    <p class="fontweight">We believe that the people who are working hard to transform our thoughts into reality are our responsibility. Every parent dreams of providing the best to their children. We strive to make our labourers’ lives a little easier by providing on-site schools so that they can educate their children easily.</p>
+                    <p class="fontweight txt-left">We believe that the people who are working hard to transform our thoughts into reality are our responsibility. Every parent dreams of providing the best to their children. We strive to make our labourers’ lives a little easier by providing on-site schools so that they can educate their children easily.</p>
                 </div>
             </div>
               <div class="pb-slider">
@@ -299,7 +297,7 @@ in construction.</p>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line pbcareline-mira"></div>
                     <h3 class="fontweight-bold">Mira Bhayander rising</h3>
-                    <p class="fontweight">A JP Infra initiative, Mira-Bhayander Rising has been conceptualized with the goal of building a community-based lifestyle in Mira Road for people to celebrate their neighborhoods with pride. The idea behind the initiative is to allow residents of Mira Road and Bhayander to engage in community events that help build community spirit and a feeling of togetherness.</p>
+                    <p class="fontweight txt-left">A JP Infra initiative, Mira-Bhayander Rising has been conceptualized with the goal of building a community-based lifestyle in Mira Road for people to celebrate their neighborhoods with pride. The idea behind the initiative is to allow residents of Mira Road and Bhayander to engage in community events that help build community spirit and a feeling of togetherness.</p>
                 </div>
             </div>
             <div class="pb-slider">
@@ -309,7 +307,7 @@ in construction.</p>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line"></div>
                     <h3 class="fontweight-bold">Ladies Swimming pool</h3>
-                    <p class="fontweight">We understand the concerns our residents might face and thus provide for maximum safety as well with a separate swimming pool for ladies. These fantastic women can now enjoy their much needed me-time without a care in the world.</p>
+                    <p class="fontweight txt-left">We understand the concerns our residents might face and thus provide for maximum safety as well with a separate swimming pool for ladies. These fantastic women can now enjoy their much needed me-time without a care in the world.</p>
                 </div>
             </div>
         </div>
