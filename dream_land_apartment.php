@@ -73,7 +73,7 @@
 
 <section>
     <div class="banner_jp">
-        <img src="img/jp_delivered/jpdesk/jpdesk-banner.jpg" alt="banner jp">
+        <img src="img/jp_delivered/banner/JP-Decks.jpg" alt="banner jp">
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -88,10 +88,10 @@
       <div class="main_title_jpdesk">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 class="txt-transform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">About the project</h1>
-         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">AVANT-GARDE HOMES FOR AVANT-GARDE LIFESTYLE</div>
+         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">A SLICE OF PARADISE</div>
 
          <div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <p>Enchanted with remarkable views and greenery, JP Decks stands out for its exquisite planning and attention to detail. Its thoughtfully designed homes seamlessly integrate elegance and luxury with convenience and comfort. Crafted with precision down to finest details under the direction of renowned architect Reza Kabul, JP Decks promises an extraordinary lifestyle.Situated at one of the city’s most sought-after locations, JP Decks provides perfectly designed chic and modern homes overlooking vast canopies of greenery. A 39 storied structure of wonder, it boasts a vast range of amenities and luxuries including an automated car wash facility, a mini amphitheater and a magnanimous play area, all of which raises the bar of sophisticated living.</p>
+            <p>True to its name, JP’s Dreamland fulfils the intricate dreams of many. Located in one of the most desirable neighbourhoods in Mumbai, Dreamland redefines the standards of a holistic and elegant lifestyle. The sturdy structure is not only earthquake resistant but also boasts a vast range of ultra-modern amenities.The building features a grand air-conditioned lobby that paves the way to your picture perfect homes. The apartments are immaculately designed with handsome teakwood door frames. The living room, bedrooms and passage feature exemplary Italian marble flooring whereas the bathroom is made with designer ceramic tiles.  All flats are well connected with an intercom facility for smooth flow communication. It also takes utmost care of your security and is additionally supported by an EPABX system.</p>
          </div>
          <div class="clearfix"></div>
       </div>
@@ -171,7 +171,7 @@
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Location</h1>
             <div class="map_project mrg-top">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7536.857590594193!2d72.868985!3d19.176465!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1d903dcdc19d9565!2sJP%20Decks!5e0!3m2!1sen!2sus!4v1590049860777!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.8175064807247!2d72.82501081490105!3d19.0717596870904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9732867d1f9%3A0x6d2c841d41f35373!2sDreamland%20Apartments%2C%20Dr%20Ambedkar%20Rd%2C%20Union%20Park%2C%20Khar%20West%2C%20Mumbai%2C%20Maharashtra%20400052!5e0!3m2!1sen!2sin!4v1590472526496!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
               <div class="clearfix"></div>
             </div>
          <div class="clearfix"></div>

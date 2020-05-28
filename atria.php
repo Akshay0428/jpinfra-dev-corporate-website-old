@@ -73,11 +73,11 @@
 
 <section>
     <div class="banner_jp">
-        <img src="img/jp_delivered/banner/Chalet-Amar.jpg" alt="Chalet-Amar">
+        <img src="img/jp_delivered/banner/Atria.jpg" alt="Atria">
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-    <h1>chalet amar</h1>
+    <h1>Atria</h1>
 </div>
 <div class="clearfix"></div>
 <!--banner ends -->
@@ -88,10 +88,11 @@
       <div class="main_title_jpdesk">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 class="txt-transform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">About the project</h1>
-         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">CH TEAU DE COMFORT AT JUHU</div>
+         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">REDEFINING INTEGRATED LIVING</div>
 
          <div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <p>Located along the beautiful Arabian Sea, Chalet Amar is just a walk away from the beach. In addition to having soul-enhancing views and access to the pristine beach, it is composed with all the perfect elements of a dream house. It offers the much desired “on the beach” lifestyle and pampers you with a range of ultra-modern amenities.It lets you break away from the monotony of the hustles and bustles of the city by soaking in the vast range of amenities at your own comfort. Not only is it settled against a perfect backdrop of azure skies and clear shimmering water, it also provides the perfect backdrop for everything you desire your dream house to be. Your very own slice of paradise awaits your presence at JP’s Chalet Amar.</p>
+            <p>Atria offers everything you have ever imagined for, Atria offers you dream homes. It’s not a place merely measured in square feet, it’s an elevated way of life. The best of all is how each and every house at Atria takes care of your overall being. What makes life at Atria wholesome and holistic is the vast array of amenities and facilities.Placed at the intersection of east and west highways of Mumbai, North Atria enjoys superb connectivity via Ghodbunder Road and Western Express Highway at different ends. Infused with an atmosphere of elegance and finesse, the dream home sprawls graciously across vast acres of nature, providing views that are calm, soothing and breathtaking.
+</p>
          </div>
          <div class="clearfix"></div>
       </div>
@@ -106,36 +107,36 @@
       <div class="pd-icon-main mrg-top">
         <div class="pd-icon-inner">
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/Chalet_Amar/Banquet-Hall.png" alt="Banquet-Hall">
+            <img src="img/jp_delivered/Atria/Banquet-Hall.png" alt="Banquet-Hall">
             <p class="txt-align pdng-top">Banquet Hall</p>
           </div>
           <div class="plus cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/Chalet_Amar/Gymnasium.png" alt="Gymnasium">
+            <img src="img/jp_delivered/Atria/Gymnasium.png" alt="Gymnasium">
             <p class="txt-align pdng-top ">Gymnasium</p> 
           </div>
           <div class="plus1 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/Chalet_Amar/Jacuzzi-&-Spa.png" alt="Jacuzzi-&-Spa">
+            <img src="img/jp_delivered/Atria/Jacuzzi-&-Spa.png" alt="Jacuzzi-&-Spa">
             <p class="txt-align pdng-top">Jacuzzi & Spa</p> 
           </div>
           <div class="plus2 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/Chalet_Amar/Swimming-Pool.png" alt="Swimming-Pool">
-            <p class="txt-align pdng-top">Swimming Pool</p> 
+            <img src="img/jp_delivered/Atria/Creche.png" alt="Creche">
+            <p class="txt-align pdng-top">Creche</p> 
           </div>
           <div class="plus3 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <img src="img/jp_delivered/Chalet_Amar/Terrace-Garden.png" alt="Terrace-Garden">
-            <p class="txt-align pdng-top">Terrace Garden</p> 
+            <img src="img/jp_delivered/Atria/Open-to-Sky Swimming Pool.png" alt="Open-to-Sky Swimming Pool">
+            <p class="txt-align pdng-top">Open to Sky Swimming Pool</p> 
           </div>
         </div>
 
@@ -153,20 +154,16 @@
     </div>
     <div class="gallery-silder mrg-top">
       <div class="gal-img">
-        <img src="img/jp_delivered/Chalet_Amar/Bedroom.jpg" alt="Bedroom">
-        <p class="txt-align texttransform fontweight pdng-top">Bedroom</p>
+        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
+        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/Chalet_Amar/Kitchen-&-Home-Theatre.jpg" alt="Kitchen-&-Home-Theatre">
-        <p class="txt-align texttransform fontweight pdng-top">Kitchen & Home Theatre</p>
+        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
+        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/Chalet_Amar/Living-Dinning.jpg" alt="Living-Dinning">
-        <p class="txt-align texttransform fontweight pdng-top">Living Dinning</p>
-      </div>
-      <div class="gal-img">
-        <img src="img/jp_delivered/Chalet_Amar/Terrace-Garden.jpg" alt="Terrace-Garden">
-        <p class="txt-align texttransform fontweight pdng-top">Terrace Garden</p>
+        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
+        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
       </div>
     </div>
 
@@ -175,7 +172,7 @@
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Location</h1>
             <div class="map_project mrg-top">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7539.635435254943!2d72.836059!3d19.115651!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9b43fad3302e9b24!2sChalet%20Amar!5e0!3m2!1sen!2sin!4v1590472168728!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d120511.89893206902!2d72.81757394620303!3d19.28250355606782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x3be7b16f794bc689%3A0x7b72352f8cb3f7d0!2sAtria%20JP%20North%2C%20Kashimira%2C%20Mira%20Road%2C%20Mira%20Bhayandar%2C%20Maharashtra%20401107!3m2!1d19.282516899999997!2d72.88761439999999!4m5!1s0x3be7b16f794bc689%3A0x7b72352f8cb3f7d0!2sAtria%20JP%20North%2C%20Kashimira%2C%20Mira%20Road%2C%20Mira%20Bhayandar%2C%20Maharashtra%20401107!3m2!1d19.282516899999997!2d72.88761439999999!5e0!3m2!1sen!2sin!4v1590472754739!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
               <div class="clearfix"></div>
             </div>
          <div class="clearfix"></div>

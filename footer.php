@@ -1,3 +1,38 @@
+<!-- new div footer -->
+<div class="blue-footer">
+  <div class="container_main">
+    <div class="boxes">
+      <div class="box-inner">
+        <h1 class="txt-upper">nri corner</h1>
+        <h5 class="txt-transform border_btm">NRI opportunities</h5>
+        <h5>NRI FAQ'S</h5>
+      </div>
+    </div>
+    <div class="boxes">
+      <div class="box-main">
+        <div class="box-inner">
+          <h1 class="txt-upper">work with us</h1>
+        <h5 class="txt-transform border_btm">work with us</h5>
+        <h5 class="txt-transform">position available</h5>
+        </div>
+        
+      </div>
+    </div>
+    <div class="boxes">
+      <div class="box-inner">
+        <h1 class="txt-upper border_btm border_btmextra">blogs</h1>
+        <h1 class="txt-upper border_btm border_btmextra">investor relations</h1>
+        <h1 class="txt-upper">contact us</h1>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+
+
+
 
 <!--Footer-->
 <footer class="mainfooter">

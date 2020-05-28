@@ -88,10 +88,10 @@
       <div class="main_title_jpdesk">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 class="txt-transform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">About the project</h1>
-         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">AVANT-GARDE HOMES FOR AVANT-GARDE LIFESTYLE</div>
+         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">LUXURY BEYOND 4 WALLS</div>
 
          <div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <p>Enchanted with remarkable views and greenery, JP Decks stands out for its exquisite planning and attention to detail. Its thoughtfully designed homes seamlessly integrate elegance and luxury with convenience and comfort. Crafted with precision down to finest details under the direction of renowned architect Reza Kabul, JP Decks promises an extraordinary lifestyle.Situated at one of the city’s most sought-after locations, JP Decks provides perfectly designed chic and modern homes overlooking vast canopies of greenery. A 39 storied structure of wonder, it boasts a vast range of amenities and luxuries including an automated car wash facility, a mini amphitheater and a magnanimous play area, all of which raises the bar of sophisticated living.</p>
+            <p>A class apart, yet never far from reality, JP’s Estella offers homes which provide comfort, convenience and luxury equally. Located in the heart of Mira road, it sets a new level of graceful living with a quality that is unparalleled.  A true example of intricate and exquisite craftsmanship, Estella enjoys superb connectivity to the eastern and western highways of Mumbai.Just a heartbeat away from the city centre, North Estella makes your journey as comfortable as possible. Space abounds at Estella, presenting 1,2 and 3 BHK meticulously planned homes. The cherry on the cake is the vast range of thoughtfully crafted amenities that can be savoured at JP North’s Estella. To put it simply, North Estella is the mark of opulence you deserve.</p>
          </div>
          <div class="clearfix"></div>
       </div>
@@ -171,7 +171,7 @@
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Location</h1>
             <div class="map_project mrg-top">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7536.857590594193!2d72.868985!3d19.176465!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1d903dcdc19d9565!2sJP%20Decks!5e0!3m2!1sen!2sus!4v1590049860777!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d120568.6058137574!2d72.7904256!3d19.2052922!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b11eb3d10301%3A0xcdc21301f138c465!2sJP%20North%20-%20Estella!5e0!3m2!1sen!2sin!4v1590472323024!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
               <div class="clearfix"></div>
             </div>
          <div class="clearfix"></div>

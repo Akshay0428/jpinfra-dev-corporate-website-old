@@ -88,10 +88,11 @@
       <div class="main_title_jpdesk">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 class="txt-transform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">About the project</h1>
-         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">AVANT-GARDE HOMES FOR AVANT-GARDE LIFESTYLE</div>
+         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">LIVE LIFE THE ELEGANT WAY WITH JP</div>
 
          <div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <p>Enchanted with remarkable views and greenery, JP Decks stands out for its exquisite planning and attention to detail. Its thoughtfully designed homes seamlessly integrate elegance and luxury with convenience and comfort. Crafted with precision down to finest details under the direction of renowned architect Reza Kabul, JP Decks promises an extraordinary lifestyle.Situated at one of the city’s most sought-after locations, JP Decks provides perfectly designed chic and modern homes overlooking vast canopies of greenery. A 39 storied structure of wonder, it boasts a vast range of amenities and luxuries including an automated car wash facility, a mini amphitheater and a magnanimous play area, all of which raises the bar of sophisticated living.</p>
+            <p>Located in the heart of the city, Unity Towers is nothing short of a dream home. Offering the most heavenly views of the city, JP Infra’s Unity Towers gives you the opportunity to embrace the finer things in life. Providing an excellent view of the city’s skyline, the houses are constructed to turn your dreams into reality.It offers you the innumerable benefits of living in one of the most affluent and sought after locations of the city. With some of the best malls, hospitals and education institutes closeby, all your needs are looked after. Not just that, with a Jain Temple nearby, it is conducive to an environment of spirituality and bliss.
+</p>
          </div>
          <div class="clearfix"></div>
       </div>
@@ -153,16 +154,20 @@
     </div>
     <div class="gallery-silder mrg-top">
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Unity_Towers/Bathroom.jpg" alt="Bathroom">
+        <p class="txt-align texttransform fontweight pdng-top">Bathroom</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Unity_Towers/Kitchen.jpg" alt="Kitchen">
+        <p class="txt-align texttransform fontweight pdng-top">Kitchen</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Unity_Towers/Living-room.jpg" alt="Living-room">
+        <p class="txt-align texttransform fontweight pdng-top">Living room</p>
+      </div>
+      <div class="gal-img">
+        <img src="img/jp_delivered/Unity_Towers/Unity-Towers.jpg" alt="Unity-Towers">
+        <p class="txt-align texttransform fontweight pdng-top">Unity Towers</p>
       </div>
     </div>
 
@@ -171,7 +176,7 @@
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Location</h1>
             <div class="map_project mrg-top">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7536.857590594193!2d72.868985!3d19.176465!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1d903dcdc19d9565!2sJP%20Decks!5e0!3m2!1sen!2sus!4v1590049860777!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7544.633370505823!2d72.829823!3d19.005762!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4ed81a8b5b61c46a!2sUnity%20Towers!5e0!3m2!1sen!2sin!4v1590472222995!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
               <div class="clearfix"></div>
             </div>
          <div class="clearfix"></div>
