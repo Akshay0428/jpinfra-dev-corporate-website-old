@@ -3,26 +3,26 @@
   <div class="container_main">
     <div class="boxes">
       <div class="box-inner">
-        <h1 class="txt-upper">nri corner</h1>
-        <h5 class="txt-transform border_btm">NRI opportunities</h5>
-        <h5>NRI FAQ'S</h5>
+        <a href="nri_corner.php"> <h1 class="txt-upper">nri corner</h1></a>
+        <a href="nri_corner.php#link_opportunities"> <h5 class="txt-transform border_btm">NRI opportunities</h5></a>
+        <a href="nri_corner.php#link_faq"> <h5>NRI FAQ'S</h5></a>
       </div>
     </div>
     <div class="boxes">
       <div class="box-main">
         <div class="box-inner">
-          <h1 class="txt-upper">work with us</h1>
-        <h5 class="txt-transform border_btm">work with us</h5>
-        <h5 class="txt-transform">position available</h5>
+          <a href="work-with-us.php"> <h1 class="txt-upper">work with us</h1></a>
+        <a href="work-with-us.php#link_wwu"> <h5 class="txt-transform border_btm">work with us</h5></a>
+        <a href="work-with-us.php#position-available"> <h5 class="txt-transform">position available</h5></a>
         </div>
         
       </div>
     </div>
     <div class="boxes">
       <div class="box-inner">
-        <h1 class="txt-upper border_btm border_btmextra">blogs</h1>
-        <h1 class="txt-upper border_btm border_btmextra">investor relations</h1>
-        <h1 class="txt-upper">contact us</h1>
+        <a href="blog"> <h1 class="txt-upper border_btm border_btmextra">blogs</h1></a>
+        <a href="nri_corner.php"> <h1 class="txt-upper border_btm border_btmextra">investor relations</h1></a>
+        <a href="contact.php"> <h1 class="txt-upper">contact us</h1></a>
       </div>
     </div>
     <div class="clearfix"></div>

@@ -3381,15 +3381,19 @@ redevelopment project mumbai
     background-color: #2e5689;
 }
 .triangle_down {
-    width: 0;
+    margin: 0 auto;
+    width: 7%;
     height: 0;
     border-left: 14px solid transparent;
     border-right: 15px solid transparent;
     border-top: 22px solid #2e5689;
     vertical-align: middle;
-    display: inline-block;
+    /*display: inline-block;   jjs*/
+    display: none;
 }
-
+.td_active{
+    display: block;
+}
 /*--------------------------------------------------------------
 Footer
 --------------------------------------------------------------*/

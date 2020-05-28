@@ -62,7 +62,7 @@
                   color: black;
                 }
             </style>
-	<!-- banner start -->
+    <!-- banner start -->
     <section class="banner-wws">
         <img src="img/work-with-us/Banner-wws.jpg" alt="banner">
     </section>
@@ -94,29 +94,27 @@
         </div>
         <div class="main-func">
             <div class="proj_heading">
-                            <div class="srw-tab proj_name" id="solar">
-                                <div class="proj_main blue1_active" id="blue1">
-                                <h6 class="txt-upper" id="h61">jp decks</h6></div>
-                                <div class="triangle_down"></div>
-                                <!-- <div class="blue-dot blue-dot-active"></div> -->
-                            </div>
-                            <div class="srw-tab proj_name" id="water">
-                                <div class="proj_main" id="blue2">
-                                <h6 class="tc-blue txt-upper" id="h62">chalet amar</h6></div>
-                                <!-- <div class="blue-dot2"></div> -->
-                            </div>
-                            <div class="srw-tab proj_name" id="waste">
-                                <div class="proj_main" id="blue3">
-                                <h6 class="tc-blue txt-upper" id="h63">unity towers</h6></div>
-                                <!-- <div class="blue-dot3"></div> -->
-                            </div>
-                            <div class="clearfix"></div>
-                        </div>
-
-
-
-
+                <div class="srw-tab proj_name" id="solar">
+                    <div class="proj_main blue1_active" id="blue1">
+                        <h6 class="txt-upper" id="h61">jp decks</h6>
+                    </div>
+                    <div class="triangle_down td_active" id="triangle_1"></div>
+                </div>
+                <div class="srw-tab proj_name" id="water">
+                    <div class="proj_main" id="blue2">
+                        <h6 class="tc-blue txt-upper" id="h62">chalet amar</h6>
+                    </div>
+                    <div class="triangle_down" id="triangle_2"></div>
+                </div>
+                <div class="srw-tab proj_name" id="waste">
+                    <div class="proj_main" id="blue3">
+                        <h6 class="tc-blue txt-upper" id="h63">unity towers</h6>
+                    </div>
+                    <div class="triangle_down" id="triangle_3"></div>
+                </div>
+            </div><!--proj heading--->
             <div class="clearfix"></div>
+
             <div class="redev_click">
                 <div class="solar">
                     <div class="proj_info">
@@ -225,6 +223,10 @@
         $('.redev_click .solar').show();
         $('.redev_click .rainwater').hide();
         $('.redev_click .waste').hide();
+        $('#triangle_1').css("display","block")
+        $('#triangle_2').css("display","none")
+        $('#triangle_3').css("display","none")
+        $('#h61').css("color","#fff")
         $('#h61').css("color","#fff")
         $('#h62').css("color","#2E5689")
         $('#h63').css("color","#2E5689")
@@ -236,6 +238,9 @@
         $('.redev_click .solar').hide();
         $('.redev_click .rainwater').show();
         $('.redev_click .waste').hide();
+        $('#triangle_1').css("display","none")
+        $('#triangle_2').css("display","block")
+        $('#triangle_3').css("display","none")
         $('#h61').css("color","#2E5689")
         $('#h62').css("color","#fff")
         $('#h63').css("color","#2E5689")
@@ -247,6 +252,9 @@
         $('.redev_click .solar').hide();
         $('.redev_click .rainwater').hide();
         $('.redev_click .waste').show();
+        $('#triangle_1').css("display","none")
+        $('#triangle_2').css("display","none")
+        $('#triangle_3').css("display","block")
         $('#h61').css("color","#2E5689")
         $('#h62').css("color","#2E5689")
         $('#h63').css("color","#fff")
