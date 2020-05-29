@@ -895,12 +895,54 @@
 				<div class="clearfix"></div>
 				<!-- delivery projects ends -->
 
+
+
+				<!--  north start-->
+
+
+
+				<!-- north ends -->
+				<div class="north_projectpage padding-media">
+		            <div class="pos-absolute ppnp-img-leaf">
+		                <img src="img/01-leaf.png" class="img-width" alt="leaf-img">
+		            </div>
+		            <div class="pos-absolute ppnp-img-leaf2">
+		                <img src="img/05-leaf.png" class="img-width" alt="leaf-img">
+		            </div>
+		            <div class="pos-absolute ppnp-img-leaf3">
+		                <img src="img/05-leaf.png" class="img-width" alt="leaf-img">
+		            </div>
+				    <div class="lable_line">
+						<img src="img/Gray-Head-line.png" class="northimage">
+					</div>
+					<div class="container_main bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">    
+						<h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="txt-transform">north</h1>
+						<p data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="container_main txt-align fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen</p>
+						<!--btn-->
+			            <div class="project-property-button mrgin_proj">
+			                <a href="northjp.php" target="blank">
+	    		                <div class="know-text-project-property">
+	    		                    <h5>Know More</h5>
+	    		                </div>
+			                </a>
+			                <div class="know-arrow-project-property">
+			                    <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
+			                </div>
+			                <div class="clearfix"></div>
+			            </div>
+			            <div class="clearfix"></div>
+					</div>
+				</div>
+
+
+
+
 				<!--testimonials starts  -->
 			<div class="testimonial_main">
 			    <div class="new-del-project padd-test">
 			        <div class="lable_line">
-					<img src="img/Gray-Head-line.png" class="northimage">
-				</div>
+						<img src="img/Gray-Head-line.png" class="northimage">
+					</div>
 				<div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
 					<p class="center_para">Cherished customers</p>   
 				</div>

@@ -2440,7 +2440,27 @@ h1 {
     list-style: none;
     top: 106%;
 }
-
+.mrgin_proj{
+    margin-top: 60px !important;
+}
+.north_projectpage{
+    position: relative;
+}
+.ppnp-img-leaf{
+    width: 9%;
+    left: 15%;
+    top: -35px;
+}
+.ppnp-img-leaf2 {
+    width: 5%;
+    left: 65%;
+    top: 65%;
+}
+.ppnp-img-leaf3 {
+    width: 7%;
+    left: 75%;
+    top: 10%;
+}
 .world_main {
     width: 65%;
     margin: 0px auto;
