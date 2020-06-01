@@ -920,7 +920,7 @@
 						<p data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="container_main txt-align fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen</p>
 						<!--btn-->
 			            <div class="project-property-button mrgin_proj">
-			                <a href="northjp.php" target="blank">
+			                <a href="northjp.php">
 	    		                <div class="know-text-project-property">
 	    		                    <h5>Know More</h5>
 	    		                </div>
