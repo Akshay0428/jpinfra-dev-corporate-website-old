@@ -28,10 +28,10 @@ if($arrayHostUrl[sizeof($arrayHostUrl)-1]==="com"){
 define('DB_NAME', 'dotwised_jpinfrablogs');
 
 /** MySQL database username */
-define('DB_USER', 'dotwised_jp');
+define('DB_USER', 'root');
 	
 /** MySQL database password */
-define('DB_PASSWORD', 'jpinfra@123');
+define('DB_PASSWORD', 'Pass@987');
 	
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

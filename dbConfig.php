@@ -5,8 +5,8 @@ $hostUrl = $_SERVER['HTTP_HOST'];
 $arrayHostUrl = explode('.', $hostUrl);
 if($arrayHostUrl[sizeof($arrayHostUrl)-1]==="com"){
 	$dbHost = 'localhost';
-	$dbUsername = 'dotwised_jp';
-	$dbPassword = 'jpinfra@123';
+	$dbUsername = 'root';
+	$dbPassword = 'Pass@987';
 	$dbName = 'dotwised_jpinfra';
 }else{
 	$dbHost = 'localhost:3306';
