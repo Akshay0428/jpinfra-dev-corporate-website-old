@@ -172,7 +172,14 @@
       <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="aos-init aos-animate">NRI Corner</h1>
       <div class="nri-text">
         <h3 id="link_opportunities">NRI Opportunities</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>        
+        <p>For better opportunities in education, employment, and business, several Indians migrate to foreign countries each year. However, over time, India has become an attractive investment destination, drawing global attention. With the help of various factors such as improved foreign relations, steady strengthening of the dollar against the rupee, low inflation, and interest rates, transparency and security of investments, and the flurry of developmental activities across the country’s real estate sector is creating highly favorable opportunities for investment. As a result of this, there are multiple opportunities present for NRIs, which include</p>        
+        <p><ul>
+        <li><strong>Tax exemption:</strong> By investing in real estate an NRI can save tax. Tax deduction on home loans on principal repayment and interest component can be claimed by the NRIs.</li>
+        <li><strong>Rental Income:</strong> You can rent out your property on lease in India without any trouble. The income can be received to an account in India or the NRI’s account in the country he is currently residing in.</li>
+        <li><strong>Retirement benefits:</strong> NRIs that tend to plan their retirement can invest in India and take advantage of a reverse mortgage. This type of mortgage is not factored in the taxable income for NRIs. In this way, ageing NRIs can enjoy the benefits of their property in India.</li>
+        <li><strong>Prime Location:</strong> JP Infra has projects in most of the supreme destinations for investment. We create townships that balance luxury and convenience.</li>
+        <li><strong>Emotional security:</strong> Most NRIs nurse a dream of returning to their motherland and settling comfortably in their homes in the sunset years.</li>
+        </ul></p>
       </div>
     </section>
 
@@ -183,38 +190,138 @@
         <div class="accordion-container">
           <div class="set">
             <a>
-              Vestibulum 
+            1. Who is a Non-Resident Indian (NRI)? 
               <i class="fa fa-plus"></i>
             </a>
             <div class="content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+              <p>An Indian citizen who stays abroad for employment/ carrying business or vocation for a certain period is a non-resident.</p>
             </div>
           </div>
           <div class="set">
             <a>
-              Phasellus 
+            2. Who is Overseas Citizen of India (OCI)? 
               <i class="fa fa-plus"></i>
             </a>
             <div class="content">
-              <p> Aliquam cursus vitae nulla non rhoncus. Nunc condimentum erat nec dictum tempus. Suspendisse aliquam erat hendrerit vehicula vestibulum.</p>
+              <p>The Overseas Citizenship of India (OCI) is an immigration status permitting a foreign citizen of Indian origin to live and work in India.</p>
             </div>
           </div>
           <div class="set">
             <a>
-              Praesent 
+            3. Can NRIs buy real estate properties in India? 
               <i class="fa fa-plus"></i>
             </a>
             <div class="content">
-              <p>Pellentesque aliquam ligula libero, vitae imperdiet diam porta vitae. sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+              <p>Yes. NRIs can buy and sell residential and commercial properties in India.</p>
             </div>
           </div>
           <div class="set">
             <a>
-              Curabitur 
+            4. Is there any restriction on the number of properties, NRIs can buy in India? 
               <i class="fa fa-plus"></i> 
             </a>
             <div class="content">
-              <p> Donec tincidunt consectetur orci at dignissim. Proin auctor aliquam justo, vitae luctus odio pretium scelerisque. </p>
+              <p>There is no restriction on the number of residential or commercial properties an NRI can own in India. But there are certain laws that restrict NRIs from purchasing any kind of agricultural land/ plantation property/ farm house in India.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            5. Do NRIs have to take permission from Reserve Bank before purchasing a property in India? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>Reserve Bank has granted general permission to the NRI's whether resident in India or abroad, to purchase immovable property in India for their bonafide residential purpose. They are, therefore, not required to obtain the permission of the Reserve Bank.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            6. Are there any formalities required to be completed by NRIs for purchasing real estate properties? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>They are required to file a declaration in form IPI 7 with the Central Office of Reserve Bank at Mumbai within a period of 90 days from the date of purchase of immovable property or final payment of purchase consideration along with a certified copy of the document evidencing the transaction and bank certificate regarding the consideration paid.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            7. Can such property be sold without permission of Reserve Bank? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>Yes, Reserve Bank has granted permission for sale of such property.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            8. Can the properties be given on rent if not required for immediate use? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>Yes. Reserve Bank has granted general permission for letting out any immovable property in India. Any sort of income from such investment is eligible for repatriation.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            9. Can NRIs transfer residential property by way of gift? If yes, to whom? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>Yes, the Reserve Bank has granted permission to NRIs to acquire or dispose of NRI India Properties by way of a gift from or to a relative who may be an Indian citizen whether resident in India or not.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            10. Can NRIs obtain loans from financial institutions? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>Yes, the Reserve Bank has granted permission to certain financial institutions providing housing finance e.g. HDFC, LIC Housing Finance Ltd., etc., and authorized dealers to grant housing loans to NRI nationals for acquisition of a house/flat for self-occupation subject to certain conditions.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            11. What are the kind of properties an NRI cannot buy? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>An NRI cannot buy agricultural land/plantation property/farmhouses in India. Proposals to buy such land have to be specifically approved by RBI, in consultation with the Government of India.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            12. Does NRI/OCI have to file tax returns? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>If you are an NRI/OCI, you would have to file your tax returns if you fulfill either of these conditions:
+                 Your taxable income in India during the year was above the basic exemption limit of INR.1.6 lakh or you have earned short-term or long-term capital gains from the sale of any investments or assets, even if the gains are less than the basic exemption limit.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            13. How can NRIs file tax returns if they are currently away from India? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>In these cases, you can file your tax return either by giving a power of attorney to someone in India or by sending your form and documents to a tax expert in India who would then file the return on your behalf. You can file the tax returns by using the online platform also.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            14. What is the Tax treatment for income generated from property selling or renting for NRI/OCI? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>Only purchasing the property does not attract income tax. However, any income accruing from the ownership of it, in the form of rent/annual value of the house and/or capital gains, arising on the sale of this house or part, thereof is taxable in the hands of the owner.</p>
+            </div>
+          </div>
+          <div class="set">
+            <a>
+            15. Does Capital Gains Tax (CGT) apply to NRI/OCI? 
+              <i class="fa fa-plus"></i> 
+            </a>
+            <div class="content">
+              <p>Yes. Long-term and short-term capital gains are taxable to NRI/OCI.</p>
             </div>
           </div>
         </div>     
