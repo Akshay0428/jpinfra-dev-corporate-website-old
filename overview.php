@@ -161,7 +161,7 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
       <div class="container_main">
         <div class="abt-blueline"></div>
         <h1 class="texttransform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">our redevelopment projects</h1>
-        <p class="txt-align fontweight redevelopment-p" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
+        <p class="txt-align fontweight redevelopment-p" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">JP Infra through its redeveloped projects have taken the first step towards sustainable living and maintaining ecological balance making the residents proud eco-warriors.</p>
         <div class="abtpage-btn">
           <div class="abtpaebtn-txt">know more</div>
            <div class="abtpaebtn-arow">
@@ -205,7 +205,8 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
     <div class="abt-wwu container_main">
       <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
       <h1 class="texttransform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">work with us</h1>
-      <p class="fontweight abt-p-width" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
+      <p class="fontweight abt-p-width" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">JP Infra is one of India’s most established real estate brands in the Mumbai suburban market. At JP Infra, we believe in team spirit and working together like one unit to build homes that provide you the lifestyle you dream of. Our motto is that inspired teams naturally provide excellent and dedicated customer service, which can be brought about by providing a healthy work environment.</p>
+      <p class="fontweight abt-p-width" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Upload resumes at careers@jpinfra.com to join the team.</p>
     </div>
     <!-- work with us ends -->
 
