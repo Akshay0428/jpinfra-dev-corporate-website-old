@@ -24,6 +24,7 @@
                   width: 6px;
                   height: 12px;
                   border-radius: 50%;
+                outline: none;
                 }
                 /* Custom Arrow */
                 .prev-button {
@@ -64,7 +65,7 @@
             </style>
     <!-- banner start -->
     <section class="banner-wws">
-        <img src="img/work-with-us/Banner-wws.jpg" alt="banner">
+        <img src="img/redevelopment/Banner-redevelopment.jpg" alt="banner">
     </section>
     <div class="logo-banner">
         <a href="https://www.dotwisedigital.com/jpuat">

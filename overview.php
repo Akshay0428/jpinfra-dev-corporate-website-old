@@ -83,8 +83,8 @@
       <h1 class="texttransform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">about JP infra</h1>
       <div class="abtus-jpinfra">
         <div class="abtus-txt">
-          <h3 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
-          <p class="fontweight" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">JP Infra signifies the perfect combination of dynamism and growth. With strong leadership at the helm, the business has set a strong vision and an ambitious growth path for itself. Founded in 2006, JP Infra has carved a niche for itself in terms of project delivery, with most projects being referred to as landmarks; few even as benchmarks.
+          <h3 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">JP Infra signifies the perfect combination of dynamism and growth.</h3>
+          <p class="fontweight" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">With strong leadership at the helm, the business has set a strong vision and an ambitious growth path for itself. Founded in 2006, JP Infra has carved a niche for itself in terms of project delivery, with most projects being referred to as landmarks; few even as benchmarks.
 JP Infra believes in bringing serenity back to the bustling and busy nature of the city of Mumbai. The brand offers a calm, peaceful lifestyle to its residents with the provision of lush green spaces. That doesn’t take away from the futuristic and progressive technology employed in the working of the projects or the state-of-the-art amenities available to home buyers and residents. Thanks to its ultra-modern thinking and approach, JP Infra has been rewarded with most prestigious awards in the recent times, all of which will tie back in with the concept of providing international standards of modern living.</p>
         </div>
         <div class="abtus-img">

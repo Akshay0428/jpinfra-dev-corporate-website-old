@@ -88,7 +88,7 @@
       <div class="main_title_jpdesk">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 class="txt-transform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">About the project</h1>
-         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">LIVE LIFE THE ELEGANT WAY WITH JP</div>
+         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">LIVE LIFE THE ELEGANT WAY WITH JP INFRA</div>
 
          <div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <p>Located in the heart of the city, Unity Towers is nothing short of a dream home. Offering the most heavenly views of the city, JP Infra’s Unity Towers gives you the opportunity to embrace the finer things in life. Providing an excellent view of the city’s skyline, the houses are constructed to turn your dreams into reality.It offers you the innumerable benefits of living in one of the most affluent and sought after locations of the city. With some of the best malls, hospitals and education institutes closeby, all your needs are looked after. Not just that, with a Jain Temple nearby, it is conducive to an environment of spirituality and bliss.
@@ -167,7 +167,7 @@
       </div>
       <div class="gal-img">
         <img src="img/jp_delivered/Unity_Towers/Unity-Towers.jpg" alt="Unity-Towers">
-        <p class="txt-align texttransform fontweight pdng-top">Unity Towers</p>
+        <p class="txt-align texttransform fontweight pdng-top">Bedroom</p>
       </div>
     </div>
 

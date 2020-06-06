@@ -158,7 +158,7 @@
       </div>
       <div class="gal-img">
         <img src="img/jp_delivered/Chalet_Amar/Kitchen-&-Home-Theatre.jpg" alt="Kitchen-&-Home-Theatre">
-        <p class="txt-align texttransform fontweight pdng-top">Kitchen & Home Theatre</p>
+        <p class="txt-align texttransform fontweight pdng-top">Kitchen</p>
       </div>
       <div class="gal-img">
         <img src="img/jp_delivered/Chalet_Amar/Living-Dinning.jpg" alt="Living-Dinning">

@@ -128,7 +128,7 @@
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <img src="img/jp_delivered/Estella/Open-to-Sky Swimming Pool.png" alt="Open-to-Sky Swimming Pool">
-            <p class="txt-align pdng-top">Open to Sky Swimming Pool</p> 
+            <p class="txt-align pdng-top">Open-to-Sky-Swimming Pool</p> 
           </div>
           <div class="plus3 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">

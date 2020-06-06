@@ -122,7 +122,7 @@
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <img src="img/jp_delivered/Atria/Jacuzzi-&-Spa.png" alt="Jacuzzi-&-Spa">
-            <p class="txt-align pdng-top">Jacuzzi & Spa</p> 
+            <p class="txt-align pdng-top">Steam, Sauna & Spa</p> 
           </div>
           <div class="plus2 cmn_plus">
             <img src="img/jp_delivered/jpdesk/Plus.png">
@@ -136,7 +136,7 @@
           </div>
           <div class="pd-icon" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <img src="img/jp_delivered/Atria/Open-to-Sky Swimming Pool.png" alt="Open-to-Sky Swimming Pool">
-            <p class="txt-align pdng-top">Open to Sky Swimming Pool</p> 
+            <p class="txt-align pdng-top">Open-to-Sky-Swimming Pool</p> 
           </div>
         </div>
 
