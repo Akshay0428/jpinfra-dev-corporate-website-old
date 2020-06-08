@@ -917,7 +917,7 @@
 					</div>
 					<div class="container_main bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">    
 						<h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="txt-transform">north</h1>
-						<p data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="container_main txt-align fontweight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen</p>
+						<p data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="container_main txt-align fontweight">JP North is the definition of serenity combined with community living. If international living standards is what you look for in your future home, North is the place for you. It is a garden paradise that transports its residents away from the harsh din of the city. Replete with world-class amenities, JP North allows you to live the wholesome life you deserve.</p>
 						<!--btn-->
 			            <div class="project-property-button mrgin_proj">
 			                <a href="northjp.php">
