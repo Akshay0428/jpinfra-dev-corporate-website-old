@@ -714,9 +714,9 @@ Counter
 }
 
 .numbers-div {
-        width: 25%;
+        width: 25% !important;
         float: left;
-        padding: 0 5px;
+        padding: 0 5px !important;
 }
 .border-ryt{
         border-right: 1px solid #fff;
