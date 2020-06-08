@@ -714,9 +714,9 @@ Counter
 }
 
 .numbers-div {
-        width: 33.33%;
+        width: 25%;
         float: left;
-        padding: 0 20px;
+        padding: 0 5px;
 }
 .border-ryt{
         border-right: 1px solid #fff;
@@ -725,38 +725,38 @@ Counter
         width: 50%;
         float: left;
 }
-
 .number-content h1 {
-        font-size: 50px;
-        color: #fff;
-        letter-spacing: 2px;
-        margin: 0;
-        text-align: right;
-        padding: 0px 10px 0px 0px;
-        font-weight: 100;
+    font-size: 30px;
+    color: #fff;
+    letter-spacing: 2px;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+    font-weight: 100;
 }
 .number-content p {
         font-size: 16px;
         color: #fff;
         margin: 0px 0;
-        padding: 8px 0px 0px 20px;
+        padding: 0px;
         /*font-family: POPPINS-REGULAR;*/
         font-weight: 500;
-            line-height: 1.2;
+        line-height: 1.2;
+        text-align: center;
 }
 span.base_no {
     font-weight: 500;
-    font-size: 14px;
+    font-size: 10px;
 }
-.adjust-margin{
+/*.adjust-margin{
     margin-left: 25px !important;
-}
+}*/
 .marg-left{
     margin-left: 30px !important;
 }
-.extra-mrg{
+/*.extra-mrg{
     margin-right: 15px !important;
-}
+}*/
 /*--------------------------------------------------------------
 JP North parallax
 --------------------------------------------------------------*/
@@ -3783,7 +3783,11 @@ a.ftr_maill:active {
     color: #333 !important;
     font-weight: 500 !important;
 }
-
+div#project h4 {
+     text-align: left; 
+    text-transform: uppercase;
+    padding-top: 0 !important;
+}
 /****************nri corner page start****************/
 
 .nri-corner-text{

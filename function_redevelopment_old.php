@@ -24,6 +24,7 @@
                   width: 6px;
                   height: 12px;
                   border-radius: 50%;
+                outline: none;
                 }
                 /* Custom Arrow */
                 .prev-button {
@@ -64,7 +65,7 @@
             </style>
     <!-- banner start -->
     <section class="banner-wws">
-        <img src="img/work-with-us/Banner-wws.jpg" alt="banner">
+        <img src="img/redevelopment/Banner-redevelopment.jpg" alt="banner">
     </section>
     <div class="logo-banner">
         <a href="https://www.dotwisedigital.com/jpuat">
@@ -79,9 +80,7 @@
         <div class="wwu-main">
             <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="txt-transform">redevelopment in mumbai</h1>
-            <p class="fontweight" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
-            <p class="fontweight" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            <p class="fontweight" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Mumbai, often seen as the commercial capital of India, is home to the most diverse range of people. The population is on an ever-increasing spree. Open land parcels have started decreasing by the minute. Redevelopment has emerged as the most viable option to revamp the city’s skyline. JP Infra is shaping such buildings into new, modern places to live. Till now, we have redeveloped three projects and taken our first step towards sustainable living.</p>
         </div>
     </div>
     <!-- redevelopment ends -->
@@ -94,19 +93,19 @@
         </div>
         <div class="main-func">
             <div class="proj_heading">
-                <div class="srw-tab proj_name" id="solar">
+                <div class="srw-tab proj_name" id="jp_decks">
                     <div class="proj_main blue1_active" id="blue1">
                         <h6 class="txt-upper" id="h61">jp decks</h6>
                     </div>
                     <div class="triangle_down td_active" id="triangle_1"></div>
                 </div>
-                <div class="srw-tab proj_name" id="water">
+                <div class="srw-tab proj_name" id="chalet_amar">
                     <div class="proj_main" id="blue2">
                         <h6 class="tc-blue txt-upper" id="h62">chalet amar</h6>
                     </div>
                     <div class="triangle_down" id="triangle_2"></div>
                 </div>
-                <div class="srw-tab proj_name" id="waste">
+                <div class="srw-tab proj_name" id="unity_tower">
                     <div class="proj_main" id="blue3">
                         <h6 class="tc-blue txt-upper" id="h63">unity towers</h6>
                     </div>
@@ -116,7 +115,7 @@
             <div class="clearfix"></div>
 
             <div class="redev_click">
-                <div class="solar">
+                <div class="jp_decks">
                     <div class="proj_info">
                         <div class="proj_slider">
                             <div class="slider_img">
@@ -133,24 +132,20 @@
                             </div>
                         </div>
                         <div class="proj_txt">
-                            <ul>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-
+                            <ul>            
+                                <li>JP Decks is just the place for your family - an exclusive standalone tower with two wings rising to 39 floors with 2 and 3-bed apartments.</li>
+                                <li>JP Decks is JP Infra’s landmark project that has set around 13604 sq mts of land.</li>
+                                <li>With its contemporary facade, beautiful landscapes, world-class amenities, and finest panoramic views of national park and city skyline, JP Decks is sure to become the most coveted residential tower in Gurgaon.</li>
+                                <li>The amenities here are extraordinaire and like ‘never seen before’. </li>
+                                <li>Architect Reza Kabul has planned this masterpiece with new age luxuries like the automated car wash facility and an inviting guest-room specially designed to enthrall near ones.</li>
+                                <li>The mini amphitheater and the magnanimous play area bring the world of imagination to life.</li>
                             </ul>
                         </div>
                         <div class="clearfix"></div>
                     </div>
                 </div>
 
-                <div class="rainwater">
+                <div class="chalet_amar">
                     <div class="proj_info">
                         <div class="proj_slider">
                             <div class="slider_img">
@@ -165,23 +160,17 @@
                         </div>
                         <div class="proj_txt">
                             <ul>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-
+                                <li>Jp Infra at Juhu brings to you a luxurious residential project of 1370 sq mts at Chalet Amar which ensures an enriched life. </li>
+                                <li>The project is strategically located and provides access to the entire city to its esteemed residents.</li>
+                                <li>With ultra-modern amenities and world-class facilities, Chalet Amar is truly Mumbai’s most exclusive and coveted address.</li>
+                                <li>Here you will discover just how enriching, how full of promise, every minute can be.</li>
                             </ul>
                         </div>
                         <div class="clearfix"></div>
                     </div>
                 </div>
 
-                <div class="waste">
+                <div class="unity_tower">
                     <div class="proj_info">
                         <div class="proj_slider">
                             <div class="slider_img">
@@ -192,17 +181,11 @@
                             </div>
                         </div>
                         <div class="proj_txt">
-                            <ul>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-                                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
-
+                            <ul>            
+                                <li>Set in South Mumbai’s prime locale, Worli, Unity Towers is a rich landscape designed to provide intelligent architecture and beautiful homes.</li>
+                                <li> Built around 1086 sq mts of land, it offers easy access to a royal experience and a modern lifestyle where each moment that you live is a rare privilege.</li>
+                                <li>With a Jain temple nearby, it is conducive to an environment of spirituality and bliss.</li>
+                                <li> An earthquake resistant RCC construction, it also guarantees you’re well connected to local railways and bus depots which can ferry you to any place in the city in a short time!</li>
                             </ul>
                         </div>
                         <div class="clearfix"></div>
@@ -219,14 +202,13 @@
 <script>
  $(document).ready(function(){
     
-    $('#solar').click(function(){
-        $('.redev_click .solar').show();
-        $('.redev_click .rainwater').hide();
-        $('.redev_click .waste').hide();
+    $('#jp_decks').click(function(){
+        $('.redev_click .jp_decks').show();
+        $('.redev_click .chalet_amar').hide();
+        $('.redev_click .unity_tower').hide();
         $('#triangle_1').css("display","block")
         $('#triangle_2').css("display","none")
         $('#triangle_3').css("display","none")
-        $('#h61').css("color","#fff")
         $('#h61').css("color","#fff")
         $('#h62').css("color","#2E5689")
         $('#h63').css("color","#2E5689")
@@ -234,10 +216,10 @@
         $('#blue2').css("background-color","#fff")
         $('#blue3').css("background-color","#fff")
     });
-    $('#water').click(function(){
-        $('.redev_click .solar').hide();
-        $('.redev_click .rainwater').show();
-        $('.redev_click .waste').hide();
+    $('#chalet_amar').click(function(){
+        $('.redev_click .jp_decks').hide();
+        $('.redev_click .chalet_amar').show();
+        $('.redev_click .unity_tower').hide();
         $('#triangle_1').css("display","none")
         $('#triangle_2').css("display","block")
         $('#triangle_3').css("display","none")
@@ -248,10 +230,10 @@
         $('#blue2').css("background-color","#2E5689")
         $('#blue3').css("background-color","#fff")
     });
-    $('#waste').click(function(){
-        $('.redev_click .solar').hide();
-        $('.redev_click .rainwater').hide();
-        $('.redev_click .waste').show();
+    $('#unity_tower').click(function(){
+        $('.redev_click .jp_decks').hide();
+        $('.redev_click .chalet_amar').hide();
+        $('.redev_click .unity_tower').show();
         $('#triangle_1').css("display","none")
         $('#triangle_2').css("display","none")
         $('#triangle_3').css("display","block")

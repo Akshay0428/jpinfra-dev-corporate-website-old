@@ -366,33 +366,43 @@ transition:all .6s ease-in-out;
 <!---Counter desktop new start-->
 <div class="below-banner-section m_hide">
    <div class="content-div" id="">
-      <div class="numbers-div border-ryt">
+   	 <div class="numbers-div border-ryt">
          <div class="number-content">
-            <h1>12</h1>
+            <h1>1200 +</h1>
          </div>
          <div class="number-content">
-            <p>YEARS<br>OF GROWTH</p>
+            <p>APARTMENTS DELIVERED<br>IN FY 19-20</p>
+         </div>
+         <div class="clearfix"></div>
+      </div>
+      <div class="numbers-div border-ryt">
+         <div class="number-content">
+            <h1>14</h1>
+         </div>
+         <div class="number-content">
+            <p>YEARS OF GROWTH</p>
          </div>
          <div class="clearfix"></div>
       </div>
       <div class="numbers-div border-ryt">
          <div class="number-content">
-            <h1 class="adjust-margin">1200+</h1>
-         </div>
-         <div class="number-content">
-            <p>APARTMENTS<br>IN FY 19-20</p>
-         </div>
-         <div class="clearfix"></div>
-      </div>
-      <div class="numbers-div">
-         <div class="number-content">
-            <h1 class="extra-mrg">4 <span class="base_no">mn sq ft</span></h1>
+            <h1>4 <span class="base_no">Million sqft</span></h1>
          </div>
          <div class="number-content">
             <p>UNDER<br>CONSTRUCTION</p>
          </div>
          <div class="clearfix"></div>
       </div>
+      <div class="numbers-div">
+         <div class="number-content">
+            <h1>5000 +</h1>
+         </div>
+         <div class="number-content">
+            <p>HAPPY <br>CUSTOMERS</p>
+         </div>
+         <div class="clearfix"></div>
+      </div>
+      <div class="clearfix"></div>
    </div>
    <div class="clearfix"></div>
 </div>
@@ -1234,7 +1244,7 @@ transition:all .6s ease-in-out;
    <div class="container_main">
       <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
       <div class="liveHead" data-aos="fade-down" data-aos-duration="3000">Future Living, Today</div>
-      <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Our Projects</h1>
+      <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Current Projects</h1>
       <p class="pr_cntr_p" data-aos="fade-up" data-aos-duration="3000">To us, home is not just a place but also a feeling. We believe in building homes that enhance your living space as well as your lifestyle. Nestled amongst greenery, we feel that healthy homes are happy homes.</p>
       <div class="project">
          <div class="pr_tab">
@@ -1303,6 +1313,7 @@ transition:all .6s ease-in-out;
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Now or Never</h2>
+                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">ANOTHER NORTHERN DELIGHT</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Experience the finer things in life at Codename Now or Never and live life in style. A perfect blend of all things sweet, spicy and sour, it is sure to keep all your taste buds and preferences happy and satisfied.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
@@ -1319,6 +1330,7 @@ transition:all .6s ease-in-out;
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Hotcake</h2>
+                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">OPEN PAYMENT PLANS - YOUR HOUSE, YOUR CHOICE</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Smartly planned, with every brick crafted to perfection, Codename Hotcake is styled to fulfil every need of your dream home. Equipped with the latest technology and necessities close at hand, Codename Hotcake aspires to make the experience at Mira Road better than your dreams.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
@@ -1335,6 +1347,7 @@ transition:all .6s ease-in-out;
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Open Streets</h2>
+                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">INSPIRED BY THE EUROPEAN CITY OF BARCELONA</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Harmonizing nature, luxuries and convenience in European style, Codename Open Streets provides a grand lifestyle. Well-connected and equipped with the latest amenities, Mira Road’s North Garden City offers homes loved by one & all.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
@@ -1352,6 +1365,7 @@ transition:all .6s ease-in-out;
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Elara</h2>
+                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED LUSH GREEN VIEWS</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled in lush green surroundings, JP North’s Elara offers a home that goes beyond the 4 walls of your room. Situated in the heart of nature, it is well connected to both the Eastern & Western routes of the city. Equipped with a vast range of amenities, Elara provides you with a well rounded & tranquil lifestyle.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
@@ -1369,6 +1383,7 @@ transition:all .6s ease-in-out;
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Euphoria</h2>
+                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">A HAVEN OF PURE BLISS AND DELIGHT</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">JP North’s Euphoria offers a lifestyle where you are in touch with nature everyday, encompassing all the requisites of a perfect dream home. It provides an ambience brimming with restaurants, salons, top-notch institutes and various other lifestyle conveniences.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
@@ -1385,6 +1400,7 @@ transition:all .6s ease-in-out;
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Alexa</h2>
+                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">AN OASIS OF LUXURY IN THE HEART OF MIRA ROAD</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Designed to provide a myriad of experiences, JP North’s Alexa is set to incorporate tranquillity and serenity of nature into your lifestyle. Blended with all the latest amenities and everyday facilities, experience the futuristic lifestyle for the futuristic life at JP North Alexa.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
@@ -1401,6 +1417,7 @@ transition:all .6s ease-in-out;
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Altus</h2>
+                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED 270 DEGREE VIEW OF CITY SKYLINE</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Situated in the heart of the city, Altus offers stunning views of the city skyline merging with the serene horizon of the Arabian Sea. Equipped with all the latest amenities, Altus’s strategic location offers easy connectivity to all major business hubs and several well-known recreational spaces.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">30+ OUTDOOR</p>-->
@@ -1640,7 +1657,7 @@ transition:all .6s ease-in-out;
           <!-- slider desktop start -->
         <div class="sep">
             <div class="new slide-media">
-            	 <div class="image-hover img-shadow-1 sss">
+<!--             	 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/Safety.jpg" alt="Safety">
                     <h5>National Safety Week:</h5>
                     <p>Endorsing safety week by implementing standard safety protocol and precautionary measures</p>
@@ -1689,7 +1706,7 @@ transition:all .6s ease-in-out;
                     <img src="img/media/utrang.jpg" alt="utrang">
                     <h5>JP Udtarang :</h5>
                     <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
-                </div>
+                </div> -->
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/Launch-Of-Clubhouse.jpg" alt="Launch-Of-Clubhouse">
                     <h5>Launch Of Clubhouse</h5>
@@ -1706,7 +1723,7 @@ transition:all .6s ease-in-out;
                     <h5>North - Newsletter 4th Edition</h5>
                     <p>Catch up on the latest events in JP North through this Newsletter</p>
                 </div>
-                <div class="image-hover img-shadow-1 sss">
+                <!-- <div class="image-hover img-shadow-1 sss">
                     <iframe width="245px" height="185px" src="https://www.youtube.com/embed/nL0aKmi_U6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
                     <h5>Women's Day 2020</h5>
                     <p>A glimpse of what our leaders think about who “She” is</p>
@@ -1720,7 +1737,7 @@ transition:all .6s ease-in-out;
                     <iframe width="245px" height="185px" src="https://www.youtube.com/embed/3_gy342pBqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Gudi Padwa Offer- CNBZ Awaaz</h5>
                     <p>The celebration of Gudi Padwa with smiles around and excited homebuyers who received cash vouchers and Godrej Interio modular kitchens</p>
-                </div>
+                </div> -->
                 <div class="image-hover img-shadow-1 sss">
                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/o3qLmsuw118" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Zee Business Property Plus</h5>
