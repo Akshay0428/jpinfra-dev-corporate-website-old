@@ -111,7 +111,7 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
               <img src="img/about-us/MR.-Vijay-Jain.jpg" alt="leader2">
             </div>
             <div class="leader-box-txt">
-              <h3 class="abtus-color fontweight-bold">MR. Vijay Jain</h3>
+              <h3 class="abtus-color fontweight-bold">Mr. Vijay Jain</h3>
               <h6 class="abtus-color texttransform">chairman</h6>
               <p class="fontweight">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, </p>
             </div>
@@ -121,14 +121,14 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
               <img src="img/about-us/MR-Shubham-Jain.jpg" alt="leader2">
             </div>
             <div class="leader-box-txt">
-              <h3 class="abtus-color fontweight-bold">MR. Shubham Jain</h3>
+              <h3 class="abtus-color fontweight-bold">Mr. Shubham Jain</h3>
               <h6 class="abtus-color texttransform">Managing Director</h6>
               <p class="fontweight">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, </p>
             </div>
           </div>
         </div>
 
-        <div class="leader-slider">
+<!--         <div class="leader-slider">
           <div class="leader-box">
             <div class="leader-box-img">
               <img src="img/about-us/MR.-Vijay-Jain.jpg" alt="leader2">
@@ -149,7 +149,7 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
               <p class="fontweight">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, </p>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="clearfix"></div>
     </div>
