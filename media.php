@@ -192,7 +192,7 @@ button.prev-button-home.slick-arrow {
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <iframe width="245px" height="185px" src="https://www.youtube.com/embed/1faplVFYv7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <h5>Latest Construction Update:</h5>
+                    <h5>Latest Construction Update</h5>
                     <p>Have a look at how JP North is bringing your dreams to life.</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
