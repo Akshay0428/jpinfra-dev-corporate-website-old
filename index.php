@@ -1220,8 +1220,9 @@ transition:all .6s ease-in-out;
     <div class="main-div-jp">
         <h1 class="banner-title" data-aos="zoom-in-down" data-aos-duration="2000">North - A Lifestyle</h1>
         <P class="banner-subtitle1" data-aos="zoom-in-down" data-aos-duration="2000">Transforming Mira Road </P>
-        <p class="banner-subtitle" data-aos="zoom-in-down" data-aos-duration="2000">North Mumbai has gone through rapid development thanks to the space crunch and cluttered, boxy apartments in south Mumbai. Infrastructure has played a crucial role in driving growth. The aspiring Mumbaikar welcomes the sizeable emergence of affordable homes and enhanced connectivity in the new preferred hub of North Mumbai.  
-        </p>
+        <!-- <p class="banner-subtitle" data-aos="zoom-in-down" data-aos-duration="2000">North Mumbai has gone through rapid development thanks to the space crunch and cluttered, boxy apartments in south Mumbai. Infrastructure has played a crucial role in driving growth. The aspiring Mumbaikar welcomes the sizeable emergence of affordable homes and enhanced connectivity in the new preferred hub of North Mumbai.  
+        </p> -->
+        <p class="banner-subtitle" data-aos="zoom-in-down" data-aos-duration="2000">Due to the growing need for individual housing, North Mumbai has gone through rapid development over the last decade. Community living with access to world-class amenities have become the norm in North Mumbai housing projects. The aspiring Mumbaikar welcomes the sizeable emergence of affordable housing with international standards of living.</p>
        <!--btn-->
        <div class="jplife-button">
           <div class="know-text-jplife">

@@ -2,6 +2,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
 
 <style>
+
                 .slick-dots {
                     text-align: center;
                     margin: 0 0 10px 0;
@@ -145,19 +146,37 @@
                     </div>
                 </div>
 
-                <div class="rainwater">
+                <!-- slider wala code  old -->
+<!--                 <div class="rainwater">
                     <div class="proj_info">
-                        <div class="proj_slider">
+                        <div class="">
                             <div class="slider_img">
                                 <img src="img/redevelopment/chalet_amar/Chalet-Amar.jpg" alt="Chalet-Amar">
                             </div>
                             <div class="slider_img">
                                 <img src="img/redevelopment/JP-DECKS-02.jpg" alt="jpdecks-img2">
                             </div>
-<!--                             <div class="slider_img">
+                            <div class="slider_img">
                                 <img src="img/redevelopment/JP-DECKS-03.jpg" alt="jpdecks-img3">
-                            </div> -->
+                            </div>
                         </div>
+                        <div class="proj_txt">
+                            <ul>
+                                <li>Jp Infra at Juhu brings to you a luxurious residential project of 1370 sq mts at Chalet Amar which ensures an enriched life. </li>
+                                <li>The project is strategically located and provides access to the entire city to its esteemed residents.</li>
+                                <li>With ultra-modern amenities and world-class facilities, Chalet Amar is truly Mumbai’s most exclusive and coveted address.</li>
+                                <li>Here you will discover just how enriching, how full of promise, every minute can be.</li>
+                            </ul>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div> -->
+
+                <div class="rainwater">
+                    <div class="proj_info">
+                            <div class="slider_img single_code">
+                                <img src="img/redevelopment/chalet_amar/Chalet-Amar.jpg" alt="Chalet-Amar">
+                            </div>
                         <div class="proj_txt">
                             <ul>
                                 <li>Jp Infra at Juhu brings to you a luxurious residential project of 1370 sq mts at Chalet Amar which ensures an enriched life. </li>

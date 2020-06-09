@@ -3388,6 +3388,11 @@ redevelopment project mumbai
 .slider_img img {
     width: 100%;
 }
+.single_code{
+    width: 50%;
+    float: left;
+    padding-bottom: 60px;
+}
 .proj_txt {
     width: 50%;
     float: left;
@@ -5289,7 +5294,7 @@ Sustainability Page
 p.head_con {
     font-size: 22px;
     text-align: left;
-    font-weight: 600;
+    font-weight: 500;
 }
 .integral_living{
     width: 100%;

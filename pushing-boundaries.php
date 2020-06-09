@@ -168,7 +168,7 @@ in construction.</p>
             <div class="human_main">
                 <div class="main_absolute">
                         <div class="content_abs">
-                            <p class="head_con">“Quality of life actually begins at home – it’s in your street, around your community” – Charles Kennedy </p>
+                            <p class="head_con"><i>“Quality of life actually begins at home – it’s in your street, around your community” –<br> Charles Kennedy</i> </p>
                             <p class="para_con">A prized city, Barcelona gave life back to their streets by introducing this concept and we, at JP Infra, are striving to do the same. In the hustle and bustle of Mumbai’s busy streets, you get to experience a pollution-free zone by restricting entry to carbon-emitting vehicles. JP Infra is proud to be part of bringing a slice of Europe to Mumbai to create a residential utopia, inspired by international style living.</p>
                         </div>
                 </div>

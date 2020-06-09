@@ -113,7 +113,7 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
             <div class="leader-box-txt">
               <h3 class="abtus-color fontweight-bold">Mr. Vijay Jain</h3>
               <h6 class="abtus-color texttransform">chairman</h6>
-              <p class="fontweight">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, </p>
+              <p class="fontweight">Mr. Vijay Jain is a proud first-generation entrepreneur who has led from the front to allow JP Infra to grow into the formidable force in Mumbai’s real estate space, that it is today. Starting his career in textiles trading, Mr. Jain swiftly moved on to lead a group with diversified interests in real estate in India, thanks to his graduation in commerce and law. His easy-going nature, strong networking skills and pleasant approach allows him to provide a relatable human face to the brand. As a man with deep-rooted integrity, Mr. Vijan Jain believes in the power of the word: “It's vitally important to me that JP Infra acts honorably in all of its dealings and doesn't make false promises. I strongly believe that a man should keep his word and I've instilled the same belief in the company. As a tight-knit team, we're all focused on this and we'd like to think it's one of the things that distinguishes us.”</p>
             </div>
           </div>
           <div class="leader-box">
