@@ -113,7 +113,7 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
             <div class="leader-box-txt">
               <h3 class="abtus-color fontweight-bold">Mr. Vijay Jain</h3>
               <h6 class="abtus-color texttransform">chairman</h6>
-              <p class="fontweight">Mr. Vijay Jain is a proud first-generation entrepreneur who has led from the front to allow JP Infra to grow into the formidable force in Mumbai’s real estate space that it is today. His easy-going nature, strong networking skills and pleasant approach allows him to provide a relatable human face to the brand.</p>
+              <p class="fontweight txt-left">Mr. Vijay Jain is a proud first-generation entrepreneur who has led from the front to allow JP Infra to grow into the formidable force in Mumbai’s real estate space that it is today. His easy-going nature, strong networking skills and pleasant approach allows him to provide a relatable human face to the brand.</p>
             </div>
           </div>
           <div class="leader-box">
@@ -123,7 +123,7 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
             <div class="leader-box-txt">
               <h3 class="abtus-color fontweight-bold">Mr. Shubham Jain</h3>
               <h6 class="abtus-color texttransform">Managing Director</h6>
-              <p class="fontweight">Mr. Shubham Jain is highly influential for the dynamism and modern thinking that the brand is growing with. Thanks to his sheer commitment and undeniable passion, Shubham was awarded the Young Achiever of the Year in 2015. With a futuristic approach in mind, Shubham leads the team to being a step ahead of the curve.</p>
+              <p class="fontweight txt-left">Mr. Shubham Jain is highly influential for the dynamism and modern thinking that the brand is growing with. Thanks to his sheer commitment and undeniable passion, Shubham was awarded the Young Achiever of the Year in 2015. With a futuristic approach in mind, Shubham leads the team to being a step ahead of the curve.</p>
             </div>
           </div>
         </div>
