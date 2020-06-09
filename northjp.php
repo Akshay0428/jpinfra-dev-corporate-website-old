@@ -413,7 +413,7 @@ top: 81.5% !important;
                     <a href="https://www.jpinfra.com/jp-north/gardencity/" target="blank">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
-                                <p class="ols-p">Beautifully crafted 1, 2 & 3 BHK<br>
+                                <p class="ols-p txt-transform">Beautifully crafted 1, 2 & 3 BHK<br>
                                     Recreation<br>
                                     Meditation Centre<br>
                                     Creche 
@@ -435,7 +435,7 @@ top: 81.5% !important;
                     <div class="np-bl-patch pos-absolute">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
-                                <p class="ols-p">1 & 2 BHK Premium Residences<br>
+                                <p class="ols-p txt-transform">1 & 2 BHK Premium Residences<br>
                                     Acupressure Walkway<br>
                                     Steam and Sauna<br>
                                     Recreation and Play Area
@@ -458,7 +458,7 @@ top: 81.5% !important;
                     <div class="np-bl-patch pos-absolute">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
-                                <p class="ols-p">Spacious 1, 2 & 3 BHK<br>
+                                <p class="ols-p txt-transform">Spacious 1, 2 & 3 BHK<br>
                                     Game Hub<br>
                                     Vehicle Free Zones  <br>
                                     Clubhouse
@@ -481,7 +481,7 @@ top: 81.5% !important;
                     <div class="np-bl-patch pos-absolute">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
-                                <p class="ols-p">Spanish- styled 1 & 2 BHK<br>
+                                <p class="ols-p txt-transform">Spanish- styled 1 & 2 BHK<br>
                                     Wifi Zone<br>
                                     Amphitheatre<br>
                                     Library Cafe
@@ -504,7 +504,7 @@ top: 81.5% !important;
                     <div class="np-bl-patch pos-absolute">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
-                                <p class="ols-p">Luxurious 1 Bed Homes<br>
+                                <p class="ols-p txt-transform">Luxurious 1 Bed Homes<br>
                                     Sports Arena<br>
                                     Shopping Arcade<br>
                                     Open-to-Sky Swimming Pool

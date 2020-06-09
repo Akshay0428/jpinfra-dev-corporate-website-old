@@ -346,7 +346,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/ongoing/donald.jpg">
 									<div class="media_hveff_pro"><h5>EASY ACCESSIBILITY EASY LIFE</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    8 Themed Gardens<br>
 		                                    28 Lifestyle Amenities<br>
 		                                    Green Living<br>
@@ -381,7 +381,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/ongoing/Codename-Hotcake.jpg" alt="Codename Hotcake">
 									<div class="media_hveff_pro"><h5>OPEN PAYMENT PLANS - YOUR HOUSE, YOUR CHOICE</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    1 & 2 BHK<br>
 		                                    Child Centric<br>
 		                                    Recreation<br>
@@ -416,7 +416,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/ongoing/Codename-Open-Streets.jpg" alt="Codename Open Streets">
 									<div class="media_hveff_pro"><h5>INSPIRED BY THE EUROPEAN CITY OF BARCELONA</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    1 & 2 BHK<br>
 		                                    Landscaped Garden<br>
 		                                    Acupressure Walkway<br>
@@ -450,7 +450,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/ongoing/Elara.jpg">
 									<div class="media_hveff_pro"><h5>UNOBSTRUCTED LUSH GREEN VIEWS</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    1,2 & 3 BHK<br>
 		                                    Child Centric<br>
 		                                    Fitness<br>
@@ -482,7 +482,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/ongoing/Euphoria.jpg">
 									<div class="media_hveff_pro"><h5>A HAVEN OF PURE BLISS AND DELIGHT</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    2 BHK & 3 BHK<br>
 		                                    Fitness<br>
 		                                    Recreation<br>
@@ -514,7 +514,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/ongoing/Alexa.jpg" alt="alexa">
 									<div class="media_hveff_pro"><h5>AN OASIS OF LUXURY IN THE HEART OF MIRA ROAD</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    1 BHK<br>
 		                                    CCTV Cameras<br>
 		                                    24 Hr Backup Electricity<br>
@@ -545,7 +545,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/ongoing/altus.jpg" alt="Altus">
 		    						<div class="media_hveff_pro"><h5>UNOBSTRUCTED 270 DEGREE VIEW OF CITY SKYLINE</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    
 		                                    3BHK<br>
 		                                    Park<br>
@@ -605,7 +605,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/delivered/Unity.jpg" alt="Unity Towers">
 									<div class="media_hveff_pro"><h5>LIVE LIFE THE ELEGANT WAY WITH JP INFRA</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                   1, 2 BHK Apartment<br>
 		                                    Terrace garden<br>
 		                                    Banquet Hall<br>
@@ -641,7 +641,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/delivered/JP-Decks.jpg" alt="JP-Decks">
 									<div class="media_hveff_pro"><h5>AVANT-GARDE HOMES FOR AVANT-GARDE LIFESTYLE</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    Luxurious 2 & 3 BHK Apartments<br>
 		                                    Swimming pool<br>
 		                                    Kids Play Area<br>
@@ -676,7 +676,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/delivered/Chalet-Amar.jpg" alt="Chalet Amar">
 									<div class="media_hveff_pro"><h5>CH TEAU DE COMFORT AT JUHU</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    5 BHK<br>
 		                                    Super Spacious Apartments<br>
 		                                    Terrace garden<br>
@@ -712,7 +712,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/delivered/Celeste.jpg" alt="Celeste">
 									<div class="media_hveff_pro"><h5>FUTURISTIC LIFESTYLE</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    Spanish-Styled 1 & 2 BHK Homes<br>
 		                                    Bio Diverse Gardens<br>
 		                                    Library Café<br>
@@ -747,7 +747,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/delivered/Atria.jpg" alt="Atria">
 									<div class="media_hveff_pro"><h5>REDEFINING INTEGRATED LIVING</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                   1 & 2 BHK luxurious Apartments<br>
 		                                    Club House<br>
 		                                    Landscaped Gardens<br>
@@ -783,7 +783,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/delivered/Estella.jpg" alt="Estella">
 									<div class="media_hveff_pro"><h5>LUXURY BEYOND 4 WALLS</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                    1,2,3 BHK Apartments<br>
 		                                    Indoor games<br>
 		                                    Sun-Deck Spa<br>
@@ -820,7 +820,7 @@
 								<div class="projectongoingimg columews">
 									<img src="img/project/delivered/Dreamland.jpg" alt="Dreamland">
 									<div class="media_hveff_pro"><h5>A SLICE OF PARADISE</h5>
-		                                <p class="proj_hvtext">
+		                                <p class="proj_hvtext texttransform">
 		                                   1, 2, 3 BHK Spacious Apartments<br>
 		                                    Parking Space<br>
 		                                    24 Hr Backup Electricity<br>

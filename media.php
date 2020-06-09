@@ -126,9 +126,9 @@ button.prev-button-home.slick-arrow {
 
 
           <!-- slider desktop start -->
-        <div class="sep">
+<div class="sep">
             <div class="new slide-media">
-                 <div class="image-hover img-shadow-1 sss">
+<!--                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/Safety.jpg" alt="Safety">
                     <h5>National Safety Week:</h5>
                     <p>Endorsing safety week by implementing standard safety protocol and precautionary measures</p>
@@ -171,23 +171,30 @@ button.prev-button-home.slick-arrow {
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/twins-day.jpg" alt="twins-day">
                     <h5>Twins Day celebration :</h5>
-                    <!-- <p>Team bonding at its highest – When two (or many) become one</p> -->
-                      <p>Excitement At Its Highest With Double Dhamaka</p>
+                    <p>Excitement At Its Highest With Double Dhamaka</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <img src="img/media/utrang.jpg" alt="utrang">
                     <h5>JP Udtarang :</h5>
                     <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
-                </div>
+                </div> -->
                 <div class="image-hover img-shadow-1 sss">
-                    <img src="img/media/Launch-Of-Clubhouse.jpg" alt="Launch-Of-Clubhouse">
+                    <!-- <img src="img/media/Launch-Of-Clubhouse.jpg" alt="Launch-Of-Clubhouse"> -->
+                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/m3yl55GEVEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Launch Of Clubhouse</h5>
                     <p>JP Infra’s luxurious clubhouse is magical and so the name “Khul Ja Sim Sim”</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
-                    <img src="img/media/Launch-Of-Hotcake.jpg" alt="Launch-Of-Hotcake">
+                    <!-- <img src="img/media/Launch-Of-Hotcake.jpg" alt="Launch-Of-Hotcake"> -->
+                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/tpUYth6v1wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Launch Of Hotcake</h5>
                     <p>Codename Hotcake was launched with hot opportunities, hot space, hot amenities and these were all grabbed by our hot home buyers</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/1faplVFYv7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <h5>Latest Construction Update:</h5>
+                    <p>Have a look at how JP North is bringing your dreams to life. 
+Codename Openstreets launch video: Life at Codename Openstreets is boundless, featuring the European Lifestyle to 2000+ interested buyers.</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                   <a  href="img/New Newsletter_ 17 March 2020_Final_CC.pdf" target="_blank">
@@ -195,7 +202,7 @@ button.prev-button-home.slick-arrow {
                     <h5>North - Newsletter 4th Edition</h5>
                     <p>Catch up on the latest events in JP North through this Newsletter</p>
                 </div>
-                <div class="image-hover img-shadow-1 sss">
+                <!-- <div class="image-hover img-shadow-1 sss">
                     <iframe width="245px" height="185px" src="https://www.youtube.com/embed/nL0aKmi_U6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
                     <h5>Women's Day 2020</h5>
                     <p>A glimpse of what our leaders think about who “She” is</p>
@@ -209,10 +216,15 @@ button.prev-button-home.slick-arrow {
                     <iframe width="245px" height="185px" src="https://www.youtube.com/embed/3_gy342pBqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Gudi Padwa Offer- CNBZ Awaaz</h5>
                     <p>The celebration of Gudi Padwa with smiles around and excited homebuyers who received cash vouchers and Godrej Interio modular kitchens</p>
-                </div>
+                </div> -->
                 <div class="image-hover img-shadow-1 sss">
                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/o3qLmsuw118" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Zee Business Property Plus</h5>
+                    <p>JP Infra features on Zee Business Property Plus, introducing JP North’s 1, 2, & 3 BHK apartments with numerous amenities</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                   <iframe width="245px" height="185px" src="https://www.youtube.com/embed/ZZhHCN0laBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <h5>Codename Openstreets Launch</h5>
                     <p>JP Infra features on Zee Business Property Plus, introducing JP North’s 1, 2, & 3 BHK apartments with numerous amenities</p>
                 </div>
             </div>
@@ -220,8 +232,7 @@ button.prev-button-home.slick-arrow {
           </div>
         <!-- desktop end -->
         <div class="clearfix"></div> 
-</div>
-    <!-- glimpse new jp desktop ends -->
+    </div>
     <!-- glimpse jp desktop ends -->
 
 

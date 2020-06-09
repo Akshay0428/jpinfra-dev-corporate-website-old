@@ -1709,14 +1709,22 @@ transition:all .6s ease-in-out;
                     <p>Celebrating the turn of the season with the classic kite-making of Makar Sankranti and much more</p>
                 </div> -->
                 <div class="image-hover img-shadow-1 sss">
-                    <img src="img/media/Launch-Of-Clubhouse.jpg" alt="Launch-Of-Clubhouse">
+                    <!-- <img src="img/media/Launch-Of-Clubhouse.jpg" alt="Launch-Of-Clubhouse"> -->
+                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/m3yl55GEVEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Launch Of Clubhouse</h5>
                     <p>JP Infra’s luxurious clubhouse is magical and so the name “Khul Ja Sim Sim”</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
-                    <img src="img/media/Launch-Of-Hotcake.jpg" alt="Launch-Of-Hotcake">
+                    <!-- <img src="img/media/Launch-Of-Hotcake.jpg" alt="Launch-Of-Hotcake"> -->
+                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/tpUYth6v1wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Launch Of Hotcake</h5>
                     <p>Codename Hotcake was launched with hot opportunities, hot space, hot amenities and these were all grabbed by our hot home buyers</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/1faplVFYv7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <h5>Latest Construction Update:</h5>
+                    <p>Have a look at how JP North is bringing your dreams to life. 
+Codename Openstreets launch video: Life at Codename Openstreets is boundless, featuring the European Lifestyle to 2000+ interested buyers.</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                   <a  href="img/New Newsletter_ 17 March 2020_Final_CC.pdf" target="_blank">
@@ -1742,6 +1750,11 @@ transition:all .6s ease-in-out;
                 <div class="image-hover img-shadow-1 sss">
                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/o3qLmsuw118" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Zee Business Property Plus</h5>
+                    <p>JP Infra features on Zee Business Property Plus, introducing JP North’s 1, 2, & 3 BHK apartments with numerous amenities</p>
+                </div>
+                <div class="image-hover img-shadow-1 sss">
+                   <iframe width="245px" height="185px" src="https://www.youtube.com/embed/ZZhHCN0laBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <h5>Codename Openstreets Launch</h5>
                     <p>JP Infra features on Zee Business Property Plus, introducing JP North’s 1, 2, & 3 BHK apartments with numerous amenities</p>
                 </div>
             </div>
