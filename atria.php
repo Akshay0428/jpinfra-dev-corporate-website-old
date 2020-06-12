@@ -172,7 +172,7 @@
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Location</h1>
             <div class="map_project mrg-top">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d120511.89893206902!2d72.81757394620303!3d19.28250355606782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x3be7b16f794bc689%3A0x7b72352f8cb3f7d0!2sAtria%20JP%20North%2C%20Kashimira%2C%20Mira%20Road%2C%20Mira%20Bhayandar%2C%20Maharashtra%20401107!3m2!1d19.282516899999997!2d72.88761439999999!4m5!1s0x3be7b16f794bc689%3A0x7b72352f8cb3f7d0!2sAtria%20JP%20North%2C%20Kashimira%2C%20Mira%20Road%2C%20Mira%20Bhayandar%2C%20Maharashtra%20401107!3m2!1d19.282516899999997!2d72.88761439999999!5e0!3m2!1sen!2sin!4v1590472754739!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3765.9964186395537!2d72.88542571421594!3d19.28252195046069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b16f794bc689%3A0x7b72352f8cb3f7d0!2sAtria%20JP%20North!5e0!3m2!1sen!2sin!4v1591969742587!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
               <div class="clearfix"></div>
             </div>
          <div class="clearfix"></div>
