@@ -95,20 +95,20 @@
         <div class="main-func">
             <div class="proj_heading">
                 <div class="srw-tab proj_name" id="solar">
-                    <div class="proj_main blue1_active" id="blue1">
+                    <div class="proj_main active" id="blue1">
                         <h6 class="txt-upper" id="h61">jp decks</h6>
                     </div>
                     <div class="triangle_down td_active" id="triangle_1"></div>
                 </div>
                 <div class="srw-tab proj_name" id="water">
                     <div class="proj_main" id="blue2">
-                        <h6 class="tc-blue txt-upper" id="h62">chalet amar</h6>
+                        <h6 class="txt-upper" id="h62">chalet amar</h6>
                     </div>
                     <div class="triangle_down" id="triangle_2"></div>
                 </div>
                 <div class="srw-tab proj_name" id="waste">
                     <div class="proj_main" id="blue3">
-                        <h6 class="tc-blue txt-upper" id="h63">unity towers</h6>
+                        <h6 class="txt-upper" id="h63">unity towers</h6>
                     </div>
                     <div class="triangle_down" id="triangle_3"></div>
                 </div>
@@ -228,12 +228,6 @@
         $('#triangle_1').css("display","block")
         $('#triangle_2').css("display","none")
         $('#triangle_3').css("display","none")
-        $('#h61').css("color","#fff")
-        $('#h62').css("color","#2E5689")
-        $('#h63').css("color","#2E5689")
-        $('#blue1').css("background-color","#2E5689")
-        $('#blue2').css("background-color","#fff")
-        $('#blue3').css("background-color","#fff")
     });
     $('#water').click(function(){
         $('.redev_click .solar').hide();
@@ -242,12 +236,6 @@
         $('#triangle_1').css("display","none")
         $('#triangle_2').css("display","block")
         $('#triangle_3').css("display","none")
-        $('#h61').css("color","#2E5689")
-        $('#h62').css("color","#fff")
-        $('#h63').css("color","#2E5689")
-        $('#blue1').css("background-color","#fff")
-        $('#blue2').css("background-color","#2E5689")
-        $('#blue3').css("background-color","#fff")
     });
     $('#waste').click(function(){
         $('.redev_click .solar').hide();
@@ -256,12 +244,6 @@
         $('#triangle_1').css("display","none")
         $('#triangle_2').css("display","none")
         $('#triangle_3').css("display","block")
-        $('#h61').css("color","#2E5689")
-        $('#h62').css("color","#2E5689")
-        $('#h63').css("color","#fff")
-        $('#hblue1').css("background-color","#fff")
-        $('#blue2').css("background-color","#fff")
-        $('#blue3').css("background-color","#2E5689")
     });
 
     
@@ -269,6 +251,27 @@
     
  });
 </script>
+<script>
+    $('#blue1').on('click', function () {
+    $(this).addClass('active')
+    $('#blue2').removeClass('active')
+    $('#blue3').removeClass('active')
+    });
+
+    $('#blue2').on('click', function () {
+    $(this).addClass('active')
+    $('#blue1').removeClass('active')
+    $('#blue3').removeClass('active')
+    });
+
+    $('#blue3').on('click', function () {
+    $(this).addClass('active')
+    $('#blue1').removeClass('active')
+    $('#blue2').removeClass('active')
+    });
+
+</script>
+
 
 
     <script src="js/slickminjscode.js"></script>
