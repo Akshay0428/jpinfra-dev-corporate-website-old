@@ -998,7 +998,7 @@ transition:all .6s ease-in-out;
             </div>
             <div class="col-md-8 main-abt-slider">
               <div class="col-md-4">
-                <a href="http://www.jpinfra.com/unity-tower.html" target="blank">
+                <a href="unity_towers.php" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1014,7 +1014,7 @@ transition:all .6s ease-in-out;
               </div>
 
               <div class="col-md-4">
-                <a href="http://www.jpinfra.com/jp-decks/" target="blank">
+                <a href="jpdecks.php" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1030,7 +1030,7 @@ transition:all .6s ease-in-out;
               </div>
               
               <div class="col-md-4">
-                <a href="http://www.jpinfra.com/chalet-amar/" target="blank">
+                <a href="chalet_amar.php" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1045,7 +1045,7 @@ transition:all .6s ease-in-out;
                 </a>
               </div>
               <div class="col-md-4">
-                <a href="https://www.jpinfra.com/jp-north/celeste/" target="blank">
+                <a href="north_celeste.php" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1060,7 +1060,7 @@ transition:all .6s ease-in-out;
                 </a>
               </div>
               <div class="col-md-4">
-                <a href="https://www.jpinfra.com/jp-north/gardencity/" target="blank">
+                <a href="atria.php" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1076,7 +1076,7 @@ transition:all .6s ease-in-out;
               </div> 
               
               <div class="col-md-4">
-                <a href="https://www.jpinfra.com/jp-north/gardencity/" target="blank">
+                <a href="estella.php" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1091,6 +1091,7 @@ transition:all .6s ease-in-out;
                 </a>
               </div>
               <div class="col-md-4">
+                <a href="dream_land_apartment.php" target="blank">
                   <div class="delivered-projects-carousel">
                     <div class="abt-jp-slider">
                         <div class="abt-slide">
@@ -1102,6 +1103,7 @@ transition:all .6s ease-in-out;
                         </div>
                     </div>
                   </div>
+                </a>
               </div>
                            
             </div>
@@ -1360,7 +1362,7 @@ transition:all .6s ease-in-out;
                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="#">
+                                          <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
                                           <img src="img/home/ongoing/Elara.jpg" alt="Elara">
                                           </a>
                                        </div>
@@ -1378,7 +1380,7 @@ transition:all .6s ease-in-out;
                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="#">
+                                          <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
                                           <img src="img/home/ongoing/Euphoria.jpg" alt="Euphoria">
                                           </a>
                                        </div>
@@ -1395,7 +1397,7 @@ transition:all .6s ease-in-out;
                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                          <a target="_blank" href="#">
+                                          <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
                                           <img src="img/home/ongoing/Alexa.jpg" alt="Alexa">
                                           </a>
                                        </div>

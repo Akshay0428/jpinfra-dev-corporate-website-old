@@ -179,7 +179,7 @@ in construction.</p>
                         <img src="img/Gray-Head-line.png" class="northimage">
                     </div> -->
                     <div class="padding-project" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>   
+                        <p>JP Infra is proud to be a front runner when bringing the standard of international living to Mumbai.</p>   
                         <div class="clearfix"></div>
                     </div>
 
@@ -189,18 +189,18 @@ in construction.</p>
                             <ol class="carousel-indicators">
                               <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                               <li data-target="#myCarousel" data-slide-to="1"></li>
-                              <li data-target="#myCarousel" data-slide-to="2"></li>
+                              <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/pushing_boundaries/humanleft.jpg" class="img-cls">
+                                    <img src="img/pushing_boundaries/humanleft1.jpg" class="img-1">
                                 </div>
                                 <div class="item">
-                                    <img src="img/pushing_boundaries/humanleft.jpg" class="img-cls">
+                                    <img src="img/pushing_boundaries/humanleft2.jpg" class="img-2">
                                 </div>
-                                <div class="item">
-                                    <img src="img/pushing_boundaries/humanleft.jpg" class="img-cls">
-                                </div>
+                                <!-- <div class="item">
+                                    <img src="img/pushing_boundaries/humanleft3.jpg" class="img-cls">
+                                </div> -->
 
                                 <!-- Left and right controls -->
 <!--                                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">

@@ -477,7 +477,7 @@ top: 81.5% !important;
                 <div class="inner-div-np pos-relative">
                     <img src="img/jpnorthpage/new/Celeste.jpg" class="m_hide" alt="slide4">
                     <img src="img/jpnorthpage/celeste.jpg" class="d_hide" alt="slide4">
-                    <a href="https://www.jpinfra.com/jp-north/celeste/" target="blank">
+                    <a href="north_celeste.php" target="blank">
                     <div class="np-bl-patch pos-absolute">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
