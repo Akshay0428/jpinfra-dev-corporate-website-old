@@ -2,6 +2,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
 
 <style>
+
                 .slick-dots {
                     text-align: center;
                     margin: 0 0 10px 0;
@@ -93,21 +94,21 @@
         </div>
         <div class="main-func">
             <div class="proj_heading">
-                <div class="srw-tab proj_name" id="jp_decks">
-                    <div class="proj_main blue1_active" id="blue1">
+                <div class="srw-tab proj_name" id="solar">
+                    <div class="proj_main active" id="blue1">
                         <h6 class="txt-upper" id="h61">jp decks</h6>
                     </div>
                     <div class="triangle_down td_active" id="triangle_1"></div>
                 </div>
-                <div class="srw-tab proj_name" id="chalet_amar">
+                <div class="srw-tab proj_name" id="water">
                     <div class="proj_main" id="blue2">
-                        <h6 class="tc-blue txt-upper" id="h62">chalet amar</h6>
+                        <h6 class="txt-upper" id="h62">chalet amar</h6>
                     </div>
                     <div class="triangle_down" id="triangle_2"></div>
                 </div>
-                <div class="srw-tab proj_name" id="unity_tower">
+                <div class="srw-tab proj_name" id="waste">
                     <div class="proj_main" id="blue3">
-                        <h6 class="tc-blue txt-upper" id="h63">unity towers</h6>
+                        <h6 class="txt-upper" id="h63">unity towers</h6>
                     </div>
                     <div class="triangle_down" id="triangle_3"></div>
                 </div>
@@ -115,7 +116,7 @@
             <div class="clearfix"></div>
 
             <div class="redev_click">
-                <div class="jp_decks">
+                <div class="solar">
                     <div class="proj_info">
                         <div class="proj_slider">
                             <div class="slider_img">
@@ -145,19 +146,37 @@
                     </div>
                 </div>
 
-                <div class="chalet_amar">
+                <!-- slider wala code  old -->
+<!--                 <div class="rainwater">
                     <div class="proj_info">
-                        <div class="proj_slider">
+                        <div class="">
                             <div class="slider_img">
                                 <img src="img/redevelopment/chalet_amar/Chalet-Amar.jpg" alt="Chalet-Amar">
                             </div>
-<!--                             <div class="slider_img">
+                            <div class="slider_img">
                                 <img src="img/redevelopment/JP-DECKS-02.jpg" alt="jpdecks-img2">
                             </div>
                             <div class="slider_img">
                                 <img src="img/redevelopment/JP-DECKS-03.jpg" alt="jpdecks-img3">
-                            </div> -->
+                            </div>
                         </div>
+                        <div class="proj_txt">
+                            <ul>
+                                <li>Jp Infra at Juhu brings to you a luxurious residential project of 1370 sq mts at Chalet Amar which ensures an enriched life. </li>
+                                <li>The project is strategically located and provides access to the entire city to its esteemed residents.</li>
+                                <li>With ultra-modern amenities and world-class facilities, Chalet Amar is truly Mumbai’s most exclusive and coveted address.</li>
+                                <li>Here you will discover just how enriching, how full of promise, every minute can be.</li>
+                            </ul>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div> -->
+
+                <div class="rainwater">
+                    <div class="proj_info">
+                            <div class="slider_img single_code">
+                                <img src="img/redevelopment/chalet_amar/Chalet-Amar.jpg" alt="Chalet-Amar">
+                            </div>
                         <div class="proj_txt">
                             <ul>
                                 <li>Jp Infra at Juhu brings to you a luxurious residential project of 1370 sq mts at Chalet Amar which ensures an enriched life. </li>
@@ -170,7 +189,7 @@
                     </div>
                 </div>
 
-                <div class="unity_tower">
+                <div class="waste">
                     <div class="proj_info">
                         <div class="proj_slider">
                             <div class="slider_img">
@@ -202,47 +221,29 @@
 <script>
  $(document).ready(function(){
     
-    $('#jp_decks').click(function(){
-        $('.redev_click .jp_decks').show();
-        $('.redev_click .chalet_amar').hide();
-        $('.redev_click .unity_tower').hide();
+    $('#solar').click(function(){
+        $('.redev_click .solar').show();
+        $('.redev_click .rainwater').hide();
+        $('.redev_click .waste').hide();
         $('#triangle_1').css("display","block")
         $('#triangle_2').css("display","none")
         $('#triangle_3').css("display","none")
-        $('#h61').css("color","#fff")
-        $('#h62').css("color","#2E5689")
-        $('#h63').css("color","#2E5689")
-        $('#blue1').css("background-color","#2E5689")
-        $('#blue2').css("background-color","#fff")
-        $('#blue3').css("background-color","#fff")
     });
-    $('#chalet_amar').click(function(){
-        $('.redev_click .jp_decks').hide();
-        $('.redev_click .chalet_amar').show();
-        $('.redev_click .unity_tower').hide();
+    $('#water').click(function(){
+        $('.redev_click .solar').hide();
+        $('.redev_click .rainwater').show();
+        $('.redev_click .waste').hide();
         $('#triangle_1').css("display","none")
         $('#triangle_2').css("display","block")
         $('#triangle_3').css("display","none")
-        $('#h61').css("color","#2E5689")
-        $('#h62').css("color","#fff")
-        $('#h63').css("color","#2E5689")
-        $('#blue1').css("background-color","#fff")
-        $('#blue2').css("background-color","#2E5689")
-        $('#blue3').css("background-color","#fff")
     });
-    $('#unity_tower').click(function(){
-        $('.redev_click .jp_decks').hide();
-        $('.redev_click .chalet_amar').hide();
-        $('.redev_click .unity_tower').show();
+    $('#waste').click(function(){
+        $('.redev_click .solar').hide();
+        $('.redev_click .rainwater').hide();
+        $('.redev_click .waste').show();
         $('#triangle_1').css("display","none")
         $('#triangle_2').css("display","none")
         $('#triangle_3').css("display","block")
-        $('#h61').css("color","#2E5689")
-        $('#h62').css("color","#2E5689")
-        $('#h63').css("color","#fff")
-        $('#hblue1').css("background-color","#fff")
-        $('#blue2').css("background-color","#fff")
-        $('#blue3').css("background-color","#2E5689")
     });
 
     
@@ -250,6 +251,27 @@
     
  });
 </script>
+<script>
+    $('#blue1').on('click', function () {
+    $(this).addClass('active')
+    $('#blue2').removeClass('active')
+    $('#blue3').removeClass('active')
+    });
+
+    $('#blue2').on('click', function () {
+    $(this).addClass('active')
+    $('#blue1').removeClass('active')
+    $('#blue3').removeClass('active')
+    });
+
+    $('#blue3').on('click', function () {
+    $(this).addClass('active')
+    $('#blue1').removeClass('active')
+    $('#blue2').removeClass('active')
+    });
+
+</script>
+
 
 
     <script src="js/slickminjscode.js"></script>

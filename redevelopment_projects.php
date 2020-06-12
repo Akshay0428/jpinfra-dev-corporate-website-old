@@ -229,7 +229,6 @@
         $('#triangle_2').css("display","none")
         $('#triangle_3').css("display","none")
         $('#h61').css("color","#fff")
-        $('#h61').css("color","#fff")
         $('#h62').css("color","#2E5689")
         $('#h63').css("color","#2E5689")
         $('#blue1').css("background-color","#2E5689")

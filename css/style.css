@@ -3371,6 +3371,12 @@ redevelopment project mumbai
     width: 80%;
     margin: 0 auto;
     border: 1px solid #2e5689;
+    background-color: #fff;
+    color: #2E5689;
+}
+.proj_main.active{
+    color: #fff;
+    background-color: #2e5689;
 }
 .proj_main h1 {
     font-size: 18px;
@@ -3400,10 +3406,6 @@ redevelopment project mumbai
 .proj_txt li {
     text-align: left;
     padding: 5px 0px;
-}
-.blue1_active{
-    color: #fff;
-    background-color: #2e5689;
 }
 .triangle_down {
     margin: 0 auto;
@@ -5051,6 +5053,23 @@ h1 {
 .testimonial-slider-main {
     width: 98%;
     margin: 10px auto;
+}
+/*--------------------------------------------------------------
+work with  us Page
+--------------------------------------------------------------*/
+.resume-box {
+    width: 98%;
+}
+.resume-txt h5{
+	font-size: 14px;
+}
+.wwu-btn {
+    width: 98%;
+}
+.wwu-btn-txt {
+    width: 88%;
+    padding: 15px 5px 15px 5px;
+    font-size: 14px;
 }
 /*--------------------------------------------------------------
 Media Page
