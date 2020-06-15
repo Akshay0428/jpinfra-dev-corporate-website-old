@@ -1141,7 +1141,6 @@ img.arrow_button {
 }
 
 
-
 .northimagedeliver {
     margin-bottom: 0px;
     margin-top: 0px;
@@ -1526,6 +1525,19 @@ a, .know-text-project-ongoing h5{
 Sustainability
 
 --------------------------------------------------------------*/
+.p-narang{
+    top: 0 !important;
+    font-size: 14px;
+    background-image: none;
+}
+.pb-di{
+    background-image: none;
+    font-size: 14px !important;
+}
+.pb-right{
+    top: 90%;
+    left: 60%;
+}
 .pushing-new {
     position: absolute;
     top: 230%;
@@ -1536,15 +1548,25 @@ Sustainability
     margin-top: 40px;
         max-height: 80vh;
 }
+.p-pushingb{
+    top: 97%;
+    color: #fff;
+    margin: 0;
+    left: 70%;
+}
 .new-pushingimages{
     width:100%;
     margin-top: 40px;
+}
+.home-pb{
+    top: 68% !important;
 }
 .pushinghome {
     width: 21%;
     float: left;
     padding: 20px 0px 20px 0px;
     margin: 10px 20px 10px 23px;
+    height: 320px;
 }
 .pushinghome h5 {
     text-align: center;
@@ -1557,6 +1579,11 @@ Sustainability
     padding-top: 15px;
     line-height: 25px;
 }       
+.pb-cb{
+    top: 87%;
+    font-size: 14px;
+    font-weight: 500;
+}
 /*.home-boundries-img img {*/
 /*    width: 100%;*/
 /*}*/
@@ -1644,6 +1671,11 @@ img.arrow_button_css{
 /*--------------------------------------------------------------
 Media Gallery
 ---------------------------------------------------------------*/
+.p-northhome {
+    top: 90%;
+    font-weight: 500;
+    font-size: 14px;
+}
 .slick-next {
     right: -69px;
 }
@@ -1787,6 +1819,18 @@ jp desk Page
 /*--------------------------------------------------------------
 north Page
 --------------------------------------------------------------*/
+.north-p{
+    top: 90%;
+    text-align: right;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 0;
+}
+.ls-p{
+    top: 91%;
+    font-size: 14px;
+    font-weight: 500;
+}
 section.main-npslider {
     height: 93vh;
 }
@@ -2411,7 +2455,12 @@ h1 {
     padding: 0px 0px 0px 0px;
     margin: 15px 0px;
 }
-
+.p-projon{
+    top: 84%;
+    width: 90%;
+    padding-left: 5%;
+    left: 6%;
+}
 .slider-section {
     width: 94.9%;
     margin: 0 auto;
@@ -5548,6 +5597,26 @@ p.carbon_txt2 {
 }
 .ongoing_project {
     width: 98%;
+    margin: 0 auto;
+    margin-top: 235px;
+}
+.p-projon{
+    top: 80%;
+    width: 86%;
+    left: 7%
+}
+.ppnp-img-leaf {
+    width: 25%;
+    left: 10%;
+    top: -90px;
+}
+.ppnp-img-leaf3 {
+    width: 19%;
+    left: 68%;
+    top: 3%;
+}
+.padding-media{
+    padding: 0 !important;
 }
 .ongoing_project .container_aks {
     width: 100%;

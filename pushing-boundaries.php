@@ -129,6 +129,7 @@
                     <div class="caption animation">
                         <h2>Design Innovation</h2>
                         <p>Believing in community living and open spaces, JP Infra builds projects that encourage these aspects through providing vehicle-free zones, garden areas, meditation centres and amenities for fun group activity</p>
+                        <p class="p-pushingb pos-absolute">Artist's Impression</p>
                     </div>
                 </div>
                 <div class="slider-col yellow animation">
@@ -137,6 +138,7 @@
                         <p>JP Infra offers you the best of all worlds within the same campus so you can enjoy
 peaceful living through features like jogging tracks, Yoga pavilion, Open to sky
 swimming pool, Herbs and spice garden, local coffee shops and spas, etc.</p>
+                        <p class="p-pushingb pos-absolute">Artist's Impression</p>
                     </div>
                 </div>
                 <div class="slider-col blue animation">
@@ -145,6 +147,7 @@ swimming pool, Herbs and spice garden, local coffee shops and spas, etc.</p>
                         <p>We at JP Infra believe that those who work tirelessly to ensure our projects are a
 success are more important than the buildings itself so we offer additional benefits
 like on-campus schools for their children</p>
+                        <p class="p-pushingb pos-absolute">Rendered Image</p>
                     </div>
                 </div>
                 <div class="slider-col orange animation">
@@ -153,6 +156,7 @@ like on-campus schools for their children</p>
                         <p>Our pledge to a better and greener tomorrow is evident through our eco-friendly
 initiatives like rain-water harvesting, waste management and usage of solar panels
 in construction.</p>
+                        <p class="p-pushingb pos-absolute">Rendered Image</p>
                     </div>
                 </div>
             </div>
@@ -192,11 +196,13 @@ in construction.</p>
                               <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
                             </ol>
                             <div class="carousel-inner">
-                                <div class="item active">
+                                <div class="item active pos-relative">
                                     <img src="img/pushing_boundaries/humanleft1.jpg" class="img-1">
+                                    <p class="pos-absolute pb-di p-deliver">Artist's Impression</p>
                                 </div>
-                                <div class="item">
+                                <div class="item pos-relative">
                                     <img src="img/pushing_boundaries/humanleft2.jpg" class="img-2">
+                                    <p class="pos-absolute pb-di p-deliver">Artist's Impression</p>
                                 </div>
                                 <!-- <div class="item">
                                     <img src="img/pushing_boundaries/humanleft3.jpg" class="img-cls">
@@ -223,8 +229,9 @@ in construction.</p>
                     <div class="clearfix"></div>
                 </div>
                 <div class="human_col mob_human">
-                    <div class="human-img">
+                    <div class="human-img pos-relative">
                         <img src="img/pushing_boundaries/humanright.jpg" class="img-cls2">
+                        <p class="pos-absolute pb-right pb-di p-deliver">Artist's Impression</p>
                         <div class="clearfix"></div>
                     </div>
                 </div>
@@ -351,8 +358,9 @@ in construction.</p>
                         <div class="carbon-div">
                             <div class="solar">
                                 <div class="solar-content">
-                                    <div class="solar-img">
+                                    <div class="solar-img pos-relative">
                                         <img src="img/solar.jpg" alt="solar">
+                                        <p class="pos-absolute pb-cb p-deliver"> Rendered Image</p>
                                     </div>
                                     <div class="solar-txt">
                                         <div class="solar-img-txt">
@@ -372,8 +380,9 @@ in construction.</p>
                             </div>
                             <div class="rainwater">
                                 <div class="solar-content">
-                                    <div class="solar-img">
+                                    <div class="solar-img pos-relative">
                                         <img src="img/pushing_boundaries/rainwater-harvesting.jpg" alt="rainwater-harvesting">
+                                        <p class="pos-absolute pb-cb p-deliver"> Rendered Image</p>
                                     </div>
                                     <div class="solar-txt">
                                         <div class="solar-img-txt">
@@ -393,8 +402,9 @@ in construction.</p>
                             </div>
                             <div class="waste">
                                 <div class="solar-content">
-                                    <div class="solar-img">
+                                    <div class="solar-img pos-relative">
                                         <img src="img/pushing_boundaries/Waste-management.jpg" alt="Waste-management">
+                                        <p class="pos-absolute pb-cb p-deliver"> Rendered Image</p>
                                     </div>
                                     <div class="solar-txt">
                                         <div class="solar-img-txt">

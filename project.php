@@ -338,6 +338,7 @@
 		                    Grand Clubhouse<br>
 		                </p>
 		            </div>
+		            <p class="pos-absolute p-projon p-deliver"> Artist's Impression</p>
 				</div>
 				<div class="ongoingproject-txt">
 					<div class=slider-txt>
@@ -371,6 +372,7 @@
 		                    Games Area<br>
 		                </p>
 		            </div>
+		            <p class="pos-absolute p-projon p-deliver"> Artist's Impression</p>
 				</div>
 				<div class="ongoingproject-txt">
 					<div class=slider-txt>
@@ -403,6 +405,7 @@
 		                    Amphitheatre<br>
 		                </p>
 		            </div>
+		            <p class="pos-absolute p-projon p-deliver">Artist's Impression</p>
 				</div>
 				<div class="ongoingproject-txt">
 					<div class=slider-txt>
@@ -436,6 +439,7 @@
 		                    Green Living<br>
 		                </p>
 		            </div>
+		            <p class="pos-absolute p-projon p-deliver">Artist's Impression</p>
 				</div>
 				<div class="ongoingproject-txt">
 					<div class=slider-txt>
@@ -469,6 +473,7 @@
 		                    Games Area<br>
 		                </p>
 		            </div>
+		            <p class="pos-absolute p-projon p-deliver">Artist's Impression</p>
 				</div>
 				<div class="ongoingproject-txt">
 					<div class=slider-txt>
@@ -501,6 +506,7 @@
 		                    24 Hr Water Supply<br>
 		                </p>
 		            </div>
+		            <p class="pos-absolute p-projon p-deliver">Artist's Impression</p>
 				</div>
 				<div class="ongoingproject-txt">
 					<div class=slider-txt>
@@ -533,6 +539,7 @@
 		                     Swimming Pool<br>
 		                </p>
 		            </div>
+		            <p class="pos-absolute p-projon p-deliver">Rendered Image</p>
 		        </div>
 				<div class="ongoingproject-txt">
 					<div class=slider-txt>
@@ -584,6 +591,7 @@
 		                        Separate parking tower<br>
 		                    </p>
 		                </div>
+		                <p class="pos-absolute p-projon p-deliver">Rendered Image </p>
 					</div>
 					<div class="ongoingproject-txt">
 						<div class=slider-txt>
@@ -618,6 +626,7 @@
 		                        Amphitheatre<br>
 		                   	</p>
 		                </div>
+		                <p class="pos-absolute p-projon p-deliver">Artist's Impression</p>
 					</div>
 					<div class="ongoingproject-txt">
 						<div class=slider-txt>
@@ -652,6 +661,7 @@
 		                        Signature suites<br>
 		                    </p>
 		               	</div>
+		               	<p class="pos-absolute p-projon p-deliver">Actual Image</p>
 					</div>
 					<div class="ongoingproject-txt">
 						<div class=slider-txt>
@@ -686,6 +696,7 @@
 		                        Kids Play Area<br>
 		                    </p>
 		                </div>
+		                <p class="pos-absolute p-projon p-deliver">Actual image of North Celeste clubhouse</p>
 					</div>
 					<div class="ongoingproject-txt">
 						<div class=slider-txt>
@@ -720,6 +731,7 @@
 		                        24 Hour Water Supply<br>
 		                    </p>
 		                </div>
+		                <p class="pos-absolute p-projon p-deliver">Actual image of North Atria</p>
 					</div>
 					<div class="ongoingproject-txt">
 						<div class=slider-txt>
@@ -755,6 +767,7 @@
 		                        Banquet Hall<br>
 		                    </p>
 		               	</div>
+		               	<p class="pos-absolute p-projon p-deliver">Actual image of North Estella</p>
 					</div>
 					<div class="ongoingproject-txt">
 						<div class=slider-txt>
@@ -789,6 +802,7 @@
 		                        Water supply<br>
 		                    </p>
 		                </div>
+		                <p class="pos-absolute p-projon p-deliver">Rendered Image  </p>
 					</div>
 					<div class="ongoingproject-txt">
 						<div class=slider-txt>

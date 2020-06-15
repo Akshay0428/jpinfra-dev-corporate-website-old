@@ -88,10 +88,15 @@
 JP Infra believes in bringing serenity back to the bustling and busy nature of the city of Mumbai. The brand offers a calm, peaceful lifestyle to its residents with the provision of lush green spaces. That doesn’t take away from the futuristic and progressive technology employed in the working of the projects or the state-of-the-art amenities available to home buyers and residents. Thanks to its ultra-modern thinking and approach, JP Infra has been rewarded with most prestigious awards in the recent times, all of which will tie back in with the concept of providing international standards of modern living.</p>
         </div>
         <div class="abtus-img">
-          <img src="img/about-us/abt-1.jpg" alt="abt-1" class="abtus-img1"  data-aos="fade-up" data-aos-easing="linear"
+          <div class="abtus-img1">
+            <img src="img/about-us/abt-1.jpg" alt="abt-1" data-aos="fade-up" data-aos-easing="linear"
            data-aos-duration="1500">
-          <img src="img/about-us/abt-2.jpg" alt="abt-2" class="abtus-img2" data-aos="fade-up" data-aos-easing="linear"
-           data-aos-duration="3000">
+           <p class="pos-absolute pb-cb p-deliver">Artist's Impression</p>
+          </div>
+          <div class="abtus-img2">
+            <img src="img/about-us/abt-2.jpg" alt="abt-2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="3000">
+            <p class="pos-absolute pb-cb p-deliver" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="3000">Artist's Impression</p>
+          </div>
         </div>
         <div class="clearfix"></div>
       </div>

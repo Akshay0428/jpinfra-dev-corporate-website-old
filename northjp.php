@@ -221,10 +221,11 @@ top: 81.5% !important;
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
                                                         <img src="img/jpnorthpage/new/lion.jpg" alt="lion">
                                                     </a>
+                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
                                                     <p>Reside in pride just like the majestic Lion’ s statue</p>
@@ -233,10 +234,11 @@ top: 81.5% !important;
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
                                                         <img src="img/jpnorthpage/new/horse.jpg" alt="horse">
                                                     </a>
+                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
                                                     <p>Live gracefully with a new perspective to life as the royal Horse’s statue</p>
@@ -245,10 +247,11 @@ top: 81.5% !important;
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Barista.jpg" alt="Barista">
                                                     </a>
+                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
                                                     <p>A fresh start to every day at your nearest Barista</p>
@@ -256,11 +259,12 @@ top: 81.5% !important;
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide">
+                                            <div class="swiper-slide__block np-swiper-slide pos-relative">
                                                 <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/cafe.jpg" alt="cafe">
                                                     </a>
+                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
                                                     <p>Find out what’s brewing at your neighbourhood Café</p>
@@ -269,10 +273,12 @@ top: 81.5% !important;
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                                <div class="swiper-slide__block__img pos-relative
+                                                " data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Clubhouse.jpg" alt="Clubhouse">
                                                     </a>
+                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
                                                     <p>Bond with like-minded people at our exclusive Clubhouse</p>
@@ -281,10 +287,11 @@ top: 81.5% !important;
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Games-Room.jpg" alt="Games-Room">
                                                     </a>
+                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
                                                     <p>Have a healthy competition & endless entertainment in the next door Game Room</p>
@@ -293,10 +300,11 @@ top: 81.5% !important;
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Gym3.jpg" alt="Gym3">
                                                     </a>
+                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
                                                     <p>Get ripped the right way at our fully equipped Gym</p>
@@ -305,10 +313,11 @@ top: 81.5% !important;
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Lakme-Salon.jpg" alt="Lakme-Salon">
                                                     </a>
+                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
                                                     <p>Get styled by the runway experts at your nearest Lakmé Salon</p>
@@ -317,10 +326,11 @@ top: 81.5% !important;
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Library.jpg" alt="Library">
                                                     </a>
+                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
                                                     <p>Catch up on your favourite novel at our knowledge-rich Library</p>
@@ -329,10 +339,11 @@ top: 81.5% !important;
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                                     <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
                                                         <img src="img/jpnorthpage/new/Little-Millennium-Kids-2.jpg" alt="Little-Millennium-Kids-2">
                                                     </a>
+                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
                                                     <p>A perfect place for the tiny- tots to play and learn at your nearest Little Millenium School</p>
@@ -423,8 +434,8 @@ top: 81.5% !important;
                     </a>
                     <div class="inner-div-np-text pos-absolute">
                         <h5>North Garden City</h5>
-                        <!--<h6>sheets containing Lorem Ipsum</h6>-->
                     </div>
+                    <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
                 </div>
             </div>
             <div class="np-living-space-slider float-left slider-padding">
@@ -432,7 +443,6 @@ top: 81.5% !important;
                     <img src="img/jpnorthpage/new/Hotcake.jpg" class="m_hide" alt="Codename-Hotcake">
                     <img src="img/slider_mob2.jpg" class="d_hide" alt="Codename-Hotcake">
                     <a href="http://www.jpinfra.com/codenamehotcake/" target="blank">
-                    <div class="np-bl-patch pos-absolute">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
                                 <p class="ols-p txt-transform">1 & 2 BHK Premium Residences<br>
@@ -442,12 +452,11 @@ top: 81.5% !important;
                                 </p>
                             </div>
                         </div>
-                    </div>
                     </a> 
                     <div class="inner-div-np-text pos-absolute">
                         <h5>Codename Hotcake</h5>
-                        <!--<h6>sheets containing Lorem Ipsum</h6>-->
                     </div>
+                     <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
                 </div>
             </div>
             <div class="np-living-space-slider float-left slider-padding">
@@ -455,7 +464,6 @@ top: 81.5% !important;
                     <img src="img/jpnorthpage/new/Open-Streets.jpg" class="m_hide" alt="Codename-Open-Streets">
                     <img src="img/slider_mob3.jpg" class="d_hide" alt="slide3">
                     <a href="http://www.jpinfra.com/codenameopenstreets/" target="blank">
-                    <div class="np-bl-patch pos-absolute">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
                                 <p class="ols-p txt-transform">Spacious 1, 2 & 3 BHK<br>
@@ -465,12 +473,11 @@ top: 81.5% !important;
                                 </p>
                             </div>
                         </div>
-                    </div>
                     </a>
                     <div class="inner-div-np-text pos-absolute">
                         <h5>Codename Open Streets</h5>
-                        <!--<h6>sheets containing Lorem Ipsum</h6>-->
                     </div>
+                     <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
                 </div>
             </div>
             <div class="np-living-space-slider float-left slider-padding">
@@ -478,7 +485,6 @@ top: 81.5% !important;
                     <img src="img/jpnorthpage/new/Celeste.jpg" class="m_hide" alt="slide4">
                     <img src="img/jpnorthpage/celeste.jpg" class="d_hide" alt="slide4">
                     <a href="north_celeste.php" target="blank">
-                    <div class="np-bl-patch pos-absolute">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
                                 <p class="ols-p txt-transform">Spanish- styled 1 & 2 BHK<br>
@@ -488,12 +494,11 @@ top: 81.5% !important;
                                 </p>
                             </div>
                         </div>
-                    </div>
                     </a>
                     <div class="inner-div-np-text pos-absolute">
                         <h5>North Celeste</h5>
-                        <!--<h6>sheets containing Lorem Ipsum</h6>-->
                     </div>
+                     <p class="pos-absolute ls-p p-deliver">Actual Image</p>
                 </div>
             </div>
             <div class="np-living-space-slider float-left">
@@ -501,7 +506,6 @@ top: 81.5% !important;
                     <img src="img/jpnorthpage/new/Now-or-Never.jpg" class="m_hide" alt="slide5">
                     <img src="img/jpnorthpage/donald.jpg" class="d_hide" alt="slide5">
                     <a href="http://www.jpinfra.com/jp-north/codenamenowornever/" target="blank">
-                    <div class="np-bl-patch pos-absolute">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
                                 <p class="ols-p txt-transform">Luxurious 1 Bed Homes<br>
@@ -511,12 +515,11 @@ top: 81.5% !important;
                                 </p>
                             </div>
                         </div>
-                    </div>
                     </a>
                     <div class="inner-div-np-text pos-absolute">
                         <h5>Codename Now Or Never</h5>
-                        <!--<h6>sheets containing Lorem Ipsum</h6>-->
                     </div>
+                     <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
                 </div>
             </div>
         </div>

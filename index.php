@@ -1183,21 +1183,25 @@ transition:all .6s ease-in-out;
         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Pushing Boundaries</h1>
         <!--<p class="pr_cntr_p" data-aos="fade-up" data-aos-duration="3000">A breathtaking mélange of architecture & nature, JP North aims to provide a wholesome and elegant lifestyle. Be it quality education or a trendy cafe to unwind at, JP North has got all your needs covered at Mira Road. Designed for excellence, JP North’s extensive list of amenities and attention to details is what makes it the dream home to live in.</p>-->
         <div class="new-pushingimages" data-aos="fade-up" data-aos-duration="3000">
-            <div class="pushinghome">
+            <div class="pushinghome pos-relative">
                 <img src="img/home/pushingB/Pushing-Boundaries-Imade-01.jpg" alt="Design Innovation">
                 <h5>design innovation</h5>
+                <p class="pos-absolute home-pb p-deliver">Artist's Impression</p>
             </div>
-            <div class="pushinghome">
+            <div class="pushinghome pos-relative">
                 <img src="img/home/pushingB/Pushing-Boundaries-Imade-02.jpg" alt="Integrated Living">
                 <h5>integrated living</h5>
+                <p class="pos-absolute home-pb p-deliver">Artist's Impression</p>
             </div>
-            <div class="pushinghome">
+            <div class="pushinghome pos-relative">
                 <img src="img/home/pushingB/Pushing-Boundaries-Imade-03.jpg" alt="Because We Care">
                 <h5>because we care</h5>
+                <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
             </div>
-            <div class="pushinghome">
+            <div class="pushinghome pos-relative">
                 <img src="img/home/pushingB/Pushing-Boundaries-Imade-04.jpg" alt="Our Carbon Footprint">
                 <h5>our carbon footprint</h5>
+                <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -1241,7 +1245,8 @@ transition:all .6s ease-in-out;
        </div>
        <div class="clearfix"></div>
     </div>
-
+    <p class="pos-absolute p-northhome p-deliver">This is an Actual image of North Garden City Interior clubhouse<br>
+This is a rendered image of the interior of North Garden City's clubhouse prepared by the architect based on the current plan, final color and specification may vary.</p>
    <div class="clearfix"></div>
    <!--<img class="skiing" src="" alt="">-->
 </section>
@@ -1313,10 +1318,11 @@ transition:all .6s ease-in-out;
                                  </div> -->
                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                       <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/jp-north/codenamenowornever/">
                                           <img src="img/home/ongoing/NON.jpg" alt="Codename Now or Never">
                                           </a>
+                                          <p class="pos-absolute p-deliver p-narang">Artist's Impression</p>
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Now or Never</h2>
@@ -1330,9 +1336,10 @@ transition:all .6s ease-in-out;
                                  </div>
                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                       <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/codenamehotcake/">
                                           <img src="img/home/ongoing/Hotcake.jpg" alt="Codename Hotcake">
+                                          <p class="pos-absolute p-deliver p-narang">Artist's Impression</p>
                                           </a>
                                        </div>
                                        <div class="swiper-slide__block__text">
@@ -1347,10 +1354,11 @@ transition:all .6s ease-in-out;
                                  </div>
                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                       <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/codenameopenstreets/">
                                           <img src="img/home/ongoing/Open-Streets.jpg" alt="Codename Open Streets">
                                           </a>
+                                          <p class="pos-absolute p-deliver p-narang">Artist's Impression</p>
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Open Streets</h2>
@@ -1365,9 +1373,10 @@ transition:all .6s ease-in-out;
                                  </div>
                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                       <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
                                           <img src="img/home/ongoing/Elara.jpg" alt="Elara">
+                                          <p class="pos-absolute p-deliver p-narang">Artist's Impression</p>
                                           </a>
                                        </div>
                                        <div class="swiper-slide__block__text">
@@ -1383,9 +1392,10 @@ transition:all .6s ease-in-out;
                                  </div>
                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                       <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
                                           <img src="img/home/ongoing/Euphoria.jpg" alt="Euphoria">
+                                          <p class="pos-absolute p-deliver p-narang">Rendered Image</p>
                                           </a>
                                        </div>
                                        <div class="swiper-slide__block__text">
@@ -1400,9 +1410,10 @@ transition:all .6s ease-in-out;
                                  </div>
                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                       <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
                                           <img src="img/home/ongoing/Alexa.jpg" alt="Alexa">
+                                          <p class="pos-absolute p-deliver p-narang">Artist's Impression</p>
                                           </a>
                                        </div>
                                        <div class="swiper-slide__block__text">
@@ -1417,10 +1428,11 @@ transition:all .6s ease-in-out;
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                                       <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/altus.html">
                                           <img src="img/home/ongoing/Altus.jpg" alt="Altus">
                                           </a>
+                                          <p class="pos-absolute p-narang p-deliver">Rendered Image</p>
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Altus</h2>
