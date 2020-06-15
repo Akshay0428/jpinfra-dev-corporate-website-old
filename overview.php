@@ -91,7 +91,8 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
           <div class="abtus-img1">
             <img src="img/about-us/abt-1.jpg" alt="abt-1" data-aos="fade-up" data-aos-easing="linear"
            data-aos-duration="1500">
-           <p class="pos-absolute pb-cb p-deliver">Artist's Impression</p>
+           <p class="pos-absolute pb-cb p-deliver"  data-aos="fade-up" data-aos-easing="linear"
+           data-aos-duration="1500">Artist's Impression</p>
           </div>
           <div class="abtus-img2">
             <img src="img/about-us/abt-2.jpg" alt="abt-2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="3000">
