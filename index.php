@@ -377,7 +377,7 @@ transition:all .6s ease-in-out;
       </div>
       <div class="numbers-div border-ryt">
          <div class="number-content">
-            <h1>14 +</h1>
+            <h1 class="pad-counter">14 +</h1>
          </div>
          <div class="number-content">
             <p>YEARS OF GROWTH</p>
