@@ -377,7 +377,7 @@ transition:all .6s ease-in-out;
       </div>
       <div class="numbers-div border-ryt">
          <div class="number-content">
-            <h1>14</h1>
+            <h1>14 +</h1>
          </div>
          <div class="number-content">
             <p>YEARS OF GROWTH</p>
@@ -386,7 +386,7 @@ transition:all .6s ease-in-out;
       </div>
       <div class="numbers-div border-ryt">
          <div class="number-content">
-            <h1>4 <span class="base_no">Million sqft</span></h1>
+            <h1>4 <span class="base_no">mn sq ft</span></h1>
          </div>
          <div class="number-content">
             <p>UNDER<br>CONSTRUCTION</p>
@@ -395,7 +395,7 @@ transition:all .6s ease-in-out;
       </div>
       <div class="numbers-div">
          <div class="number-content">
-            <h1>5000 +</h1>
+            <h1 class="pad-counter">5000 +</h1>
          </div>
          <div class="number-content">
             <p>HAPPY <br>CUSTOMERS</p>
@@ -997,114 +997,118 @@ transition:all .6s ease-in-out;
                 <div class="clearfix"></div>
             </div>
             <div class="col-md-8 main-abt-slider">
-              <div class="col-md-4">
-                <a href="unity_towers.php" target="blank">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Unity.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>Unity Tower</h6>
-                            <p>Worli</p>
-                        </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-
-              <div class="col-md-4">
-                <a href="jpdecks.php" target="blank">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/JP-Decks.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>JP DECKS</h6>
-                            <p>Goregaon</p>
-                        </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              
-              <div class="col-md-4">
-                <a href="chalet_amar.php" target="blank">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Chalet-Amar.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>Chalet Amar</h6>
-                            <p>Juhu</p>
-                        </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-4">
-                <a href="north_celeste.php" target="blank">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Celeste.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>North Celeste</h6>
-                            <p>Mira Road</p>
-                        </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-4">
-                <a href="atria.php" target="blank">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Atria.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>Atria</h6>
-                            <p>North Garden City, Mira Road</p>
-                        </div>
-                    </div>
-                  </div>
-                </a>
-              </div> 
-              
-              <div class="col-md-4">
-                <a href="estella.php" target="blank">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Estella.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>Estella</h6>
-                            <p>North Garden City, Mira Road</p>
-                        </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-4">
-                <a href="dream_land_apartment.php" target="blank">
-                  <div class="delivered-projects-carousel">
-                    <div class="abt-jp-slider">
-                        <div class="abt-slide">
-                            <img src="img/home/delivered-projects/Dreamland.jpg" alt="delivered-projects">
-                        </div>
-                        <div class="abt-slide-heading">
-                            <h6>Dream Land Apartment</h6>
-                            <p>Khar</p>
-                        </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
+              	<div class="col-md-4">
+	                <a href="unity_towers.php" target="blank">
+	                  <div class="delivered-projects-carousel">
+	                    <div class="abt-jp-slider">
+	                        <div class="abt-slide pos-relative">
+	                            <img src="img/home/delivered-projects/Unity.jpg" alt="delivered-projects">
+	                            <p class="pos-absolute p-deliver">Rendered Image</p>
+	                        </div>
+	                        <div class="abt-slide-heading">
+	                            <h6>Unity Tower</h6>
+	                            <p>Worli</p>
+	                        </div>
+	                    </div>
+	                  </div>
+	                </a>
+              	</div>
+              	<div class="col-md-4">
+	                <a href="jpdecks.php" target="blank">
+	                  <div class="delivered-projects-carousel">
+	                    <div class="abt-jp-slider">
+	                        <div class="abt-slide pos-relative">
+	                            <img src="img/home/delivered-projects/JP-Decks.jpg" alt="delivered-projects">
+	                            <p class="pos-absolute p-deliver">Actual Image</p>
+	                        </div>
+	                        <div class="abt-slide-heading">
+	                            <h6>JP DECKS</h6>
+	                            <p>Goregaon</p>
+	                        </div>
+	                    </div>
+	                  </div>
+	                </a>
+              	</div>
+              	<div class="col-md-4">
+	                <a href="chalet_amar.php" target="blank">
+	                  <div class="delivered-projects-carousel">
+	                    <div class="abt-jp-slider">
+	                        <div class="abt-slide pos-relative">
+	                            <img src="img/home/delivered-projects/Chalet-Amar.jpg" alt="delivered-projects">
+	                            <p class="pos-absolute p-deliver">Actual Image</p>
+	                        </div>
+	                        <div class="abt-slide-heading">
+	                            <h6>Chalet Amar</h6>
+	                            <p>Juhu</p>
+	                        </div>
+	                    </div>
+	                  </div>
+	                </a>
+              	</div>
+              	<div class="col-md-4">
+	                <a href="north_celeste.php" target="blank">
+	                  <div class="delivered-projects-carousel">
+	                    <div class="abt-jp-slider">
+	                        <div class="abt-slide pos-relative">
+	                            <img src="img/home/delivered-projects/Celeste.jpg" alt="delivered-projects">
+	                            <p class="pos-absolute p-deliver">Actual image of North Celeste</p>
+	                        </div>
+	                        <div class="abt-slide-heading">
+	                            <h6>North Celeste</h6>
+	                            <p>Mira Road</p>
+	                        </div>
+	                    </div>
+	                  </div>
+	                </a>
+              	</div>
+              	<div class="col-md-4">
+	                <a href="atria.php" target="blank">
+	                  <div class="delivered-projects-carousel">
+	                    <div class="abt-jp-slider">
+	                        <div class="abt-slide pos-relative">
+	                            <img src="img/home/delivered-projects/Atria.jpg" alt="delivered-projects">
+	                            <p class="pos-absolute p-deliver"> Actual image of North Atria</p>
+	                        </div>
+	                        <div class="abt-slide-heading">
+	                            <h6>Atria</h6>
+	                            <p>North Garden City, Mira Road</p>
+	                        </div>
+	                    </div>
+	                  </div>
+	                </a>
+              	</div>               
+              	<div class="col-md-4">
+	                <a href="estella.php" target="blank">
+	                  <div class="delivered-projects-carousel">
+	                    <div class="abt-jp-slider">
+	                        <div class="abt-slide pos-relative">
+	                            <img src="img/home/delivered-projects/Estella.jpg" alt="delivered-projects">
+	                            <p class="pos-absolute p-deliver">Actual image of North Estella</p>
+	                        </div>
+	                        <div class="abt-slide-heading">
+	                            <h6>Estella</h6>
+	                            <p>North Garden City, Mira Road</p>
+	                        </div>
+	                    </div>
+	                  </div>
+	                </a>
+              	</div>
+              	<div class="col-md-4">
+	                <a href="dream_land_apartment.php" target="blank">
+	                  <div class="delivered-projects-carousel">
+	                    <div class="abt-jp-slider">
+	                        <div class="abt-slide pos-relative">
+	                            <img src="img/home/delivered-projects/Dreamland.jpg" alt="delivered-projects">
+	                            <p class="pos-absolute p-deliver">Rendered Image</p>
+	                        </div>
+	                        <div class="abt-slide-heading">
+	                            <h6>Dream Land Apartment</h6>
+	                            <p>Khar</p>
+	                        </div>
+	                    </div>
+	                  </div>
+	                </a>
+              	</div>
                            
             </div>
             <div class="col-md-1"></div>
