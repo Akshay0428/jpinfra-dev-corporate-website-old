@@ -136,7 +136,7 @@
                             <ul>            
                                 <li>JP Decks is just the place for your family - an exclusive standalone tower with two wings rising to 39 floors with 2 and 3-bed apartments.</li>
                                 <li>JP Decks is JP Infra’s landmark project that has set around 13604 sq mts of land.</li>
-                                <li>With its contemporary facade, beautiful landscapes, world-class amenities, and finest panoramic views of national park and city skyline, JP Decks is sure to become the most coveted residential tower in Gurgaon.</li>
+                                <li>With its contemporary facade, beautiful landscapes, world-class amenities, and finest panoramic views of national park and city skyline, JP Decks is sure to become the most coveted residential tower in Goregaon.</li>
                                 <li>The amenities here are extraordinaire and like ‘never seen before’. </li>
                                 <li>Architect Reza Kabul has planned this masterpiece with new age luxuries like the automated car wash facility and an inviting guest-room specially designed to enthrall near ones.</li>
                                 <li>The mini amphitheater and the magnanimous play area bring the world of imagination to life.</li>

@@ -16,9 +16,7 @@
         <div class="wwu-main" id="link_wwu">
             <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Work With Us</h1>
-            <p class="fontweight" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
-            <p class="fontweight" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            <p class="fontweight" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">JP Infra has proven to be a brand to watch in the Real Estate space, especially of the Mumbai suburban market. Achieving tremendous growth over a little more than a decade, JP Infra boasts of an employee strength that’s equally strong. Our employees get the best opportunities in training and exercising their skill set. We believe in providing a happy, healthy work environment that encourages team bonding, nurture’s individual goals and allows for a fun and safe working culture.<a href="media.php#mediapage_link"> Take a look at some of our fun times in the office environment on our Media section.</a></p>
         </div>
     </div>
     <!-- work with us ends -->
@@ -27,7 +25,7 @@
     <div class="sendresume container_main">
         <div class="resume-box">
             <div class="resume-txt">
-                <h5>send your resumes at</h5>
+                <h5>send your resumes to</h5>
             </div>
             <div class="resume-arrow">
                 <img src="img/work-with-us/arrow-wws.png" alt="arrow">
@@ -47,7 +45,8 @@
     <div class="container_main position-wwu" id="position-available">
         <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Positions Available</h1>
-        <p class="fontweight txt-align" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p class="fontweight txt-align" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Do you believe that you are a fun, conscientious person, passionate about the field of Real Estate? Do you have an analytical mindset while maintaining a “sky’s the limit” approach to all your tasks? If yes, come join us at JP Infra, where we work tirelessly each day in helping our customers make the biggest decision of their lives – buying a property. Take the first step towards your dream career in Mumbai’s Real Estate market.
+</p>
 
         <div class="accordion-container">
             <div class="set set-border">

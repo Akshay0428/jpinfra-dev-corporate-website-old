@@ -346,7 +346,7 @@ top: 81.5% !important;
                                                     <p class="pos-absolute north-p p-deliver">Actual Image</p>
                                                 </div>
                                                 <div class="way-slider-txt">
-                                                    <p>A perfect place for the tiny- tots to play and learn at your nearest Little Millenium School</p>
+                                                    <p>A perfect place for the tiny- tots to play and learn at your nearest Little Millennium School</p>
                                                 </div>
                                             </div>
                                         </div>

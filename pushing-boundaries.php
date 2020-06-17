@@ -202,7 +202,7 @@ in construction.</p>
                                 </div>
                                 <div class="item pos-relative">
                                     <img src="img/pushing_boundaries/humanleft2.jpg" class="img-2">
-                                    <p class="pos-absolute pb-di p-deliver">Artist's Impression</p>
+                                    <p class="pos-absolute pb-di p-deliver">Actual image</p>
                                 </div>
                                 <!-- <div class="item">
                                     <img src="img/pushing_boundaries/humanleft3.jpg" class="img-cls">

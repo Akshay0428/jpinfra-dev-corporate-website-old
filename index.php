@@ -365,88 +365,96 @@ transition:all .6s ease-in-out;
 
 <!---Counter desktop new start-->
 <div class="below-banner-section m_hide">
-   <div class="content-div" id="">
-   	 <div class="numbers-div border-ryt">
-         <div class="number-content">
-            <h1>1200 +</h1>
-         </div>
-         <div class="number-content">
-            <p>APARTMENTS DELIVERED<br>IN FY 19-20</p>
-         </div>
-         <div class="clearfix"></div>
+  <div class="content-div" id="">
+   	<div class="numbers-div border-ryt">
+      <div class="number-content">
+        <h1>1200 +</h1>
       </div>
-      <div class="numbers-div border-ryt">
-         <div class="number-content">
-            <h1 class="pad-counter">14 +</h1>
-         </div>
-         <div class="number-content">
-            <p>YEARS OF GROWTH</p>
-         </div>
-         <div class="clearfix"></div>
-      </div>
-      <div class="numbers-div border-ryt">
-         <div class="number-content">
-            <h1>4 <span class="base_no">mn sq ft</span></h1>
-         </div>
-         <div class="number-content">
-            <p>UNDER<br>CONSTRUCTION</p>
-         </div>
-         <div class="clearfix"></div>
-      </div>
-      <div class="numbers-div">
-         <div class="number-content">
-            <h1 class="pad-counter">5000 +</h1>
-         </div>
-         <div class="number-content">
-            <p>HAPPY <br>CUSTOMERS</p>
-         </div>
-         <div class="clearfix"></div>
+      <div class="number-content">
+        <p>APARTMENTS DELIVERED<br>IN FY 19-20</p>
       </div>
       <div class="clearfix"></div>
-   </div>
-   <div class="clearfix"></div>
+    </div>
+    <div class="numbers-div border-ryt">
+      <div class="number-content">
+        <h1 class="pad-counter">14 +</h1>
+      </div>
+      <div class="number-content">
+        <p>YEARS OF GROWTH</p>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    <div class="numbers-div border-ryt">
+      <div class="number-content">
+        <h1>4 <span class="base_no">mn sq ft</span></h1>
+      </div>
+      <div class="number-content">
+        <p>UNDER<br>CONSTRUCTION</p>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    <div class="numbers-div">
+      <div class="number-content">
+        <h1 class="pad-counter">5000 +</h1>
+      </div>
+      <div class="number-content">
+        <p>HAPPY <br>CUSTOMERS</p>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div class="clearfix"></div>
 </div>
 <!---Counter desktop new ends-->
 
 
-
-
-
-
-
-
-
-
 <!---Counter mobile start-->
 <section class="main-slider below-banner-section d_hide">
-   <div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
-      <div class="carousel-inner content-div slick-counter-mobile">
-         <div class="item active numbers-div">
-            <div class="number-content">
-               <h1>12</h1>
-            </div>
-            <div class="number-content">
-               <p>YEARS<br>OF GROWTH</p>
-            </div>
-         </div>
-         <div class="item numbers-div">
-            <div class="number-content">
-               <h1 class="adjust-margin">1200+</h1>
-            </div>
-            <div class="number-content">
-                <p>APARTMENTS<br>IN FY 19-20</p>
-            </div>
-         </div>
-         <div class="item numbers-div">
-            <div class="number-content">
-               <h1 class="extra-mrg">4 <span class="base_no">mn sq ft</span></h1>
-            </div>
-            <div class="number-content">
-               <p>UNDER<br>CONSTRUCTION</p>
-            </div>
-         </div>
+  <div id="carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel">
+    <div class="carousel-inner content-div slick-counter-mobile">
+      <div class="item active numbers-div">
+        <div class="number-content">
+          <h1>1200 +</h1>
+        </div>
+        <div class="number-content">
+          <p>APARTMENTS DELIVERED<br>IN FY 19-20</p>
+        </div>
       </div>
-   </div>
+      <div class="item numbers-div">
+        <div class="number-content">
+          <h1 class="pad-counter">14 +</h1>
+        </div>
+        <div class="number-content">
+          <p>YEARS OF GROWTH</p>
+        </div>
+      </div>
+      <div class="item numbers-div">
+        <div class="number-content">
+          <h1>4 <span class="base_no">mn sq ft</span></h1>
+        </div>
+        <div class="number-content">
+          <p>UNDER<br>CONSTRUCTION</p>
+        </div>
+      </div>
+      <div class="item numbers-div">
+        <div class="number-content">
+          <h1>5000 +</h1>
+        </div>
+        <div class="number-content">
+          <p>HAPPY <br>CUSTOMERS</p>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  </div>
 </section>
 <!---Counter mobile ends-->
 <!--Delivered Projects-->
@@ -1175,10 +1183,10 @@ transition:all .6s ease-in-out;
 <!--</section>-->
 
 <!--Sustainability-->
-<div class="bghome-push"></div>
+<div class="bghome-push">
 <section class="pushing-new">
     <div class="container_main_pushing">
-        <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
+        <div class="lable_line pdng"><img src="img/Gray-Head-line.png" class="northimage"></div>
         <div class="liveHead" data-aos="fade-down" data-aos-duration="3000">building responsibly</div>
         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Pushing Boundaries</h1>
         <!--<p class="pr_cntr_p" data-aos="fade-up" data-aos-duration="3000">A breathtaking mélange of architecture & nature, JP North aims to provide a wholesome and elegant lifestyle. Be it quality education or a trendy cafe to unwind at, JP North has got all your needs covered at Mira Road. Designed for excellence, JP North’s extensive list of amenities and attention to details is what makes it the dream home to live in.</p>-->
@@ -1220,6 +1228,7 @@ transition:all .6s ease-in-out;
     </div>
 <div class="clearfix"></div>
 </section>
+</div>
 <div class="clearfix"></div>
 
 
@@ -1328,6 +1337,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Now or Never</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">ANOTHER NORTHERN DELIGHT</h3>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 Bed Homes</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Experience the finer things in life at Codename Now or Never and live life in style. A perfect blend of all things sweet, spicy and sour, it is sure to keep all your taste buds and preferences happy and satisfied.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">1</span>
@@ -1346,6 +1356,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Hotcake</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">OPEN PAYMENT PLANS - YOUR HOUSE, YOUR CHOICE</h3>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 & 2 BHK</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Smartly planned, with every brick crafted to perfection, Codename Hotcake is styled to fulfil every need of your dream home. Equipped with the latest technology and necessities close at hand, Codename Hotcake aspires to make the experience at Mira Road better than your dreams.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">2</span>
@@ -1364,6 +1375,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Open Streets</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">INSPIRED BY THE EUROPEAN CITY OF BARCELONA</h3>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 & 2 BHK</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Harmonizing nature, luxuries and convenience in European style, Codename Open Streets provides a grand lifestyle. Well-connected and equipped with the latest amenities, Mira Road’s North Garden City offers homes loved by one & all.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
                                           <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
@@ -1383,6 +1395,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Elara</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED LUSH GREEN VIEWS</h3>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1, 2 & 3 BHK</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled in lush green surroundings, JP North’s Elara offers a home that goes beyond the 4 walls of your room. Situated in the heart of nature, it is well connected to both the Eastern & Western routes of the city. Equipped with a vast range of amenities, Elara provides you with a well rounded & tranquil lifestyle.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
                                           <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
@@ -1402,6 +1415,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Euphoria</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">A HAVEN OF PURE BLISS AND DELIGHT</h3>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">2 & 3 BHK</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">JP North’s Euphoria offers a lifestyle where you are in touch with nature everyday, encompassing all the requisites of a perfect dream home. It provides an ambience brimming with restaurants, salons, top-notch institutes and various other lifestyle conveniences.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">5</span>
@@ -1420,6 +1434,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Alexa</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">AN OASIS OF LUXURY IN THE HEART OF MIRA ROAD</h3>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 BHK</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Designed to provide a myriad of experiences, JP North’s Alexa is set to incorporate tranquillity and serenity of nature into your lifestyle. Blended with all the latest amenities and everyday facilities, experience the futuristic lifestyle for the futuristic life at JP North Alexa.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">6</span>
@@ -1438,6 +1453,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Altus</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED 270 DEGREE VIEW OF CITY SKYLINE</h3>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">3 BHK</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Situated in the heart of the city, Altus offers stunning views of the city skyline merging with the serene horizon of the Arabian Sea. Equipped with all the latest amenities, Altus’s strategic location offers easy connectivity to all major business hubs and several well-known recreational spaces.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">30+ OUTDOOR</p>-->
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">Amenities to keep you Healthy & Fit</p>-->

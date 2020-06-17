@@ -183,6 +183,21 @@
       </div>
     </section>
 
+    <div class="nri_yinvest">
+      <div class="container_aks bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">  
+        <div class="container_main pdng">
+          <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Why Invest</h1>
+          <p data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">If you are an NRI interested in investing in property in India, there’s no time like the present. The unique tax reforms presented by the government have allowed transparency into the Indian real estate market, making it the best time for NRI Real Estate Buyers to invest in property. The Indian Realty market is expected to grow at a CAGR of 11.2percent. Combining these factors along with the RERA bill, GST reforms and the stable price-points of real estate that India has been offering since 2016, there has never been a more beneficial time to step into the real estate space of India. Banks are also playing their part in wooing home buyers by offering excellent interest rates that are low enough to make buying property in India the right investment decision for all NRIs.</p>  
+          <p data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Mumbai being the city of dreams has always been a highly viable option for real estate investment for all. For NRIs, it remains the easy choice as it is the financial hub of India housing headquarters and offices of major businesses as well as being the centre of connectivity within Maharashtra. The civic involvement and growth of infrastructure is fast making it an attractive option for investment to all NRIs.</p> 
+      </div>
+      <div class="whitey_line"></div>
+      
+    </div></div>
+
+
+
+
+
     <section class="nri-corner-text">
       <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
       <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="aos-init aos-animate" id="link_faq">FAQ'S</h1>

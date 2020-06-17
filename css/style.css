@@ -714,9 +714,9 @@ Counter
 }
 
 .numbers-div {
-        width: 25% !important;
-        float: left;
-        padding: 0 5px !important;
+    width: 25%;
+    float: left;
+    padding: 0 5px;
 }
 .border-ryt{
         border-right: 1px solid #fff;
@@ -1540,13 +1540,14 @@ Sustainability
 }
 .pushing-new {
     position: absolute;
-    top: 230%;
+    top: 0%;
 }
 .bghome-push {
+    position: relative;
     background-color: #e1e1e1;
     height: 55vh;
     margin-top: 40px;
-        max-height: 80vh;
+    max-height: 80vh;
 }
 .p-pushingb{
     top: 97%;
@@ -3943,7 +3944,33 @@ div#project h4 {
     margin: 0 auto;
     margin-top: 40px;
 }    
-
+.nri_yinvest{
+    position: relative;
+    width: 100%;
+    background-image: url(../img/nri/Why-Nri.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 90vh;
+    max-height: 100vh;
+}
+.nri_yinvest h1{
+    color: #ffff;
+}
+.nri_yinvest p {
+    color: #fff;
+    padding-top: 20px;
+    font-weight: 300;
+}
+.whitey_line {
+    position: absolute;
+    width: 6%;
+    background-color: #fff;
+    height: 3px;
+    left: 46.75%;
+    top: 10%;
+}
 /************************nri corner page end************/
 
 
@@ -4250,7 +4277,7 @@ a.blogs-here-new {
     border-bottom: 2px solid #2e5689;
 }
 .resume-txt {
-    width: 42%;
+    width: 43%;
     text-align: center;
     float: left;
     padding: 5px 5px;
@@ -4360,6 +4387,9 @@ a.blogs-here-new {
 }
 button.btn-border h5 {
     font-weight: 600;
+}
+#link_wwu a {
+    color: #000;
 }
 /************************work with us page ends************/
 
@@ -4723,6 +4753,9 @@ Home Page
     float: none;
     margin-bottom: 47px !important;
     margin: 0px auto;
+}
+.numbers-div{
+    width: 100%;
 }
 .main_title_deliver {
     width: 100%;
@@ -5556,7 +5589,6 @@ p.carbon_txt2 {
 
 
 @media only screen and (max-width:768px){
-    
 .desktop_cont {
     display: none;
 }
@@ -5569,7 +5601,6 @@ p.carbon_txt2 {
 .contact_mob {
     display: block;
 }
-    
 /*project page*/
     
 .pr_sl_img {
@@ -5755,7 +5786,7 @@ p.head_con {
     display: block;
 }
 .liveHead2.aos-init.aos-animate p {
-    text-align: justify;
+    text-align: center;
     width: 100%;
     margin: 20px auto;
 }
