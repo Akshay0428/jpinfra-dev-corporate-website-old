@@ -153,16 +153,20 @@
     </div>
     <div class="gallery-silder mrg-top">
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/jpdesk/Deck_Pool.jpg" alt="Deck Pool">
+        <p class="txt-align texttransform fontweight pdng-top">Deck Pool</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/jpdesk/Guest_Room.jpg" alt="Guest_Room">
+        <p class="txt-align texttransform fontweight pdng-top">Guest Room</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/jpdesk/Gym_deck.jpg" alt="Gym_deck">
+        <p class="txt-align texttransform fontweight pdng-top">Gym Deck</p>
+      </div>
+      <div class="gal-img">
+        <img src="img/jp_delivered/jpdesk/Jogging_Track.jpg" alt="Jogging_Track">
+        <p class="txt-align texttransform fontweight pdng-top">Jogging Track</p>
       </div>
     </div>
 

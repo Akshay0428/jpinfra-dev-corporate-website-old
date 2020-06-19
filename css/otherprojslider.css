@@ -857,13 +857,13 @@ template {
 
 .swiper-slide__block .number {
 
-	font-size: 5em;
+	font-size: 50px;
 	font-weight: 900;
 	width: 100%;
 	display: block;
 	color: rgba(16, 47, 65, 0.04);
 	position: relative;
-	bottom: 414px;
+	bottom: 380px;
 	z-index: 1;
 	text-align: right;
 	margin: 0;
@@ -873,7 +873,7 @@ template {
    
 .swiper-button-prev {
     
-    top: 36% !important;
+    top: 33% !important;
 }
 
 .project{

@@ -1066,10 +1066,10 @@ img.arrow_button {
     width: 100%;
     margin: 0 auto;
 }
-.deliver_main ul.slick-dots {
-    width: 50% !important;
-    left: 25% !important;
-}
+/*.deliver_main ul.slick-dots {
+    width: 50%;
+    left: 25%;
+}*/
 .delivered-projects-text {
     width: 100%;
     margin: 0 auto;
@@ -1575,7 +1575,7 @@ Sustainability
     font-size: 20px;
     color: #2e5484;
     font-weight: 600;
-    width: 77%;
+    width: 100%;
     margin: 0 auto;
     padding-top: 15px;
     line-height: 25px;
@@ -4713,6 +4713,15 @@ Contact Page
 }
 
 @media only screen and (max-width:768px){
+   .navbar-toggle {
+        margin-right: 50px;
+    } 
+    .prev-button-home{
+        display: none !important;
+    }
+    .next-button-home{
+        display: none !important;
+    }
 .btm_fx_enq_bg{
     padding: 10px 0px;
 }
@@ -4760,25 +4769,68 @@ Home Page
 .main_title_deliver {
     width: 100%;
 }
+.abt-slide-heading {
+    display: block;
+     background: no-repeat; 
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .5s ease-out;
+    background-color: #2e5484;
+    color: #fff;
+}
+.abt-slide-heading h6 {
+    color: #fff;
+}
+.abt-slide-heading p {
+    color: #fff;
+}
 .know-text-jpabout h5 {
     font-size: 11px;
 }
 .btmPname {
     font-size: 11px;
 }
-.home-boundries {
-    background-image: none;
-    padding: 0;
-    margin-top: 10px;
-}
 .content-div {
     margin-bottom: 0px !important;
+}
+.delivered-projects-head {
+    border-left: 5px solid #ddd;
+    padding: 45px 25px 45px 25px;
+    margin-top: 0px;
+    position: relative;
+    border-right: 5px solid #ddd;
+    margin-bottom: 10%;
+}
+.delivered-projects-head p {
+    font-size: 14px;
+    text-align: center;
+}
+.mb-del-btn{
+    width: 75% !important;
+    margin-top: 20px;
+}
+.mob-del-line{
+    left: 75%;
+}
+.p-northhome {
+    top: 80%;
+    font-size: 12px;
+    min-height: 120px;
+    max-height: 150px;
+    font-size: 12px;
+    padding-top: 0;
 }
 .jp-button {
     width: 52%;
 }
 .jplife-button {
-    width: 47%;
+    float: none;
+    border: 1px solid #fff;
+    max-width: 100%;
+    margin-top: 235px;
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
 }
 .jp-north-button {
     top: 91%;
@@ -4795,7 +4847,25 @@ Home Page
     max-width: 100%;
     margin: 0 auto;
 }
-
+.pushing-new {
+    position: unset;
+    top: 0%;
+}
+.pushinghome {
+    width: 98%;
+    float: none;
+    padding: 0;
+    margin: 0 auto;
+    height: 320px !important;
+}
+.home-boundries {
+    background-image: none;
+    padding: 0;
+    margin-top: 10px;
+}
+.home-pb {
+    top: 72% !important;
+}
 .home-boundries-img {
     display: block;
 }
@@ -4830,6 +4900,43 @@ img.arrow_button_css {
 /*.glimpse-main.desktop p {*/
 /*    text-transform: uppercase;*/
 /*}*/
+.banner-north-mob{
+    position: relative;
+    height: 100vh;
+    background: url(../mobile/Homepage/North.jpg);
+    display: flex;
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    width: 100%;
+    margin-top: 25%;
+    /*background-attachment: fixed;*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main-div-jp {
+    width: 98%;
+    margin: 0 auto;
+    top: 1%;
+    left: 0;
+}
+.banner-title {
+    margin: 5px 0px;
+    text-align: center;
+}
+.p-18{
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 200;
+}
+.new-p-css{
+    margin-bottom: 5px;
+    font-size: 14px;
+    text-align: center;
+}
 .glimpse-main {
     background-color: #2e568945;
     width: 100%;
@@ -4864,6 +4971,9 @@ img.arrow_button_css {
     margin-top: 20px;
     font-size: 20px;
 }
+.contact-div {
+    padding: 0;
+}
 .col-del1{
     
     width: 100%;
@@ -4875,7 +4985,7 @@ img.arrow_button_css {
     float: none;
 }
 .banner-north {
-    margin-top: 32px;
+    margin-top: 75%;
 }
 .jpabout-button {
     width: 47%;
@@ -4907,6 +5017,14 @@ p.banner-subtitle1 {
 }
 .contact-form {
     width: 98%;
+    margin: 60px auto;
+    padding: 20px 20px;
+}
+.close-form {
+    margin-top: -10px;
+}
+.contact-block .inner-box {
+    margin-bottom: 60px;
 }
 .form-field {
     width: 98%;
@@ -4917,8 +5035,9 @@ p.banner-subtitle1 {
     float: left;
 }
 .form-button {
-    width: 98%;
+    width: 60%;
      float: none; 
+     margin: 0 auto;
 }
 span#ccode input[type="text"] {
     width: 75%;
@@ -5172,6 +5291,15 @@ work with  us Page
 /*--------------------------------------------------------------
 Media Page
 --------------------------------------------------------------*/
+.media-white-sec {
+    width: 98%;
+    left: 1%;
+    padding: 20px 20px;
+}
+.row_article {
+    padding: 0px 0px;
+    border: 1px solid #00000024;
+}
 .slick-prev {
     left: -24px!important;
 }
@@ -5585,9 +5713,6 @@ p.carbon_txt2 {
     top: 130%;
     z-index: -1;
 }         
-  
-
-
 @media only screen and (max-width:768px){
 .desktop_cont {
     display: none;
@@ -5601,8 +5726,8 @@ p.carbon_txt2 {
 .contact_mob {
     display: block;
 }
-/*project page*/
-    
+
+/*project page*/  
 .pr_sl_img {
     width: 100%;
     float: none;
@@ -5647,7 +5772,15 @@ p.carbon_txt2 {
     top: 3%;
 }
 .padding-media{
-    padding: 0 !important;
+    padding: 0;
+}
+.media_news {
+    /* margin-top: 60px; */
+    padding: 40px 0px 0px 0px;
+}
+.media_art.marg {
+    padding: 40px 0px 0px 0px;
+    margin: 0 !important;
 }
 .ongoing_project .container_aks {
     width: 100%;
@@ -5665,22 +5798,19 @@ p.carbon_txt2 {
     width: 98%;
 }
 .project-property-button {
-    width: 40%;
+    width: 50%;
     padding: 0px 2px 0px 2px;
 }
 .testimonial_main .liveHead2.aos-init.aos-animate p {
     width: 98%;
     margin: 0 auto;
     margin-bottom: 25px;
-}   
-
+} 
 /*----------------------------------------------------------------
 
 SUSTAINABILITY PAGE
 
 ----------------------------------------------------------------*/
-
-
 .human_col {
     width: 100%;
     float: none;
@@ -5816,7 +5946,51 @@ p.carbon_txt {
     padding: 0px 0px 0px 0px;
     margin: 15px 0px;
 }
-    
+/*blue footer*/
+.boxes {
+    width: 98%;
+    float: none;
+}
+.box-inner {
+    width: 80%;
+    margin: 0 auto;
+}
+.border_btm {
+    width: 70%;
+}
+.blue-footer {
+    margin-top: 20px;
+}    
+.box-main {
+    width: 100%;
+    margin: 0 auto;
+    border: none; 
+}
+.bl-fo-line {
+    width: 80%;
+    height: 1px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+.mainfooter p {
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+}
+.footer-text {
+    padding: 0;
+}
+.footer-icons {
+     padding: 0; 
+    width: 60%;
+    margin: 0 auto;
+}
+.mainfooter img {
+    width: 25%;
+    margin: 0px auto;
+    padding: 5px;
+}
+
 }
 
 @media only screen and (max-width:620px){

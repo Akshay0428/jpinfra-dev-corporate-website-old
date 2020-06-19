@@ -1,28 +1,29 @@
 <?php include 'header.php';?>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.6/assets/owl.carousel.min.css">
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.6/owl.carousel.min.js"></script>
-<script src="otherprojslider.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>   
-<link rel="stylesheet" href="css/otherprojslider.css">
-<style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.6/assets/owl.carousel.min.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.6/owl.carousel.min.js"></script>
+  <script src="otherprojslider.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>   
+  <link rel="stylesheet" href="css/otherprojslider.css">
+  <style>
     video#myVideo {
     width: 100%;
-}
+  }
 		
-.sep {width:100%;}
-.sep .image-hover {margin:0px 0px 0px 0px}
+  .sep{width:100%;}
+  .sep .image-hover {margin:0px 0px 0px 0px}
 
-/****** image hover ******/
+  /****** image hover ******/
 
-.image-hover * {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
-.image-hover {position:relative;
+  .image-hover * {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+  .image-hover {
+    position:relative;
     width:450px;
     height:200px;
     display:inline-block;
@@ -32,46 +33,36 @@
     /*box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
     /*-moz-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);*/
     /*-webkit-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3)*/
-    
-}
-.image-hover a {text-decoration:none}
-
-.image-hover img {
+  }
+  .image-hover a {text-decoration:none}
+  .image-hover img {
     margin: 0px 0px 0px 0px;
     width: 100%;
     height: 30vh;
-}
-
-/*** effect - shadow 1 ***/
-
-.img-shadow-1
-{
--webkit-box-shadow:none;
--moz-box-shadow: none;
-box-shadow: none;
-}
-
-.img-shadow-1:hover
-{
-transform:scale(1.1);
--webkit-transform:scale(1.1);
--moz-transform:scale(1.1);
--ms-transform:scale(1.1);
--o-transform:scale(1.1);
-
--webkit-box-shadow: 0 58px 36px -56px black;
--moz-box-shadow: 0 58px 36px -56px black;
-box-shadow: 0 58px 36px -56px black;
-}
-
-.img-shadow-1
-{
-transition:all .6s ease-in-out;
--webkit-transition:all .6s ease-in-out;
--moz-transition:all .6s ease-in-out;
--ms-transition:all .6s ease-in-out;
--o-transition:all .6s ease-in-out;
-}
+  }
+  /*** effect - shadow 1 ***/
+  .img-shadow-1{
+    -webkit-box-shadow:none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  .img-shadow-1:hover{
+    transform:scale(1.1);
+    -webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -ms-transform:scale(1.1);
+    -o-transform:scale(1.1);
+    -webkit-box-shadow: 0 58px 36px -56px black;
+    -moz-box-shadow: 0 58px 36px -56px black;
+    box-shadow: 0 58px 36px -56px black;
+  }
+  .img-shadow-1{
+    transition:all .6s ease-in-out;
+    -webkit-transition:all .6s ease-in-out;
+    -moz-transition:all .6s ease-in-out;
+    -ms-transition:all .6s ease-in-out;
+    -o-transition:all .6s ease-in-out;
+  }
 
 .img-shadow-1:hover
 {
@@ -994,15 +985,28 @@ transition:all .6s ease-in-out;
                 <div class="delivered-projects-text">
                     <div class="delivered-projects-head carousel slide"  id="myCarousel1" data-ride="carousel">
                         <div class="delivered-proj-top-line"></div>
+                        <div class="delivered-proj-top-line mob-del-line d_hide"></div>
                         <h1>DELIVERED PROJECTS</h1>
                         <p>We strive to provide the best-in-class projects to the consumers who have put their faith and trust in us. Our delivered projects are a symbol of what we give back.</p>
                         <div class="clearfix"></div>
                         <div class="delivered-proj-bot-line"></div>
+                        <div class="delivered-proj-bot-line mob-del-line d_hide"></div>
                         <div class="clearfix"></div>
+                        <div class="jp-button main-know-btn mb-del-btn d_hide">
+                          <a href="https://www.dotwisedigital.com/jpuat/pushing-boundaries.php" target="blank">
+                            <div class="know-text-jp main-know-text">
+                              <h5>Know More</h5>
+                            </div>
+                          </a>
+                          <div class="know-arrow-jp main-know-arrow">
+                            <img src="img/Project Button Arrow.png" class="know-arrow-img" alt="arrow">
+                          </div>
+                          <div class="clearfix"></div>
+                        </div>
                     </div>
+
                     <div class="clearfix"></div>
                 </div>
-                <div class="clearfix"></div>
             </div>
             <div class="col-md-8 main-abt-slider">
               	<div class="col-md-4">
@@ -1117,8 +1121,7 @@ transition:all .6s ease-in-out;
 	                  </div>
 	                </a>
               	</div>
-                           
-            </div>
+              </div>
             <div class="col-md-1"></div>
             <div class="clearfix"></div>
         </div>
@@ -1182,60 +1185,86 @@ transition:all .6s ease-in-out;
 <!--   </div>-->
 <!--</section>-->
 
-<!--Sustainability-->
-<div class="bghome-push">
-<section class="pushing-new">
-    <div class="container_main_pushing">
+  <!--Sustainability-->
+  <div class="bghome-push">
+    <section class="pushing-new">
+      <div class="container_main_pushing">
         <div class="lable_line pdng"><img src="img/Gray-Head-line.png" class="northimage"></div>
         <div class="liveHead" data-aos="fade-down" data-aos-duration="3000">building responsibly</div>
         <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Pushing Boundaries</h1>
         <!--<p class="pr_cntr_p" data-aos="fade-up" data-aos-duration="3000">A breathtaking mélange of architecture & nature, JP North aims to provide a wholesome and elegant lifestyle. Be it quality education or a trendy cafe to unwind at, JP North has got all your needs covered at Mira Road. Designed for excellence, JP North’s extensive list of amenities and attention to details is what makes it the dream home to live in.</p>-->
-        <div class="new-pushingimages" data-aos="fade-up" data-aos-duration="3000">
+        <div class="new-pushingimages m_hide" data-aos="fade-up" data-aos-duration="3000">
+          <div class="pushinghome pos-relative">
+            <img src="img/home/pushingB/Pushing-Boundaries-Imade-01.jpg" alt="Design Innovation">
+            <h5>design innovation</h5>
+            <p class="pos-absolute home-pb p-deliver">Artist's Impression</p>
+          </div>
+          <div class="pushinghome pos-relative">
+            <img src="img/home/pushingB/Pushing-Boundaries-Imade-02.jpg" alt="Integrated Living">
+            <h5>integrated living</h5>
+            <p class="pos-absolute home-pb p-deliver">Artist's Impression</p>
+          </div>
+          <div class="pushinghome pos-relative">
+            <img src="img/home/pushingB/Pushing-Boundaries-Imade-03.jpg" alt="Because We Care">
+            <h5>because we care</h5>
+            <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
+          </div>
+          <div class="pushinghome pos-relative">
+            <img src="img/home/pushingB/Pushing-Boundaries-Imade-04.jpg" alt="Our Carbon Footprint">
+            <h5>our carbon footprint</h5>
+            <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
+          </div>
+        </div>
+        <!-- mobile slider -->
+        <div class="new-pushingimages d_hide" data-aos="fade-up" data-aos-duration="3000">
+          <div class="pushing_slider">
             <div class="pushinghome pos-relative">
-                <img src="img/home/pushingB/Pushing-Boundaries-Imade-01.jpg" alt="Design Innovation">
-                <h5>design innovation</h5>
-                <p class="pos-absolute home-pb p-deliver">Artist's Impression</p>
+              <img src="img/home/pushingB/Pushing-Boundaries-Imade-01.jpg" alt="Design Innovation">
+              <h5>design innovation</h5>
+              <p class="pos-absolute home-pb p-deliver">Artist's Impression</p>
             </div>
             <div class="pushinghome pos-relative">
-                <img src="img/home/pushingB/Pushing-Boundaries-Imade-02.jpg" alt="Integrated Living">
-                <h5>integrated living</h5>
-                <p class="pos-absolute home-pb p-deliver">Artist's Impression</p>
+              <img src="img/home/pushingB/Pushing-Boundaries-Imade-02.jpg" alt="Integrated Living">
+              <h5>integrated living</h5>
+              <p class="pos-absolute home-pb p-deliver">Artist's Impression</p>
             </div>
             <div class="pushinghome pos-relative">
-                <img src="img/home/pushingB/Pushing-Boundaries-Imade-03.jpg" alt="Because We Care">
-                <h5>because we care</h5>
-                <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
+              <img src="img/home/pushingB/Pushing-Boundaries-Imade-03.jpg" alt="Because We Care">
+              <h5>because we care</h5>
+              <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
             </div>
             <div class="pushinghome pos-relative">
-                <img src="img/home/pushingB/Pushing-Boundaries-Imade-04.jpg" alt="Our Carbon Footprint">
-                <h5>our carbon footprint</h5>
-                <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
+              <img src="img/home/pushingB/Pushing-Boundaries-Imade-04.jpg" alt="Our Carbon Footprint">
+              <h5>our carbon footprint</h5>
+              <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
             </div>
+          </div>
+
         </div>
         <div class="clearfix"></div>
-                    <div class="jp-button main-know-btn">
-               <a href="https://www.dotwisedigital.com/jpuat/pushing-boundaries.php" target="blank">
-                  <div class="know-text-jp main-know-text">
-                     <h5>Know More</h5>
-                  </div>
-               </a>
-               <div class="know-arrow-jp main-know-arrow">
-                  <img src="img/Project Button Arrow.png" class="know-arrow-img" alt="arrow">
-               </div>
-               <div class="clearfix"></div>
+        <div class="jp-button main-know-btn">
+          <a href="https://www.dotwisedigital.com/jpuat/pushing-boundaries.php" target="blank">
+            <div class="know-text-jp main-know-text">
+              <h5>Know More</h5>
             </div>
-            <div class="clearfix"></div>
-    </div>
-<div class="clearfix"></div>
-</section>
-</div>
-<div class="clearfix"></div>
+          </a>
+          <div class="know-arrow-jp main-know-arrow">
+            <img src="img/Project Button Arrow.png" class="know-arrow-img" alt="arrow">
+          </div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+      <div class="clearfix"></div>
+    </section>
+  </div>
+  <div class="clearfix"></div>
 
 
 
 
-<!-- JP North code  starts Here -->
-<section class="banner-north">
+<!-- JP North code desktop starts Here -->
+<section class="banner-north m_hide">
     <div class="main-div-jp">
         <h1 class="banner-title" data-aos="zoom-in-down" data-aos-duration="2000">North - A Lifestyle</h1>
         <P class="banner-subtitle1" data-aos="zoom-in-down" data-aos-duration="2000">Transforming Mira Road </P>
@@ -1257,9 +1286,37 @@ transition:all .6s ease-in-out;
     <p class="pos-absolute p-northhome p-deliver">This is an Actual image of North Garden City Interior clubhouse<br>
 This is a rendered image of the interior of North Garden City's clubhouse prepared by the architect based on the current plan, final color and specification may vary.</p>
    <div class="clearfix"></div>
-   <!--<img class="skiing" src="" alt="">-->
 </section>
-<!-- JP North code ends Here -->
+<!-- JP North code desktop ends Here -->
+
+<!-- JP North code mobile starts Here -->
+<section class="banner-north-mob d_hide">
+    <div class="main-div-jp">
+        <h1 class="banner-title" data-aos="zoom-in-down" data-aos-duration="2000">North - A Lifestyle</h1>
+        <P class="p-18" data-aos="zoom-in-down" data-aos-duration="2000">Transforming Mira Road </P>
+        <!-- <p class="banner-subtitle" data-aos="zoom-in-down" data-aos-duration="2000">North Mumbai has gone through rapid development thanks to the space crunch and cluttered, boxy apartments in south Mumbai. Infrastructure has played a crucial role in driving growth. The aspiring Mumbaikar welcomes the sizeable emergence of affordable homes and enhanced connectivity in the new preferred hub of North Mumbai.  
+        </p> -->
+        <p class="banner-subtitle new-p-css" data-aos="zoom-in-down" data-aos-duration="2000">Due to the growing need for individual housing, North Mumbai has gone through rapid development over the last decade. Community living with access to world-class amenities have become the norm in North Mumbai housing projects. The aspiring Mumbaikar welcomes the sizeable emergence of affordable housing with international standards of living.</p>
+       <!--btn-->
+       <div class="jplife-button">
+          <div class="know-text-jplife">
+             <h5><a href="northjp.php" target="blank" class="jpahref">Know More</a></h5>
+          </div>
+          <div class="know-arrow-jplife">
+             <img src="img/Project-arrow-white.png" class="know-arrow-img-jplife" alt="arrow">
+          </div>
+          <div class="clearfix"></div>
+       </div>
+       <div class="clearfix"></div>
+    </div>
+    <p class="pos-absolute p-northhome p-deliver">This is an Actual image of North Garden City Interior clubhouse<br>
+This is a rendered image of the interior of North Garden City's clubhouse prepared by the architect based on the current plan, final color and specification may vary.</p>
+   <div class="clearfix"></div>
+</section>
+<!-- JP North code mobile ends Here -->
+
+
+
 <!-- Projects starts Here -->
 <div id="project" class="main_section">
    <div class="container_main">
@@ -1327,9 +1384,10 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                  </div> -->
                                   <div class="swiper-slide">
                                     <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                                      <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/jp-north/codenamenowornever/">
-                                          <img src="img/home/ongoing/NON.jpg" alt="Codename Now or Never">
+                                          <img src="img/home/ongoing/NON.jpg" alt="Codename Now or Never" class="m_hide">
+                                          <img src="img/home/ongoing/NON-mob.jpg" alt="Codename Now or Never" class="d_hide">
                                           </a>
                                           <p class="pos-absolute p-deliver p-narang">Artist's Impression</p>
                                        </div>
@@ -1348,7 +1406,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/codenamehotcake/">
-                                          <img src="img/home/ongoing/Hotcake.jpg" alt="Codename Hotcake">
+                                          <img src="img/home/ongoing/Hotcake.jpg" alt="Codename Hotcake" class="m_hide">
+                                          <img src="img/home/ongoing/Hotcake-mob.jpg" alt="Codename Hotcake" class="d_hide">
                                           <p class="pos-absolute p-deliver p-narang">Artist's Impression</p>
                                           </a>
                                        </div>
@@ -1367,7 +1426,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/codenameopenstreets/">
-                                          <img src="img/home/ongoing/Open-Streets.jpg" alt="Codename Open Streets">
+                                          <img src="img/home/ongoing/Open-Streets.jpg" alt="Codename Open Streets" class="m_hide">
+                                          <img src="img/home/ongoing/Open-Streets-mob.jpg" alt="Codename Open Streets" class="d_hide">
                                           </a>
                                           <p class="pos-absolute p-deliver p-narang">Artist's Impression</p>
                                        </div>
@@ -1387,7 +1447,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
-                                          <img src="img/home/ongoing/Elara.jpg" alt="Elara">
+                                          <img src="img/home/ongoing/Elara.jpg" alt="Elara" class="m_hide">
+                                          <img src="img/home/ongoing/Elara-mob.jpg" alt="Elara" class="d_hide">
                                           <p class="pos-absolute p-deliver p-narang">Artist's Impression</p>
                                           </a>
                                        </div>
@@ -1407,7 +1468,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
-                                          <img src="img/home/ongoing/Euphoria.jpg" alt="Euphoria">
+                                          <img src="img/home/ongoing/Euphoria.jpg" alt="Euphoria" class="m_hide">
+                                          <img src="img/home/ongoing/Euphoria-mob.jpg" alt="Euphoria" class="d_hide">
                                           <p class="pos-absolute p-deliver p-narang">Rendered Image</p>
                                           </a>
                                        </div>
@@ -1426,7 +1488,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                     <div class="swiper-slide__block">
                                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
-                                          <img src="img/home/ongoing/Alexa.jpg" alt="Alexa">
+                                          <img src="img/home/ongoing/Alexa.jpg" alt="Alexa" class="m_hide">
+                                          <img src="img/home/ongoing/Alexa-mob.jpg" alt="Alexa" class="d_hide">
                                           <p class="pos-absolute p-deliver p-narang">Artist's Impression</p>
                                           </a>
                                        </div>
@@ -1443,9 +1506,10 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                  </div>
                                  <div class="swiper-slide">
                                     <div class="swiper-slide__block">
-                                       <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                                      <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
                                           <a target="_blank" href="https://www.jpinfra.com/altus.html">
-                                          <img src="img/home/ongoing/Altus.jpg" alt="Altus">
+                                          <img src="img/home/ongoing/Altus.jpg" alt="Altus" class="m_hide">
+                                          <img src="img/home/ongoing/Altus-mob.jpg" alt="Altus" class="d_hide">
                                           </a>
                                           <p class="pos-absolute p-narang p-deliver">Rendered Image</p>
                                        </div>
@@ -1744,18 +1808,18 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                 </div> -->
                 <div class="image-hover img-shadow-1 sss">
                     <!-- <img src="img/media/Launch-Of-Clubhouse.jpg" alt="Launch-Of-Clubhouse"> -->
-                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/m3yl55GEVEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="100%" height="185px" src="https://www.youtube.com/embed/m3yl55GEVEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Launch Of Clubhouse</h5>
                     <p>JP Infra’s luxurious clubhouse is magical and so the name “Khul Ja Sim Sim”</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <!-- <img src="img/media/Launch-Of-Hotcake.jpg" alt="Launch-Of-Hotcake"> -->
-                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/tpUYth6v1wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="100%" height="185px" src="https://www.youtube.com/embed/tpUYth6v1wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Launch Of Codename Hotcake</h5>
                     <p>Codename Hotcake was launched with hot opportunities, hot space, hot amenities and these were all grabbed by our hot home buyers</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
-                    <iframe width="245px" height="185px" src="https://www.youtube.com/embed/1faplVFYv7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="100%" height="185px" src="https://www.youtube.com/embed/1faplVFYv7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Latest Construction Update</h5>
                     <p>Have a look at how JP North is bringing your dreams to life.</p>
                 </div>
@@ -1781,12 +1845,12 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                     <p>The celebration of Gudi Padwa with smiles around and excited homebuyers who received cash vouchers and Godrej Interio modular kitchens</p>
                 </div> -->
                 <div class="image-hover img-shadow-1 sss">
-                   <iframe width="245px" height="185px" src="https://www.youtube.com/embed/o3qLmsuw118" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                   <iframe width="100%" height="185px" src="https://www.youtube.com/embed/o3qLmsuw118" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Zee Business Property Plus</h5>
                     <p>JP Infra features on Zee Business Property Plus, introducing JP North’s 1, 2, & 3 BHK apartments with numerous amenities</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
-                   <iframe width="245px" height="185px" src="https://www.youtube.com/embed/ZZhHCN0laBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                   <iframe width="100%" height="185px" src="https://www.youtube.com/embed/ZZhHCN0laBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <h5>Codename Openstreets Launch</h5>
                     <p>Life at Codename Openstreets is boundless, featuring the European Lifestyle to 2000+ interested buyers. </p>
                 </div>
@@ -2003,11 +2067,12 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
 <script src="js/slickminjscode.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.js"></script>
 <script>
+
    $('.slide-media').slick({
-    dots: false,
+    // dots: true,
     arrow: true,
     prevArrow:'<button type="button" class="prev-button-home"></button>',
-          nextArrow:'<button type="button" class="next-button-home"></button>',
+    nextArrow:'<button type="button" class="next-button-home"></button>',
     infinite: true,
     autoplay: true,
     speed: 300,
@@ -2031,6 +2096,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
         settings: {
             slidesToShow: 1,
             arrow: false,
+            dots: true,
             prevArrow:'<button type="button" class="prev-button-home"></button>',
                 nextArrow:'<button type="button" class="next-button-home"></button>',
             slidesToScroll: 1
@@ -2042,7 +2108,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
             slidesToShow: 1,
             arrow: false,
             prevArrow:'<button type="button" class="prev-button-home"></button>',
-                    nextArrow:'<button type="button" class="next-button-home"></button>',
+            nextArrow:'<button type="button" class="next-button-home"></button>',
             slidesToScroll: 1
         }
         }
@@ -2063,15 +2129,16 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
    });
    
 </script>
+
 <script>
-   $('.media_responsive').slick({
-     dots: true,
+   $('.pushing_slider').slick({
+      dots: true,
      infinite: true,
      speed: 300,
-     arrow: true,
+     arrow: false,
      autoplay: true,
-     prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow_left.png'>",
-     nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow_right.png'>",
+     prevArrow:'<button type="button" class="prev-button-home"></button>',
+    nextArrow:'<button type="button" class="next-button-home"></button>',
      slidesToShow: 1,
      slidesToScroll: 1,
      responsive: [
@@ -2082,8 +2149,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
            dots: true,
            autoplay: true,
            arrow: true,
-           prevArrow:"<img class='a-left control-c prev slick-prev' src='../img/arrow_left.png'>",
-           nextArrow:"<img class='a-right control-c next slick-next' src='../img/arrow_right.png'>",
+           prevArrow:'<button type="button" class="prev-button-home"></button>',
+            nextArrow:'<button type="button" class="next-button-home"></button>',
            slidesToScroll: 1,
            infinite: true,
            dots: false
@@ -2110,67 +2177,18 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
          }
        }
      ]
-   });
-   
-   
-           $('.pushing_slider').slick({
-   			dots: false,
-   			arrow: false,
-   			prevArrow:false,
-   	        nextArrow:false,
-   			infinite: true,
-   			autoplay: true,
-   			speed: 300,
-   			slidesToShow: 1,
-   			slidesToScroll: 1,
-   			responsive: [
-   				{
-   				breakpoint: 1024,
-   				settings: {
-   					slidesToShow: 1,
-   					slidesToScroll: 1,
-   					arrow: false,
-   					prevArrow:false,
-   	        		nextArrow:false,
-   					infinite: true,
-   					dots: false
-   				}
-   				},
-   				{
-   				breakpoint: 600,
-   				settings: {
-   					slidesToShow: 1,
-   					arrow: false,
-   					prevArrow:false,
-   	        		nextArrow:false,
-   					slidesToScroll: 1
-   				}
-   				},
-   				{
-   				breakpoint: 480,
-   				settings: {
-   					slidesToShow: 1,
-   					arrow: false,
-   					prevArrow:false,
-   	       			nextArrow:false,
-   					slidesToScroll: 1
-   				}
-   				}
-   				// You can unslick at a given breakpoint now by adding:
-   				// settings: "unslick"
-   				// instead of a settings object
-   			]
-   			});
+   });   
+</script>
 
-
+<script>
    $('.main-abt-slider').slick({
      dots: true,
      infinite: true,
      speed: 300,
      arrow: false,
      autoplay: true,
-     prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow_left.png'>",
-     nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow_right.png'>",
+     // prevArrow:'<button type="button" class="prev-button-home"></button>',
+     // nextArrow:'<button type="button" class="next-button-home"></button>',
      slidesToShow: 3,
      slidesToScroll: 1,
      responsive: [
@@ -2181,8 +2199,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
            dots: true,
            autoplay: true,
            arrow: true,
-           prevArrow:"<img class='a-left control-c prev slick-prev' src='../img/arrow_left.png'>",
-           nextArrow:"<img class='a-right control-c next slick-next' src='../img/arrow_right.png'>",
+           // prevArrow:'<button type="button" class="prev-button-home"></button>',
+            // nextArrow:'<button type="button" class="next-button-home"></button>',
            slidesToScroll: 1,
            infinite: true,
            dots: false
@@ -2210,7 +2228,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
        }
      ]
    });
-   
+
+
    
    
    	

@@ -151,18 +151,22 @@
       </div>
       <div class="clearfix"></div>
     </div>
-    <div class="gallery-silder mrg-top">
+        <div class="gallery-silder mrg-top">
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Atria/16_Themed_Gardens.jpg" alt="16_Themed_Gardens">
+        <p class="txt-align texttransform fontweight pdng-top">16 Themed Gardens</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Atria/Cabana.jpg" alt="Cabana">
+        <p class="txt-align texttransform fontweight pdng-top">Cabana</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Atria/Lobby.jpg" alt="Lobby">
+        <p class="txt-align texttransform fontweight pdng-top">Lobby</p>
+      </div>
+      <div class="gal-img">
+        <img src="img/jp_delivered/Atria/Swimming_Pool.jpg" alt="Swimming Pool">
+        <p class="txt-align texttransform fontweight pdng-top">Swimming Pool</p>
       </div>
     </div>
 

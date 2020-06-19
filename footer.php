@@ -10,15 +10,17 @@
     </div>
     <div class="boxes">
       <div class="box-main">
+        <div class="bl-fo-line d_hide"></div>
         <div class="box-inner">
           <a href="work-with-us.php"> <h1 class="txt-upper">work with us</h1></a>
-        <a href="work-with-us.php#link_wwu"> <h5 class="txt-transform border_btm">work with us</h5></a>
-        <a href="work-with-us.php#position-available"> <h5 class="txt-transform">position available</h5></a>
+          <a href="work-with-us.php#link_wwu"> <h5 class="txt-transform border_btm">work with us</h5></a>
+          <a href="work-with-us.php#position-available"> <h5 class="txt-transform">position available</h5></a>
         </div>
         
       </div>
     </div>
     <div class="boxes">
+      <div class="bl-fo-line d_hide"></div>
       <div class="box-inner">
         <a href="blog"> <h1 class="txt-upper border_btm border_btmextra">blogs</h1></a>
         <a href="nri_corner.php"> <h1 class="txt-upper border_btm border_btmextra">investor relations</h1></a>

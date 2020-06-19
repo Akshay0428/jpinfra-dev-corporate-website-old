@@ -153,16 +153,20 @@
     </div>
     <div class="gallery-silder mrg-top">
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Celeste/Banquet Hall.jpg" alt="Banquet Hall">
+        <p class="txt-align texttransform fontweight pdng-top">Banquet Hall</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Celeste/Gym.jpg" alt="Gym">
+        <p class="txt-align texttransform fontweight pdng-top">Gym</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Celeste/Mini_theatre.jpg" alt="Mini_theatre">
+        <p class="txt-align texttransform fontweight pdng-top">Mini Theatre</p>
+      </div>
+      <div class="gal-img">
+        <img src="img/jp_delivered/Celeste/Swimming_Pool_celeste.jpg" alt="Swimming_Pool_celeste">
+        <p class="txt-align texttransform fontweight pdng-top">Swimming Pool</p>
       </div>
     </div>
 

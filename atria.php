@@ -149,21 +149,25 @@
       <div class="main_title_jpdesk pdng">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Gallery</h1>
-      </div>
-      <div class="clearfix"></div>
+          </div>
+          <div class="clearfix"></div>
     </div>
     <div class="gallery-silder mrg-top">
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Atria/16_Themed_Gardens.jpg" alt="16_Themed_Gardens">
+        <p class="txt-align texttransform fontweight pdng-top">16 Themed Gardens</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Atria/Cabana.jpg" alt="Cabana">
+        <p class="txt-align texttransform fontweight pdng-top">Cabana</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/swimming_pool_gallery.jpg" alt="swimming_pool_gallery">
-        <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
+        <img src="img/jp_delivered/Atria/Lobby.jpg" alt="Lobby">
+        <p class="txt-align texttransform fontweight pdng-top">Lobby</p>
+      </div>
+      <div class="gal-img">
+        <img src="img/jp_delivered/Atria/Swimming_Pool.jpg" alt="Swimming Pool">
+        <p class="txt-align texttransform fontweight pdng-top">Swimming Pool</p>
       </div>
     </div>
 
