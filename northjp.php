@@ -159,9 +159,9 @@ top: 81.5% !important;
     <div class="jp-north-page-way-life-main width-100">
         <div class="jp-north-page-way-life-main-divs width-80">
            <div class="jp-north-page-way-life-main-text float-left">
-                <h2 class="h2-css color-heading tf-42px" data-aos="fade-up" data-aos-duration="3000">north</h2>
-                <h2 class="h2-css color-heading tf-42px" data-aos="fade-up" data-aos-duration="3000">An assured way of living</h2>
-               <p class="color-black p-width m_hide" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls.  North is designed with a vision to provide a carefully crafted lavish environment for our residents, with each space planned with great thought and vision.  When you enter North, you enter into an oasis of greenery and serenity, a place of calm to come home to, from the fast-paced life of Mumbai.  16 themed gardens, a range of top-class amenities, car-free zones, safe zone for children and the elderly, and entertainment for the entire family, is what you get at North.  And all of this, in a socially responsible sustainable low-waste environment.  Come home to living, come home to North.  </p>
+                <h2 class="h2-css color-heading tf-42px mob-tf-42" data-aos="fade-up" data-aos-duration="3000">north</h2>
+                <h2 class="h2-css color-heading tf-42px mob-tf-42" data-aos="fade-up" data-aos-duration="3000">An assured way of living</h2>
+               <p class="color-black p-width" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls.  North is designed with a vision to provide a carefully crafted lavish environment for our residents, with each space planned with great thought and vision.  When you enter North, you enter into an oasis of greenery and serenity, a place of calm to come home to, from the fast-paced life of Mumbai.  16 themed gardens, a range of top-class amenities, car-free zones, safe zone for children and the elderly, and entertainment for the entire family, is what you get at North.  And all of this, in a socially responsible sustainable low-waste environment.  Come home to living, come home to North.  </p>
            </div>
            <!-- old slider -->
            <!-- <div class="jp-north-page-way-life-main-img img-width float-left pos-relative">
@@ -368,7 +368,6 @@ top: 81.5% !important;
                
                <!--<div class="np-greypatch pos-absolute m_hide"></div>-->
            </div>
-           <p class="color-black p-width d_hide" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls.  North is designed with a vision to provide a carefully crafted lavish environment for our residents, with each space planned with great thought and vision.  When you enter North, you enter into an oasis of greenery and serenity, a place of calm to come home to, from the fast-paced life of Mumbai.  16 themed gardens, a range of top-class amenities, car-free zones, safe zone for children and the elderly, and entertainment for the entire family, is what you get at North.  And all of this, in a socially responsible sustainable low-waste environment.  Come home to living, come home to North.  </p>
            <div class="clearfix"></div> 
            
         </div>

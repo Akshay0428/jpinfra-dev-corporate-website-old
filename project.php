@@ -3,29 +3,33 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
 			
 	<style>
-		.slick-dots {
-		   text-align: center;
-		   margin: 0 0 10px 0;
-		   padding: 35px 0px 20px 0px;
-		}
-		.slick-dots li {
-			display: inline-block;
-		    margin-left: 4px;
-		    margin-right: 4px;
-		}
-		.slick-dots li.slick-active button {
-		    border: 1px solid #1b405b !important;
-		}
-		.slick-dots li button {
-		    font: 0/0 a;
-		    text-shadow: none;
-		    color: transparent;
-		    background-color: #486b99;
-		    border: none;
-		    width: 6px;
-		    height: 12px;
-		    border-radius: 50%;
-		}
+   .slick-dots li button {
+   font: 0/0 a;
+   text-shadow: none;
+   color: transparent;
+   background-color: #486b9945!important;
+   border: none;
+   width: 17px!important;
+   height: 16px!important;
+   border-radius: 50%;
+   }
+   .slick-dots {
+   text-align: center;
+   margin: 0 0 10px 0;
+   padding: 15px;
+   }
+   .slick-dots li {
+   display: inline-block;
+   margin-left: 4px;
+   margin-right: 4px;
+   }
+   .slick-dots li.slick-active button {
+   border: 1px solid #1b405b !important;
+   }
+   .slick-dots li button:before {
+	   top: -2px !important;
+	   left: -1px !important;
+   }
 		/* Custom Arrow */
 		.prev-button {
 		    color: #999;
@@ -277,7 +281,15 @@
 			<!-- Projects end Hrere -->
 
 	<!-- Project bg start-->
-	<div class="project-background">
+	<div class="project-background m_hide">
+		<h1>Projects</h1>
+		<div class="project-white-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
+				<p>Over the past __ years, JP Infra has delivered __ square meters of happiness and strives to continue providing dream homes to help you realize your dreams and live the life you were always meant to. In the hustle and bustle of the busy city, JP Infra offers a thoughtful lifestyle for its residents to enjoy ultra-modern amenities with state-of-the-art technology, sustainable development, and lush green landscapes.</p>
+		</div>
+	</div>
+
+
+	<div class="project-background-mob project-background d_hide">
 		<h1>Projects</h1>
 		<div class="project-white-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
 				<p>Over the past __ years, JP Infra has delivered __ square meters of happiness and strives to continue providing dream homes to help you realize your dreams and live the life you were always meant to. In the hustle and bustle of the busy city, JP Infra offers a thoughtful lifestyle for its residents to enjoy ultra-modern amenities with state-of-the-art technology, sustainable development, and lush green landscapes.</p>
@@ -332,10 +344,11 @@
 					<img src="img/project/ongoing/donald.jpg">
 					<div class="media_hveff_pro"><h5>EASY ACCESSIBILITY EASY LIFE</h5>
 		                <p class="proj_hvtext texttransform">
-		                    8 Themed Gardens<br>
-		                    28 Lifestyle Amenities<br>
-		                    Green Living<br>
-		                    Grand Clubhouse<br>
+		                	1 Bed Homes<br>
+							16 Themed Garden<br>
+							35+ Lifestyle Amenities<br>
+							Green Living<br>
+							Grand Clubhouse
 		                </p>
 		            </div>
 		            <p class="pos-absolute p-projon p-deliver"> Artist's Impression</p>
@@ -918,6 +931,7 @@
 					<div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
 						<p>The passion and panache with which JP Infra approaches and delivers its projects is reflected in our projects and by our happy customers.</p>   
 					</div>
+					<div class="testline-mob d_hide"></div>
 					<div class="test-slider-main">
 						<div class="test-slider-div">
 							<div class="test-inner">
@@ -1087,6 +1101,7 @@
 						settings: {
 							slidesToShow: 1,
 							arrow: true,
+							dots: true,
 							prevArrow:'<button type="button" class="prev-button"></button>',
 			        		nextArrow:'<button type="button" class="next-button"></button>',
 							slidesToScroll: 1
@@ -1097,6 +1112,7 @@
 						settings: {
 							slidesToShow: 1,
 							arrow: true,
+							dots: true,
 							prevArrow:'<button type="button" class="prev-button"></button>',
 			       			nextArrow:'<button type="button" class="next-button"></button>',
 							slidesToScroll: 1

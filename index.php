@@ -1396,7 +1396,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">ANOTHER NORTHERN DELIGHT</h3>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 Bed Homes</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Experience the finer things in life at Codename Now or Never and live life in style. A perfect blend of all things sweet, spicy and sour, it is sure to keep all your taste buds and preferences happy and satisfied.</p>
+                                         <!--  <p data-swiper-parallax-x="-40%" class="paragraphe">Experience the finer things in life at Codename Now or Never and live life in style. A perfect blend of all things sweet, spicy and sour, it is sure to keep all your taste buds and preferences happy and satisfied.</p> -->
+                                         <p data-swiper-parallax-x="-40%" class="paragraphe">Enjoy the peacefulness and serenity the luscious greens have to offer with this aesthetically-designed JP Infra project. Codename Now or Never offers you an attractive 1 Bed home that caters to both your physical as well as spiritual living needs.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">1</span>
                                        </div>
@@ -1476,9 +1477,11 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Euphoria</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">A HAVEN OF PURE BLISS AND DELIGHT</h3>
+                                          <!-- <h3 data-swiper-parallax-x="-50%" class="main__subtitle">A HAVEN OF PURE BLISS AND DELIGHT</h3> -->
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">SPLENDOUS HOMES IN IMPECCABLE SURROUNDINGS</h3>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">2 & 3 BHK</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">JP North’s Euphoria offers a lifestyle where you are in touch with nature everyday, encompassing all the requisites of a perfect dream home. It provides an ambience brimming with restaurants, salons, top-notch institutes and various other lifestyle conveniences.</p>
+                                          <!-- <p data-swiper-parallax-x="-40%" class="paragraphe">JP North’s Euphoria offers a lifestyle where you are in touch with nature everyday, encompassing all the requisites of a perfect dream home. It provides an ambience brimming with restaurants, salons, top-notch institutes and various other lifestyle conveniences.</p> -->
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">JP Infra offers you green landscapes and a host of amenities with this remarkable tower. North Euphoria is an address reserved for the finest few with a grand double height entrance lobby leading to individual decks, glass facades and elite 2 and 3 BHK homes designed to make you never want to leave.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">5</span>
                                        </div>

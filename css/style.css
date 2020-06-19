@@ -5052,118 +5052,154 @@ span#ccode input[type="text"] {
     background: #0000;
 }
 /*--------------------------------------------------------------
+nri corner page
+--------------------------------------------------------------*/
+.nri-text h3 {
+    font-size: 20px;
+    text-align: center;
+}
+.nri_yinvest {
+    background-image: url(../img/nri/Why-Invest-BG.jpg);
+}
+.whitey_line {
+    width: 20%;
+    left: 38.75%;
+    top:6%;
+}
+.nri-corner-text {
+    width: 98%;
+}
+.marg-mob-nri {
+    margin-top: 35px !important;
+}
+.view-all-proj {
+    width: 100%;
+}
+.content p {
+    padding: 10px;
+    font-size: 14px;
+}
+.accordion-container {
+    max-width: 98%;
+}
+.set > a {
+    padding: 10px;
+    font-size: 16px;
+}
+.f-10{
+    font-size: 10px;
+}
+/*--------------------------------------------------------------
 north Page
 --------------------------------------------------------------*/
 section.main-npslider {
     height: auto;
 }
 video#myVideonpnorth {
-            width: 100%;
-        }
-        .logo-banner {
-            width: 30%;
-            max-width: 50%;
-            top: 5%;
-            left: 5%;
-        }
-        .jp-north-page-banner-text-main {
-            width: 90%;
-            font-size:16px;
-        }
-        .jp-north-page-way-life-main-text {
-            width: 100%;
-            float: none; 
-            margin-bottom: 50px;
-        }
-        .h2-css {
-            font-size: 28px;
-            text-align: center;
-        }
-        .jp-north-page-way-life-main-img {
-            width: 100%;
-            float:none;
-        }
-        .p-width {
-            width: 90%;
-            text-align: center;
-            font-size: 14px;
-            margin: 0 auto;
-            margin-top: 35px;
-        }
-        .jp-north-page-banner-text-h1 {
-            text-transform: uppercase;
-            font-weight: 300;
-            font-size: 36px;
-        }
-        .jp-north-page-way-life-main-divs {
-            width: 94%;
-            margin: 0 auto;
-        }
-        .tf-42px {
-            font-size: 20px;
-        }
-        .np-bl-patch{
-            background-color: #00000000;
-        }
-        /*.np-living-space-slider {*/
-        /*    width: 80%;*/
-        /*    float: none;*/
-        /*    margin: 0 auto;*/
-        /*}dont include*/
-        .np-img-leaf {
-            width: 20%;
-            left: 8%;
-        }
-        .above-footer-color {
-            font-size: 20px;
-        }
-        .jp-north-page-banner-text-h6 {
-            font-size: 16px;
-        }
-        .jp-north-page-subheading {
-            width: 90%;
-            font-size: 14px;
-        }
-        .top {
-            top: 25%;
-            left: 6%;
-        }
-        .tx-align p{
-            text-align:center !important;
-                font-size: 14px !important;
-        }
-        .jp-north-page-abovefooter_main {
-            width: 100%;
-            background-color: #00000014;
-            padding-top: 20px;
-            padding-bottom: 20px;
-        }
-        .jp-north-page-way-life-main-text {
-            width: 100%;
-            float: none;
-            margin-bottom: 20px;
-        }
-        .margin-top {
-            margin: 35px 0px 0px 0px;
-        }
-        .inner-div-np-text {
-            top: 85%;
-        }
-        .jp-north-page-transforming-text-main {
-            top: 5%;
-        }
-        .tf-42px {
-            margin: 0px 0px 20px 0px;
-        }
-        .button-np {
-            width: 40%;
-            padding: 0px 6px 0px 14px;
-        }
-        .np-img-leaf3 {
-            width: 7%;
-            left: 90%;
-            top: 95%;
-        }
+    width: 100%;
+}
+.logo-banner {
+    width: 30%;
+    max-width: 50%;
+    top: 5%;
+    left: 5%;
+}
+.jp-north-page-way-life-main.width-100 {
+    background-color: #00000014;
+    padding: 30px 0px;
+    margin-top: 0px; 
+}
+.mob-tf-42{
+    margin: 0px 0px 0px 0px !important;
+}
+.jp-north-page-banner-text-main {
+    width: 90%;
+    font-size:16px;
+}
+.jp-north-page-way-life-main-text {
+    width: 100%;
+    float: none; 
+    margin-bottom: 50px;
+}
+.h2-css {
+    font-size: 20px;
+    text-align: left;
+}
+.jp-north-page-way-life-main-img {
+    width: 100%;
+    float:none;
+}
+.p-width{
+    width: 98%;
+    text-align: justify;
+    font-size: 14px;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+.jp-north-page-banner-text-h1 {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 36px;
+}
+.jp-north-page-way-life-main-divs {
+    width: 94%;
+     margin: 0 auto;
+}
+.np-bl-patch{
+    background-color: #00000000;
+}
+.np-img-leaf {
+    width: 20%;
+    left: 25%;
+    top: 20%;
+}
+.above-footer-color {
+    font-size: 20px;
+}
+.jp-north-page-banner-text-h6 {
+    font-size: 16px;
+}
+.jp-north-page-subheading {
+    width: 90%;
+    font-size: 14px;
+}
+.top {
+    top: 25%;
+    left: 6%;
+}
+.tx-align p{
+    text-align:center !important;
+    font-size: 14px !important;
+}
+.jp-north-page-abovefooter_main {
+    width: 100%;
+    background-color: #00000014;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.jp-north-page-way-life-main-text {
+    width: 100%;
+    float: none;
+    margin-bottom: 20px;
+}
+.margin-top {
+    margin: 35px 0px 0px 0px;
+}
+.inner-div-np-text {
+    top: 85%;
+}
+.jp-north-page-transforming-text-main {
+    top: 5%;
+}
+.button-np {
+    width: 40%;
+    padding: 0px 6px 0px 14px;
+}
+.np-img-leaf3 {
+    width: 7%;
+    left: 90%;
+    top: 95%;
+}
         .np-img-leaf2 {
             width: 7%;
             left: 88%;
@@ -5191,6 +5227,9 @@ Project Page
 h1 {
     text-align: center;
     font-size: 21px;
+}
+.project-background-mob{
+    background: url(../img/project/Projects-mob.jpg);
 }
 .container_aks {
     width: 100%;
@@ -5363,7 +5402,12 @@ Media Page
 .mobile{
     display: block;
 }
-
+/*--------------------------------------------------------------
+Pushing boundaries Page
+--------------------------------------------------------------*/
+section.human_sec {
+    margin-top: 30%;
+}
 /*--------------------------------------------------------------
 Contact Page
 --------------------------------------------------------------*/
@@ -5404,7 +5448,7 @@ input {
 
 /*--------------------------------------------------------------
 
-Sustainability Page
+Pushing boundaries Page
 --------------------------------------------------------------*/
 
 .sustainability-banner-text-main {
@@ -5418,10 +5462,12 @@ Sustainability Page
     color:#fff;
     font-weight:300;
 }
+
 .human_main{
     width: 100%;
     max-width: 100%;
     padding-top: 100px;
+    position: relative;
 }
 .human_col {
     width: 50%;
@@ -5598,9 +5644,9 @@ p.head_con {
     width: 100%;
     margin: 100px auto 100px auto;
 }
-p.carbon_txt {
+/*p.carbon_txt {
     font-size: 20px !important;
-}
+}*/
 .carbon_row {
 
     width: 100%;
@@ -5766,10 +5812,35 @@ p.carbon_txt2 {
     left: 10%;
     top: -90px;
 }
+.ppnp-img-leaf2 {
+    width: 15%;
+    left: 75%;
+    top: 74%;
+}
 .ppnp-img-leaf3 {
     width: 19%;
     left: 68%;
-    top: 3%;
+    top: 0%;
+}
+.testimonial_main{
+    background-image: url(../img/project/testimonial/Testimonials-mob.jpg);
+}
+.testline-mob {
+    width: 98%;
+    background-color: #ffffff6e;
+    height: 1px;
+    margin: 0 auto;
+}
+.test-slider-main {
+    width: 98%;
+    margin: 10% auto;
+}
+.test-img {
+    width: 30%;
+}
+.test-text {
+    width: 65%;
+    margin-left: 0px;
 }
 .padding-media{
     padding: 0;
@@ -5850,7 +5921,8 @@ SUSTAINABILITY PAGE
 .main_absolute {
     position: absolute;
     left: 0px;
-    top: 118%;
+    top: 10%;
+    width: 100%;
 }
 .content_abs {
     width: 100%;
@@ -5920,9 +5992,9 @@ p.head_con {
     width: 100%;
     margin: 20px auto;
 }
-p.carbon_txt {
+/*p.carbon_txt {
     font-size: 16px !important;
-}
+}*/
 .solar-img {
     width: 100%;
     float: none;

@@ -120,16 +120,16 @@
                     <div class="proj_info">
                         <div class="proj_slider">
                             <div class="slider_img">
-                                <img src="img/redevelopment/JP-DECKS-01.jpg" alt="jpdecks-img1">
+                                <img src="img/redevelopment/jpdeck/JP-DECKS-01.jpg" alt="jpdecks-img1">
                             </div>
                             <div class="slider_img">
-                                <img src="img/redevelopment/JP-DECKS-02.jpg" alt="jpdecks-img2">
+                                <img src="img/redevelopment/jpdeck/JP-DECKS-02.jpg" alt="jpdecks-img2">
                             </div>
                             <div class="slider_img">
-                                <img src="img/redevelopment/JP-DECKS-03.jpg" alt="jpdecks-img3">
+                                <img src="img/redevelopment/jpdeck/JP-DECKS-03.jpg" alt="jpdecks-img3">
                             </div>
                             <div class="slider_img">
-                                <img src="img/redevelopment/JP-DECKS-04.jpg" alt="jpdecks-img4">
+                                <img src="img/redevelopment/jpdeck/JP-DECKS-04.jpg" alt="jpdecks-img4">
                             </div>
                         </div>
                         <div class="proj_txt">
@@ -179,7 +179,7 @@
                             </div>
                         <div class="proj_txt">
                             <ul>
-                                <li>Jp Infra at Juhu brings to you a luxurious residential project of 1370 sq mts at Chalet Amar which ensures an enriched life. </li>
+                                <li>JP Infra at Juhu brings to you a luxurious residential project of 1370 sq mts at Chalet Amar which ensures an enriched life. </li>
                                 <li>The project is strategically located and provides access to the entire city to its esteemed residents.</li>
                                 <li>With ultra-modern amenities and world-class facilities, Chalet Amar is truly Mumbai’s most exclusive and coveted address.</li>
                                 <li>Here you will discover just how enriching, how full of promise, every minute can be.</li>
