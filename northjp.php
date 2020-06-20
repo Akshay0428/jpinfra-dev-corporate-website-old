@@ -103,7 +103,14 @@ top: 81.5% !important;
             }
         }
 
-    
+    @media only screen and (max-width:768px){
+        .swiper-slide__block .swiper-slide__block__img {
+            height: auto;
+        }
+        .swiper-button-prev {
+            top: 63.5% !important;
+        }
+    }
     	@media screen and (max-width: 800px) {
     	  .next-button {
     	    display: none !important;
@@ -377,7 +384,7 @@ top: 81.5% !important;
         </div>
         <div class="clearfix"></div>
 
-        <div class="pos-absolute np-img-leaf3">
+        <div class="pos-absolute np-img-leaf3 m_hide">
             <img src="img/02-leaf.png" class="img-width" alt="leaf-img">
         </div>
     </div>
@@ -388,10 +395,10 @@ top: 81.5% !important;
 <!--transforming mira road  -->
     <div class="jp-north-page-transforming-main parallax-mira width-100 pos-relative">
         <!--<img class="img-width m_hide" src="img/Transforming_Mira_Road.jpg">-->
-        <img class="img-width d_hide" src="img/img/Transformating-Miraroadimg.jpg">
+        <!-- <img class="img-width d_hide" src="img/Transformating-Miraroadimg.jpg"> -->
         <div class="jp-north-page-transforming-text-main pos-absolute">
             <!--<h1 class="jp-north-page-heading-txt tf-42px" data-aos="fade-up" data-aos-duration="3000">transforming mira road</h1>-->
-            <h6 class="jp-north-page-subheading tx-align  new-margin" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls. North is designed with a vision to
+            <h6 class="jp-north-page-subheading tx-align new-margin" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls. North is designed with a vision to
                     provide a carefully crafted lavish environment for our residents. When you enter North, you enter
                     into an oasis of greenery and serenity. 16 themed gardens, a range of top-class amenities, car-free
                     zones, safe zone for children and the elderly, and entertainment for the entire family, is what you
@@ -411,7 +418,7 @@ top: 81.5% !important;
 <!-- Our Living space -->
     <div class="jp-north-page-living-space-main margin-top">
         <div class="jp-north-page-living-space">
-            <h1 class="jp-north-page-heading-txt tf-42px" data-aos="fade-up" data-aos-duration="3000">our living space</h1>
+            <h1 class="jp-north-page-heading-txt" data-aos="fade-up" data-aos-duration="3000">our living space</h1>
             <!--<h6 class="jp-north-page-subheading tx-align m_hide" data-aos="fade-down" data-aos-duration="3000">Each of our projects have more than 30 amenities for you to spend your evenings and weekends.  Generously built sports arenas for the family, that allow the kids to stay entertained for hours, themed gardens that allow for meditation and children’s play and mini-theatres to watch the latest movie are just a few of the world-class amenities available.</h6>-->
         </div>
         
@@ -523,7 +530,7 @@ top: 81.5% !important;
             </div>
         </div>
         <div class="clearfix"></div>
-        <h6 class="jp-north-page-subheading tx-align d_hide" data-aos="fade-down" data-aos-duration="3000">Each of our projects have more than 30 amenities for you to spend your evenings and weekends.  Generously built sports arenas for the family, hat allow the kids to stay entertained for hours, themed gardens that allow for meditation and children’s play and mini-theatres to watch the latest movie are just a few of the world-class amenities available</h6>
+<!--         <h6 class="jp-north-page-subheading tx-align d_hide" data-aos="fade-down" data-aos-duration="3000">Each of our projects have more than 30 amenities for you to spend your evenings and weekends.  Generously built sports arenas for the family, hat allow the kids to stay entertained for hours, themed gardens that allow for meditation and children’s play and mini-theatres to watch the latest movie are just a few of the world-class amenities available</h6> -->
         
         <!--btn-->
             <div class="button-np project-property-button d_hide">
@@ -536,7 +543,7 @@ top: 81.5% !important;
                 <div class="clearfix"></div>
             </div>
             <div class="clearfix"></div>
-        <div class="pos-absolute np-img-leaf5">
+        <div class="pos-absolute np-img-leaf5 m_hide">
             <img src="img/05-leaf.png" class="img-width" alt="leaf-img">
         </div>
         <div class="clearfix"></div>

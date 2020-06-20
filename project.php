@@ -1,28 +1,28 @@
 <?php include 'header.php';?> 
 
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
-			
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">	
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
 	<style>
-   .slick-dots li button {
-   font: 0/0 a;
-   text-shadow: none;
-   color: transparent;
-   background-color: #486b9945!important;
-   border: none;
-   width: 17px!important;
-   height: 16px!important;
-   border-radius: 50%;
-   }
-   .slick-dots {
-   text-align: center;
-   margin: 0 0 10px 0;
-   padding: 15px;
-   }
-   .slick-dots li {
-   display: inline-block;
-   margin-left: 4px;
-   margin-right: 4px;
-   }
+   		.slick-dots li button {
+		   font: 0/0 a;
+		   text-shadow: none;
+		   color: transparent;
+		   background-color: #486b9945!important;
+		   border: none;
+		   width: 17px!important;
+		   height: 16px!important;
+		   border-radius: 50%;
+   		}
+		.slick-dots {
+			text-align: center;
+		   margin: 0 0 10px 0;
+		   padding: 0;
+		}
+		.slick-dots li {
+			display: inline-block;
+			margin-left: 4px;
+			margin-right: 4px;
+   		}
    .slick-dots li.slick-active button {
    border: 1px solid #1b405b !important;
    }

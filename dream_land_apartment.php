@@ -1,67 +1,90 @@
 <?php include 'header.php';?> 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
       
-      <style>
-            .slick-dots {
-              text-align: center;
-              margin: 0 0 10px 0;
-              padding: 35px 0px 20px 0px;
-          }
-          .slick-dots li {
-            display: inline-block;
-            margin-left: 4px;
-            margin-right: 4px;
-          }
-          .slick-dots li.slick-active button {
-            border: 1px solid #1b405b !important;
-          }
-          .slick-dots li button {
-            font: 0/0 a;
-            text-shadow: none;
-            color: transparent;
-            background-color: #486b99;
-            border: none;
-            width: 6px;
-            height: 12px;
-            border-radius: 50%;
-          }
-          /* Custom Arrow */
-.prev-button {
-    color: #999;
-    position: absolute;
-    top: 50%;
-    left: -115px;
-    font-size: 1.5em;
-    background-image: url(img/jp_delivered/jpdesk/Arrow_2.png);
-    width: 64px;
-    height: 34px;
-    border: none;
-    background-color: transparent;
-    outline: none !important;
-}
-          .prev-button :hover {
-            cursor: pointer;
-            color: black;
-          }
-        
-.next-button {
-    color: #999;
-    position: absolute;
-    top: 50%;
-    font-size: 1.5em;
-    background-image: url(img/jp_delivered/jpdesk/Arrow_1.png);
-    right: -115px;
-    width: 62px;
-    height: 33px;
-    border: none;
-    background-color: transparent;
-    outline: none !important;
-}
-          .next-button :hover {
-            cursor: pointer;
-            color: black;
-          }
-        </style>
+  <style>
+    /**********************
+    slick slider
+    ***********************/
+    .slick-next {
+      right: -69px!important;
+    }
+    .slick-prev {
+      left: -72px!important;
+    }
+    .slick-dots li button {
+      font: 0/0 a;
+      text-shadow: none;
+      color: transparent;
+      background-color: #486b9945!important;
+      border: none;
+      width: 17px!important;
+      height: 16px!important;
+      border-radius: 50%;
+    }
+    .slick-dots {
+      text-align: center;
+      margin: 0 0 10px 0;
+      padding: 15px;
+    }
+    .slick-dots li {
+      display: inline-block;
+      margin-left: 4px;
+      margin-right: 4px;
+    }
+    .slick-dots li.slick-active button {
+      border: 1px solid #1b405b !important;
+    }
+    .slick-dots li button:before {
+      top: -2px !important;
+      left: -1px !important;
+    }
+    .slick-dots li button {
+      font: 0/0 a;
+      text-shadow: none;
+      color: transparent;
+      background-color: #486b99;
+      border: none;
+      width: 6px;
+      height: 12px;
+      border-radius: 50%;
+    }
+    /* Custom Arrow */
+    .prev-button {
+      color: #999;
+      position: absolute;
+      top: 50%;
+      left: -115px;
+      font-size: 1.5em;
+      background-image: url(img/jp_delivered/jpdesk/Arrow_2.png);
+      width: 64px;
+      height: 34px;
+      border: none;
+      background-color: transparent;
+      outline: none !important;
+    }
+    .prev-button :hover {
+      cursor: pointer;
+      color: black;
+    }
+    .next-button {
+      color: #999;
+      position: absolute;
+      top: 50%;
+      font-size: 1.5em;
+      background-image: url(img/jp_delivered/jpdesk/Arrow_1.png);
+      right: -115px;
+      width: 62px;
+      height: 33px;
+      border: none;
+      background-color: transparent;
+      outline: none !important;
+    }
+    .next-button :hover {
+      cursor: pointer;
+      color: black;
+    }
+  </style>
 
 <div class="logo-banner">
     <a href="https://www.dotwisedigital.com/jpuat">
@@ -188,7 +211,7 @@
 <script src="js/slickminjscode.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.js"></script>
 
-    <script>
+   <script>
 $('.gallery-silder').slick({
       dots: false,
       arrow: true,
@@ -206,19 +229,21 @@ $('.gallery-silder').slick({
           slidesToShow: 1,
           slidesToScroll: 1,
           arrow: true,
+          dots: false,
           prevArrow:'<button type="button" class="prev-button"></button>',
               nextArrow:'<button type="button" class="next-button"></button>',
           infinite: true,
-          dots: false
+          
         }
         },
         {
         breakpoint: 600,
         settings: {
           slidesToShow: 1,
-          arrow: true,
+          arrow: false,
+          dots: true,
           prevArrow:'<button type="button" class="prev-button"></button>',
-              nextArrow:'<button type="button" class="next-button"></button>',
+          nextArrow:'<button type="button" class="next-button"></button>',
           slidesToScroll: 1
         }
         },
@@ -226,7 +251,8 @@ $('.gallery-silder').slick({
         breakpoint: 480,
         settings: {
           slidesToShow: 1,
-          arrow: true,
+          arrow: false,
+          dots: true,
           prevArrow:'<button type="button" class="prev-button"></button>',
               nextArrow:'<button type="button" class="next-button"></button>',
           slidesToScroll: 1

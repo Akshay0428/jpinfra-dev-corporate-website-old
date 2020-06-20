@@ -67,7 +67,8 @@
 
     <!-- banner start -->
     <section class="banner-wws">
-        <img src="img/about-us/About-us-Banner.jpg" alt="banner">
+        <img src="img/about-us/About-us-Banner.jpg" alt="banner" class="m_hide">
+        <img src="img/about-us/About-us-Banner-mob.jpg" alt="banner" class="d_hide">
     </section>
     <div class="logo-banner">
         <a href="https://www.dotwisedigital.com/jpuat">
@@ -87,7 +88,7 @@
           <p class="fontweight" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">With strong leadership at the helm, the business has set a strong vision and an ambitious growth path for itself. Founded in 2006, JP Infra has carved a niche for itself in terms of project delivery, with most projects being referred to as landmarks; few even as benchmarks.
 JP Infra believes in bringing serenity back to the bustling and busy nature of the city of Mumbai. The brand offers a calm, peaceful lifestyle to its residents with the provision of lush green spaces. That doesn’t take away from the futuristic and progressive technology employed in the working of the projects or the state-of-the-art amenities available to home buyers and residents. Thanks to its ultra-modern thinking and approach, JP Infra has been rewarded with most prestigious awards in the recent times, all of which will tie back in with the concept of providing international standards of modern living.</p>
         </div>
-        <div class="abtus-img">
+        <div class="abtus-img m_hide">
           <div class="abtus-img1">
             <img src="img/about-us/abt-1.jpg" alt="abt-1" data-aos="fade-up" data-aos-easing="linear"
            data-aos-duration="1500">
@@ -97,6 +98,32 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
           <div class="abtus-img2">
             <img src="img/about-us/abt-2.jpg" alt="abt-2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="3000">
             <p class="pos-absolute pb-cb p-deliver" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="3000">Artist's Impression</p>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="abtus-img-mob d_hide" id="mob-abtcar">
+          <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+              <li data-target="#myCarousel" data-slide-to="1"></li>
+              <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
+            </ol>
+            <div>
+              <div class="carousel-inner">
+                <div class="item active">
+                  <img src="img/about-us/About-JP-Infra-1.jpg" class="img-1">
+                  <p class="pos-absolute pb-cb p-deliver ov-pdel">Artist's Impression</p>
+                </div>
+                <div class="item">
+                  <img src="img/about-us/About-JP-Infra-2.jpg" class="img-2">
+                  <p class="pos-absolute pb-cb p-deliver ov-pdel">Artist's Impression</p>
+                </div>
+                <!-- <div class="item">
+                  <img src="img/pushing_boundaries/humanleft3.jpg" class="img-cls">
+                </div> -->
+              </div>
+            </div>
           </div>
         </div>
         <div class="clearfix"></div>
@@ -133,29 +160,6 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
             </div>
           </div>
         </div>
-
-<!--         <div class="leader-slider">
-          <div class="leader-box">
-            <div class="leader-box-img">
-              <img src="img/about-us/MR.-Vijay-Jain.jpg" alt="leader2">
-            </div>
-            <div class="leader-box-txt">
-              <h3 class="abtus-color fontweight-bold">MR. Vijay Jain</h3>
-              <h6 class="abtus-color texttransform">chairman</h6>
-              <p class="fontweight">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, </p>
-            </div>
-          </div>
-          <div class="leader-box">
-            <div class="leader-box-img">
-              <img src="img/about-us/MR.-Vijay-Jain.jpg" alt="leader2">
-            </div>
-            <div class="leader-box-txt">
-              <h3 class="abtus-color fontweight-bold">MR. Vijay Jain</h3>
-              <h6 class="abtus-color texttransform">chairman</h6>
-              <p class="fontweight">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, </p>
-            </div>
-          </div>
-        </div> -->
       </div>
       <div class="clearfix"></div>
     </div>
@@ -214,7 +218,8 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
       <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
       <h1 class="texttransform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">work with us</h1>
       <p class="fontweight abt-p-width" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">JP Infra is one of India’s most established real estate brands in the Mumbai suburban market. At JP Infra, we believe in team spirit and working together like one unit to build homes that provide you the lifestyle you dream of. Our motto is that inspired teams naturally provide excellent and dedicated customer service, which can be brought about by providing a healthy work environment.</p>
-      <p class="fontweight abt-p-width" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Upload resumes at careers@jpinfra.com to join the team.</p>
+      <p class="fontweight abt-p-width m_hide" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Upload resumes at careers@jpinfra.com to join the team.</p>
+      <p class="fontweight abt-pmob-width txt-align d_hide" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Upload resumes at careers@jpinfra.com to join the team.</p>
     </div>
     <!-- work with us ends -->
 
@@ -292,7 +297,7 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
         dots: false,
         arrow: true,
         prevArrow:'<button type="button" class="prev-button"></button>',
-            nextArrow:'<button type="button" class="next-button"></button>',
+        nextArrow:'<button type="button" class="next-button"></button>',
         infinite: true,
         autoplay: true,
         speed: 1500,
@@ -305,19 +310,20 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
             slidesToShow: 3,
             slidesToScroll: 1,
             arrow: true,
+            dots: false,
             prevArrow:'<button type="button" class="prev-button"></button>',
-                nextArrow:'<button type="button" class="next-button"></button>',
+            nextArrow:'<button type="button" class="next-button"></button>',
             infinite: false,
-            dots: false
           }
           },
           {
           breakpoint: 600,
           settings: {
             slidesToShow: 1,
-            arrow: true,
+            arrow: false,
+            dots: true,
             prevArrow:'<button type="button" class="prev-button"></button>',
-                nextArrow:'<button type="button" class="next-button"></button>',
+            nextArrow:'<button type="button" class="next-button"></button>',
             slidesToScroll: 1
           }
           },
@@ -325,7 +331,8 @@ JP Infra believes in bringing serenity back to the bustling and busy nature of t
           breakpoint: 480,
           settings: {
             slidesToShow: 1,
-            arrow: true,
+            arrow: false,
+            dots:true,
             prevArrow:'<button type="button" class="prev-button"></button>',
                 nextArrow:'<button type="button" class="next-button"></button>',
             slidesToScroll: 1

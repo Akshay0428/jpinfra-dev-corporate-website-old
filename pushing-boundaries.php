@@ -159,11 +159,11 @@
       float: left;
     }
     .integrate-icons {
-    width: 80%;
-    margin: 0 auto;
-  }
-  .icon-integ {
-    width: 100%;
+	    width: 80%;
+	    margin: 0 auto;
+	  }
+  	.icon-integ {
+  	  width: 100%;
     float: none;
     padding: 0px 10px;
   }
@@ -180,6 +180,26 @@
   .pb-care-txt p {
     text-align: justify;
   }
+	.pb-care-img {
+	    width: 100%;
+	    float: none;
+	}
+.pbslider-care-txt {
+    width: 100%;
+    float: none;
+    padding: 10px 10px;
+}
+.pbslider-care-txt h3 {
+    color: #2e5689;
+    padding: 0px 0px 15px 0px;
+    font-size: 20px;
+}
+.carbon_main {
+    margin: 45px auto 0px auto;
+}
+.footprint-tabs {
+    top: -50px;
+}
 
 
 
@@ -365,7 +385,7 @@
                     <img src="img/pushing_boundaries/Labour-School-2.jpg" alt="Labour-School">
                 </div>
                 <div class="pbslider-care-txt">
-                    <div class="pbcare-line pbcareline-labour"></div>
+                    <div class="pbcare-line m_hide pbcareline-labour"></div>
                     <h3 class="fontweight-bold">School For Labourers' Children</h3>
                     <p class="fontweight txt-left">We believe that the people who are working hard to transform our thoughts into reality are our responsibility. Every parent dreams of providing the best to their children. We strive to make our labourers’ lives a little easier by providing on-site schools so that they can educate their children easily.</p>
                 </div>
@@ -375,7 +395,7 @@
                     <img src="img/pushing_boundaries/Mira-Bhayander-Rising.jpg" alt="Mira-Bhayander-Rising">
                 </div>
                 <div class="pbslider-care-txt">
-                    <div class="pbcare-line pbcareline-mira"></div>
+                    <div class="pbcare-line m_hide pbcareline-mira"></div>
                     <h3 class="fontweight-bold">Mira Bhayander Rising</h3>
                     <p class="fontweight txt-left">A JP Infra initiative, Mira-Bhayander Rising has been conceptualized with the goal of building a community-based lifestyle in Mira Road for people to celebrate their neighbourhood with pride. The idea behind the initiative is to allow residents of Mira Road and Bhayander to engage in community events that help build community spirit and a feeling of togetherness.</p>
                 </div>
@@ -385,7 +405,7 @@
                     <img src="img/pushing_boundaries/swimming_pool.jpg" alt="swimming_pool">
                 </div>
                 <div class="pbslider-care-txt">
-                    <div class="pbcare-line"></div>
+                    <div class="pbcare-line m_hide"></div>
                     <h3 class="fontweight-bold">Ladies' Swimming Pool</h3>
                     <p class="fontweight txt-left">We understand the concerns our residents might face and thus provide for maximum safety as well with a separate swimming pool for ladies. These fantastic women can now enjoy their much needed me-time without a care in the world.</p>
                 </div>

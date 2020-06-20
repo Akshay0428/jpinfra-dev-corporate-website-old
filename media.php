@@ -2,7 +2,7 @@
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
@@ -29,8 +29,11 @@ slick slider
 }
 .slick-dots {
     text-align: center;
-    margin: 0 0 10px 0;
+    margin: 0 0 0px 0;
     padding: 15px;
+}
+.slide-media .slick-dots {
+    margin: 0 0 20px 0;
 }
 .slick-dots li {
 	display: inline-block;
@@ -197,7 +200,8 @@ button.prev-button-home.slick-arrow {
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                   <a  href="img/New Newsletter_ 17 March 2020_Final_CC.pdf" target="_blank">
-                    <img src="img/media/Mira-road.jpg" alt="Mira-road"></a>
+                    <img src="img/media/Mira-road.jpg" alt="Mira-road" class="m_hide"></a>
+                    <img src="img/media/New-Newsletter-4th-Edition-mob.jpg" alt="Mira-road" class="d_hide"></a>
                     <h5>North - Newsletter 4th Edition</h5>
                     <p>Catch up on the latest events in JP North through this Newsletter</p>
                 </div>
@@ -792,6 +796,7 @@ $('.news-responsive').slick({
         settings: {
             slidesToShow: 1,
             arrow: true,
+            dots: true,
             prevArrow:'<button type="button" class="prev-button-home"></button>',
                 nextArrow:'<button type="button" class="next-button-home"></button>',
             slidesToScroll: 1
@@ -802,6 +807,7 @@ $('.news-responsive').slick({
         settings: {
             slidesToShow: 1,
             arrow: true,
+            dots: true,
             prevArrow:'<button type="button" class="prev-button-home"></button>',
                     nextArrow:'<button type="button" class="next-button-home"></button>',
             slidesToScroll: 1
@@ -952,6 +958,7 @@ $('.media_responsive').slick({
         settings: {
             slidesToShow: 1,
             arrow: false,
+            dots: true,
             prevArrow:'<button type="button" class="prev-button-home"></button>',
                 nextArrow:'<button type="button" class="next-button-home"></button>',
             slidesToScroll: 1
@@ -962,6 +969,7 @@ $('.media_responsive').slick({
         settings: {
             slidesToShow: 1,
             arrow: false,
+            dots: true,
             prevArrow:'<button type="button" class="prev-button-home"></button>',
                     nextArrow:'<button type="button" class="next-button-home"></button>',
             slidesToScroll: 1

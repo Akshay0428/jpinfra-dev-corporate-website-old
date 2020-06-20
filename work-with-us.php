@@ -1,7 +1,8 @@
 <?php include 'header.php';?> 
 	<!-- banner start -->
     <section class="banner-wws">
-        <img src="img/work-with-us/Banner-wws.jpg" alt="banner">
+        <img src="img/work-with-us/Banner-wws.jpg" alt="banner" class="m_hide">
+        <img src="img/work-with-us/Work-With-Us-Banner-mob.jpg" alt="banner" class="d_hide">
     </section>
     <div class="logo-banner">
         <a href="https://www.dotwisedigital.com/jpuat">
@@ -30,7 +31,7 @@
             <div class="resume-arrow">
                 <img src="img/work-with-us/arrow-wws.png" alt="arrow">
             </div>
-            <div class="resume-txt mail-resume">
+            <div class="mail-resume">
               <!-- <a href="carrers@jpinfra.com" target="_top"><h5>carrers@jpinfra.com</h5></a> -->
               <a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="blank"><h5>careers@jpinfra.com</h5></a>
             </div>
@@ -43,10 +44,12 @@
 
     <!-- Position available start -->
     <div class="container_main position-wwu" id="position-available">
-        <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
-        <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Positions Available</h1>
-        <p class="fontweight txt-align" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Do you believe that you are a fun, conscientious person, passionate about the field of Real Estate? Do you have an analytical mindset while maintaining a “sky’s the limit” approach to all your tasks? If yes, come join us at JP Infra, where we work tirelessly each day in helping our customers make the biggest decision of their lives – buying a property. Take the first step towards your dream career in Mumbai’s Real Estate market.
-</p>
+      <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
+      <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Positions Available</h1>
+      <p class="fontweight txt-align m_hide" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Do you believe that you are a fun, conscientious person, passionate about the field of Real Estate? Do you have an analytical mindset while maintaining a “sky’s the limit” approach to all your tasks? If yes, come join us at JP Infra, where we work tirelessly each day in helping our customers make the biggest decision of their lives – buying a property. Take the first step towards your dream career in Mumbai’s Real Estate market.
+      </p>
+       <p class="fontweight d_hide" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000">Do you believe that you are a fun, conscientious person, passionate about the field of Real Estate? Do you have an analytical mindset while maintaining a “sky’s the limit” approach to all your tasks? If yes, come join us at JP Infra, where we work tirelessly each day in helping our customers make the biggest decision of their lives – buying a property. Take the first step towards your dream career in Mumbai’s Real Estate market.
+      </p>
 
         <div class="accordion-container">
             <div class="set set-border">

@@ -1828,7 +1828,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                   <a  href="img/New Newsletter_ 17 March 2020_Final_CC.pdf" target="_blank">
-                    <img src="img/media/Mira-road.jpg" alt="Mira-road"></a>
+                    <img src="img/media/Mira-road.jpg" alt="Mira-road" class="m_hide"></a>
+                    <img src="img/media/New-Newsletter-4th-Edition-mob.jpg" alt="Mira-road" class="d_hide"></a>
                     <h5>North - Newsletter 4th Edition</h5>
                     <p>Catch up on the latest events in JP North through this Newsletter</p>
                 </div>
@@ -2072,7 +2073,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
 <script>
 
    $('.slide-media').slick({
-    // dots: true,
+    dots: false,
     arrow: true,
     prevArrow:'<button type="button" class="prev-button-home"></button>',
     nextArrow:'<button type="button" class="next-button-home"></button>',
@@ -2088,10 +2089,11 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
             slidesToShow: 4,
             slidesToScroll: 1,
             arrow: true,
+            dots: false,
             prevArrow:'<button type="button" class="prev-button-home"></button>',
                 nextArrow:'<button type="button" class="next-button-home"></button>',
             infinite: true,
-            dots: false
+            
         }
         },
         {
@@ -2110,6 +2112,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
         settings: {
             slidesToShow: 1,
             arrow: false,
+            dots: true,
             prevArrow:'<button type="button" class="prev-button-home"></button>',
             nextArrow:'<button type="button" class="next-button-home"></button>',
             slidesToScroll: 1

@@ -113,28 +113,44 @@
             <div class="collapse navbar-collapse" id="myNavbar2">
                <ul class="nav navbar-nav navbar-right">
                   <li class="overLi2">
-                     <a href="project.php">PROJECTS</a>
-                     <div class="hoverLine hoverLine2"></div>
+                  	<a href="project.php">PROJECTS</a>
+                  	<div class="hoverLine hoverLine2"></div>
                   </li>
                   <li class="overLi4">
-                     <a href="pushing-boundaries.php">PUSHING BOUNDARIES</a>
-                     <div class="hoverLine hoverLine4"></div>
+                  	<a href="pushing-boundaries.php">PUSHING BOUNDARIES</a>
+                  	<div class="hoverLine hoverLine4"></div>
+                  </li>
+                  <li class="overLi4">
+                  	<a href="contact.php">CONTACT US</a>
+                  	<div class="hoverLine hoverLine6"></div>
                   </li>
                   <li class="overLi6">
-                     <a href="contact.php">CONTACT US</a>
-                     <div class="hoverLine hoverLine6"></div>
+                  	<a href="overview.php">OVERVIEW</a>
+                  	<div class="hoverLine hoverLine6"></div>
                   </li>
                   <li class="overLi6">
-                     <a href="northjp.php">JP NORTH</a>
-                     <div class="hoverLine hoverLine6"></div>
+                  	<a href="northjp.php">NORTH</a>
+                  	<div class="hoverLine hoverLine6"></div>
                   </li>
                   <li class="overLi6">
-                     <a href="media.php">MEDIA</a>
-                     <div class="hoverLine hoverLine6"></div>
+                  	<a href="media.php">MEDIA</a>
+                  	<div class="hoverLine hoverLine6"></div>
                   </li>
                   <li class="overLi6">
-                     <a href="work-with-us.php">WORK WITH US</a>
-                     <div class="hoverLine hoverLine6"></div>
+                  	<a href="nri_corner.php">NRI CORNER</a>
+                  	<div class="hoverLine hoverLine6"></div>
+                  </li>
+                  <li class="overLi6">
+                  	<a href="blog">BLOGS</a>
+                  	<div class="hoverLine hoverLine6"></div>
+                  </li>
+                  <li class="overLi6">
+                  	<a href="redevelopment_projects.php">REDEVELOPMENT PROJECTS</a>
+                  	<div class="hoverLine hoverLine6"></div>
+                  </li>
+                  <li class="overLi6">
+                  	<a href="work-with-us.php">WORK WITH US</a>
+                  	<div class="hoverLine hoverLine6"></div>
                   </li>
                </ul>
             </div>
