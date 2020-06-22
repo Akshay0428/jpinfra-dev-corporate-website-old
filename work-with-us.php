@@ -98,7 +98,7 @@
               </div>
             </div>
           </div>
-          <div class="set set-border">
+<!--           <div class="set set-border">
             <a>
               Position 3 
               <i class="fa fa-plus"></i>
@@ -111,35 +111,7 @@
                   </button>
                     </div>
             </div>
-          </div>
-          <div class="set set-border">
-            <a>
-              Position 4 
-              <i class="fa fa-plus"></i> 
-            </a>
-            <div class="content-wwu">
-                <p> Donec tincidunt consectetur orci at dignissim. Proin auctor aliquam justo, vitae luctus odio pretium scelerisque. </p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                <div class="wwu-bttn">
-                  <button class="btn-border"><a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="blank"><h5>apply now</h5></a>
-                  </button>
-                </div>
-            </div>
-          </div>
-        <div class="set set-border">
-            <a>
-              Position 5 
-              <i class="fa fa-plus"></i> 
-            </a>
-            <div class="content-wwu">
-                <p> Donec tincidunt consectetur orci at dignissim. Proin auctor aliquam justo, vitae luctus odio pretium scelerisque. </p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                <div class="wwu-bttn">
-                  <button class="btn-border"><a href="mailto:carrers@jpinfra.com?Subject=CAREERS" target="blank"><h5>apply now</h5></a>
-                  </button>
-                </div>
-            </div>
-          </div>
+          </div> -->
         </div>
         <div class="clearfix"></div>
     </div>

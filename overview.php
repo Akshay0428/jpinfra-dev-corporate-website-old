@@ -1,12 +1,32 @@
 <?php include 'header.php';?> 
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
-
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
+      
   <style>
+    /**********************
+    slick slider
+    ***********************/
+    .slick-next {
+      right: -69px!important;
+    }
+    .slick-prev {
+      left: -72px!important;
+    }
+    .slick-dots li button {
+      font: 0/0 a;
+      text-shadow: none;
+      color: transparent;
+      background-color: #486b9945!important;
+      border: none;
+      width: 17px!important;
+      height: 16px!important;
+      border-radius: 50%;
+    }
     .slick-dots {
       text-align: center;
-      margin: 0 0 0px 0;
-      padding: 0;
+      margin: 0 0 10px 0;
+      padding: 15px;
     }
     .slick-dots li {
       display: inline-block;
@@ -15,6 +35,10 @@
     }
     .slick-dots li.slick-active button {
       border: 1px solid #1b405b !important;
+    }
+    .slick-dots li button:before {
+      top: -2px !important;
+      left: -1px !important;
     }
     .slick-dots li button {
       font: 0/0 a;
@@ -31,7 +55,7 @@
       color: #999;
       position: absolute;
       top: 50%;
-      left: -49px;
+      left: -60px;
       font-size: 1.5em;
       background-image: url(img/arrow_2.png);
       width: 29px;
@@ -50,7 +74,7 @@
       top: 50%;
       font-size: 1.5em;
       background-image: url("img/arrow_1.png");
-      right: -49px;
+      right: -60px;
       width: 28px;
       height: 18px;
       border: none;

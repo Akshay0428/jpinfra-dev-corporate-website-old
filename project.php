@@ -3,6 +3,16 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">	
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
 	<style>
+	.testimonial_main .slick-dots li.slick-active button {
+		border: 1px solid #fff !important;
+	   }
+	.testimonial_main .slick-dots li button:before {
+	    color: #fff;
+	}
+	.testimonial_main .slick-dots li.slick-active button:before {
+	    opacity: .75;
+	    color: #fff;
+	}
    		.slick-dots li button {
 		   font: 0/0 a;
 		   text-shadow: none;
@@ -349,9 +359,9 @@
 							35+ Lifestyle Amenities<br>
 							Green Living<br>
 							Grand Clubhouse
-		                </p>
+		                </p>S
 		            </div>
-		            <p class="pos-absolute p-projon p-deliver"> Artist's Impression</p>
+		            
 				</div>
 				<div class="ongoingproject-txt">
 					<div class=slider-txt>
@@ -1154,6 +1164,7 @@
 					settings: {
 						slidesToShow: 1,
 						arrow: true,
+						dots: true,
 						prevArrow:'<button type="button" class="prev-button test-right-arrow"></button>',
 		        		nextArrow:'<button type="button" class="next-button test-left-arrow"></button>',
 						slidesToScroll: 1
@@ -1164,6 +1175,7 @@
 					settings: {
 						slidesToShow: 1,
 						arrow: true,
+						dots: true,
 						prevArrow:'<button type="button" class="prev-button test-right-arrow"></button>',
 		       			nextArrow:'<button type="button" class="next-button test-left-arrow"></button>',
 						slidesToScroll: 1

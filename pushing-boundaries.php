@@ -120,7 +120,7 @@
     .main_absolute {
       position: absolute;
       left: 0%;
-      top: 34.67%;
+      top: 38.27%;
       z-index: 9;
       width: 100%;
     }
@@ -130,9 +130,12 @@
       padding: 25px;
     }
     .pb-di {
-      background-image: none;
+      background-image: linear-gradient(#ffffff00, black);
       font-size: 14px !important;
-      top: 77%;
+      top: 78%;
+    }
+    .pb-di-l{
+      top: 89%;
     }
     .carousel-indicators {
       top: 90%;
@@ -300,7 +303,7 @@
           <div class="human_col mob_human">
             <div class="human-img pos-relative">
               <img src="img/pushing_boundaries/humanright.jpg" class="img-cls2">
-              <p class="pos-absolute pb-right pb-di p-deliver">Artist's Impression</p>
+              <p class="pos-absolute pb-right pb-di-l p-deliver">Artist's Impression</p>
               <div class="clearfix"></div>
             </div>
           </div>

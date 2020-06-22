@@ -96,7 +96,8 @@
 
 <section>
     <div class="banner_jp">
-        <img src="img/jp_delivered/banner/Chalet-Amar.jpg" alt="Chalet-Amar">
+        <img src="img/jp_delivered/banner/Chalet-Amar.jpg" alt="Chalet-Amar" class="m_hide">
+        <img src="img/jp_delivered/banner/Chalet-Amar-mob.jpg" alt="Chalet-Amar" class="d_hide">
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -176,21 +177,30 @@
     </div>
     <div class="gallery-silder mrg-top">
       <div class="gal-img">
-        <img src="img/jp_delivered/Chalet_Amar/Bedroom.jpg" alt="Bedroom">
+        <img src="img/jp_delivered/Chalet_Amar/Bedroom.jpg" alt="Bedroom" class="m_hide">
+        <img src="img/jp_delivered/Chalet_Amar/Bedroom-mob.jpg" alt="Bedroom" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Bedroom</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/Chalet_Amar/Kitchen-&-Home-Theatre.jpg" alt="Kitchen-&-Home-Theatre">
+        <img src="img/jp_delivered/Chalet_Amar/Kitchen.jpg" alt="Kitchen-&-Home-Theatre" class="m_hide">
+        <img src="img/jp_delivered/Chalet_Amar/Kitchen-mob.jpg" alt="" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Kitchen</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/Chalet_Amar/Living-Dinning.jpg" alt="Living-Dinning">
+        <img src="img/jp_delivered/Chalet_Amar/Living-Dinning.jpg" alt="Living-Dinning" class="m_hide">
+        <img src="img/jp_delivered/Chalet_Amar/Living-Dinning-mob.jpg" alt="" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Living Dinning</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/Chalet_Amar/Terrace-Garden.jpg" alt="Terrace-Garden">
+        <img src="img/jp_delivered/Chalet_Amar/Terrace-Garden.jpg" alt="Terrace-Garden" class="m_hide">
+        <img src="img/jp_delivered/Chalet_Amar/Terrace-Garden-mob.jpg" alt="" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Terrace Garden</p>
       </div>
+<!--        <div class="gal-img d_hide">
+        <img src="img/jp_delivered/Chalet_Amar/Living-Dinning.jpg" alt="Living-Dinning" class="m_hide">
+        <img src="img/jp_delivered/Chalet_Amar/Deck-Area-mob.jpg" alt="" class="d_hide">
+        <p class="txt-align texttransform fontweight pdng-top">Deck Area</p>
+      </div> -->
     </div>
 
    <div class="bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
@@ -233,19 +243,21 @@ $('.gallery-silder').slick({
           slidesToShow: 1,
           slidesToScroll: 1,
           arrow: true,
+          dots: false,
           prevArrow:'<button type="button" class="prev-button"></button>',
               nextArrow:'<button type="button" class="next-button"></button>',
           infinite: true,
-          dots: false
+          
         }
         },
         {
         breakpoint: 600,
         settings: {
           slidesToShow: 1,
-          arrow: true,
+          arrow: false,
+          dots: true,
           prevArrow:'<button type="button" class="prev-button"></button>',
-              nextArrow:'<button type="button" class="next-button"></button>',
+          nextArrow:'<button type="button" class="next-button"></button>',
           slidesToScroll: 1
         }
         },
@@ -253,7 +265,8 @@ $('.gallery-silder').slick({
         breakpoint: 480,
         settings: {
           slidesToShow: 1,
-          arrow: true,
+          arrow: false,
+          dots: true,
           prevArrow:'<button type="button" class="prev-button"></button>',
               nextArrow:'<button type="button" class="next-button"></button>',
           slidesToScroll: 1

@@ -96,7 +96,8 @@
 
 <section>
     <div class="banner_jp">
-        <img src="img/jp_delivered/banner/Unity-Towers.jpg" alt="Unity-Towers jp">
+        <img src="img/jp_delivered/banner/Unity-Towers.jpg" alt="Unity-Towers jp" class="m_hide">
+        <img src="img/jp_delivered/banner/Unity-towers-mob.jpg" alt="Unity-Towers jp" class="d_hide">
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -177,19 +178,23 @@
     </div>
     <div class="gallery-silder mrg-top">
       <div class="gal-img">
-        <img src="img/jp_delivered/Unity_Towers/Bathroom.jpg" alt="Bathroom">
+        <img src="img/jp_delivered/Unity_Towers/Bathroom.jpg" alt="Bathroom" class="m_hide">
+        <img src="img/jp_delivered/Unity_Towers/Bathroom-mob.jpg" alt="Bathroom" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Bathroom</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/Unity_Towers/Kitchen.jpg" alt="Kitchen">
+        <img src="img/jp_delivered/Unity_Towers/Kitchen.jpg" alt="Kitchen" class="m_hide">
+        <img src="img/jp_delivered/Unity_Towers/Kitchen-mob.jpg" alt="Kitchen" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Kitchen</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/Unity_Towers/Living-room.jpg" alt="Living-room">
+        <img src="img/jp_delivered/Unity_Towers/Living-room.jpg" alt="Living-room" class="m_hide">
+        <img src="img/jp_delivered/Unity_Towers/Living-room-mob.jpg" alt="Living-room" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Living room</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/Unity_Towers/Unity-Towers.jpg" alt="Unity-Towers">
+        <img src="img/jp_delivered/Unity_Towers/Bedroom.jpg" alt="Unity-Towers" class="m_hide">
+        <img src="img/jp_delivered/Unity_Towers/Bedroom-mob.jpg" alt="Unity-Towers" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Bedroom</p>
       </div>
     </div>

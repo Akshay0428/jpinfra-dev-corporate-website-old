@@ -14,7 +14,7 @@
     <h1 data-aos="fade-up" data-aos-duration="3000">Find Us Here</h1>
 
     <div class="contact_finfo">
-        <div class="contact_linfo desktop_cont">
+        <div class="contact_linfo">
             <h5><img src="img/add.png" alt="icon" class="contact_ifcon">JP Infra Mumbai Pvt. Ltd.</h5><p class="texxxt">4th Floor, Viraj Towers, Western Express Highway, Near WEH Metro Station, Andheri(E), Mumbai-400093</p>
             <p class="texxt"><img src="img/email.png" alt="icon" class="contact_ifcon">sales@jpinfra.com</p>
             <p class="texxt"><img src="img/phone.png" alt="icon" class="contact_ifcon">022 42415678</p>
@@ -44,12 +44,12 @@
 	            <div class="clearfix"></div>
             </form>
         </div>
-        <div class="contact_linfo mobile_cont">
+<!--         <div class="contact_linfo mobile_cont">
             <h5><img src="img/add.png" alt="icon" class="contact_ifcon">JP Infra Mumbai Pvt. Ltd.</h5><p class="texxxt">4th Floor, Viraj Towers, Western Express Highway, Near WEH Metro Station, Andheri(E), Mumbai-400093</p>
             <p class="texxt"><img src="img/email.png" alt="icon" class="contact_ifcon">sales@jpinfra.com</p>
             <p class="texxt"><img src="img/phone.png" alt="icon" class="contact_ifcon">022 42415678</p>
             <p class="texxt"><img src="img/fax.png" alt="icon" class="contact_ifcon">022 42415679</p>
-        </div>
+        </div> -->
         <div class="clearfix"></div>
     </div>
 </div>

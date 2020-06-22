@@ -1,7 +1,7 @@
 <?php include 'header.php';?> 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
-
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
 <script src="otherprojslider.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>   
@@ -37,66 +37,87 @@ top: 81.5% !important;
     overflow: hidden;
     position: relative;
 }
-
-        .slick-dots {
-    	    text-align: center;
-    	    margin: 0 0 0px 0;
-    	    padding: 0;
-    	}
-    	.slick-dots li {
-    	  display: inline-block;
-    	  margin-left: 4px;
-    	  margin-right: 4px;
-    	}
-    	.slick-dots li.slick-active button {
-    		border: 1px solid #1b405b !important;
-    	}
-    	.slick-dots li button {
-    	  font: 0/0 a;
-    	  text-shadow: none;
-    	  color: transparent;
-    	  background-color: #486b99;
-    	  border: none;
-    	  width: 6px;
-    	  height: 12px;
-    	  border-radius: 50%;
-    	}
-    	/* Custom Arrow */
-    	.prev-button {
-    	    color: #999;
-    	    position: absolute;
-    	    top: 40%;
-    	    left: -40px;
-    	    font-size: 1.5em;
-    	    background-image: url(img/arrow_2.png);
-    	    width: 27px;
-    	    height: 18px;
-    	    border: none;
-    	    background-color: transparent;
-    	    outline: none !important;
-    	}
-    	.prev-button :hover {
-    	  cursor: pointer;
-    	  color: black;
-    	}
-    
-    	.next-button {
-    	  color: #999;
-    	  position: absolute;
-    	  top: 40%;
-    	  font-size: 1.5em;
-    	  background-image: url("img/arrow_1.png");
-    	  right: -35px;
-    	  width: 28px;
-    	  height: 18px;
-    	  border: none;
-    	  background-color: transparent;
-    	  outline: none !important;
-    	}
-    	.next-button :hover {
-    	  cursor: pointer;
-    	  color: black;
-    	}
+    /**********************
+    slick slider
+    ***********************/
+    .slick-next {
+      right: -69px!important;
+    }
+    .slick-prev {
+      left: -72px!important;
+    }
+    .slick-dots li button {
+      font: 0/0 a;
+      text-shadow: none;
+      color: transparent;
+      background-color: #486b9945!important;
+      border: none;
+      width: 17px!important;
+      height: 16px!important;
+      border-radius: 50%;
+    }
+    .slick-dots {
+      text-align: center;
+      margin: 0 0 10px 0;
+      padding: 15px;
+    }
+    .slick-dots li {
+      display: inline-block;
+      margin-left: 4px;
+      margin-right: 4px;
+    }
+    .slick-dots li.slick-active button {
+      border: 1px solid #1b405b !important;
+    }
+    .slick-dots li button:before {
+      top: -2px !important;
+      left: -1px !important;
+    }
+    .slick-dots li button {
+      font: 0/0 a;
+      text-shadow: none;
+      color: transparent;
+      background-color: #486b99;
+      border: none;
+      width: 6px;
+      height: 12px;
+      border-radius: 50%;
+    }
+    /* Custom Arrow */
+    .prev-button {
+      color: #999;
+      position: absolute;
+      top: 50%;
+      left: -115px;
+      font-size: 1.5em;
+      background-image: url(img/jp_delivered/jpdesk/Arrow_2.png);
+      width: 64px;
+      height: 34px;
+      border: none;
+      background-color: transparent;
+      outline: none !important;
+    }
+    .prev-button :hover {
+      cursor: pointer;
+      color: black;
+    }
+    .next-button {
+      color: #999;
+      position: absolute;
+      top: 50%;
+      font-size: 1.5em;
+      background-image: url(img/jp_delivered/jpdesk/Arrow_1.png);
+      right: -115px;
+      width: 62px;
+      height: 33px;
+      border: none;
+      background-color: transparent;
+      outline: none !important;
+    }
+    .next-button :hover {
+      cursor: pointer;
+      color: black;
+    }
         @media (min-width: 1200px){
             .swiper-container {
                 height: auto;
@@ -398,12 +419,13 @@ top: 81.5% !important;
         <!-- <img class="img-width d_hide" src="img/Transformating-Miraroadimg.jpg"> -->
         <div class="jp-north-page-transforming-text-main pos-absolute">
             <!--<h1 class="jp-north-page-heading-txt tf-42px" data-aos="fade-up" data-aos-duration="3000">transforming mira road</h1>-->
-            <h6 class="jp-north-page-subheading tx-align new-margin" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls. North is designed with a vision to
-                    provide a carefully crafted lavish environment for our residents. When you enter North, you enter
-                    into an oasis of greenery and serenity. 16 themed gardens, a range of top-class amenities, car-free
-                    zones, safe zone for children and the elderly, and entertainment for the entire family, is what you
-                    get at North. And all of this, in a socially responsible sustainable low-waste environment. Come
-                    home to living, come home to North.</h6>
+            <!-- <h6 class="jp-north-page-subheading tx-align new-margin" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls. North is designed with a vision to
+            provide a carefully crafted lavish environment for our residents. When you enter North, you enter
+            into an oasis of greenery and serenity. 16 themed gardens, a range of top-class amenities, car-free
+            zones, safe zone for children and the elderly, and entertainment for the entire family, is what you
+            get at North. And all of this, in a socially responsible sustainable low-waste environment. Come
+            home to living, come home to North.</h6> -->
+            <h6 class="jp-north-page-subheading tx-align new-margin" data-aos="fade-down" data-aos-duration="3000">North Mumbai has emerged as the aspirational location for all property investment in Mumbai. JP Infra has played a major role in building an international standard of living within the upcoming hub of Mira Road. Offering the best-in-class amenities, lush green surroundings and a peaceful serene nature, JP North is an epitome of ideal living in a busy suburban city like Mumbai. Mira Road Rising, an initiative by JP Infra, is a fine example of the community living that has been built and encourage by the team of JP Infra.</h6>
         </div>
         <div class="clearfix"></div>
         <div class="pos-absolute np-img-leaf4">
@@ -443,6 +465,17 @@ top: 81.5% !important;
                     </div>
                     <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
                 </div>
+                <div class="button-np project-property-button d_hide">
+                    <a href="https://www.jpinfra.com/jp-north/gardencity/"  target="blank">
+                        <div class="know-text-project-property">
+                            <h5>Know More</h5>
+                        </div>
+                    </a>
+                    <div class="know-arrow-project-property">
+                        <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
             </div>
             <div class="np-living-space-slider float-left slider-padding">
                 <div class="inner-div-np pos-relative">
@@ -463,6 +496,17 @@ top: 81.5% !important;
                         <h5>Codename Hotcake</h5>
                     </div>
                      <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
+                </div>
+                <div class="button-np project-property-button d_hide">
+                    <a href="http://www.jpinfra.com/codenamehotcake/"  target="blank">
+                        <div class="know-text-project-property">
+                            <h5>Know More</h5>
+                        </div>
+                    </a>
+                    <div class="know-arrow-project-property">
+                        <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
+                    </div>
+                    <div class="clearfix"></div>
                 </div>
             </div>
             <div class="np-living-space-slider float-left slider-padding">
@@ -485,6 +529,17 @@ top: 81.5% !important;
                     </div>
                      <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
                 </div>
+                <div class="button-np project-property-button d_hide">
+                    <a href="http://www.jpinfra.com/codenameopenstreets/"  target="blank">
+                        <div class="know-text-project-property">
+                            <h5>Know More</h5>
+                        </div>
+                    </a>
+                    <div class="know-arrow-project-property">
+                        <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
             </div>
             <div class="np-living-space-slider float-left slider-padding">
                 <div class="inner-div-np pos-relative">
@@ -505,6 +560,17 @@ top: 81.5% !important;
                         <h5>North Celeste</h5>
                     </div>
                      <p class="pos-absolute ls-p p-deliver">Actual Image</p>
+                </div>
+                <div class="button-np project-property-button d_hide">
+                    <a href="north_celeste.php"  target="blank">
+                        <div class="know-text-project-property">
+                            <h5>Know More</h5>
+                        </div>
+                    </a>
+                    <div class="know-arrow-project-property">
+                        <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
+                    </div>
+                    <div class="clearfix"></div>
                 </div>
             </div>
             <div class="np-living-space-slider float-left">
@@ -527,13 +593,24 @@ top: 81.5% !important;
                     </div>
                      <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
                 </div>
+                <div class="button-np project-property-button d_hide">
+                    <a href="http://www.jpinfra.com/jp-north/codenamenowornever/"  target="blank">
+                        <div class="know-text-project-property">
+                            <h5>Know More</h5>
+                        </div>
+                    </a>
+                    <div class="know-arrow-project-property">
+                        <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
             </div>
         </div>
         <div class="clearfix"></div>
 <!--         <h6 class="jp-north-page-subheading tx-align d_hide" data-aos="fade-down" data-aos-duration="3000">Each of our projects have more than 30 amenities for you to spend your evenings and weekends.  Generously built sports arenas for the family, hat allow the kids to stay entertained for hours, themed gardens that allow for meditation and children’s play and mini-theatres to watch the latest movie are just a few of the world-class amenities available</h6> -->
         
         <!--btn-->
-            <div class="button-np project-property-button d_hide">
+<!--             <div class="button-np project-property-button d_hide">
                 <div class="know-text-project-property">
                     <h5>Know More</h5>
                 </div>
@@ -541,7 +618,7 @@ top: 81.5% !important;
                     <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
                 </div>
                 <div class="clearfix"></div>
-            </div>
+            </div> -->
             <div class="clearfix"></div>
         <div class="pos-absolute np-img-leaf5 m_hide">
             <img src="img/05-leaf.png" class="img-width" alt="leaf-img">

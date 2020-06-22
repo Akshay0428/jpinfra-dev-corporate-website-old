@@ -96,7 +96,8 @@
 
 <section>
     <div class="banner_jp">
-        <img src="img/jp_delivered/banner/Celeste.jpg" alt="Celeste">
+        <img src="img/jp_delivered/banner/Celeste.jpg" alt="Celeste" class="m_hide">
+        <img src="img/jp_delivered/banner/Celeste-mob.jpg" alt="Celeste" class="d_hide">
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">

@@ -1721,7 +1721,7 @@ section.main-npslider {
 .parallax-mira{
     position: relative;
     height: 100vh;
-    background: url(../img/Transformating-Miraroadimg.jpg) no-repeat center/cover;
+    background-image: url(../img/Transformating-Miraroadimg.jpg);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -4592,6 +4592,9 @@ Responsive Code
     /*--------------------------------------------------------------
     Home Page
     --------------------------------------------------------------*/
+    .p-deliver {
+        top: 88%;
+    }
     .col-del1 {
         width: 100%;
         float: none;
@@ -4924,531 +4927,565 @@ span#ccode input[type="text"] {
 /*--------------------------------------------------------------
 north Page
 --------------------------------------------------------------*/
-.np-mergerd{
-    width: 98%;
-    float: none;
-    margin: 0 auto;
-}
-.north-p {
-    top: 74%;
-}
-section.main-npslider {
-    height: auto;
-}
-video#myVideonpnorth {
-    width: 100%;
-}
-.logo-banner {
-    width: 30%;
-    max-width: 50%;
-    top: 5%;
-    left: 5%;
-}
-.np-img-leaf4 {
-    width: 20%;
-    left: 74%;
-    top: 97%;
-}
-.jp-north-page-way-life-main.width-100 {
-    background-color: #00000014;
-    padding: 30px 0px;
-    margin-top: 0px; 
-}
-.mob-tf-42{
-    margin: 0px 0px 0px 0px !important;
-}
-.jp-north-page-banner-text-main {
-    width: 90%;
-    font-size:16px;
-}
-.jp-north-page-way-life-main-text {
-    width: 100%;
-    float: none; 
-    margin-bottom: 50px;
-}
-.h2-css {
-    font-size: 20px;
-    text-align: left;
-}
-.jp-north-page-way-life-main-img {
-    width: 100%;
-    float:none;
-}
-.p-width{
-    width: 98%;
-    text-align: justify;
-    font-size: 14px;
-    margin: 0 auto;
-    margin-top: 35px;
-}
-.jp-north-page-banner-text-h1 {
-    text-transform: uppercase;
-    font-weight: 300;
-    font-size: 36px;
-}
-.jp-north-page-way-life-main-divs {
-    width: 94%;
-     margin: 0 auto;
-}
-.np-bl-patch{
-    background-color: #00000000;
-}
-.np-img-leaf {
-    width: 20%;
-    left: 25%;
-    top: 20%;
-}
-.above-footer-color {
-    font-size: 20px;
-}
-.jp-north-page-banner-text-h6 {
-    font-size: 16px;
-}
-.jp-north-page-subheading {
-    width: 90%;
-    font-size: 14px;
-}
-.top {
-    top: 25%;
-    left: 6%;
-}
-.tx-align p{
-    text-align:center !important;
-    font-size: 14px !important;
-}
-.jp-north-page-abovefooter_main {
-    width: 100%;
-    background-color: #00000014;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-.jp-north-page-way-life-main-text {
-    width: 100%;
-    float: none;
-    margin-bottom: 20px;
-}
-.margin-top {
-    margin: 35px 0px 0px 0px;
-}
-.inner-div-np-text {
-    top: 80%;
-}
-.jp-north-page-transforming-text-main {
-    top: 5%;
-}
-.button-np {
-    width: 40%;
-    padding: 0px 6px 0px 14px;
-}
-.np-img-leaf3 {
-    width: 7%;
-    left: 90%;
-    top: 95%;
-}
-.np-img-leaf2 {
-    width: 18%;
-    left: 10%;
-    top: 163%;
-}
-        .mob-wid{
-            margin:0 auto;
-            width:80%;
-        }
-        .jp-north-page-themed-garden-heading {
-            top: 15%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 75%;
-        }
-/*--------------------------------------------------------------
-media Page
---------------------------------------------------------------*/
-.media-background{
-        background: url(../img/media/Media-Banner-mob.jpg);
-}
-.media_sletters {
-    width: 98%;
-    margin: 0 auto;
-}
+    .np-mergerd{
+        width: 98%;
+        float: none;
+        margin: 0 auto;
+    }
+    .north-p {
+        top: 74%;
+    }
+    section.main-npslider {
+        height: auto;
+    }
+    video#myVideonpnorth {
+        width: 100%;
+    }
+    .logo-banner {
+        width: 30%;
+        max-width: 50%;
+        top: 5%;
+        left: 5%;
+    }
+    .np-img-leaf4 {
+        width: 20%;
+        left: 74%;
+        top: 97%;
+    }
+    .jp-north-page-way-life-main.width-100 {
+        background-color: #00000014;
+        padding: 30px 0px;
+        margin-top: 0px; 
+    }
+    .mob-tf-42{
+        margin: 0px 0px 0px 0px !important;
+    }
+    .ls-p{
+        top: 90%;
+    }
+    .jp-north-page-banner-text-main {
+        width: 90%;
+        font-size:16px;
+    }
+    .jp-north-page-way-life-main-text {
+        width: 100%;
+        float: none; 
+        margin-bottom: 50px;
+    }
+    .h2-css {
+        font-size: 20px;
+        text-align: left;
+    }
+    .jp-north-page-way-life-main-img {
+        width: 100%;
+        float:none;
+    }
+    .p-width{
+        width: 98%;
+        text-align: justify;
+        font-size: 14px;
+        margin: 0 auto;
+        margin-top: 35px;
+    }
+    .jp-north-page-banner-text-h1 {
+        text-transform: uppercase;
+        font-weight: 300;
+        font-size: 36px;
+    }
+    .jp-north-page-way-life-main-divs {
+        width: 94%;
+         margin: 0 auto;
+    }
+    .np-bl-patch{
+        background-color: #00000000;
+    }
+    .np-img-leaf {
+        width: 20%;
+        left: 25%;
+        top: 20%;
+    }
+    .above-footer-color {
+        font-size: 20px;
+    }
+    .jp-north-page-banner-text-h6 {
+        font-size: 16px;
+    }
+    .jp-north-page-subheading {
+        width: 90%;
+        font-size: 14px;
+    }
+    .top {
+        top: 25%;
+        left: 6%;
+    }
+    .tx-align p{
+        text-align:center !important;
+        font-size: 14px !important;
+    }
+    .parallax-mira{
+        background-image: url(../img/jpnorthpage/Miraroad-BG-mob.jpg);
+    }
+    .jp-north-page-abovefooter_main {
+        width: 100%;
+        background-color: #00000014;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .jp-north-page-way-life-main-text {
+        width: 100%;
+        float: none;
+        margin-bottom: 20px;
+    }
+    .margin-top {
+        margin: 35px 0px 0px 0px;
+    }
+    .inner-div-np-text {
+        top: 80%;
+    }
+    .jp-north-page-transforming-text-main {
+        top: 5%;
+    }
+    .button-np {
+        width: 40%;
+        padding: 0px 6px 0px 14px;
+    }
+    .np-img-leaf3 {
+        width: 7%;
+        left: 90%;
+        top: 95%;
+    }
+    .np-img-leaf2 {
+        width: 18%;
+        left: 10%;
+        top: 163%;
+    }
+    .mob-wid{
+        margin:0 auto;
+        width:80%;
+    }
+    .jp-north-page-themed-garden-heading {
+        top: 15%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 75%;
+    }
+    /*--------------------------------------------------------------
+    media Page
+    --------------------------------------------------------------*/
+    .media-background{
+            background: url(../img/media/Media-Banner-mob.jpg);
+    }
+    .media_sletters {
+        width: 98%;
+        margin: 0 auto;
+    }
 
-/*--------------------------------------------------------------
-DELIVERED PRORJECT Page
---------------------------------------------------------------*/
-.project-blue-sec {
-    width: 98%;
-    left: 1%;
-    top: 21%;
-    padding: 15px 15px;
-}
-.proj_main{
-    height: 55px;
-}
-.main_title_jpdesk p{
-    text-align: justify !important;
-}
-.pd-icon-inner {
-    width: 98%;
-    margin: 0 auto;
-}
-.plus {
-    left: 42%;
-}
-.pd-icon {
-    width: 70%;
-    float: none;
-    padding: 35px;
-    margin: 0 auto;
-}
-.cmn_plus {
-    width: 15%;
-    position: absolute;
-    margin-top: -5%;
-}
-.plus2 {
-    left: 42%;
-}
-.plus3 {
-    left: 42%;
-}
-.gallery-silder {
-    width: 98% !important;
-    margin: 0 auto;
-}
-/*--------------------------------------------------------------
-Project Page
---------------------------------------------------------------*/
+    /*--------------------------------------------------------------
+    DELIVERED PRORJECT Page
+    --------------------------------------------------------------*/
+    .project-blue-sec {
+        width: 98%;
+        left: 1%;
+        top: 37%;
+        padding: 15px 15px;
+    }
+    .proj_main{
+        height: 55px;
+    }
+    .main_title_jpdesk p{
+        text-align: justify !important;
+    }
+    .pd-icon-inner {
+        width: 98%;
+        margin: 0 auto;
+    }
+    .plus {
+        left: 42%;
+    }
+    .pd-icon {
+        width: 70%;
+        float: none;
+        padding: 35px;
+        margin: 0 auto;
+    }
+    .cmn_plus {
+        width: 15%;
+        position: absolute;
+        margin-top: -5%;
+    }
+    .plus2 {
+        left: 42%;
+    }
+    .plus3 {
+        left: 42%;
+    }
+    .gallery-silder {
+        width: 98% !important;
+        margin: 0 auto;
+    }
 
-h1 {
-    text-align: center;
-    font-size: 21px;
-}
-.project-background-mob{
-    background: url(../img/project/Projects-mob.jpg);
-}
-.container_aks {
-    width: 100%;
-    margin: 0 auto;
-    max-width: 100%;
-}
-.world_main {
-    width: 98%;
-}
-.container_main {
-    width: 98%;
-}
-.liveHead2.aos-init.aos-animate p {
-    text-align: justify;
-    width: 96%;
-    margin: 20px auto;
-}
-.divide-img {
-    width: 100%;
-    float: none;
-}
-.divide-text {
-    width: 100%;
-    float: none;
-    background-color: #0000001a;
-    padding: 5px 0px;
-}
-.project-background h1 {
-    top: 25%;
-    font-size: 30px;
-}
-.testimonial_main h5 {
-    text-align: center;
-}
-.testimonial_main {
-    width: 100%;
-    margin: 0px;
-}
-.btn-width {
-    width: 50% !important;
-    margin: 0 auto;
-}
-.center_para {
-    text-align: center !important;
-}
-.lable_line {
-    text-align: center;
-    width: 22%;
-    margin: 0 auto;
-}
-.delivery_project {
-    width: 100%;
-    background-color: #9fa7db69;
-    padding-top: 20px;
-    margin: 60px 0px;
-}
-.abovefooter_main {
-    width: 100%;
-    background-color: #00000014;
-    margin: 0px 0px;
-    padding: 20px 19px;
-}
-.project-white-sec {
-    position: absolute;
-    background-color: #fff;
-    width: 98%;
-    left: 1%;
-    top: 58%;
-    padding: 10px 5px;
-    box-shadow: 0px 3px 4px 1px #eee;
-}
-.jp-testimonial {
-    width: 98%;
-    margin: 0 auto;
-    padding: 5px 5px;
-}
-.testimonial-slider-main {
-    width: 98%;
-    margin: 10px auto;
-}
-/*--------------------------------------------------------------
-redevelopment Page
---------------------------------------------------------------*/
-.proj_info {
-    padding-top: 0;
-}
-.proj_slider {
-    width: 100%;
-    float: none;
-}
-.proj_txt {
-    width: 100%;
-    float: none;
-}
-.single_code {
-    width: 100%;
-    float: none;
-}
+    /*--------------------------------------------------------------
+    Project Page
+    --------------------------------------------------------------*/
+
+    h1 {
+        text-align: center;
+        font-size: 21px;
+    }
+    .project-background-mob{
+        background: url(../img/project/Projects-mob.jpg);
+    }
+    .container_aks {
+        width: 100%;
+        margin: 0 auto;
+        max-width: 100%;
+    }
+    .media_hveff_pro h5{
+        width: 98%;
+        margin: 10px auto;
+    }
+    .p-projon{
+        top: 80%;
+        width: 86%;
+        left: 7%
+    }
+    .media_hveff_pro:hover .p-projon{
+        top: 81%;
+        width: 88%;
+        left: 6%;
+    }
+    .world_main {
+        width: 98%;
+    }
+    .container_main {
+        width: 98%;
+    }
+    .liveHead2.aos-init.aos-animate p {
+        text-align: justify;
+        width: 96%;
+        margin: 20px auto;
+    }
+    .divide-img {
+        width: 100%;
+        float: none;
+    }
+    .divide-text {
+        width: 100%;
+        float: none;
+        background-color: #0000001a;
+        padding: 5px 0px;
+    }
+    .project-background h1 {
+        top: 25%;
+        font-size: 30px;
+    }
+    .testimonial_main h5 {
+        text-align: center;
+    }
+    .testimonial_main {
+        width: 100%;
+        margin: 0px;
+    }
+    .btn-width {
+        width: 50% !important;
+        margin: 0 auto;
+    }
+    .center_para {
+        text-align: center !important;
+    }
+    .lable_line {
+        text-align: center;
+        width: 22%;
+        margin: 0 auto;
+    }
+    .delivery_project {
+        width: 100%;
+        background-color: #9fa7db69;
+        padding-top: 20px;
+        margin: 60px 0px;
+    }
+    .abovefooter_main {
+        width: 100%;
+        background-color: #00000014;
+        margin: 0px 0px;
+        padding: 20px 19px;
+    }
+    .project-white-sec {
+        position: absolute;
+        background-color: #fff;
+        width: 98%;
+        left: 1%;
+        top: 58%;
+        padding: 10px 5px;
+        box-shadow: 0px 3px 4px 1px #eee;
+    }
+    .jp-testimonial {
+        width: 98%;
+        margin: 0 auto;
+        padding: 5px 5px;
+    }
+    .testimonial-slider-main {
+        width: 98%;
+        margin: 10px auto;
+    }
+
+    /*--------------------------------------------------------------
+    redevelopment Page
+    --------------------------------------------------------------*/
+    .proj_info {
+        padding-top: 0;
+    }
+    .proj_slider {
+        width: 100%;
+        float: none;
+    }
+    .proj_txt {
+        width: 100%;
+        float: none;
+    }
+    .single_code {
+        width: 100%;
+        float: none;
+    }
 
 
-/*--------------------------------------------------------------
-work with  us Page
---------------------------------------------------------------*/
-.resume-box {
-    width: 98%;
-}
-.resume-txt h5{
-    font-size: 16px;
-}
-.resume-arrow {
-    width: 17%;
-    padding: 12px 0px;
-}
-.wwu-btn {
-    width: 98%;
-}
-.wwu-btn-txt {
-    width: 88%;
-    padding: 15px 5px 15px 5px;
-    font-size: 12px;
-}
-.over-btnarrow {
-    padding: 13px 0px 0px 0px;
-    width: 8%;
-}
-.position-wwu {
-    padding: 40px 0px;
-}
-.resume-txt {
-    width: 70%;
-    text-align: center;
-    float: left;
-    padding: 5px 5px;
-}
-.mail-resume{
-    width: 100%;
-    text-align: center;
-    float: left;
-    padding: 5px 5px;
-}
-/*--------------------------------------------------------------
-Media Page
---------------------------------------------------------------*/
-.media-white-sec {
-    width: 98%;
-    left: 1%;
-    padding: 20px 20px;
-}
-.row_article {
-    padding: 0px 0px;
-    border: 1px solid #00000024;
-}
-.slick-prev {
-    left: -24px!important;
-}
+    /*--------------------------------------------------------------
+    work with  us Page
+    --------------------------------------------------------------*/
+    .resume-box {
+        width: 98%;
+    }
+    .resume-txt h5{
+        font-size: 16px;
+    }
+    .resume-arrow {
+        width: 17%;
+        padding: 12px 0px;
+    }
+    .wwu-btn {
+        width: 98%;
+    }
+    .wwu-btn-txt {
+        width: 88%;
+        padding: 15px 5px 15px 5px;
+        font-size: 12px;
+    }
+    .wwu-bttn button {
+        width: 40%;
+        margin-left: 55%;
+    }
+    .content-wwu p {
+        padding: 20px;
+    }
+    .over-btnarrow {
+        padding: 13px 0px 0px 0px;
+        width: 8%;
+    }
+    .position-wwu {
+        padding: 40px 0px;
+    }
+    .resume-txt {
+        width: 70%;
+        text-align: center;
+        float: left;
+        padding: 5px 5px;
+    }
+    .mail-resume{
+        width: 100%;
+        text-align: center;
+        float: left;
+        padding: 5px 5px;
+    }
+    /*--------------------------------------------------------------
+    Media Page
+    --------------------------------------------------------------*/
+    .media-white-sec {
+        width: 98%;
+        left: 1%;
+        padding: 20px 20px;
+    }
+    .row_article {
+        padding: 0px 0px;
+        border: 1px solid #00000024;
+    }
+    .slick-prev {
+        left: -24px!important;
+    }
 
-.new-media{
-    width:80% !important;
-    margin:0 auto !important;
-}
+    .new-media{
+        width:80% !important;
+        margin:0 auto !important;
+    }
 
-.media_knwmr {
-    padding: 15px 25px 64px 25px;
-}
-.btn_more_media {
-    padding: 8px;
-    width: 36%;
-}
-.jpdesec {
-    display: none;
-}
-.media_btn-width {
-    width: 48% !important;
-}
-.media_glimpse-main {
-    background-color: #2e568945;
-    width: 100%;
-    padding: 30px 0;
-}
-.media_glimpse-col-middle img {
-    width: 100%;
-    height: auto;
-}
-.media_glimpse-h1 h1 {
-    text-align: center;
-    font-size: 28px;
-    font-weight: 800;
-    color: #2E5689;
-    padding: 0px 0px 0px 0px;
-    margin: 20px 0px;
-    text-transform: capitalize;
-}
-.line-homepage {
-    text-align: left;
-    width: 33%;
-}
-.lable_line {
-    text-align: center;
-    padding-top: 0px;
-    width: 27%;
-}
-.media_glimpse-head.aos-init.aos-animate p {
-    text-align: center;
-    margin: 10px auto;
-    width: 80%;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    font-size: 20px;
-}
-.desktop{
-    display: none;
-}
-.mobile{
-    display: block;
-}
-/*--------------------------------------------------------------
-Pushing boundaries Page
---------------------------------------------------------------*/
-section.human_sec {
-    margin-top: 30%;
-}
-/*----------------------------------------------------------------
-overview PAGE
-----------------------------------------------------------------*/     
-.abtus-txt {
-    width: 98%;
-    float: none;
-    margin: 0 auto;
-}
-.abtus-txt h3 {
-    padding: 0px;
-    font-size: 16px;
-    line-height: 25px;
-    text-align: center;
-} 
-#mob-abtcar .carousel-indicators li {
-    background: #c3c1c1;
-    margin: 0 3px;
-    width: 13px;
-    height: 12px;
-}
-#mob-abtcar .carousel-indicators li.active {
-    margin: 0 3px;
-    background-color: #2e5484;
-}
-#mob-abtcar .carousel-indicators {
-    top: 105%;
-}
-.ov-pdel{
-    top: 88%;
-}
-.leader-slider {
-    margin: 0px auto;
-}
-.leader-box {
-    width: 100%;
-    float: none;
-    border: 1px solid #000; 
-    padding: 10px 26px;
-    margin: 30px 0px 0px 0px; 
-}
-.leader-box-img {
-    width: 100%;
-    float: none;
-}
-.leader-box-txt {
-    width: 100%;
-    float: none;
-    padding: 0px;
-}
-.abt-blueline {
-    width: 15%;
-}
-.redevelopment-p {
-    width: 98%;
-    margin: 20px auto;
-}
-.abtpage-btn {
-    width: 60%;
-}
-.abt-p-width {
-    width: 98%;
-    margin: 15px auto;
-    text-align: justify;
-}
-.abt-pmob-width{
-    width: 98%;
-    margin: 15px auto;
-}
-/*--------------------------------------------------------------
-Contact Page
---------------------------------------------------------------*/
+    .media_knwmr {
+        padding: 15px 25px 64px 25px;
+    }
+    .btn_more_media {
+        padding: 8px;
+        width: 36%;
+    }
+    .jpdesec {
+        display: none;
+    }
+    .media_btn-width {
+        width: 48% !important;
+    }
+    .media_glimpse-main {
+        background-color: #2e568945;
+        width: 100%;
+        padding: 30px 0;
+    }
+    .media_glimpse-col-middle img {
+        width: 100%;
+        height: auto;
+    }
+    .media_glimpse-h1 h1 {
+        text-align: center;
+        font-size: 28px;
+        font-weight: 800;
+        color: #2E5689;
+        padding: 0px 0px 0px 0px;
+        margin: 20px 0px;
+        text-transform: capitalize;
+    }
+    .line-homepage {
+        text-align: left;
+        width: 33%;
+    }
+    .lable_line {
+        text-align: center;
+        padding-top: 0px;
+        width: 27%;
+    }
+    .media_glimpse-head.aos-init.aos-animate p {
+        text-align: center;
+        margin: 10px auto;
+        width: 80%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .desktop{
+        display: none;
+    }
+    .mobile{
+        display: block;
+    }
+    /*--------------------------------------------------------------
+    Pushing boundaries Page
+    --------------------------------------------------------------*/
+    section.human_sec {
+        margin-top: 30%;
+    }
+    .p-pushingb {
+        top: 85%;
+        left: 55%;
+    }
+    /*----------------------------------------------------------------
+    overview PAGE
+    ----------------------------------------------------------------*/     
+    .abtus-txt {
+        width: 98%;
+        float: none;
+        margin: 0 auto;
+    }
+    .abtus-txt h3 {
+        padding: 0px;
+        font-size: 18px;
+        line-height: 25px;
+        text-align: center;
+    } 
+    #mob-abtcar .carousel-indicators li {
+        background: #c3c1c1;
+        margin: 0 3px;
+        width: 13px;
+        height: 12px;
+    }
+    #mob-abtcar .carousel-indicators li.active {
+        margin: 0 3px;
+        background-color: #2e5484;
+    }
+    #mob-abtcar .carousel-indicators {
+        top: 105%;
+    }
+    .ov-pdel{
+        top: 88%;
+    }
+    .leader-slider {
+        margin: 0px auto;
+    }
+    .leader-box {
+        width: 100%;
+        float: none;
+        border: 1px solid #000; 
+        padding: 10px 26px;
+        margin: 30px 0px 0px 0px; 
+        filter: none;
+    }
+    .leader-box-img {
+        width: 100%;
+        float: none;
+    }
+    .leader-box-txt {
+        width: 100%;
+        float: none;
+        padding: 0px;
+    }
+    .abt-blueline {
+        width: 15%;
+    }
+    .redevelopment-p {
+        width: 98%;
+        margin: 20px auto;
+    }
+    .abtpage-btn {
+        width: 60%;
+    }
+    .abt-p-width {
+        width: 98%;
+        margin: 15px auto;
+        text-align: justify;
+    }
+    .abt-pmob-width{
+        width: 98%;
+        margin: 15px auto;
+    }
+    /*--------------------------------------------------------------
+    Contact Page
+    --------------------------------------------------------------*/
    
-.contact_finfo {
-    max-width: 90%;
-    padding: 0%;
-}
-p.texxxt {
-    margin: 0% 7% 0% 15%;
-}
-form {
-    text-align: center;
-}
-.contact_linfo{
-    padding: 0%;
-    width: 100%;
-    float: none;
-}
-.contact_rinfo {
-    width: 100%;
-    float: none;
-    margin-top: 22px;
-}
-.contact_desk {
-    display: block;
-}
-.contact_mob {
-    display: none;
-}
-.contact_frm {
-    margin-bottom: 23px;
-}
-input {
-    width: 250px;
-}
+    .contact_finfo {
+        max-width: 90%;
+        padding: 0%;
+    }
+    p.texxxt {
+        margin: 0% 7% 0% 15%;
+    }
+    form {
+        text-align: center;
+    }
+    .contact_linfo{
+        padding: 0%;
+        width: 100%;
+        float: none;
+    }
+    .contact_rinfo {
+        width: 100%;
+        float: none;
+        margin-top: 22px;
+    }
+    .contact_desk {
+        display: block;
+    }
+    .contact_mob {
+        display: none;
+    }
+    .contact_frm {
+        margin-bottom: 23px;
+    }
+    input {
+        width: 250px;
+    }
 }
 
 /*--------------------------------------------------------------
@@ -5808,11 +5845,6 @@ p.carbon_txt2 {
     width: 98%;
     margin: 0 auto;
     margin-top: 235px;
-}
-.p-projon{
-    top: 80%;
-    width: 86%;
-    left: 7%
 }
 .ppnp-img-leaf {
     width: 25%;

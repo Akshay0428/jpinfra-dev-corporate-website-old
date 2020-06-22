@@ -96,7 +96,8 @@
 
 <section>
     <div class="banner_jp">
-        <img src="img/jp_delivered/banner/JP-Decks.jpg" alt="banner jp">
+        <img src="img/jp_delivered/banner/JP-Decks.jpg" alt="banner jp" class="m_hide">
+        <img src="img/jp_delivered/banner/JP-Decks-mob.jpg" alt="banner jp" class="d_hide">
     </div>
 </section>
 <div class="project-blue-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -176,19 +177,23 @@
     </div>
     <div class="gallery-silder mrg-top">
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/Deck_Pool.jpg" alt="Deck Pool">
+        <img src="img/jp_delivered/jpdesk/Deck_Pool.jpg" alt="Deck Pool" class="m_hide">
+        <img src="img/jp_delivered/jpdesk/Deck-Pool-mob.jpg" alt="Deck Pool" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Deck Pool</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/Guest_Room.jpg" alt="Guest_Room">
+        <img src="img/jp_delivered/jpdesk/Guest_Room.jpg" alt="Guest_Room" class="m_hide">
+        <img src="img/jp_delivered/jpdesk/Guest-Room-mob.jpg" alt="Guest_Room" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Guest Room</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/Gym_deck.jpg" alt="Gym_deck">
+        <img src="img/jp_delivered/jpdesk/Gym_deck.jpg" alt="Gym_deck" class="m_hide">
+        <img src="img/jp_delivered/jpdesk/Gym-Deck-mob.jpg" alt="Gym_deck" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Gym Deck</p>
       </div>
       <div class="gal-img">
-        <img src="img/jp_delivered/jpdesk/Jogging_Track.jpg" alt="Jogging_Track">
+        <img src="img/jp_delivered/jpdesk/Jogging_Track.jpg" alt="Jogging_Track" class="m_hide">
+        <img src="img/jp_delivered/jpdesk/Jpgging-Track-mob.jpg" alt="Jpgging-Track" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Jogging Track</p>
       </div>
     </div>

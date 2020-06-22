@@ -96,7 +96,8 @@
 
 <section>
     <div class="banner_jp">
-        <img src="img/jp_delivered/banner/JP-Decks.jpg" alt="banner jp">
+        <img src="img/jp_delivered/banner/Dreamland.jpg" alt="banner jp" class="m_hide">
+        <img src="img/jp_delivered/banner/dreamland-mob.jpg" alt="banner jp" class="d_hide">
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -114,7 +115,7 @@
          <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">A SLICE OF PARADISE</div>
 
          <div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-            <p>True to its name, JP’s Dream Land fulfils the intricate dreams of many. Located in one of the most desirable neighbourhoods in Mumbai, Dream Land redefines the standards of a holistic and elegant lifestyle. The sturdy structure is not only earthquake resistant but also boasts a vast range of ultra-modern amenities.The building features a grand air-conditioned lobby that paves the way to your picture perfect homes. The apartments are immaculately designed with handsome teakwood door frames. The living room, bedrooms and passage feature exemplary Italian marble flooring whereas the bathroom is made with designer ceramic tiles.  All flats are well connected with an intercom facility for smooth flow communication. It also takes utmost care of your security and is additionally supported by an EPABX system.</p>
+            <p>True to its name, JP Infra’s Dream Land fulfils the intricate dreams of many. Located in one of the most desirable neighbourhoods in Mumbai, Dream Land redefines the standards of a holistic and elegant lifestyle. The sturdy structure is not only earthquake resistant but also boasts a vast range of ultra-modern amenities.The building features a grand air-conditioned lobby that paves the way to your picture perfect homes. The apartments are immaculately designed with handsome teakwood door frames. The living room, bedrooms and passage feature exemplary Italian marble flooring whereas the bathroom is made with designer ceramic tiles.  All flats are well connected with an intercom facility for smooth flow communication. It also takes utmost care of your security and is additionally supported by an EPABX system.</p>
          </div>
          <div class="clearfix"></div>
       </div>
