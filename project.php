@@ -359,9 +359,9 @@
 							35+ Lifestyle Amenities<br>
 							Green Living<br>
 							Grand Clubhouse
-		                </p>S
+		                </p>
 		            </div>
-		            
+		            <p class="pos-absolute p-projon p-deliver"> Artist's Impression</p>
 				</div>
 				<div class="ongoingproject-txt">
 					<div class=slider-txt>
@@ -386,13 +386,13 @@
 			<div class="project-ongoing">
 				<div class="projectongoingimg columews">
 					<img src="img/project/ongoing/Codename-Hotcake.jpg" alt="Codename Hotcake">
-					<div class="media_hveff_pro"><h5>OPEN PAYMENT PLANS - YOUR HOUSE, YOUR CHOICE</h5>
+					<!-- <div class="media_hveff_pro"><h5>OPEN PAYMENT PLANS - YOUR HOUSE, YOUR CHOICE</h5> -->
+					<div class="media_hveff_pro"><h5>FINE LIVING EXPERIENCE</h5>
 		                <p class="proj_hvtext texttransform">
 		                    1 & 2 BHK<br>
-		                    Child Centric<br>
-		                    Recreation<br>
-		                    Entertainment - Amphitheatre<br>
-		                    Games Area<br>
+							Key Security Features<br>
+							Nature’s Gardens<br>
+							Meditation Area
 		                </p>
 		            </div>
 		            <p class="pos-absolute p-projon p-deliver"> Artist's Impression</p>
@@ -453,13 +453,14 @@
 			<div class="project-ongoing">
 				<div class="projectongoingimg columews">
 					<img src="img/project/ongoing/Elara.jpg">
-					<div class="media_hveff_pro"><h5>UNOBSTRUCTED LUSH GREEN VIEWS</h5>
+					<!-- <div class="media_hveff_pro"><h5>UNOBSTRUCTED LUSH GREEN VIEWS</h5> -->
+					<div class="media_hveff_pro"><h5>LUSH GREEN VIEWS</h5>
 		                <p class="proj_hvtext texttransform">
-		                    1,2 & 3 BHK<br>
-		                    Child Centric<br>
-		                    Fitness<br>
-		                    Recreation<br>
-		                    Green Living<br>
+							1,2 & 3 BHK<br>
+							1 & 2 Bed Apartments<br>
+							Recreation Options<br>
+							Children’s Play Area<br>
+							Green Living
 		                </p>
 		            </div>
 		            <p class="pos-absolute p-projon p-deliver">Artist's Impression</p>
@@ -641,7 +642,8 @@
 				<div class="project-ongoing">
 					<div class="projectongoingimg columews">
 						<img src="img/project/delivered/JP-Decks.jpg" alt="JP-Decks">
-						<div class="media_hveff_pro"><h5>AVANT-GARDE HOMES FOR AVANT-GARDE LIFESTYLE</h5>
+						<!-- <div class="media_hveff_pro"><h5>AVANT-GARDE HOMES FOR AVANT-GARDE LIFESTYLE</h5> -->
+						<div class="media_hveff_pro"><h5>Remarkable Lifestyle, Luxurious Apartments</h5>
 		                    <p class="proj_hvtext texttransform">
 		                        Luxurious 2 & 3 BHK Apartments<br>
 		                        Swimming pool<br>
@@ -676,7 +678,8 @@
 				<div class="project-ongoing">
 					<div class="projectongoingimg columews">
 						<img src="img/project/delivered/Chalet-Amar.jpg" alt="Chalet Amar">
-						<div class="media_hveff_pro"><h5>CH TEAU DE COMFORT AT JUHU</h5>
+						<!-- <div class="media_hveff_pro"><h5>CH TEAU DE COMFORT AT JUHU</h5> -->
+						<div class="media_hveff_pro"><h5>LUXURIOUS COMFORT AT JUHU</h5>
 		                    <p class="proj_hvtext texttransform">
 		                        5 BHK<br>
 		                        Super Spacious Apartments<br>
@@ -751,7 +754,7 @@
 		                        1 & 2 BHK luxurious Apartments<br>
 		                        Club House<br>
 		                        Landscaped Gardens<br>
-		                        24 Hour Water Supply<br>
+		                        Open-to-Sky Swimming Pool<br>
 		                    </p>
 		                </div>
 		                <p class="pos-absolute p-projon p-deliver">Actual image of North Atria</p>

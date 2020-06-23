@@ -4273,9 +4273,6 @@ button.btn-border h5 {
 /*--------------------------------------------------------------
 Overview page
 --------------------------------------------------------------*/
-.redevelopment-abtus {
-    background-image: url(../img/about-us/Our-Redevelopment-Projects-BG-mob.jpg);
-}
 .abtus-jpinfra {
     position: relative;
 }
@@ -5372,7 +5369,7 @@ north Page
         display: block;
     }
     /*--------------------------------------------------------------
-    Pushing boundaries Page
+    Pushing boundaries Page mob
     --------------------------------------------------------------*/
     section.human_sec {
         margin-top: 30%;
@@ -5382,8 +5379,11 @@ north Page
         left: 55%;
     }
     /*----------------------------------------------------------------
-    overview PAGE
-    ----------------------------------------------------------------*/     
+    overview PAGE mob
+    ----------------------------------------------------------------*/  
+    .redevelopment-abtus {
+        background-image: url(../img/about-us/Our-Redevelopment-Projects-BG-mob.jpg);
+    }   
     .abtus-txt {
         width: 98%;
         float: none;

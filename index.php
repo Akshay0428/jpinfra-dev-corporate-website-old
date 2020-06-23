@@ -992,7 +992,7 @@ transition:all .6s ease-in-out;
                         <div class="delivered-proj-bot-line"></div>
                         <div class="delivered-proj-bot-line mob-del-line d_hide"></div>
                         <div class="clearfix"></div>
-                        <div class="jp-button main-know-btn mb-del-btn d_hide">
+<!--                         <div class="jp-button main-know-btn mb-del-btn d_hide">
                           <a href="https://www.dotwisedigital.com/jpuat/pushing-boundaries.php" target="blank">
                             <div class="know-text-jp main-know-text">
                               <h5>Know More</h5>
@@ -1002,7 +1002,7 @@ transition:all .6s ease-in-out;
                             <img src="img/Project Button Arrow.png" class="know-arrow-img" alt="arrow">
                           </div>
                           <div class="clearfix"></div>
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="clearfix"></div>

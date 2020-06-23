@@ -1,42 +1,42 @@
 <?php include 'header.php';?> 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.5/slick.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css">
-<script src="otherprojslider.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>   
-<link rel="stylesheet" href="css/otherprojslider.css">
-<style>
-.swiper-button-prev {
-top: 81.5% !important;
-}
-.section__slider .container__center:after {
-    height: 0;
-}
-.swiper-button-prev {
-    bottom: 0;
-    background-color: #f2f3f3ad;
-}
-.swiper-button-next {
-    right: 300px;
-    background-color: #f2f3f3ad;
-}
-.swiper-button-prev i {
-    position: relative;
-    left: 87%;
-}
-.swiper-button-next i {
-    position: relative;
-    left: 82%;
-}
-.swiper-slide__block .swiper-slide__block__img {
-    width: 65%;
-    max-height: 476px;
-    height: 390px;
-    max-width: 735px;
-    overflow: hidden;
-    position: relative;
-}
+  <script src="otherprojslider.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>   
+  <link rel="stylesheet" href="css/otherprojslider.css">
+  <style>
+    .swiper-button-prev {
+      top: 81.5% !important;
+    }
+    .section__slider .container__center:after {
+      height: 0;
+    }
+    .swiper-button-prev {
+      bottom: 0;
+      background-color: #f2f3f3ad;
+    }
+    .swiper-button-next {
+      right: 300px;
+      background-color: #f2f3f3ad;
+    }
+    .swiper-button-prev i {
+      position: relative;
+      left: 87%;
+    }
+    .swiper-button-next i {
+      position: relative;
+      left: 82%;
+    }
+    .swiper-slide__block .swiper-slide__block__img {
+      width: 65%;
+      max-height: 476px;
+      height: 390px;
+      max-width: 735px;
+      overflow: hidden;
+      position: relative;
+    }
     /**********************
     slick slider
     ***********************/
@@ -118,27 +118,27 @@ top: 81.5% !important;
       cursor: pointer;
       color: black;
     }
-        @media (min-width: 1200px){
-            .swiper-container {
-                height: auto;
-            }
-        }
+    @media (min-width: 1200px){
+      .swiper-container {
+        height: auto;
+      }
+    }
 
     @media only screen and (max-width:768px){
-        .swiper-slide__block .swiper-slide__block__img {
-            height: auto;
-        }
-        .swiper-button-prev {
-            top: 63.5% !important;
-        }
+      .swiper-slide__block .swiper-slide__block__img {
+        height: auto;
+      }
+      .swiper-button-prev {
+        top: 63.5% !important;
+      }
     }
-    	@media screen and (max-width: 800px) {
-    	  .next-button {
-    	    display: none !important;
-    	  }
+    @media screen and (max-width: 800px) {
+    	.next-button {
+        display: none !important;
     	}
+    }
 
-</style>
+  </style>
 
 <!-- banner start -->
     <!--<section class="main-banner width-100">-->
@@ -165,32 +165,33 @@ top: 81.5% !important;
     <!--</section>-->
     
     <section class="main-npslider">
-
-            <video autoplay muted loop id="myVideonpnorth">
-              <source src="video/north_video.mp4" type="video/mp4">
-            </video>
-            <div class="pos-absolute np-img-leaf">
-                <img src="img/01-leaf.png" class="img-width" alt="leaf-img">
-            </div>
+      <video autoplay muted loop id="myVideonpnorth">
+        <source src="video/north_video.mp4" type="video/mp4">
+      </video>
+      <div class="pos-absolute np-img-leaf">
+        <img src="img/01-leaf.png" class="img-width" alt="leaf-img">
+      </div>
     </section>
+
     <div class="logo-banner">
-        <a href="https://www.dotwisedigital.com/jpuat">
-            <img src="">
-        </a>
-        
+      <a href="https://www.dotwisedigital.com/jpuat">
+        <img src="">
+      </a>
     </div>
     <div class="clearfix"></div>
-<!-- Banner end Here -->
+  
+  <!-- Banner video end Here -->
 
 
-<!--A Way Of Life Starts  -->
-    <div class="jp-north-page-way-life-main width-100">
-        <div class="jp-north-page-way-life-main-divs width-80">
-           <div class="jp-north-page-way-life-main-text float-left">
-                <h2 class="h2-css color-heading tf-42px mob-tf-42" data-aos="fade-up" data-aos-duration="3000">north</h2>
-                <h2 class="h2-css color-heading tf-42px mob-tf-42" data-aos="fade-up" data-aos-duration="3000">An assured way of living</h2>
-               <p class="color-black p-width" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls.  North is designed with a vision to provide a carefully crafted lavish environment for our residents, with each space planned with great thought and vision.  When you enter North, you enter into an oasis of greenery and serenity, a place of calm to come home to, from the fast-paced life of Mumbai.  16 themed gardens, a range of top-class amenities, car-free zones, safe zone for children and the elderly, and entertainment for the entire family, is what you get at North.  And all of this, in a socially responsible sustainable low-waste environment.  Come home to living, come home to North.  </p>
-           </div>
+  <!--A Way Of Life Starts  -->
+  <div class="jp-north-page-way-life-main width-100">
+    <div class="jp-north-page-way-life-main-divs width-80">
+      <div class="jp-north-page-way-life-main-text float-left">
+        <h2 class="h2-css color-heading tf-42px mob-tf-42" data-aos="fade-up" data-aos-duration="3000">north</h2>
+        <h2 class="h2-css color-heading tf-42px mob-tf-42" data-aos="fade-up" data-aos-duration="3000">An assured way of living</h2>
+        <p class="color-black p-width" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls.  North is designed with a vision to provide a carefully crafted lavish environment for our residents, with each space planned with great thought and vision.  When you enter North, you enter into an oasis of greenery and serenity, a place of calm to come home to, from the fast-paced life of Mumbai.  16 themed gardens, a range of top-class amenities, car-free zones, safe zone for children and the elderly, and entertainment for the entire family, is what you get at North.  And all of this, in a socially responsible sustainable low-waste environment.  Come home to living, come home to North.
+        </p>
+      </div>
            <!-- old slider -->
            <!-- <div class="jp-north-page-way-life-main-img img-width float-left pos-relative">
                <img class="img-way-life m_hide" src="img/way-life-np.jpg">
@@ -239,185 +240,178 @@ top: 81.5% !important;
 					</div>
 				</div>
 			</div> -->
-               <!-- old slider ends -->
-            <div class="pr_showcase np-mergerd" id="hProngoing">
-                <div id="ongoing">
-                    <div class="pr_cont_slider">
-                        <div class="section__slider">
-                            <div class="container__center">
-                                <div class="swiper-container ongoingclass">
-                                    <div class="swiper-wrapper">
-                                        <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
-                                                    <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
-                                                        <img src="img/jpnorthpage/new/lion.jpg" alt="lion">
-                                                    </a>
-                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
-                                                </div>
-                                                <div class="way-slider-txt">
-                                                    <p>Reside in pride just like the majestic Lion’ s statue</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
-                                                    <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
-                                                        <img src="img/jpnorthpage/new/horse.jpg" alt="horse">
-                                                    </a>
-                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
-                                                </div>
-                                                <div class="way-slider-txt">
-                                                    <p>Live gracefully with a new perspective to life as the royal Horse’s statue</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
-                                                    <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
-                                                        <img src="img/jpnorthpage/new/Barista.jpg" alt="Barista">
-                                                    </a>
-                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
-                                                </div>
-                                                <div class="way-slider-txt">
-                                                    <p>A fresh start to every day at your nearest Barista</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide pos-relative">
-                                                <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
-                                                    <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
-                                                        <img src="img/jpnorthpage/new/cafe.jpg" alt="cafe">
-                                                    </a>
-                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
-                                                </div>
-                                                <div class="way-slider-txt">
-                                                    <p>Find out what’s brewing at your neighbourhood Café</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img pos-relative
-                                                " data-swiper-parallax-y="70%">
-                                                    <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
-                                                        <img src="img/jpnorthpage/new/Clubhouse.jpg" alt="Clubhouse">
-                                                    </a>
-                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
-                                                </div>
-                                                <div class="way-slider-txt">
-                                                    <p>Bond with like-minded people at our exclusive Clubhouse</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
-                                                    <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
-                                                        <img src="img/jpnorthpage/new/Games-Room.jpg" alt="Games-Room">
-                                                    </a>
-                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
-                                                </div>
-                                                <div class="way-slider-txt">
-                                                    <p>Have a healthy competition & endless entertainment in the next door Game Room</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
-                                                    <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
-                                                        <img src="img/jpnorthpage/new/Gym3.jpg" alt="Gym3">
-                                                    </a>
-                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
-                                                </div>
-                                                <div class="way-slider-txt">
-                                                    <p>Get ripped the right way at our fully equipped Gym</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
-                                                    <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
-                                                        <img src="img/jpnorthpage/new/Lakme-Salon.jpg" alt="Lakme-Salon">
-                                                    </a>
-                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
-                                                </div>
-                                                <div class="way-slider-txt">
-                                                    <p>Get styled by the runway experts at your nearest Lakmé Salon</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
-                                                    <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
-                                                        <img src="img/jpnorthpage/new/Library.jpg" alt="Library">
-                                                    </a>
-                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
-                                                </div>
-                                                <div class="way-slider-txt">
-                                                    <p>Catch up on your favourite novel at our knowledge-rich Library</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="swiper-slide__block np-swiper-slide">
-                                                <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
-                                                    <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
-                                                        <img src="img/jpnorthpage/new/Little-Millennium-Kids-2.jpg" alt="Little-Millennium-Kids-2">
-                                                    </a>
-                                                    <p class="pos-absolute north-p p-deliver">Actual Image</p>
-                                                </div>
-                                                <div class="way-slider-txt">
-                                                    <p>A perfect place for the tiny- tots to play and learn at your nearest Little Millennium School</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-button-next">
-                                        <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="swiper-button-prev">
-                                        <i class="fa fa-long-arrow-left" aria-hidden="true"></i>
-                                    </div>
-                                </div>
-                            </div>
+      <!-- old slider ends -->
+      <div class="pr_showcase np-mergerd" id="hProngoing">
+        <div id="ongoing">
+          <div class="pr_cont_slider">
+            <div class="section__slider">
+              <div class="container__center">
+                <div class="swiper-container ongoingclass">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                      <div class="swiper-slide__block np-swiper-slide">
+                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                          <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
+                            <img src="img/jpnorthpage/new/lion.jpg" alt="lion">
+                          </a>
+                          <p class="pos-absolute north-p p-deliver">Actual Image</p>
                         </div>
+                        <div class="way-slider-txt">
+                          <p>Reside in pride just like the majestic Lion’ s statue</p>
+                        </div>
+                      </div>
                     </div>
-               </div>
+                    <div class="swiper-slide">
+                      <div class="swiper-slide__block np-swiper-slide">
+                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                          <a target="_blank" href="https://www.jpinfra.com/jp-north/gardencity/">
+                            <img src="img/jpnorthpage/new/horse.jpg" alt="horse">
+                          </a>
+                          <p class="pos-absolute north-p p-deliver">Actual Image</p>
+                        </div>
+                        <div class="way-slider-txt">
+                          <p>Live gracefully with a new perspective to life as the royal Horse’s statue</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="swiper-slide__block np-swiper-slide">
+                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                          <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
+                            <img src="img/jpnorthpage/new/Barista.jpg" alt="Barista">
+                          </a>
+                          <p class="pos-absolute north-p p-deliver">Actual Image</p>
+                        </div>
+                        <div class="way-slider-txt">
+                          <p>A fresh start to every day at your nearest Barista</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="swiper-slide__block np-swiper-slide pos-relative">
+                        <div class="swiper-slide__block__img" data-swiper-parallax-y="70%">
+                          <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
+                            <img src="img/jpnorthpage/new/cafe.jpg" alt="cafe">
+                          </a>
+                          <p class="pos-absolute north-p p-deliver">Actual Image</p>
+                        </div>
+                        <div class="way-slider-txt">
+                          <p>Find out what’s brewing at your neighbourhood Café</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="swiper-slide__block np-swiper-slide">
+                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                          <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
+                            <img src="img/jpnorthpage/new/Clubhouse.jpg" alt="Clubhouse">
+                          </a>
+                          <p class="pos-absolute north-p p-deliver">Actual Image</p>
+                        </div>
+                        <div class="way-slider-txt">
+                          <p>Bond with like-minded people at our exclusive Clubhouse</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="swiper-slide__block np-swiper-slide">
+                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                          <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
+                            <img src="img/jpnorthpage/new/Games-Room.jpg" alt="Games-Room">
+                          </a>
+                          <p class="pos-absolute north-p p-deliver">Actual Image</p>
+                        </div>
+                        <div class="way-slider-txt">
+                          <p>Have a healthy competition & endless entertainment in the next door Game Room</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="swiper-slide__block np-swiper-slide">
+                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                          <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
+                            <img src="img/jpnorthpage/new/Gym3.jpg" alt="Gym3">
+                          </a>
+                          <p class="pos-absolute north-p p-deliver">Actual Image</p>
+                        </div>
+                        <div class="way-slider-txt">
+                          <p>Get ripped the right way at our fully equipped Gym</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="swiper-slide__block np-swiper-slide">
+                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                          <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
+                            <img src="img/jpnorthpage/new/Lakme-Salon.jpg" alt="Lakme-Salon">
+                          </a>
+                          <p class="pos-absolute north-p p-deliver">Actual Image</p>
+                        </div>
+                        <div class="way-slider-txt">
+                          <p>Get styled by the runway experts at your nearest Lakmé Salon</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="swiper-slide__block np-swiper-slide">
+                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                          <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
+                            <img src="img/jpnorthpage/new/Library.jpg" alt="Library">
+                          </a>
+                          <p class="pos-absolute north-p p-deliver">Actual Image</p>
+                        </div>
+                        <div class="way-slider-txt">
+                          <p>Catch up on your favourite novel at our knowledge-rich Library</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="swiper-slide__block np-swiper-slide">
+                        <div class="swiper-slide__block__img pos-relative" data-swiper-parallax-y="70%">
+                          <a target="_blank" href="https://www.jpinfra.com/jp-north/celeste/">
+                            <img src="img/jpnorthpage/new/Little-Millennium-Kids-2.jpg" alt="Little-Millennium-Kids-2">
+                          </a>
+                          <p class="pos-absolute north-p p-deliver">Actual Image</p>
+                        </div>
+                        <div class="way-slider-txt">
+                          <p>A perfect place for the tiny- tots to play and learn at your nearest Little Millennium School</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="swiper-button-next">
+                    <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+                  </div>
+                  <div class="swiper-button-prev">
+                    <i class="fa fa-long-arrow-left" aria-hidden="true"></i>
+                  </div>
+                </div>
+              </div>
             </div>
-               
-               
-               
-               <!--<div class="np-greypatch pos-absolute m_hide"></div>-->
-           </div>
-           <div class="clearfix"></div> 
-           
+          </div>
         </div>
-        <div class="clearfix"></div>
-        <div class="pos-absolute np-img-leaf2">
-            <img src="img/02-leaf.png" class="img-width" alt="leaf-img">
-        </div>
-        <div class="clearfix"></div>
-
-        <div class="pos-absolute np-img-leaf3 m_hide">
-            <img src="img/02-leaf.png" class="img-width" alt="leaf-img">
-        </div>
+      </div>
     </div>
-    <div class="clearfix"></div>
-<!--A Way Of Life Ends  -->
+    <!-- slider ends -->
+    <div class="clearfix"></div> 
+  </div>
+  <div class="clearfix"></div>
+  <div class="pos-absolute np-img-leaf2">
+    <img src="img/02-leaf.png" class="img-width" alt="leaf-img">
+  </div>
+  <div class="clearfix"></div>
+
+  <div class="pos-absolute np-img-leaf3 m_hide">
+    <img src="img/02-leaf.png" class="img-width" alt="leaf-img">
+  </div>
+  <div class="clearfix"></div>
+  <!--A Way Of Life Ends  -->
     
 
-<!--transforming mira road  -->
-    <div class="jp-north-page-transforming-main parallax-mira width-100 pos-relative">
-        <!--<img class="img-width m_hide" src="img/Transforming_Mira_Road.jpg">-->
-        <!-- <img class="img-width d_hide" src="img/Transformating-Miraroadimg.jpg"> -->
-        <div class="jp-north-page-transforming-text-main pos-absolute">
+  <!--transforming mira road  -->
+
+  <div class="jp-north-page-transforming-main parallax-mira width-100 pos-relative">
+    <div class="jp-north-page-transforming-text-main pos-absolute">
             <!--<h1 class="jp-north-page-heading-txt tf-42px" data-aos="fade-up" data-aos-duration="3000">transforming mira road</h1>-->
             <!-- <h6 class="jp-north-page-subheading tx-align new-margin" data-aos="fade-down" data-aos-duration="3000">Home is where you enjoy a way of life, not just the four walls. North is designed with a vision to
             provide a carefully crafted lavish environment for our residents. When you enter North, you enter
@@ -425,79 +419,98 @@ top: 81.5% !important;
             zones, safe zone for children and the elderly, and entertainment for the entire family, is what you
             get at North. And all of this, in a socially responsible sustainable low-waste environment. Come
             home to living, come home to North.</h6> -->
-            <h6 class="jp-north-page-subheading tx-align new-margin" data-aos="fade-down" data-aos-duration="3000">North Mumbai has emerged as the aspirational location for all property investment in Mumbai. JP Infra has played a major role in building an international standard of living within the upcoming hub of Mira Road. Offering the best-in-class amenities, lush green surroundings and a peaceful serene nature, JP North is an epitome of ideal living in a busy suburban city like Mumbai. Mira Road Rising, an initiative by JP Infra, is a fine example of the community living that has been built and encourage by the team of JP Infra.</h6>
-        </div>
-        <div class="clearfix"></div>
-        <div class="pos-absolute np-img-leaf4">
-            <img src="img/04-leaf.png" class="img-width" alt="leaf-img">
-        </div>
-        <div class="clearfix"></div>
+      <h6 class="jp-north-page-subheading tx-align new-margin" data-aos="fade-down" data-aos-duration="3000">North Mumbai has emerged as the aspirational location for all property investment in Mumbai. JP Infra has played a major role in building an international standard of living within the upcoming hub of Mira Road. Offering the best-in-class amenities, lush green surroundings and a peaceful serene nature, JP North is an epitome of ideal living in a busy suburban city like Mumbai. Mira Road Rising, an initiative by JP Infra, is a fine example of the community living that has been built and encourage by the team of JP Infra.</h6>
     </div>
     <div class="clearfix"></div>
-<!--transforming mira road  -->
+    <div class="pos-absolute np-img-leaf4">
+      <img src="img/04-leaf.png" class="img-width" alt="leaf-img">
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div class="clearfix"></div>
+
+  <!--transforming mira road  -->
 
 
-<!-- Our Living space -->
+  <!-- Our Living space -->
     <div class="jp-north-page-living-space-main margin-top">
-        <div class="jp-north-page-living-space">
-            <h1 class="jp-north-page-heading-txt" data-aos="fade-up" data-aos-duration="3000">our living space</h1>
+      <div class="jp-north-page-living-space">
+        <h1 class="jp-north-page-heading-txt" data-aos="fade-up" data-aos-duration="3000">our living space</h1>
             <!--<h6 class="jp-north-page-subheading tx-align m_hide" data-aos="fade-down" data-aos-duration="3000">Each of our projects have more than 30 amenities for you to spend your evenings and weekends.  Generously built sports arenas for the family, that allow the kids to stay entertained for hours, themed gardens that allow for meditation and children’s play and mini-theatres to watch the latest movie are just a few of the world-class amenities available.</h6>-->
-        </div>
+      </div>
         
-        <div class="jp-north-page-living-space-slider-main mob-wid width-100 margin-top responsivepro">
-            <div class="np-living-space-slider float-left">
-                <div class="inner-div-np pos-relative">
-                    <img src="img/jpnorthpage/new/NGC-1.jpg" class="m_hide" alt="slide1">
-                    <img src="img/jpnorthpage/gardencity.jpg" class="d_hide" alt="slide1">
-                    <a href="https://www.jpinfra.com/jp-north/gardencity/" target="blank">
-                        <div class="np-bl-patch pos-absolute">
-                            <div class="ols-text">
-                                <p class="ols-p txt-transform">Beautifully crafted 1, 2 & 3 BHK<br>
-                                    Recreation<br>
-                                    Meditation Centre<br>
-                                    Creche 
-                                </p>
-                            </div>
-                        </div>
-                    </a>
-                    <div class="inner-div-np-text pos-absolute">
-                        <h5>North Garden City</h5>
-                    </div>
-                    <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
+      <div class="jp-north-page-living-space-slider-main mob-wid width-100 margin-top responsivepro">
+        <div class="np-living-space-slider float-left">
+          <div class="inner-div-np pos-relative">
+            <img src="img/jpnorthpage/new/NGC-1.jpg" class="m_hide" alt="slide1">
+            <img src="img/jpnorthpage/gardencity.jpg" class="d_hide" alt="slide1">
+            <a href="https://www.jpinfra.com/jp-north/gardencity/" target="blank" class="m_hide">
+              <div class="np-bl-patch pos-absolute">
+                <div class="ols-text">
+                  <p class="ols-p txt-transform">Beautifully crafted 1, 2 & 3 BHK<br>
+                    Recreation<br>
+                    Meditation Centre<br>
+                    Creche 
+                  </p>
                 </div>
-                <div class="button-np project-property-button d_hide">
-                    <a href="https://www.jpinfra.com/jp-north/gardencity/"  target="blank">
-                        <div class="know-text-project-property">
-                            <h5>Know More</h5>
-                        </div>
-                    </a>
-                    <div class="know-arrow-project-property">
-                        <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
+              </div>
+            </a>
+            <div class="np-bl-patch pos-absolute d_hide">
+              <div class="ols-text">
+                <p class="ols-p txt-transform">Beautifully crafted 1, 2 & 3 BHK<br>
+                  Recreation<br>
+                  Meditation Centre<br>
+                  Creche 
+                </p>
+              </div>
             </div>
-            <div class="np-living-space-slider float-left slider-padding">
-                <div class="inner-div-np pos-relative">
-                    <img src="img/jpnorthpage/new/Hotcake.jpg" class="m_hide" alt="Codename-Hotcake">
-                    <img src="img/slider_mob2.jpg" class="d_hide" alt="Codename-Hotcake">
-                    <a href="http://www.jpinfra.com/codenamehotcake/" target="blank">
-                        <div class="np-bl-patch pos-absolute">
-                            <div class="ols-text">
-                                <p class="ols-p txt-transform">1 & 2 BHK Premium Residences<br>
-                                    Acupressure Walkway<br>
-                                    Steam and Sauna<br>
-                                    Recreation and Play Area
-                                </p>
-                            </div>
-                        </div>
-                    </a> 
-                    <div class="inner-div-np-text pos-absolute">
-                        <h5>Codename Hotcake</h5>
-                    </div>
-                     <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
+            <div class="inner-div-np-text pos-absolute">
+              <h5>North Garden City</h5>
+            </div>
+            <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
+          </div>
+          <div class="button-np project-property-button d_hide">
+            <a href="https://www.jpinfra.com/jp-north/gardencity/"  target="blank">
+              <div class="know-text-project-property">
+                <h5>Know More</h5>
+              </div>
+            </a>
+            <div class="know-arrow-project-property">
+              <img src="img/Project Button Arrow.png" class="know-arrow-property" alt="arrow">
+            </div>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+        <div class="np-living-space-slider float-left slider-padding">
+          <div class="inner-div-np pos-relative">
+            <img src="img/jpnorthpage/new/Hotcake.jpg" class="m_hide" alt="Codename-Hotcake">
+            <img src="img/slider_mob2.jpg" class="d_hide" alt="Codename-Hotcake">
+            <a href="http://www.jpinfra.com/codenamehotcake/" target="blank" class="m_hide">
+              <div class="np-bl-patch pos-absolute">
+                <div class="ols-text">
+                  <p class="ols-p txt-transform">1 & 2 BHK Premium Residences<br>
+                    Acupressure Walkway<br>
+                    Steam and Sauna<br>
+                    Recreation and Play Area
+                  </p>
                 </div>
-                <div class="button-np project-property-button d_hide">
+              </div>
+            </a> 
+            <div class="np-bl-patch pos-absolute" class="d_hide">
+              <div class="ols-text">
+                <p class="ols-p txt-transform">1 & 2 BHK Premium Residences<br>
+                  Acupressure Walkway<br>
+                  Steam and Sauna<br>
+                  Recreation and Play Area
+                </p>
+              </div>
+            </div>
+            <div class="inner-div-np-text pos-absolute">
+              <h5>Codename Hotcake</h5>
+            </div>
+            <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
+          </div>
+          <div class="button-np project-property-button d_hide">
                     <a href="http://www.jpinfra.com/codenamehotcake/"  target="blank">
                         <div class="know-text-project-property">
                             <h5>Know More</h5>
@@ -513,7 +526,7 @@ top: 81.5% !important;
                 <div class="inner-div-np pos-relative">
                     <img src="img/jpnorthpage/new/Open-Streets.jpg" class="m_hide" alt="Codename-Open-Streets">
                     <img src="img/slider_mob3.jpg" class="d_hide" alt="slide3">
-                    <a href="http://www.jpinfra.com/codenameopenstreets/" target="blank">
+                    <a href="http://www.jpinfra.com/codenameopenstreets/" target="blank" class="m_hide">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
                                 <p class="ols-p txt-transform">Spacious 1, 2 & 3 BHK<br>
@@ -524,6 +537,15 @@ top: 81.5% !important;
                             </div>
                         </div>
                     </a>
+                    <div class="np-bl-patch pos-absolute" class="d_hide">
+                            <div class="ols-text">
+                                <p class="ols-p txt-transform">Spacious 1, 2 & 3 BHK<br>
+                                    Game Hub<br>
+                                    Vehicle Free Zones  <br>
+                                    Clubhouse
+                                </p>
+                            </div>
+                        </div>
                     <div class="inner-div-np-text pos-absolute">
                         <h5>Codename Open Streets</h5>
                     </div>
@@ -545,7 +567,7 @@ top: 81.5% !important;
                 <div class="inner-div-np pos-relative">
                     <img src="img/jpnorthpage/new/Celeste.jpg" class="m_hide" alt="slide4">
                     <img src="img/jpnorthpage/celeste.jpg" class="d_hide" alt="slide4">
-                    <a href="north_celeste.php" target="blank">
+                    <a href="north_celeste.php" target="blank" class="m_hide">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
                                 <p class="ols-p txt-transform">Spanish- styled 1 & 2 BHK<br>
@@ -556,6 +578,15 @@ top: 81.5% !important;
                             </div>
                         </div>
                     </a>
+                    <div class="np-bl-patch pos-absolute" class="d_hide">
+                            <div class="ols-text">
+                                <p class="ols-p txt-transform">Spanish- styled 1 & 2 BHK<br>
+                                    Wifi Zone<br>
+                                    Amphitheatre<br>
+                                    Library Cafe
+                                </p>
+                            </div>
+                        </div>
                     <div class="inner-div-np-text pos-absolute">
                         <h5>North Celeste</h5>
                     </div>
@@ -577,7 +608,7 @@ top: 81.5% !important;
                 <div class="inner-div-np pos-relative">
                     <img src="img/jpnorthpage/new/Now-or-Never.jpg" class="m_hide" alt="slide5">
                     <img src="img/jpnorthpage/donald.jpg" class="d_hide" alt="slide5">
-                    <a href="http://www.jpinfra.com/jp-north/codenamenowornever/" target="blank">
+                    <a href="http://www.jpinfra.com/jp-north/codenamenowornever/" target="blank" class="m_hide">
                         <div class="np-bl-patch pos-absolute">
                             <div class="ols-text">
                                 <p class="ols-p txt-transform">Luxurious 1 Bed Homes<br>
@@ -588,6 +619,15 @@ top: 81.5% !important;
                             </div>
                         </div>
                     </a>
+                    <div class="np-bl-patch pos-absolute" class="d_hide">
+                            <div class="ols-text">
+                                <p class="ols-p txt-transform">Luxurious 1 Bed Homes<br>
+                                    Sports Arena<br>
+                                    Shopping Arcade<br>
+                                    Open-to-Sky Swimming Pool
+                                </p>
+                            </div>
+                        </div>
                     <div class="inner-div-np-text pos-absolute">
                         <h5>Codename Now Or Never</h5>
                     </div>
