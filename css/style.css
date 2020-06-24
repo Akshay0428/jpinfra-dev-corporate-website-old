@@ -4640,6 +4640,9 @@ Responsive Code
         margin-bottom: 47px !important;
         margin: 0px auto;
     }
+    .below-banner-section {
+        padding: 10px 0;
+    }
     .numbers-div{
         width: 100%;
     }
