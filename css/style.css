@@ -1543,6 +1543,9 @@ Media Gallery
     width:33.33%;
     float: left;
 }
+.glimpse-main p{
+    font-size: 12px !important;
+}
 .glimpse-col-inner {
     width: 100%;
     padding: 10px;

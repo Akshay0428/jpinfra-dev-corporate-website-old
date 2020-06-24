@@ -457,7 +457,6 @@
 					<div class="media_hveff_pro"><h5>LUSH GREEN VIEWS</h5>
 		                <p class="proj_hvtext texttransform">
 							1 & 2 Bed Homes, 1 & 2 BHK, <br>
-							1 & 2 Bed Apartments<br>
 							Recreation Options<br>
 							Children’s Play Area<br>
 							Green Living

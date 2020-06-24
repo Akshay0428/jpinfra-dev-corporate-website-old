@@ -377,7 +377,7 @@ transition:all .6s ease-in-out;
     </div>
     <div class="numbers-div border-ryt">
       <div class="number-content">
-        <h1>4 <span class="base_no">mn sq ft</span></h1>
+        <h1>4 +<span class="base_no">mn sq ft</span></h1>
       </div>
       <div class="number-content">
         <p>UNDER<br>CONSTRUCTION</p>
@@ -422,7 +422,7 @@ transition:all .6s ease-in-out;
       </div>
       <div class="item numbers-div">
         <div class="number-content">
-          <h1>4 <span class="base_no">mn sq ft</span></h1>
+          <h1>4 +<span class="base_no">mn sq ft</span></h1>
         </div>
         <div class="number-content">
           <p>UNDER<br>CONSTRUCTION</p>
@@ -1459,7 +1459,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED LUSH GREEN VIEWS</h3>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 & 2 Bed Homes, 1 & 2 BHK</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled in lush green surroundings, JP North Elara offers a home that goes beyond the 4 walls of your room. Situated in the heart of nature, it is well connected to both the Eastern & Western routes of the city. Equipped with a vast range of amenities, Elara provides you with a well rounded & tranquil lifestyle.</p>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled in lush green surroundings, JP North's Elara offers a home that goes beyond the 4 walls of your room. Situated in the heart of nature, it is well connected to both the Eastern & Western routes of the city. Equipped with a vast range of amenities, Elara provides you with a well rounded & tranquil lifestyle.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
                                           <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">4</span>
@@ -1482,7 +1482,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">SPLENDOUS HOMES IN IMPECCABLE SURROUNDINGS</h3>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">2 & 3 BHK</h3>
                                           <!-- <p data-swiper-parallax-x="-40%" class="paragraphe">JP North’s Euphoria offers a lifestyle where you are in touch with nature everyday, encompassing all the requisites of a perfect dream home. It provides an ambience brimming with restaurants, salons, top-notch institutes and various other lifestyle conveniences.</p> -->
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">JP Infra offers you green landscapes and a host of amenities with this remarkable tower. North Euphoria is an address reserved for the finest few with a grand double height entrance lobby leading to individual decks, glass facades and elite 2 and 3 BHK homes designed to make you never want to leave.</p>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">JP Infra offers you green landscapes and a host of amenities with this remarkable tower. JP North's Euphoria is an address reserved for the finest few with a grand double height entrance lobby leading to individual decks, glass facades and elite 2 and 3 BHK homes designed to make you never want to leave.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">5</span>
                                        </div>
@@ -1502,7 +1502,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">AN OASIS OF LUXURY IN THE HEART OF MIRA ROAD</h3>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 BHK</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Designed to provide a myriad of experiences, JP North Alexa is set to incorporate tranquillity and serenity of nature into your lifestyle. Blended with all the latest amenities and everyday facilities, experience the futuristic lifestyle for the futuristic life at JP North Alexa.</p>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Designed to provide a myriad of experiences, JP North's Alexa is set to incorporate tranquillity and serenity of nature into your lifestyle. Blended with all the latest amenities and everyday facilities, experience the futuristic lifestyle for the futuristic life at JP North Alexa.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">6</span>
                                        </div>
@@ -1813,25 +1813,25 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                 <div class="image-hover img-shadow-1 sss">
                     <!-- <img src="img/media/Launch-Of-Clubhouse.jpg" alt="Launch-Of-Clubhouse"> -->
                     <iframe width="100%" height="185px" src="https://www.youtube.com/embed/m3yl55GEVEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <h5>Launch Of Clubhouse</h5>
+                    <h5 class="txt-upper">Launch Of Clubhouse</h5>
                     <p>JP Infra’s luxurious clubhouse is magical and so the name “Khul Ja Sim Sim”</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <!-- <img src="img/media/Launch-Of-Hotcake.jpg" alt="Launch-Of-Hotcake"> -->
                     <iframe width="100%" height="185px" src="https://www.youtube.com/embed/tpUYth6v1wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <h5>Launch Of Codename Hotcake</h5>
+                    <h5 class="txt-upper">Launch Of Codename Hotcake</h5>
                     <p>Codename Hotcake was launched with hot opportunities, hot space, hot amenities and these were all grabbed by our hot home buyers</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                     <iframe width="100%" height="185px" src="https://www.youtube.com/embed/1faplVFYv7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <h5>Latest Construction Update</h5>
+                    <h5 class="txt-upper">Latest Construction Update</h5>
                     <p>Have a look at how JP North is bringing your dreams to life.</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                   <a  href="img/New Newsletter_ 17 March 2020_Final_CC.pdf" target="_blank">
                     <img src="img/media/Mira-road.jpg" alt="Mira-road" class="m_hide"></a>
                     <img src="img/media/New-Newsletter-4th-Edition-mob.jpg" alt="Mira-road" class="d_hide"></a>
-                    <h5>North - Newsletter 4th Edition</h5>
+                    <h5 class="txt-upper">North - Newsletter 4th Edition</h5>
                     <p>Catch up on the latest events in JP North through this Newsletter</p>
                 </div>
                 <!-- <div class="image-hover img-shadow-1 sss">
@@ -1851,12 +1851,12 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                 </div> -->
                 <div class="image-hover img-shadow-1 sss">
                    <iframe width="100%" height="185px" src="https://www.youtube.com/embed/o3qLmsuw118" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <h5>Zee Business Property Plus</h5>
+                    <h5 class="txt-upper">Zee Business Property Plus</h5>
                     <p>JP Infra features on Zee Business Property Plus, introducing JP North’s 1, 2, & 3 BHK apartments with numerous amenities</p>
                 </div>
                 <div class="image-hover img-shadow-1 sss">
                    <iframe width="100%" height="185px" src="https://www.youtube.com/embed/ZZhHCN0laBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <h5>Codename Openstreets Launch</h5>
+                    <h5 class="txt-upper">Codename Openstreets Launch</h5>
                     <p>Life at Codename Openstreets is boundless, featuring the European Lifestyle to 2000+ interested buyers. </p>
                 </div>
             </div>

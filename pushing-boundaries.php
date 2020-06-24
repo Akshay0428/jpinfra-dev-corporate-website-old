@@ -401,7 +401,7 @@
                     <div class="pbcare-line m_hide pbcareline-mira"></div>
                     <h3 class="fontweight-bold">Mira Bhayander Rising</h3>
                     <p class="fontweight txt-left">A JP Infra initiative, Mira-Bhayander Rising has been conceptualized with the goal of building a community-based lifestyle in Mira Road for people to celebrate their neighbourhood with pride. The idea behind the initiative is to allow residents of Mira Road and Bhayander to engage in community events that help build community spirit and a feeling of togetherness.To be a part of the vibrant Mira-Bhayander Rising click here: 
-                    <a href="https://www.facebook.com/MiraRoadRising/">https://www.facebook.com/MiraRoadRising/</a></p>
+                    <a href="https://www.facebook.com/MiraRoadRising/" target="_blank">https://www.facebook.com/MiraRoadRising/</a></p>
                 </div>
             </div>
             <div class="pb-slider">
