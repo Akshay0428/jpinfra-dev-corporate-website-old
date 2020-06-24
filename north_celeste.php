@@ -95,9 +95,10 @@
 <!--banner start  -->
 
 <section>
-    <div class="banner_jp">
+    <div class="banner_jp  pos-relative">
         <img src="img/jp_delivered/banner/Celeste.jpg" alt="Celeste" class="m_hide">
         <img src="img/jp_delivered/banner/Celeste-mob.jpg" alt="Celeste" class="d_hide">
+        <p class="pos-absolute p-deltemp bg-atri">Actual Image</p>
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -176,23 +177,33 @@
       <div class="clearfix"></div>
     </div>
     <div class="gallery-silder mrg-top">
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Celeste/Banquet Hall.jpg" alt="Banquet Hall">
         <p class="txt-align texttransform fontweight pdng-top">Banquet Hall</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Celeste/Gym.jpg" alt="Gym">
         <p class="txt-align texttransform fontweight pdng-top">Gym</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Celeste/Mini_theatre.jpg" alt="Mini_theatre">
         <p class="txt-align texttransform fontweight pdng-top">Mini Theatre</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Celeste/Swimming_Pool_celeste.jpg" alt="Swimming_Pool_celeste">
         <p class="txt-align texttransform fontweight pdng-top">Swimming Pool</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
     </div>
+
+    <div class="rera-no">
+      <p>MahaRERA NO - JP North Celeste P51700008667 | https://maharera.mahaonline.gov.in</p>
+    </div>
+
+
 
    <div class="bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
       <div class="main_title_jpdesk pdng">

@@ -1434,9 +1434,10 @@ Pushing Boundaries
     background-image: none;
     font-size: 14px !important;
 }
-.pb-right{
-    top: 90%;
-    left: 60%;
+.pb-right {
+    top: 91%;
+    left: 16%;
+    width: 84% !important;
 }
 .pushing-new {
     position: absolute;
@@ -1455,12 +1456,18 @@ Pushing Boundaries
     margin: 0;
     left: 70%;
 }
+.pbslider-care-txt a{
+    color: #000;
+}
 .new-pushingimages{
     width:100%;
     margin-top: 40px;
 }
 .home-pb{
     top: 68% !important;
+}
+.pb-swimart{
+    top: 90%;
 }
 .pushinghome {
     width: 21%;
@@ -1577,8 +1584,28 @@ Media Gallery
 }
 
 /*--------------------------------------------------------------
-jp desk Page / redevelopment project
+jp desk Page / redevelopment project destop
 --------------------------------------------------------------*/
+.p-deltemp {
+    color: #fff;
+    font-size: 14px;
+    top: 40%;
+    font-weight: 500;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    left: 97%;
+    height: auto;
+}
+.pgal-artistic{
+    top: 83%;
+}
+.artistic-lob{
+    top: 78%;
+}
+.bg-atri{
+    background-color: #000000bf;
+    padding: 20px 0px;
+}
 .project-blue-sec {
     position: absolute;
     background-color: #2E5689;
@@ -3356,6 +3383,21 @@ redevelopment project mumbai
 }
 
 /*--------------------------------------------------------------
+Rera no
+--------------------------------------------------------------*/
+.rera-no {
+    width: 80%;
+    margin: 0 auto;
+}
+.rera-no p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+/*--------------------------------------------------------------
 Footer
 --------------------------------------------------------------*/
 
@@ -5067,7 +5109,7 @@ north Page
         width: 75%;
     }
     /*--------------------------------------------------------------
-    media Page
+    media Page mob
     --------------------------------------------------------------*/
     .media-background{
             background: url(../img/media/Media-Banner-mob.jpg);
@@ -5078,8 +5120,19 @@ north Page
     }
 
     /*--------------------------------------------------------------
-    DELIVERED PRORJECT Page
+    DELIVERED PRORJECT Page mob
     --------------------------------------------------------------*/
+    .p-deltemp {
+        font-size: 12px;
+        top: 30%;
+        left: 90%;
+    }
+    .pgal-artistic{
+        top: 73%;
+    }
+    .artistic-lob{
+        top: 70%;
+    }
     .project-blue-sec {
         width: 98%;
         left: 1%;
@@ -5453,7 +5506,9 @@ north Page
     /*--------------------------------------------------------------
     Contact Page
     --------------------------------------------------------------*/
-   
+   .rera-no p {
+    font-size: 11px;
+    }
     .contact_finfo {
         max-width: 90%;
         padding: 0%;
@@ -5549,7 +5604,7 @@ Pushing boundaries Page
     left: 44%;
 }
 .pb-integrate-main {
-    margin-top: 15%;
+    margin-top: 10%;
 }
 .pb-integrate-txt {
     width: 80%;
@@ -5618,6 +5673,9 @@ Pushing boundaries Page
 }
 .pbcareline-mira{
     left: 64%;
+}
+.pbcareline-jpcare{
+    left: 35%;
 }
 .pbcareline-labour{
     left: 80%;

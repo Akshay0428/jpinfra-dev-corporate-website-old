@@ -94,10 +94,11 @@
 
 <!--banner start  -->
 
-<section>
-    <div class="banner_jp">
+<section> 
+    <div class="banner_jp pos-relative">
         <img src="img/jp_delivered/banner/Dreamland.jpg" alt="banner jp" class="m_hide">
         <img src="img/jp_delivered/banner/dreamland-mob.jpg" alt="banner jp" class="d_hide">
+        <p class="pos-absolute p-deltemp">Rendered Image</p>
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -168,7 +169,7 @@
       <div class="clearfix"></div>
     </div>
 
-    <div class="container_main bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
+<!--     <div class="container_main bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
       <div class="main_title_jpdesk pdng">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">Gallery</h1>
@@ -189,7 +190,7 @@
         <p class="txt-align texttransform fontweight pdng-top">swimming pool gallery</p>
       </div>
     </div>
-
+ -->
    <div class="bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
       <div class="main_title_jpdesk pdng">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>

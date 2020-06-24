@@ -419,7 +419,7 @@
             zones, safe zone for children and the elderly, and entertainment for the entire family, is what you
             get at North. And all of this, in a socially responsible sustainable low-waste environment. Come
             home to living, come home to North.</h6> -->
-      <h6 class="jp-north-page-subheading tx-align new-margin" data-aos="fade-down" data-aos-duration="3000">North Mumbai has emerged as the aspirational location for all property investment in Mumbai. JP Infra has played a major role in building an international standard of living within the upcoming hub of Mira Road. Offering the best-in-class amenities, lush green surroundings and a peaceful serene nature, JP North is an epitome of ideal living in a busy suburban city like Mumbai. Mira Road Rising, an initiative by JP Infra, is a fine example of the community living that has been built and encourage by the team of JP Infra.</h6>
+      <h6 class="jp-north-page-subheading tx-align new-margin" data-aos="fade-down" data-aos-duration="3000">North Mumbai has emerged as the aspirational location for all property investment in Mumbai. JP Infra has played a major role in building an international standard of living within the upcoming hub of Mira Road. Offering the best-in-class amenities, lush green surroundings and a peaceful serene nature, JP North is an epitome of ideal living in a busy suburban city like Mumbai. Mira - Bhayander Rising, an initiative by JP Infra, is a fine example of the community living that has been built and encouraged by the team of JP Infra.</h6>
     </div>
     <div class="clearfix"></div>
     <div class="pos-absolute np-img-leaf4">
@@ -447,20 +447,24 @@
             <a href="https://www.jpinfra.com/jp-north/gardencity/" target="blank" class="m_hide">
               <div class="np-bl-patch pos-absolute">
                 <div class="ols-text">
-                  <p class="ols-p txt-transform">Beautifully crafted 1, 2 & 3 BHK<br>
-                    Recreation<br>
-                    Meditation Centre<br>
-                    Creche 
+                  <p class="ols-p txt-transform">
+                    Beautifully crafted 1 & 2 Bed Homes, 1,2 & 3 BHK<br>
+                    22+ Acres of land<br>
+                    16 Themed Gardens<br>
+                    35+ Lifestyle Amenities<br>
+                    Grand Clubhouse 
                   </p>
                 </div>
               </div>
             </a>
             <div class="np-bl-patch pos-absolute d_hide">
               <div class="ols-text">
-                <p class="ols-p txt-transform">Beautifully crafted 1, 2 & 3 BHK<br>
-                  Recreation<br>
-                  Meditation Centre<br>
-                  Creche 
+                <p class="ols-p txt-transform">
+                  Beautifully crafted 1 & 2 Bed Homes, 1,2 & 3 BHK<br>
+                  22+ Acres of land<br>
+                  16 Themed Gardens<br>
+                  35+ Lifestyle Amenities<br>
+                  Grand Clubhouse
                 </p>
               </div>
             </div>
@@ -488,7 +492,7 @@
             <a href="http://www.jpinfra.com/codenamehotcake/" target="blank" class="m_hide">
               <div class="np-bl-patch pos-absolute">
                 <div class="ols-text">
-                  <p class="ols-p txt-transform">1 & 2 BHK Premium Residences<br>
+                  <p class="ols-p txt-transform">1 & 2 BHK Affordable Homes<br>
                     Acupressure Walkway<br>
                     Steam and Sauna<br>
                     Recreation and Play Area
@@ -498,7 +502,7 @@
             </a> 
             <div class="np-bl-patch pos-absolute" class="d_hide">
               <div class="ols-text">
-                <p class="ols-p txt-transform">1 & 2 BHK Premium Residences<br>
+                <p class="ols-p txt-transform">1 & 2 BHK Affordable Homes<br>
                   Acupressure Walkway<br>
                   Steam and Sauna<br>
                   Recreation and Play Area
@@ -612,7 +616,7 @@
               <a href="http://www.jpinfra.com/jp-north/codenamenowornever/" target="blank" class="m_hide">
                 <div class="np-bl-patch pos-absolute">
                   <div class="ols-text">
-                    <p class="ols-p txt-transform">Luxurious 1 Bed Homes<br>
+                    <p class="ols-p txt-transform">Affordable 1 Bed Homes<br>
                       Sports Arena<br>
                       Shopping Arcade<br>
                        Open-to-Sky Swimming Pool
@@ -622,7 +626,7 @@
               </a>
               <div class="np-bl-patch pos-absolute" class="d_hide">
                 <div class="ols-text">
-                  <p class="ols-p txt-transform">Luxurious 1 Bed Homes<br>
+                  <p class="ols-p txt-transform">Affordable 1 Bed Homes<br>
                     Sports Arena<br>
                     Shopping Arcade<br>
                     Open-to-Sky Swimming Pool
@@ -986,7 +990,7 @@
    prevButton: ".swiper-button-prev",
    paginationClickable: !0,
    spaceBetween: 0,
-   autoplay: 1500,
+   autoplay: 10000,
    loop: !0
    });
    } else {
@@ -1000,7 +1004,7 @@
    spaceBetween: 0,
    speed: 1500,
    parallax: !0,
-   autoplay: 1500,
+   autoplay: 10000,
    loop: !0
    });
    }
@@ -1013,7 +1017,7 @@
    prevButton: ".swiper-button-prev",
    paginationClickable: !0,
    spaceBetween: 0,
-   autoplay: 1500,
+   autoplay: 10000,
    loop: !0
    });
    } else {
@@ -1027,7 +1031,7 @@
    spaceBetween: 0,
    speed: 1500,
    parallax: !0,
-   autoplay: 1500,
+   autoplay: 10000,
    loop: !0
    });
    }

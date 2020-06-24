@@ -95,9 +95,10 @@
 <!--banner start  -->
 
 <section>
-    <div class="banner_jp">
+    <div class="banner_jp pos-relative">
         <img src="img/jp_delivered/banner/Chalet-Amar.jpg" alt="Chalet-Amar" class="m_hide">
         <img src="img/jp_delivered/banner/Chalet-Amar-mob.jpg" alt="Chalet-Amar" class="d_hide">
+        <p class="pos-absolute p-deltemp bg-atri">Actual Image</p>
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -112,7 +113,7 @@
       <div class="main_title_jpdesk">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 class="txt-transform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">About the project</h1>
-         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">CH TEAU DE COMFORT AT JUHU</div>
+         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">LUXURIOUS COMFORT AT JUHU</div>
 
          <div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <p>Located along the beautiful Arabian Sea, Chalet Amar is just a walk away from the beach. In addition to having soul-enhancing views and access to the pristine beach, it is composed with all the perfect elements of a dream house. It offers the much desired “on the beach” lifestyle and pampers you with a range of ultra-modern amenities.It lets you break away from the monotony of the hustles and bustles of the city by soaking in the vast range of amenities at your own comfort. Not only is it settled against a perfect backdrop of azure skies and clear shimmering water, it also provides the perfect backdrop for everything you desire your dream house to be. Your very own slice of paradise awaits your presence at JP’s Chalet Amar.</p>
@@ -176,25 +177,29 @@
       <div class="clearfix"></div>
     </div>
     <div class="gallery-silder mrg-top">
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Chalet_Amar/Bedroom.jpg" alt="Bedroom" class="m_hide">
         <img src="img/jp_delivered/Chalet_Amar/Bedroom-mob.jpg" alt="Bedroom" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Bedroom</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Chalet_Amar/Kitchen.jpg" alt="Kitchen-&-Home-Theatre" class="m_hide">
         <img src="img/jp_delivered/Chalet_Amar/Kitchen-mob.jpg" alt="" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Kitchen</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Chalet_Amar/Living-Dinning.jpg" alt="Living-Dinning" class="m_hide">
         <img src="img/jp_delivered/Chalet_Amar/Living-Dinning-mob.jpg" alt="" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Living Dinning</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Chalet_Amar/Terrace-Garden.jpg" alt="Terrace-Garden" class="m_hide">
         <img src="img/jp_delivered/Chalet_Amar/Terrace-Garden-mob.jpg" alt="" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Terrace Garden</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
 <!--        <div class="gal-img d_hide">
         <img src="img/jp_delivered/Chalet_Amar/Living-Dinning.jpg" alt="Living-Dinning" class="m_hide">

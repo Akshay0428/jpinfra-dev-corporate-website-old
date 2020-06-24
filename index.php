@@ -1063,7 +1063,7 @@ transition:all .6s ease-in-out;
 	                    <div class="abt-jp-slider">
 	                        <div class="abt-slide pos-relative">
 	                            <img src="img/home/delivered-projects/Celeste.jpg" alt="delivered-projects">
-	                            <p class="pos-absolute p-deliver">Actual image of North Celeste</p>
+	                            <p class="pos-absolute p-deliver">Actual Image</p>
 	                        </div>
 	                        <div class="abt-slide-heading">
 	                            <h6>North Celeste</h6>
@@ -1079,7 +1079,7 @@ transition:all .6s ease-in-out;
 	                    <div class="abt-jp-slider">
 	                        <div class="abt-slide pos-relative">
 	                            <img src="img/home/delivered-projects/Atria.jpg" alt="delivered-projects">
-	                            <p class="pos-absolute p-deliver"> Actual image of North Atria</p>
+	                            <p class="pos-absolute p-deliver"> Actual Image</p>
 	                        </div>
 	                        <div class="abt-slide-heading">
 	                            <h6>Atria</h6>
@@ -1095,7 +1095,7 @@ transition:all .6s ease-in-out;
 	                    <div class="abt-jp-slider">
 	                        <div class="abt-slide pos-relative">
 	                            <img src="img/home/delivered-projects/Estella.jpg" alt="delivered-projects">
-	                            <p class="pos-absolute p-deliver">Actual image of North Estella</p>
+	                            <p class="pos-absolute p-deliver">Actual Image</p>
 	                        </div>
 	                        <div class="abt-slide-heading">
 	                            <h6>Estella</h6>
@@ -1207,12 +1207,12 @@ transition:all .6s ease-in-out;
           <div class="pushinghome pos-relative">
             <img src="img/home/pushingB/Pushing-Boundaries-Imade-03.jpg" alt="Because We Care">
             <h5>because we care</h5>
-            <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
+            <p class="pos-absolute home-pb p-deliver">Representative Image</p>
           </div>
           <div class="pushinghome pos-relative">
             <img src="img/home/pushingB/Pushing-Boundaries-Imade-04.jpg" alt="Our Carbon Footprint">
             <h5>our carbon footprint</h5>
-            <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
+            <p class="pos-absolute home-pb p-deliver">Representative Image</p>
           </div>
         </div>
         <!-- mobile slider -->
@@ -1283,8 +1283,8 @@ transition:all .6s ease-in-out;
        </div>
        <div class="clearfix"></div>
     </div>
-    <!-- This is an Actual image of North Garden City Interior clubhouse<br> -->
     <p class="pos-absolute p-northhome p-deliver">
+      <!-- This is an Actual image of North Garden City Interior clubhouse<br> -->
 This is a rendered image of the interior of North Garden City's clubhouse prepared by the architect based on the current plan, final color and specification may vary.</p>
    <div class="clearfix"></div>
 </section>
@@ -1310,7 +1310,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
        </div>
        <div class="clearfix"></div>
     </div>
-    <p class="pos-absolute p-northhome p-deliver">
+    <p class="pos-absolute p-northhome p-deliver">This is an Actual image of North Garden City Interior clubhouse<br>
 This is a rendered image of the interior of North Garden City's clubhouse prepared by the architect based on the current plan, final color and specification may vary.</p>
    <div class="clearfix"></div>
 </section>
@@ -1394,11 +1394,11 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Now or Never</h2>
-                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
+                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">ANOTHER NORTHERN DELIGHT</h3>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 Bed Homes</h3>
                                          <!--  <p data-swiper-parallax-x="-40%" class="paragraphe">Experience the finer things in life at Codename Now or Never and live life in style. A perfect blend of all things sweet, spicy and sour, it is sure to keep all your taste buds and preferences happy and satisfied.</p> -->
-                                         <p data-swiper-parallax-x="-40%" class="paragraphe">Enjoy the peacefulness and serenity the luscious greens have to offer with this aesthetically-designed JP Infra project. Codename Now or Never offers you an attractive 1 Bed home that caters to both your physical as well as spiritual living needs.</p>
+                                         <p data-swiper-parallax-x="-40%" class="paragraphe">With Codename Now or Never, JP Infra has redefined affordable luxury and expanded its range of great living spaces with an attractive offering of a 1 Bed home that caters to both your physical as well as spiritual living needs. Codename Now or Never offers you an attractive 1 Bed home that caters to both your physical as well as spiritual living needs.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">1</span>
                                        </div>
@@ -1416,7 +1416,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Hotcake</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">OPEN PAYMENT PLANS - YOUR HOUSE, YOUR CHOICE</h3>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">HOT SPACE, HOT SECURITY, HOT AMENITIES</h3>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 & 2 BHK</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Smartly planned, with every brick crafted to perfection, Codename Hotcake is styled to fulfil every need of your dream home. Equipped with the latest technology and necessities close at hand, Codename Hotcake aspires to make the experience at Mira Road better than your dreams.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
@@ -1437,8 +1437,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Codename Open Streets</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">INSPIRED BY THE EUROPEAN CITY OF BARCELONA</h3>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 & 2 BHK</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Harmonizing nature, luxuries and convenience in European style, Codename Open Streets provides a grand lifestyle. Well-connected and equipped with the latest amenities, Mira Road’s North Garden City offers homes loved by one & all.</p>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1,2,3, BHK</h3>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Harmonizing nature, luxuries and convenience in European style, Codename Open Streets provides a grand lifestyle. Well-connected and equipped with the latest amenities, Mira Road's JP North offers homes loved by one and all.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
                                           <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">3</span>
@@ -1458,8 +1458,8 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Elara</h2>
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED LUSH GREEN VIEWS</h3>
-                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1, 2 & 3 BHK</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled in lush green surroundings, JP North’s Elara offers a home that goes beyond the 4 walls of your room. Situated in the heart of nature, it is well connected to both the Eastern & Western routes of the city. Equipped with a vast range of amenities, Elara provides you with a well rounded & tranquil lifestyle.</p>
+                                          <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 & 2 Bed Homes, 1 & 2 BHK</h3>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Nestled in lush green surroundings, JP North Elara offers a home that goes beyond the 4 walls of your room. Situated in the heart of nature, it is well connected to both the Eastern & Western routes of the city. Equipped with a vast range of amenities, Elara provides you with a well rounded & tranquil lifestyle.</p>
                                           <!--<p data-swiper-parallax-x="-40%" class="paragraphe">A Niche Above The Rest, Lets One Indulge In Luxury And Treat Oneself To The Very Best At Lokhandwala, Andheri – Mumbai</p>       -->
                                           <!--<a data-swiper-parallax-x="-30%" style="z-index: 5;" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">4</span>
@@ -1502,7 +1502,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                           <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North Garden City, Mira Road</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">AN OASIS OF LUXURY IN THE HEART OF MIRA ROAD</h3>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">1 BHK</h3>
-                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Designed to provide a myriad of experiences, JP North’s Alexa is set to incorporate tranquillity and serenity of nature into your lifestyle. Blended with all the latest amenities and everyday facilities, experience the futuristic lifestyle for the futuristic life at JP North Alexa.</p>
+                                          <p data-swiper-parallax-x="-40%" class="paragraphe">Designed to provide a myriad of experiences, JP North Alexa is set to incorporate tranquillity and serenity of nature into your lifestyle. Blended with all the latest amenities and everyday facilities, experience the futuristic lifestyle for the futuristic life at JP North Alexa.</p>
                                           <!--<a data-swiper-parallax-x="-30%" class="link" target="_blank" href="#">Discover</a>-->
                                           <span data-swiper-parallax-y="60%" class="number">6</span>
                                        </div>
@@ -1519,7 +1519,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
                                        </div>
                                        <div class="swiper-slide__block__text">
                                           <h2 data-swiper-parallax-x="-60%" class="main__title">Altus</h2>
-                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">North, Mira Road</h4>
+                                          <h4 data-swiper-parallax-x="-50%" class="main__subtitle">Worli</h4>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">UNOBSTRUCTED 270 DEGREE VIEW OF CITY SKYLINE</h3>
                                           <h3 data-swiper-parallax-x="-50%" class="main__subtitle">3 BHK</h3>
                                           <p data-swiper-parallax-x="-40%" class="paragraphe">Situated in the heart of the city, Altus offers stunning views of the city skyline merging with the serene horizon of the Arabian Sea. Equipped with all the latest amenities, Altus’s strategic location offers easy connectivity to all major business hubs and several well-known recreational spaces.</p>

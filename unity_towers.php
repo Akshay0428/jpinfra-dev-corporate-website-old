@@ -95,9 +95,10 @@
 <!--banner start  -->
 
 <section>
-    <div class="banner_jp">
+    <div class="banner_jp pos-relative">
         <img src="img/jp_delivered/banner/Unity-Towers.jpg" alt="Unity-Towers jp" class="m_hide">
         <img src="img/jp_delivered/banner/Unity-towers-mob.jpg" alt="Unity-Towers jp" class="d_hide">
+        <p class="pos-absolute p-deltemp">Rendered Image</p>
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">

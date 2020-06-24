@@ -294,7 +294,7 @@
 	<div class="project-background m_hide">
 		<h1>Projects</h1>
 		<div class="project-white-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-				<p>Over the past __ years, JP Infra has delivered __ square meters of happiness and strives to continue providing dream homes to help you realize your dreams and live the life you were always meant to. In the hustle and bustle of the busy city, JP Infra offers a thoughtful lifestyle for its residents to enjoy ultra-modern amenities with state-of-the-art technology, sustainable development, and lush green landscapes.</p>
+				<p>Over the past 14 years, JP Infra has delivered __ square meters of happiness and strives to continue providing dream homes to help you realize your dreams and live the life you were always meant to. In the hustle and bustle of the busy city, JP Infra offers a thoughtful lifestyle for its residents to enjoy ultra-modern amenities with state-of-the-art technology, sustainable development, and lush green landscapes.</p>
 		</div>
 	</div>
 
@@ -368,7 +368,7 @@
 						<h3>Codename Now Or Never</h3>
 					</div>
 					<div>
-						<p>Mira Road</p>
+						<p>North Garden City, Mira Road</p>
 					</div>
 			        <div class="project-ongoing-button">
 			            <a href="http://www.jpinfra.com/jp-north/codenamenowornever/" target="blank">
@@ -402,7 +402,7 @@
 						<h3>Codename Hotcake</h3>
 					</div>
 					<div>
-						<p>Mira Road</p>
+						<p>JP North, Mira Road</p>
 					</div>
 					<div class="project-ongoing-button">
 						<a href="http://www.jpinfra.com/codenamehotcake/" target="blank">
@@ -422,7 +422,7 @@
 					<img src="img/project/ongoing/Codename-Open-Streets.jpg" alt="Codename Open Streets">
 					<div class="media_hveff_pro"><h5>INSPIRED BY THE EUROPEAN CITY OF BARCELONA</h5>
 		                <p class="proj_hvtext texttransform">
-		                    1 & 2 BHK<br>
+		                    1, 2 & 3 BHK<br>
 		                   	Landscaped Garden<br>
 		                   	Acupressure Walkway<br>
 		                    Amphitheatre<br>
@@ -435,7 +435,7 @@
 						<h3>Codename Open Streets</h3>
 					</div>
 					<div>
-						<p>Mira Road</p>
+						<p>JP North, Mira Road</p>
 					</div>
 					<div class="project-ongoing-button">
 			            <a href="http://www.jpinfra.com/codenameopenstreets/" target="blank">
@@ -456,7 +456,7 @@
 					<!-- <div class="media_hveff_pro"><h5>UNOBSTRUCTED LUSH GREEN VIEWS</h5> -->
 					<div class="media_hveff_pro"><h5>LUSH GREEN VIEWS</h5>
 		                <p class="proj_hvtext texttransform">
-							1,2 & 3 BHK<br>
+							1 & 2 Bed Homes, 1 & 2 BHK, <br>
 							1 & 2 Bed Apartments<br>
 							Recreation Options<br>
 							Children’s Play Area<br>
@@ -729,7 +729,7 @@
 							<h3>North Celeste</h3>
 						</div>
 						<div>
-							<p>Mira Road</p>
+							<p>JP North, Mira Road</p>
 						</div>
 						<div class="project-ongoing-button">
 			                <a href="north_celeste.php" target="blank">

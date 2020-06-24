@@ -240,7 +240,7 @@
             <p>We at JP Infra believe that those who work tirelessly to ensure our projects are a
               success are more important than the buildings itself so we offer additional benefits
               like on-campus schools for their children</p>
-            <p class="p-pushingb pos-absolute">Rendered Image</p>
+            <p class="p-pushingb pos-absolute">Representative Image</p>
           </div>
         </div>
         <div class="slider-col orange animation">
@@ -249,7 +249,7 @@
             <p>Our pledge to a better and greener tomorrow is evident through our eco-friendly
               initiatives like rain-water harvesting, waste management and usage of solar panels
               in construction.</p>
-            <p class="p-pushingb pos-absolute">Rendered Image</p>
+            <p class="p-pushingb pos-absolute">Representative Image</p>
           </div>
         </div>
       </div>
@@ -393,24 +393,37 @@
                     <p class="fontweight txt-left">We believe that the people who are working hard to transform our thoughts into reality are our responsibility. Every parent dreams of providing the best to their children. We strive to make our labourers’ lives a little easier by providing on-site schools so that they can educate their children easily.</p>
                 </div>
             </div>
-              <div class="pb-slider">
+            <div class="pb-slider">
                 <div class="pb-care-img">
                     <img src="img/pushing_boundaries/Mira-Bhayander-Rising.jpg" alt="Mira-Bhayander-Rising">
                 </div>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line m_hide pbcareline-mira"></div>
                     <h3 class="fontweight-bold">Mira Bhayander Rising</h3>
-                    <p class="fontweight txt-left">A JP Infra initiative, Mira-Bhayander Rising has been conceptualized with the goal of building a community-based lifestyle in Mira Road for people to celebrate their neighbourhood with pride. The idea behind the initiative is to allow residents of Mira Road and Bhayander to engage in community events that help build community spirit and a feeling of togetherness.</p>
+                    <p class="fontweight txt-left">A JP Infra initiative, Mira-Bhayander Rising has been conceptualized with the goal of building a community-based lifestyle in Mira Road for people to celebrate their neighbourhood with pride. The idea behind the initiative is to allow residents of Mira Road and Bhayander to engage in community events that help build community spirit and a feeling of togetherness.To be a part of the vibrant Mira-Bhayander Rising click here: 
+                    <a href="https://www.facebook.com/MiraRoadRising/">https://www.facebook.com/MiraRoadRising/</a></p>
                 </div>
             </div>
             <div class="pb-slider">
-                <div class="pb-care-img">
+                <div class="pb-care-img pos-relative">
                     <img src="img/pushing_boundaries/swimming_pool.jpg" alt="swimming_pool">
+                    <p class="pos-absolute pb-swimart p-deliver">Reference Image</p>
                 </div>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line m_hide"></div>
                     <h3 class="fontweight-bold">Ladies' Swimming Pool</h3>
                     <p class="fontweight txt-left">We understand the concerns our residents might face and thus provide for maximum safety as well with a separate swimming pool for ladies. These fantastic women can now enjoy their much needed me-time without a care in the world.</p>
+                </div>
+            </div>
+            <div class="pb-slider pos-relative">
+                <div class="pb-care-img">
+                    <img src="img/pushing_boundaries/JP-Care.jpg" alt="Mira-Bhayander-Rising">
+                    <p class="pos-absolute pb-swimart p-deliver">Reference Image</p>
+                </div>
+                <div class="pbslider-care-txt">
+                    <div class="pbcare-line m_hide pbcareline-jpcare"></div>
+                    <h3 class="fontweight-bold">JP - Care</h3>
+                    <p class="fontweight txt-left">A JP Infra initiative, Mira-Bhayander Rising has been conceptualized with the goal of building a community-based lifestyle in Mira Road for people to celebrate their neighbourhood with pride. The idea behind the initiative is to allow residents of Mira Road and Bhayander to engage in community events that help build community spirit and a feeling of togetherness.</p>
                 </div>
             </div>
         </div>

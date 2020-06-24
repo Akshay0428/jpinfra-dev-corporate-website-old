@@ -95,9 +95,10 @@
 <!--banner start  -->
 
 <section>
-    <div class="banner_jp">
+    <div class="banner_jp pos-relative">
         <img src="img/jp_delivered/banner/JP-Decks.jpg" alt="banner jp" class="m_hide">
         <img src="img/jp_delivered/banner/JP-Decks-mob.jpg" alt="banner jp" class="d_hide">
+        <p class="pos-absolute p-deltemp">Actual Image</p>
     </div>
 </section>
 <div class="project-blue-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -112,7 +113,7 @@
       <div class="main_title_jpdesk">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
             <h1 class="txt-transform" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">About the project</h1>
-         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">AVANT-GARDE HOMES FOR AVANT-GARDE LIFESTYLE</div>
+         <div class="sub-head" data-aos="fade-up" data-aos-duration="3000">Remarkable Lifestyle, Luxurious Apartments</div>
 
          <div class="liveHead2" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
             <p>Enchanted with remarkable views and greenery, JP Decks stands out for its exquisite planning and attention to detail. Its thoughtfully designed homes seamlessly integrate elegance and luxury with convenience and comfort. Crafted with precision down to finest details under the direction of renowned architect Reza Kabul, JP Decks promises an extraordinary lifestyle.Situated at one of the city’s most sought-after locations, JP Decks provides perfectly designed chic and modern homes overlooking vast canopies of greenery. A 39 storied structure of wonder, it boasts a vast range of amenities and luxuries including an automated car wash facility, a mini amphitheater and a magnanimous play area, all of which raises the bar of sophisticated living.</p>
@@ -176,25 +177,29 @@
       <div class="clearfix"></div>
     </div>
     <div class="gallery-silder mrg-top">
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/jpdesk/Deck_Pool.jpg" alt="Deck Pool" class="m_hide">
         <img src="img/jp_delivered/jpdesk/Deck-Pool-mob.jpg" alt="Deck Pool" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Deck Pool</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/jpdesk/Guest_Room.jpg" alt="Guest_Room" class="m_hide">
         <img src="img/jp_delivered/jpdesk/Guest-Room-mob.jpg" alt="Guest_Room" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Guest Room</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/jpdesk/Gym_deck.jpg" alt="Gym_deck" class="m_hide">
         <img src="img/jp_delivered/jpdesk/Gym-Deck-mob.jpg" alt="Gym_deck" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Gym Deck</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/jpdesk/Jogging_Track.jpg" alt="Jogging_Track" class="m_hide">
         <img src="img/jp_delivered/jpdesk/Jpgging-Track-mob.jpg" alt="Jpgging-Track" class="d_hide">
         <p class="txt-align texttransform fontweight pdng-top">Jogging Track</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Actual Image</p>
       </div>
     </div>
 

@@ -95,9 +95,10 @@
 <!--banner start  -->
 
 <section>
-    <div class="banner_jp">
+    <div class="banner_jp pos-relative">
         <img src="img/jp_delivered/banner/Atria.jpg" alt="Atria" class="m_hide">
         <img src="img/jp_delivered/banner/Atria-mob.jpg" alt="Atria" class="d_hide">
+        <p class="pos-absolute p-deltemp">Actual Image</p>
     </div>
 </section>
 <div class="project-blue-sec" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -177,23 +178,33 @@
           <div class="clearfix"></div>
     </div>
     <div class="gallery-silder mrg-top">
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Atria/16_Themed_Gardens.jpg" alt="16_Themed_Gardens">
         <p class="txt-align texttransform fontweight pdng-top">16 Themed Gardens</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Rendered Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Atria/Cabana.jpg" alt="Cabana">
         <p class="txt-align texttransform fontweight pdng-top">Cabana</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Rendered Image</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Atria/Lobby.jpg" alt="Lobby">
         <p class="txt-align texttransform fontweight pdng-top">Lobby</p>
+        <p class="pos-absolute p-deliver artistic-lob">This is a rendered image of the interior of North Garden City's clubhouse prepared by the architect based on the current plan, final color and specification may vary.</p>
       </div>
-      <div class="gal-img">
+      <div class="gal-img pos-relative">
         <img src="img/jp_delivered/Atria/Swimming_Pool.jpg" alt="Swimming Pool">
         <p class="txt-align texttransform fontweight pdng-top">Swimming Pool</p>
+        <p class="pos-absolute p-deliver pgal-artistic">Rendered Image</p>
       </div>
     </div>
+
+    <div class="rera-no">
+      <p>MahaRERA NO - JP North Atria P51700004117 | https://maharera.mahaonline.gov.in</p>
+    </div>
+
+
 
    <div class="bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
       <div class="main_title_jpdesk pdng">
