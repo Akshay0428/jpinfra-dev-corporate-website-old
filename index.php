@@ -1283,7 +1283,8 @@ transition:all .6s ease-in-out;
        </div>
        <div class="clearfix"></div>
     </div>
-    <p class="pos-absolute p-northhome p-deliver">This is an Actual image of North Garden City Interior clubhouse<br>
+    <!-- This is an Actual image of North Garden City Interior clubhouse<br> -->
+    <p class="pos-absolute p-northhome p-deliver">
 This is a rendered image of the interior of North Garden City's clubhouse prepared by the architect based on the current plan, final color and specification may vary.</p>
    <div class="clearfix"></div>
 </section>
@@ -1309,7 +1310,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
        </div>
        <div class="clearfix"></div>
     </div>
-    <p class="pos-absolute p-northhome p-deliver">This is an Actual image of North Garden City Interior clubhouse<br>
+    <p class="pos-absolute p-northhome p-deliver">
 This is a rendered image of the interior of North Garden City's clubhouse prepared by the architect based on the current plan, final color and specification may vary.</p>
    <div class="clearfix"></div>
 </section>
