@@ -4674,7 +4674,7 @@ Responsive Code
     Home Page
     --------------------------------------------------------------*/
     .p-deliver {
-        top: 88%;
+        top: 90%;
     }
     .col-del1 {
         width: 100%;
@@ -4735,7 +4735,7 @@ Responsive Code
         left: 75%;
     }
     .p-northhome {
-        top: 80%;
+        top: 82%;
         font-size: 12px;
         min-height: 120px;
         max-height: 150px;
@@ -4786,7 +4786,7 @@ Responsive Code
         margin-top: 10px;
     }
     .home-pb {
-        top: 72% !important;
+        top: 82% !important;
     }
     .home-boundries-img {
         display: block;
@@ -5017,7 +5017,7 @@ north Page
         margin: 0 auto;
     }
     .north-p {
-        top: 74%;
+        top: 77%;
     }
     section.main-npslider {
         height: auto;
@@ -5045,7 +5045,7 @@ north Page
         margin: 0px 0px 0px 0px !important;
     }
     .ls-p{
-        top: 90%;
+        top: 93%;
     }
     .jp-north-page-banner-text-main {
         width: 90%;
@@ -5145,7 +5145,7 @@ north Page
     }
     .mob-wid{
         margin:0 auto;
-        width:80%;
+        width:98%;
     }
     .jp-north-page-themed-garden-heading {
         top: 15%;
@@ -5482,6 +5482,9 @@ north Page
     .p-pushingb {
         top: 85%;
         left: 55%;
+    }
+    .bghome-push {
+        height: 45vh;
     }
     /*----------------------------------------------------------------
     overview PAGE mob
