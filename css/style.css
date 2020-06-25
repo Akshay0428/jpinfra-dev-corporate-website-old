@@ -4578,15 +4578,28 @@ Responsive Code
 
 
 @media only screen and (max-width:768px){
+    .navbar-toggle {
+        position: relative;
+        float: right;
+        margin: 5px 28px;
+        padding: 22px 12px;
+        background-color: transparent;
+        background-image: none;
+        border: 1px solid transparent;
+        border-radius: 4px;
+    }
+    .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+        background-color: #fff;
+    }
+    .navbar-inverse .navbar-toggle .icon-bar {
+        background-color: #000;
+    }
     .hoverLine {
         top: 5px;
     }
     .nav>li>a {
         padding: 10px 25px;
     }
-   .navbar-toggle {
-        margin-right: 50px;
-    } 
     .prev-button-home{
         display: none !important;
     }

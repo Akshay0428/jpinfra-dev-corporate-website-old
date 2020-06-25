@@ -194,6 +194,20 @@ transition:all .6s ease-in-out;
    cursor: pointer;
    color: black;
    }
+   @media only screen and (max-width:768px){
+    .slick-prev {
+    left: 0px !important;
+}
+.slick-next {
+    right: 0px !important;
+}
+.slick-prev, .slick-next {
+  display: none !important;
+}
+.slick-dots{
+  position: unset !important;
+}
+   }
 </style>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript">
@@ -2205,7 +2219,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
            slidesToShow: 3,
            dots: true,
            autoplay: true,
-           arrow: true,
+           arrow: false,
            // prevArrow:'<button type="button" class="prev-button-home"></button>',
             // nextArrow:'<button type="button" class="next-button-home"></button>',
            slidesToScroll: 1,
@@ -2219,7 +2233,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
            slidesToShow: 1,
            dots: true,
            autoplay: true,
-           arrow: true,
+           arrow: false,
            slidesToScroll: 1
          }
        },
@@ -2229,7 +2243,7 @@ This is a rendered image of the interior of North Garden City's clubhouse prepar
            slidesToShow: 1,
            dots: true,
            autoplay: true,
-           arrow: true,
+           arrow: false,
            slidesToScroll: 1
          }
        }
