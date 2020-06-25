@@ -5,7 +5,7 @@
       <div class="box-inner">
         <a href="nri_corner.php"> <h1 class="txt-upper">nri corner</h1></a>
         <a href="nri_corner.php#link_opportunities"> <h5 class="txt-transform border_btm">NRI opportunities</h5></a>
-        <a href="nri_corner.php#link_faq"> <h5>NRI FAQ'S</h5></a>
+        <a href="nri_corner.php#link_faq"> <h5>NRI FAQS</h5></a>
       </div>
     </div>
     <div class="boxes">

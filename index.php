@@ -377,10 +377,10 @@ transition:all .6s ease-in-out;
     </div>
     <div class="numbers-div border-ryt">
       <div class="number-content">
-        <h1>4 +<span class="base_no">mn sq ft</span></h1>
+        <h1>4 +</h1>
       </div>
       <div class="number-content">
-        <p>UNDER<br>CONSTRUCTION</p>
+        <p>MN SQ FT<br>UNDER<br>CONSTRUCTION</p>
       </div>
       <div class="clearfix"></div>
     </div>
@@ -422,10 +422,10 @@ transition:all .6s ease-in-out;
       </div>
       <div class="item numbers-div">
         <div class="number-content">
-          <h1>4 +<span class="base_no">mn sq ft</span></h1>
+          <h1>4 +</h1>
         </div>
         <div class="number-content">
-          <p>UNDER<br>CONSTRUCTION</p>
+          <p>MN SQ FT<br>UNDER<br>CONSTRUCTION</p>
         </div>
       </div>
       <div class="item numbers-div">
@@ -1231,12 +1231,12 @@ transition:all .6s ease-in-out;
             <div class="pushinghome pos-relative">
               <img src="img/home/pushingB/Pushing-Boundaries-Imade-03.jpg" alt="Because We Care">
               <h5>because we care</h5>
-              <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
+              <p class="pos-absolute home-pb p-deliver">Representative Image</p>
             </div>
             <div class="pushinghome pos-relative">
               <img src="img/home/pushingB/Pushing-Boundaries-Imade-04.jpg" alt="Our Carbon Footprint">
               <h5>our carbon footprint</h5>
-              <p class="pos-absolute home-pb p-deliver">Rendered Image</p>
+              <p class="pos-absolute home-pb p-deliver">Representative Image</p>
             </div>
           </div>
 
