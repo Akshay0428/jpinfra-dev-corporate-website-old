@@ -132,10 +132,14 @@
     .pb-di {
       background-image: linear-gradient(#ffffff00, black);
       font-size: 14px !important;
-      top: 78%;
+      top: 82%;
     }
     .pb-di-l{
       top: 89%;
+      width: 100% !important;
+    }
+    .pb-swimart{
+      top: 84% !important;
     }
     .carousel-indicators {
       top: 90%;
@@ -415,8 +419,8 @@
                     <p class="fontweight txt-left">We understand the concerns our residents might face and thus provide for maximum safety as well with a separate swimming pool for ladies. These fantastic women can now enjoy their much needed me-time without a care in the world.</p>
                 </div>
             </div>
-            <div class="pb-slider pos-relative">
-                <div class="pb-care-img">
+            <div class="pb-slider">
+                <div class="pb-care-img  pos-relative">
                     <img src="img/pushing_boundaries/JP-Care.jpg" alt="JP-Care">
                     <p class="pos-absolute pb-swimart p-deliver">Representative Image</p>
                 </div>
