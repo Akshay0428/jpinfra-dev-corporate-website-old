@@ -5572,302 +5572,304 @@ Responsive Code
 	/*--------------------------------------------------------------
     Home Page
     --------------------------------------------------------------*/
-	.p-deliver {
-		top: 88%;
-	}
-	.col-del1 {
-		width: 100%;
-		float: none;
-		margin-bottom: 47px !important;
-		margin: 0px auto;
-	}
-	.below-banner-section {
-		padding: 10px 0;
-	}
-	.numbers-div {
-		width: 100%;
-	}
-	.main_title_deliver {
-		width: 100%;
-	}
-	.abt-slide-heading {
-		display: block;
-		background: no-repeat;
-		background-size: 200% 100%;
-		background-position: right bottom;
-		transition: all .5s ease-out;
-		background-color: #2e5484;
-		color: #fff;
-	}
-	.abt-slide-heading h6 {
-		color: #fff;
-	}
-	.abt-slide-heading p {
-		color: #fff;
-	}
-	.know-text-jpabout h5 {
-		font-size: 11px;
-	}
-	.btmPname {
-		font-size: 11px;
-	}
-	.content-div {
-		margin-bottom: 0px !important;
-	}
-	.delivered-projects-head {
-		border-left: 5px solid #ddd;
-		padding: 45px 25px 45px 25px;
-		margin-top: 0px;
-		position: relative;
-		border-right: 5px solid #ddd;
-		margin-bottom: 10%;
-	}
-	.delivered-projects-head p {
-		font-size: 14px;
-		text-align: center;
-	}
-	.mb-del-btn {
-		width: 75% !important;
-		margin-top: 20px;
-	}
-	.mob-del-line {
-		left: 75%;
-	}
-	.p-northhome {
-		top: 80%;
-		font-size: 12px;
-		min-height: 120px;
-		max-height: 150px;
-		font-size: 12px;
-		padding-top: 0;
-	}
-	.jp-button {
-		width: 52%;
-	}
-	.jplife-button {
-		float: none;
-		border: 1px solid #fff;
-		max-width: 100%;
-		margin-top: 235px;
-		text-align: center;
-		margin-left: 25%;
-		width: 50%;
-	}
-	.jp-north-button {
-		top: 91%;
-		left: 25px;
-		width: 98%!important;
-	}
-	.btn-transprant {
-		width: 66%;
-		margin: 2%;
-		padding: 2px 0px;
-	}
-	.jpotherproject-button {
-		width: 81%;
-		max-width: 100%;
-		margin: 0 auto;
-	}
-	.pushing-new {
-		position: unset;
-		top: 0%;
-	}
-	.pushinghome {
-		width: 98%;
-		float: none;
-		padding: 0;
-		margin: 0 auto;
-		height: 320px !important;
-	}
-	.home-boundries {
-		background-image: none;
-		padding: 0;
-		margin-top: 10px;
-	}
-	.home-pb {
-		top: 72% !important;
-	}
-	.home-boundries-img {
-		display: block;
-	}
-	p.banner-subtitle1 {
-		text-align: center;
-	}
-	.home-boundries-txt {
-		width: 100%;
-		float: none;
-		padding-left: 20px;
-		padding-top: 0px;
-	}
-	.boundries-liveHead2.aos-init.aos-animate p {
-		text-align: left;
-		width: 100%;
-		margin-bottom: 20px;
-		margin-top: 20px;
-		text-transform: initial;
-		font-size: 12px;
-	}
-	.boundaries-h1 h1 {
-		text-align: left;
-		text-transform: capitalize;
-		font-weight: 800;
-		color: #2E5689;
-		font-size: 28px;
-		width: 100%;
-	}
-	img.arrow_button_css {
-		width: 6.5%;
-	}
-	.banner-north-mob {
-		position: relative;
-		height: 100vh;
-		background: url(../mobile/Homepage/North.jpg);
-		display: flex;
-		/*flex-direction: column;*/
-		/*justify-content: center;*/
-		/*align-items: center;*/
-		width: 100%;
-		margin-top: 25%;
-		/*background-attachment: fixed;*/
-		background-position: center;
-		background-repeat: no-repeat;
-		background-size: cover;
-	}
-	.main-div-jp {
-		width: 98%;
-		margin: 0 auto;
-		top: 1%;
-		left: 0;
-	}
-	.banner-title {
-		margin: 5px 0px;
-		text-align: center;
-	}
-	.p-18 {
-		font-size: 18px;
-		color: #fff;
-		text-align: center;
-		letter-spacing: 2px;
-		font-weight: 200;
-	}
-	.new-p-css {
-		margin-bottom: 5px;
-		font-size: 14px;
-		text-align: center;
-	}
-	.glimpse-main {
-		background-color: #2e568945;
-		width: 100%;
-		padding: 30px 0;
-	}
-	.glimpse-col-middle img {
-		width: 100%;
-		height: auto;
-	}
-	.glimpse-h1 h1 {
-		text-align: center;
-		font-size: 28px;
-		font-weight: 800;
-		color: #2E5689;
-		padding: 0px 0px 0px 0px;
-		margin: 20px 0px;
-		text-transform: capitalize;
-	}
-	.line-homepage {
-		text-align: left;
-		width: 33%;
-	}
-	.lable_line {
-		padding-top: 0px;
-		width: 27%;
-	}
-	.glimpse-head.aos-init.aos-animate p {
-		text-align: center;
-		margin: 10px auto;
-		width: 80%;
-		margin-bottom: 20px;
-		margin-top: 20px;
-		font-size: 20px;
-	}
-	.contact-div {
-		padding: 0;
-	}
-	.col-del1 {
-		width: 100%;
-		float: none;
-	}
-	.col-del2 {
-		width: 100%;
-		float: none;
-	}
-	.banner-north {
-		margin-top: 75%;
-	}
-	.jpabout-button {
-		width: 47%;
-		max-width: 100%;
-		margin-top: -5px;
-	}
-	.know-text-jpabout {
-		width: 48%;
-		float: left;
-	}
-	.know-arrow-jpabout {
-		width: 39%;
-	}
-	.btmPname {
-		top: 16px;
-		left: 56px;
-	}
-	.banner-north>*:not(.skiing) {
-		padding: 0px 15px;
-	}
-	.banner-title {
-		font-size: 38PX;
-	}
-	p.banner-subtitle1 {
-		font-size: 24px;
-	}
-	.banner-subtitle {
-		width: 98%;
-	}
-	.contact-form {
-		width: 98%;
-		margin: 60px auto;
-		padding: 20px 20px;
-	}
-	.close-form {
-		margin-top: -10px;
-	}
-	.contact-block .inner-box {
-		margin-bottom: 60px;
-	}
-	.form-field {
-		width: 98%;
-		float: none;
-	}
-	.phone-control {
-		width: 78% !important;
-		float: left;
-	}
-	.form-button {
-		width: 60%;
-		float: none;
-		margin: 0 auto;
-	}
-	span#ccode input[type="text"] {
-		width: 75%;
-	}
-	.form-button button {
-		width: 95%;
-	}
-	.numbers-div {
-		width: 100%;
-	}
-	.carousel-fade .carousel-inner {
-		background: #0000;
-	}
-	/*--------------------------------------------------------------
+    .p-deliver {
+        top: 90%;
+    }
+    .col-del1 {
+        width: 100%;
+        float: none;
+        margin-bottom: 47px !important;
+        margin: 0px auto;
+    }
+    .below-banner-section {
+        padding: 10px 0;
+    }
+    .numbers-div{
+        width: 100%;
+    }
+    .main_title_deliver {
+        width: 100%;
+    }
+    .abt-slide-heading {
+        display: block;
+         background: no-repeat; 
+        background-size: 200% 100%;
+        background-position: right bottom;
+        transition: all .5s ease-out;
+        background-color: #2e5484;
+        color: #fff;
+    }
+    .abt-slide-heading h6 {
+        color: #fff;
+    }
+    .abt-slide-heading p {
+        color: #fff;
+    }
+    .know-text-jpabout h5 {
+        font-size: 11px;
+    }
+    .btmPname {
+        font-size: 11px;
+    }
+    .content-div {
+        margin-bottom: 0px !important;
+    }
+    .delivered-projects-head {
+        border-left: 5px solid #ddd;
+        padding: 45px 25px 45px 25px;
+        margin-top: 0px;
+        position: relative;
+        border-right: 5px solid #ddd;
+        margin-bottom: 10%;
+    }
+    .delivered-projects-head p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .mb-del-btn{
+        width: 75% !important;
+        margin-top: 20px;
+    }
+    .mob-del-line{
+        left: 75%;
+    }
+    .p-northhome {
+        top: 82%;
+        font-size: 12px;
+        min-height: 120px;
+        max-height: 150px;
+        font-size: 12px;
+        padding-top: 0;
+    }
+    .jp-button {
+        width: 52%;
+    }
+    .jplife-button {
+        float: none;
+        border: 1px solid #fff;
+        max-width: 100%;
+        margin-top: 235px;
+        text-align: center;
+        margin-left: 25%;
+        width: 50%;
+    }
+    .jp-north-button {
+        top: 91%;
+        left: 25px;
+        width: 98%!important;
+    }
+    .btn-transprant {
+        width: 66%;
+        margin: 2%;
+        padding: 2px 0px;
+    }
+    .jpotherproject-button {
+        width: 81%;
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    .pushing-new {
+        position: unset;
+        top: 0%;
+    }
+    .pushinghome {
+        width: 98%;
+        float: none;
+        padding: 0;
+        margin: 0 auto;
+        height: 320px !important;
+    }
+    .home-boundries {
+        background-image: none;
+        padding: 0;
+        margin-top: 10px;
+    }
+    .home-pb {
+        top: 82% !important;
+    }
+    .home-boundries-img {
+        display: block;
+    }
+    p.banner-subtitle1 {
+        text-align: center;
+    }
+    .home-boundries-txt {
+        width: 100%;
+        float: none;
+        padding-left: 20px;
+        padding-top: 0px;
+    }
+    .boundries-liveHead2.aos-init.aos-animate p {
+        text-align: left;
+        width: 100%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        text-transform: initial;
+        font-size: 12px;
+    }
+    .boundaries-h1 h1 {
+        text-align: left;
+        text-transform: capitalize;
+        font-weight: 800;
+        color: #2E5689;
+        font-size: 28px;
+        width: 100%;
+    }
+    img.arrow_button_css {
+        width: 6.5%;
+    }
+    .banner-north-mob{
+        position: relative;
+        height: 100vh;
+        background: url(../mobile/Homepage/North.jpg);
+        display: flex;
+        /*flex-direction: column;*/
+        /*justify-content: center;*/
+        /*align-items: center;*/
+        width: 100%;
+        margin-top: 25%;
+        /*background-attachment: fixed;*/
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .main-div-jp {
+        width: 98%;
+        margin: 0 auto;
+        top: 1%;
+        left: 0;
+    }
+    .banner-title {
+        margin: 5px 0px;
+        text-align: center;
+    }
+    .p-18{
+        font-size: 18px;
+        color: #fff;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 200;
+    }
+    .new-p-css{
+        margin-bottom: 5px;
+        font-size: 14px;
+        text-align: center;
+    }
+    .glimpse-main {
+        background-color: #2e568945;
+        width: 100%;
+        padding: 30px 0;
+    }
+    .glimpse-col-middle img {
+        width: 100%;
+        height: auto;
+    }
+.glimpse-h1 h1 {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    color: #2E5689;
+    padding: 0px 0px 0px 0px;
+    margin: 20px 0px;
+    text-transform: capitalize;
+}
+.line-homepage {
+    text-align: left;
+    width: 33%;
+}
+.lable_line {
+    padding-top: 0px;
+    width: 27%;
+}
+.glimpse-head.aos-init.aos-animate p {
+    text-align: center;
+    margin: 10px auto;
+    width: 80%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.contact-div {
+    padding: 0;
+}
+.col-del1{
+    
+    width: 100%;
+    float: none;
+}
+.col-del2{
+    
+    width: 100%;
+    float: none;
+}
+.banner-north {
+    margin-top: 75%;
+}
+.jpabout-button {
+    width: 47%;
+    max-width: 100%;
+    margin-top: -5px;
+}
+.know-text-jpabout {
+    width:48%;
+    float: left;
+}
+.know-arrow-jpabout {
+    width: 39%;
+}
+.btmPname {
+    top: 16px;
+    left: 56px;
+}
+.banner-north > *:not(.skiing) {
+    padding: 0px 15px;
+}
+.banner-title {
+    font-size: 38PX;
+}
+p.banner-subtitle1 {
+    font-size: 24px;
+}
+.banner-subtitle {
+    width: 98%;
+}
+.contact-form {
+    width: 98%;
+    margin: 60px auto;
+    padding: 20px 20px;
+}
+.close-form {
+    margin-top: -10px;
+}
+.contact-block .inner-box {
+    margin-bottom: 60px;
+}
+.form-field {
+    width: 98%;
+     float: none; 
+}
+.phone-control {
+    width: 78% !important;
+    float: left;
+}
+.form-button {
+    width: 60%;
+     float: none; 
+     margin: 0 auto;
+}
+span#ccode input[type="text"] {
+    width: 75%;
+}
+.form-button button {
+    width: 95%;
+}
+.numbers-div {
+    width: 100%;
+}
+.carousel-fade .carousel-inner {
+    background: #0000;
+}
+    /*--------------------------------------------------------------
     nri corner page
     --------------------------------------------------------------*/
 	.nri-text h3 {
@@ -5908,149 +5910,149 @@ Responsive Code
 	/*--------------------------------------------------------------
 north Page
 --------------------------------------------------------------*/
-	.np-mergerd {
-		width: 98%;
-		float: none;
-		margin: 0 auto;
-	}
-	.north-p {
-		top: 74%;
-	}
-	section.main-npslider {
-		height: auto;
-	}
-	video#myVideonpnorth {
-		width: 100%;
-	}
-	.logo-banner {
-		width: 30%;
-		max-width: 50%;
-		top: 5%;
-		left: 5%;
-	}
-	.np-img-leaf4 {
-		width: 20%;
-		left: 74%;
-		top: 97%;
-	}
-	.jp-north-page-way-life-main.width-100 {
-		background-color: #00000014;
-		padding: 30px 0px;
-		margin-top: 0px;
-	}
-	.mob-tf-42 {
-		margin: 0px 0px 0px 0px !important;
-	}
-	.ls-p {
-		top: 90%;
-	}
-	.jp-north-page-banner-text-main {
-		width: 90%;
-		font-size: 16px;
-	}
-	.jp-north-page-way-life-main-text {
-		width: 100%;
-		float: none;
-		margin-bottom: 50px;
-	}
-	.h2-css {
-		font-size: 20px;
-		text-align: left;
-	}
-	.jp-north-page-way-life-main-img {
-		width: 100%;
-		float: none;
-	}
-	.p-width {
-		width: 98%;
-		text-align: justify;
-		font-size: 14px;
-		margin: 0 auto;
-		margin-top: 35px;
-	}
-	.jp-north-page-banner-text-h1 {
-		text-transform: uppercase;
-		font-weight: 300;
-		font-size: 36px;
-	}
-	.jp-north-page-way-life-main-divs {
-		width: 94%;
-		margin: 0 auto;
-	}
-	.np-bl-patch {
-		background-color: #00000000;
-	}
-	.np-img-leaf {
-		width: 20%;
-		left: 25%;
-		top: 20%;
-	}
-	.above-footer-color {
-		font-size: 20px;
-	}
-	.jp-north-page-banner-text-h6 {
-		font-size: 16px;
-	}
-	.jp-north-page-subheading {
-		width: 90%;
-		font-size: 14px;
-	}
-	.top {
-		top: 25%;
-		left: 6%;
-	}
-	.tx-align p {
-		text-align: center !important;
-		font-size: 14px !important;
-	}
-	.parallax-mira {
-		background-image: url(../img/jpnorthpage/Miraroad-BG-mob.jpg);
-	}
-	.jp-north-page-abovefooter_main {
-		width: 100%;
-		background-color: #00000014;
-		padding-top: 20px;
-		padding-bottom: 20px;
-	}
-	.jp-north-page-way-life-main-text {
-		width: 100%;
-		float: none;
-		margin-bottom: 20px;
-	}
-	.margin-top {
-		margin: 35px 0px 0px 0px;
-	}
-	.inner-div-np-text {
-		top: 80%;
-	}
-	.jp-north-page-transforming-text-main {
-		top: 5%;
-	}
-	.button-np {
-		width: 40%;
-		padding: 0px 6px 0px 14px;
-	}
-	.np-img-leaf3 {
-		width: 7%;
-		left: 90%;
-		top: 95%;
-	}
-	.np-img-leaf2 {
-		width: 18%;
-		left: 10%;
-		top: 163%;
-	}
-	.mob-wid {
-		margin: 0 auto;
-		width: 80%;
-	}
-	.jp-north-page-themed-garden-heading {
-		top: 15%;
-		left: 50%;
-		transform: translate(-50%, -50%);
-		width: 75%;
-	}
-	/*--------------------------------------------------------------
+    .np-mergerd{
+        width: 98%;
+        float: none;
+        margin: 0 auto;
+    }
+    .north-p {
+        top: 77%;
+    }
+    section.main-npslider {
+        height: auto;
+    }
+    video#myVideonpnorth {
+        width: 100%;
+    }
+    .logo-banner {
+        width: 30%;
+        max-width: 50%;
+        top: 5%;
+        left: 5%;
+    }
+    .np-img-leaf4 {
+        width: 20%;
+        left: 74%;
+        top: 97%;
+    }
+    .jp-north-page-way-life-main.width-100 {
+        background-color: #00000014;
+        padding: 30px 0px;
+        margin-top: 0px; 
+    }
+    .mob-tf-42{
+        margin: 0px 0px 0px 0px !important;
+    }
+    .ls-p{
+        top: 93%;
+    }
+    .jp-north-page-banner-text-main {
+        width: 90%;
+        font-size:16px;
+    }
+    .jp-north-page-way-life-main-text {
+        width: 100%;
+        float: none; 
+        margin-bottom: 50px;
+    }
+    .h2-css {
+        font-size: 20px;
+        text-align: left;
+    }
+    .jp-north-page-way-life-main-img {
+        width: 100%;
+        float:none;
+    }
+    .p-width{
+        width: 98%;
+        text-align: justify;
+        font-size: 14px;
+        margin: 0 auto;
+        margin-top: 35px;
+    }
+    .jp-north-page-banner-text-h1 {
+        text-transform: uppercase;
+        font-weight: 300;
+        font-size: 36px;
+    }
+    .jp-north-page-way-life-main-divs {
+        width: 94%;
+         margin: 0 auto;
+    }
+    .np-bl-patch{
+        background-color: #00000000;
+    }
+    .np-img-leaf {
+        width: 20%;
+        left: 25%;
+        top: 20%;
+    }
+    .above-footer-color {
+        font-size: 20px;
+    }
+    .jp-north-page-banner-text-h6 {
+        font-size: 16px;
+    }
+    .jp-north-page-subheading {
+        width: 90%;
+        font-size: 14px;
+    }
+    .top {
+        top: 25%;
+        left: 6%;
+    }
+    .tx-align p{
+        text-align:center !important;
+        font-size: 14px !important;
+    }
+    .parallax-mira{
+        background-image: url(../img/jpnorthpage/Miraroad-BG-mob.jpg);
+    }
+    .jp-north-page-abovefooter_main {
+        width: 100%;
+        background-color: #00000014;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .jp-north-page-way-life-main-text {
+        width: 100%;
+        float: none;
+        margin-bottom: 20px;
+    }
+    .margin-top {
+        margin: 35px 0px 0px 0px;
+    }
+    .inner-div-np-text {
+        top: 80%;
+    }
+    .jp-north-page-transforming-text-main {
+        top: 5%;
+    }
+    .button-np {
+        width: 40%;
+        padding: 0px 6px 0px 14px;
+    }
+    .np-img-leaf3 {
+        width: 7%;
+        left: 90%;
+        top: 95%;
+    }
+    .np-img-leaf2 {
+        width: 18%;
+        left: 10%;
+        top: 163%;
+    }
+    .mob-wid{
+        margin:0 auto;
+        width:98%;
+    }
+    .jp-north-page-themed-garden-heading {
+        top: 15%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 75%;
+    }
+    /*--------------------------------------------------------------
     media Page mob
     --------------------------------------------------------------*/
 	.media-background {
@@ -6365,14 +6367,17 @@ north Page
 	/*--------------------------------------------------------------
     Pushing boundaries Page mob
     --------------------------------------------------------------*/
-	section.human_sec {
-		margin-top: 30%;
-	}
-	.p-pushingb {
-		top: 85%;
-		left: 55%;
-	}
-	/*----------------------------------------------------------------
+    section.human_sec {
+        margin-top: 30%;
+    }
+    .p-pushingb {
+        top: 85%;
+        left: 55%;
+    }
+    .bghome-push {
+        height: 45vh;
+    }
+    /*----------------------------------------------------------------
     overview PAGE mob
     ----------------------------------------------------------------*/
 	.redevelopment-abtus {
@@ -6482,45 +6487,6 @@ north Page
 	input {
 		width: 250px;
 	}
-	/*****************************************************
-
-    Blog Mob Page
-
-    ******************************************************/
-	.inner-goback-button {
-		width: 42%;
-	}
-	.blog-banner img {
-		height: fit-content;
-	}
-	.blog-box {
-		position: unset;
-		bottom: 0px;
-		background: #fff;
-		width: 100%;
-		left: 0;
-		padding: 30px;
-		box-shadow: 0.5px 3px 4px 3px #dddddd5e;
-	}
-	.blog-box p {
-		text-align: center;
-		font-weight: 400;
-		width: 100%;
-		margin: 0 auto;
-		margin-top: 25px;
-		margin-bottom: 10px;
-	}
-	section#blogs-here {
-		width: 80%;
-		margin: 0 auto;
-		margin-top: 0px;
-		margin-bottom: 0px;
-	}
-	.blogs-here-col {
-		margin-top: 60px;
-		height: 300px;
-	}
-}
 
 
 /*--------------------------------------------------------------
@@ -7207,6 +7173,46 @@ SUSTAINABILITY PAGE
 		margin: 0px auto;
 		padding: 5px;
 	}
+
+		/*****************************************************
+
+    Blog Mob Page
+
+    ******************************************************/
+	.inner-goback-button {
+		width: 42%;
+	}
+	.blog-banner img {
+		height: fit-content;
+	}
+	.blog-box {
+		position: unset;
+		bottom: 0px;
+		background: #fff;
+		width: 100%;
+		left: 0;
+		padding: 30px;
+		box-shadow: 0.5px 3px 4px 3px #dddddd5e;
+	}
+	.blog-box p {
+		text-align: center;
+		font-weight: 400;
+		width: 100%;
+		margin: 0 auto;
+		margin-top: 25px;
+		margin-bottom: 10px;
+	}
+	section#blogs-here {
+		width: 80%;
+		margin: 0 auto;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.blogs-here-col {
+		margin-top: 60px;
+		height: 300px;
+	}
+
 }
 
 @media only screen and (max-width:620px) {

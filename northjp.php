@@ -129,7 +129,7 @@
         height: auto;
       }
       .swiper-button-prev {
-        top: 63.5% !important;
+        top: 71.5% !important;
       }
     }
     @media screen and (max-width: 800px) {
@@ -442,8 +442,8 @@
       <div class="jp-north-page-living-space-slider-main mob-wid width-100 margin-top responsivepro">
         <div class="np-living-space-slider float-left">
           <div class="inner-div-np pos-relative">
-            <img src="img/jpnorthpage/new/NGC-1.jpg" class="m_hide" alt="slide1">
-            <img src="img/jpnorthpage/gardencity.jpg" class="d_hide" alt="slide1">
+            <img src="img/jpnorthpage/new/NGC-1.jpg" alt="slide1">
+            <!-- <img src="img/jpnorthpage/gardencity.jpg" class="d_hide" alt="slide1"> -->
             <a href="https://www.jpinfra.com/jp-north/gardencity/" target="blank" class="m_hide">
               <div class="np-bl-patch pos-absolute">
                 <div class="ols-text">
@@ -471,7 +471,7 @@
             <div class="inner-div-np-text pos-absolute">
               <h5>North Garden City</h5>
             </div>
-            <p class="pos-absolute ls-p p-deliver">Artist's Impression</p>
+            <p class="pos-absolute ls-p p-deliver">Rendered Image</p>
           </div>
           <div class="button-np project-property-button d_hide">
             <a href="https://www.jpinfra.com/jp-north/gardencity/"  target="blank">
@@ -487,8 +487,8 @@
         </div>
         <div class="np-living-space-slider float-left slider-padding">
           <div class="inner-div-np pos-relative">
-            <img src="img/jpnorthpage/new/Hotcake.jpg" class="m_hide" alt="Codename-Hotcake">
-            <img src="img/slider_mob2.jpg" class="d_hide" alt="Codename-Hotcake">
+            <img src="img/jpnorthpage/new/Hotcake.jpg" alt="Codename-Hotcake">
+            <!-- <img src="img/slider_mob2.jpg" class="d_hide" alt="Codename-Hotcake"> -->
             <a href="http://www.jpinfra.com/codenamehotcake/" target="blank" class="m_hide">
               <div class="np-bl-patch pos-absolute">
                 <div class="ols-text">
@@ -528,8 +528,8 @@
         </div>
         <div class="np-living-space-slider float-left slider-padding">
           <div class="inner-div-np pos-relative">
-            <img src="img/jpnorthpage/new/Open-Streets.jpg" class="m_hide" alt="Codename-Open-Streets">
-            <img src="img/slider_mob3.jpg" class="d_hide" alt="slide3">
+            <img src="img/jpnorthpage/new/Open-Streets.jpg" alt="Codename-Open-Streets">
+            <!-- <img src="img/slider_mob3.jpg" class="d_hide" alt="slide3"> -->
               <a href="http://www.jpinfra.com/codenameopenstreets/" target="blank" class="m_hide">
                 <div class="np-bl-patch pos-absolute">
                   <div class="ols-text">
@@ -570,8 +570,8 @@
         </div>
         <div class="np-living-space-slider float-left slider-padding">
             <div class="inner-div-np pos-relative">
-              <img src="img/jpnorthpage/new/Celeste.jpg" class="m_hide" alt="slide4">
-              <img src="img/jpnorthpage/celeste.jpg" class="d_hide" alt="slide4">
+              <img src="img/jpnorthpage/new/Celeste.jpg" alt="slide4">
+              <!-- <img src="img/jpnorthpage/celeste.jpg" class="d_hide" alt="slide4"> -->
               <a href="north_celeste.php" target="blank" class="m_hide">
                 <div class="np-bl-patch pos-absolute">
                   <div class="ols-text">
@@ -611,8 +611,8 @@
         </div>
         <div class="np-living-space-slider float-left">
             <div class="inner-div-np pos-relative">
-              <img src="img/jpnorthpage/new/Now-or-Never.jpg" class="m_hide" alt="slide5">
-              <img src="img/jpnorthpage/donald.jpg" class="d_hide" alt="slide5">
+              <img src="img/jpnorthpage/new/Now-or-Never.jpg" alt="slide5">
+              <!-- <img src="img/jpnorthpage/donald.jpg" class="d_hide" alt="slide5"> -->
               <a href="http://www.jpinfra.com/jp-north/codenamenowornever/" target="blank" class="m_hide">
                 <div class="np-bl-patch pos-absolute">
                   <div class="ols-text">

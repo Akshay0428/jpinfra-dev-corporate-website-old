@@ -200,6 +200,12 @@
       </div>
     </div>
 
+    <div class="rera-no">
+      <p>MahaRERA NO- JP Unity Towers P51800001120 | https://maharera.mahaonline.gov.in </p>
+    </div>
+
+
+
    <div class="bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
       <div class="main_title_jpdesk pdng">
          <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
