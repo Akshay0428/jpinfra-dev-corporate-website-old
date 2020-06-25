@@ -221,21 +221,21 @@
     <div class="fp-tableCell" style="height: 625px;">
       <div class="main-wrapper">
         <div class="slider-col gray animation active">
-          <div class="caption animation">
+          <div class="caption animation pos-relative">
             <h2>Design Innovation</h2>
             <p>Believing in community living and open spaces, JP Infra builds projects that encourage these aspects through providing vehicle-free zones, garden areas, meditation centres and amenities for fun group activity</p>
             <p class="p-pushingb pos-absolute">Artist's Impression</p>
           </div>
         </div>
         <div class="slider-col yellow animation">
-          <div class="caption animation">
+          <div class="caption animation pos-relative">
             <h2>Integrated Living</h2>
             <p>JP Infra offers you the best of all worlds within the same campus so you can enjoy peaceful living through features like jogging tracks, yoga pavilion, open to sky swimming pool, herbs and spice garden, local coffee shops and spas, etc.</p>
             <p class="p-pushingb pos-absolute">Artist's Impression</p>
           </div>
         </div>
         <div class="slider-col blue animation">
-          <div class="caption animation">
+          <div class="caption animation pos-relative">
             <h2>Because We Care</h2>
             <p>We at JP Infra believe that those who work tirelessly to ensure our projects are a
               success are more important than the buildings itself so we offer additional benefits
@@ -244,7 +244,7 @@
           </div>
         </div>
         <div class="slider-col orange animation">
-          <div class="caption animation">
+          <div class="caption animation pos-relative">
             <h2>Our Carbon Footprint</h2>
             <p>Our pledge to a better and greener tomorrow is evident through our eco-friendly
               initiatives like rain-water harvesting, waste management and usage of solar panels
@@ -276,27 +276,27 @@
             </div>
             <div class="clearfix"></div>
             <div class="push-human">
-              <div id="myCarousel" class="carousel slide" data-ride="carousel">
+              <!-- <div id="myCarousel" class="carousel slide" data-ride="carousel"> -->
                 <!-- Indicators -->
-                <ol class="carousel-indicators">
+                <!-- <ol class="carousel-indicators">
                   <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                   <li data-target="#myCarousel" data-slide-to="1"></li>
-                  <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
-                </ol>
-                <div class="carousel-inner">
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol> -->
+                <!-- <div class="carousel-inner"> -->
                   <div class="item active pos-relative">
                     <img src="img/pushing_boundaries/humanleft1.jpg" class="img-1">
                     <p class="pos-absolute pb-di p-deliver">Artist's Impression</p>
                   </div>
-                  <div class="item pos-relative">
+                  <!-- <div class="item pos-relative">
                     <img src="img/pushing_boundaries/humanleft2.jpg" class="img-2">
                     <p class="pos-absolute pb-di p-deliver">Actual image</p>
-                  </div>
+                  </div> -->
                   <!-- <div class="item">
                     <img src="img/pushing_boundaries/humanleft3.jpg" class="img-cls">
                   </div> -->
-                </div>
-              </div>
+                <!-- </div> -->
+              <!-- </div> -->
             </div>
             <div class="clearfix"></div>
           </div>
@@ -407,7 +407,7 @@
             <div class="pb-slider">
                 <div class="pb-care-img pos-relative">
                     <img src="img/pushing_boundaries/swimming_pool.jpg" alt="swimming_pool">
-                    <p class="pos-absolute pb-swimart p-deliver">Reference Image</p>
+                    <p class="pos-absolute pb-swimart p-deliver">Representative Image</p>
                 </div>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line m_hide"></div>
@@ -417,13 +417,13 @@
             </div>
             <div class="pb-slider pos-relative">
                 <div class="pb-care-img">
-                    <img src="img/pushing_boundaries/JP-Care.jpg" alt="Mira-Bhayander-Rising">
-                    <p class="pos-absolute pb-swimart p-deliver">Reference Image</p>
+                    <img src="img/pushing_boundaries/JP-Care.jpg" alt="JP-Care">
+                    <p class="pos-absolute pb-swimart p-deliver">Representative Image</p>
                 </div>
                 <div class="pbslider-care-txt">
                     <div class="pbcare-line m_hide pbcareline-jpcare"></div>
                     <h3 class="fontweight-bold">JP - Care</h3>
-                    <p class="fontweight txt-left">A JP Infra initiative, Mira-Bhayander Rising has been conceptualized with the goal of building a community-based lifestyle in Mira Road for people to celebrate their neighbourhood with pride. The idea behind the initiative is to allow residents of Mira Road and Bhayander to engage in community events that help build community spirit and a feeling of togetherness.</p>
+                    <p class="fontweight txt-left">JP Infra believes that their customers' needs always come first. JP Care -- an initiative by JP Infra -- is designed to do just that by providing potential customers a support system that lets them book the house that they've been dreaming of.</p>
                 </div>
             </div>
         </div>

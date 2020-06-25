@@ -22,7 +22,7 @@
 </div>
 <!-- redevelopment ends -->
 <!--  project redeveloped-->
-<div class="container_main bg-3 text-center wow fadeIn" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
+<div class="container_main bg-3 text-center wow fadeIn redev-mrg" data-wow-duration="4s" style="visibility: visible; animation-duration: 4s; animation-name: fadeIn;">
    <div class="wwu-main">
       <div class="lable_line"><img src="img/Gray-Head-line.png" class="northimage"></div>
       <h1 data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500" class="txt-transform">projects redeveloped</h1>
@@ -60,21 +60,24 @@
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
-                        <li data-target="#myCarousel" data-slide-to="3"></li>
+                        <!-- <li data-target="#myCarousel" data-slide-to="3"></li> -->
                      </ol>
                      <div class="carousel-inner">
-                        <div class="item active">
-                           <img src="img/redevelopment/jpdeck/JP-DECKS-01.jpg" alt="jpdecks-img1">                  
+                        <div class="item active pos-relative">
+                           <img src="img/redevelopment/jpdeck/JP-DECKS-01.jpg" alt="jpdecks-img1">
+                           <p class=" p-deliver redev-artslider pos-absolute">Actual Image</p>                  
                         </div>
-                        <div class="item">
+                        <div class="item pos-relative">
                            <img src="img/redevelopment/jpdeck/JP-DECKS-02.jpg" alt="jpdecks-img2">
+                           <p class=" p-deliver redev-artslider pos-absolute">Actual Image</p>
                         </div>
-                        <div class="item">
+                        <div class="item pos-relative">
                            <img src="img/redevelopment/jpdeck/JP-DECKS-03.jpg" alt="jpdecks-img3">
+                           <p class=" p-deliver redev-artslider pos-absolute">Actual Image</p>
                         </div>
-                        <div class="item">
+                        <!-- <div class="item">
                            <img src="img/redevelopment/jpdeck/JP-DECKS-04.jpg" alt="jpdecks-img4">
-                        </div>
+                        </div> -->
                         <!-- <div class="item">
                            <img src="img/pushing_boundaries/humanleft3.jpg" class="img-cls">
                            </div> -->
@@ -84,6 +87,7 @@
                   <div class="clearfix"></div>
                </div>
                <div class="proj_txt">
+                <h3>JP Decks, Goregaon, Mumbai</h3>
                   <ul>
                      <li>JP Decks is just the place for your family - an exclusive standalone tower with two wings rising to 39 floors with 2 and 3-bed apartments.</li>
                      <li>JP Decks is JP Infra’s landmark project that has set around 13604 sq mts of land.</li>
@@ -124,10 +128,12 @@
             </div> -->
          <div class="rainwater">
             <div class="proj_info">
-               <div class="slider_img single_code">
+               <div class="slider_img single_code pos-relative">
                   <img src="img/redevelopment/chalet_amar/Chalet-Amar.jpg" alt="Chalet-Amar">
+                  <p class=" p-deliver redev-chartslider pos-absolute">Actual Image</p>
                </div>
                <div class="proj_txt">
+                <h3>Chalet Amar, Juhu, Mumbai</h3>
                   <ul>
                      <li>JP Infra at Juhu brings to you a luxurious residential project of 1370 sq mts at Chalet Amar which ensures an enriched life. </li>
                      <li>The project is strategically located and provides access to the entire city to its esteemed residents.</li>
@@ -148,11 +154,13 @@
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                      </ol>
                      <div class="carousel-inner">
-                        <div class="item active">
+                        <div class="item active pos-relative">
                         <img src="img/redevelopment/unity_tower/Unity-Towers-01.jpg" alt="Unity-Towers-1">
+                        <p class=" p-deliver redev-artslider pos-absolute">Actual Image</p>
                         </div>
-                        <div class="item">
+                        <div class="item pos-relative">
                         <img src="img/redevelopment/unity_tower/Unity-Towers-02.jpg" alt="Unity-Towers-2">
+                        <p class=" p-deliver redev-artslider pos-absolute">Actual Image</p>
                         </div>
                      </div>
                      <div class="clearfix"></div>
@@ -160,6 +168,7 @@
                   <div class="clearfix"></div>
                </div>
                <div class="proj_txt">
+                <h3>Unity Towers, Worli, Mumbai</h3>
                   <ul>
                      <li>Set in South Mumbai’s prime locale, Worli, Unity Towers is a rich landscape designed to provide intelligent architecture and beautiful homes.</li>
                      <li> Built around 1086 sq mts of land, it offers easy access to a royal experience and a modern lifestyle where each moment that you live is a rare privilege.</li>

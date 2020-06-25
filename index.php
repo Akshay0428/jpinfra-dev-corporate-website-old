@@ -394,7 +394,7 @@ transition:all .6s ease-in-out;
         <h1>4 +</h1>
       </div>
       <div class="number-content">
-        <p>MN SQ FT<br>UNDER<br>CONSTRUCTION</p>
+        <p>MN SQFT<br>UNDER<br>CONSTRUCTION</p>
       </div>
       <div class="clearfix"></div>
     </div>
@@ -439,7 +439,7 @@ transition:all .6s ease-in-out;
           <h1>4 +</h1>
         </div>
         <div class="number-content">
-          <p>MN SQ FT<br>UNDER<br>CONSTRUCTION</p>
+          <p>MN SQFT<br>UNDER<br>CONSTRUCTION</p>
         </div>
       </div>
       <div class="item numbers-div">

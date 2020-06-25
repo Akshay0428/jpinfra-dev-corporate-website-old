@@ -103,12 +103,14 @@
          </div>
          <div class="container_main d_hide">
             <div class="navbar-header">
+               <!-- <div class="call-mob"><img src="img/Call.png"></div> -->
                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar2">
                <span class="icon-bar"></span>
                <span class="icon-bar"></span>
                <span class="icon-bar"></span>                        
                </button>
                <a class="navbar-brand" href="index.php"><img src="img/JP Infra Logo.png"></a>
+               <div class="call-mob"><a href="tel:022 42415678"><img src="img/Call.png"></a></div>
             </div>
             <div class="collapse navbar-collapse" id="myNavbar2">
                <ul class="nav navbar-nav navbar-right">

@@ -294,7 +294,7 @@
 	<div class="project-background m_hide">
 		<h1>Projects</h1>
 		<div class="project-white-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-				<p>Over the past 14 years, JP Infra has delivered __ square meters of happiness and strives to continue providing dream homes to help you realize your dreams and live the life you were always meant to. In the hustle and bustle of the busy city, JP Infra offers a thoughtful lifestyle for its residents to enjoy ultra-modern amenities with state-of-the-art technology, sustainable development, and lush green landscapes.</p>
+				<p>Over the past 14 years, JP Infra has delivered approximately 1.8 mn sqft of happiness and strives to continue providing dream homes to help you realize your dreams and live the life you were always meant to. In the hustle and bustle of the busy city, JP Infra offers a thoughtful lifestyle for its residents to enjoy ultra-modern amenities with state-of-the-art technology, sustainable development, and lush green landscapes.</p>
 		</div>
 	</div>
 
@@ -302,7 +302,7 @@
 	<div class="project-background-mob project-background d_hide">
 		<h1>Projects</h1>
 		<div class="project-white-sec"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-				<p>Over the past 14 years, JP Infra has delivered __ square meters of happiness and strives to continue providing dream homes to help you realize your dreams and live the life you were always meant to. In the hustle and bustle of the busy city, JP Infra offers a thoughtful lifestyle for its residents to enjoy ultra-modern amenities with state-of-the-art technology, sustainable development, and lush green landscapes.</p>
+				<p>Over the past 14 years, JP Infra has delivered approximately 1.8 mn sqft of happiness and strives to continue providing dream homes to help you realize your dreams and live the life you were always meant to. In the hustle and bustle of the busy city, JP Infra offers a thoughtful lifestyle for its residents to enjoy ultra-modern amenities with state-of-the-art technology, sustainable development, and lush green landscapes.</p>
 		</div>
 	</div>
 	<!-- Project bg end -->

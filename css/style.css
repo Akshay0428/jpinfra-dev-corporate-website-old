@@ -1451,7 +1451,7 @@ Pushing Boundaries
     max-height: 80vh;
 }
 .p-pushingb{
-    top: 97%;
+    top: 120%;
     color: #fff;
     margin: 0;
     left: 70%;
@@ -3317,7 +3317,9 @@ button#button_enquiry_desktop {
 /*--------------------------------------------------------------
 redevelopment project mumbai 
 --------------------------------------------------------------*/
-
+.redev-mrg{
+    margin-top: 9%;
+}
 .proj_heading {
     width: 80%;
     margin: 0 auto;
@@ -3346,13 +3348,25 @@ redevelopment project mumbai
     cursor: pointer;
     color: #2e5689;
 }
+.proj_txt h3{
+    text-align: left;
+    font-size: 22px;
+    padding-left: 15px;
+    margin-top: 0;
+}
 .proj_info {
     width: 100%;
-    padding-top: 60px;
+    padding-top: 0px;
 }
 .proj_slider {
     width: 50%;
     float: left;
+}
+.redev-artslider{
+    top: 93%;
+}
+.redev-chartslider{
+    top: 83%;
 }
 .slider_img img {
     width: 100%;
@@ -4509,6 +4523,9 @@ Responsive Code
         width: 100%;
         height: 72.2vh;
     }
+    section.human_sec {
+        margin-top: 20%;
+    }
 }
 
 
@@ -4599,6 +4616,15 @@ Responsive Code
     }
     .nav>li>a {
         padding: 10px 25px;
+    }
+    .navbar-header{
+        position: relative;
+    }
+    .call-mob {
+        width: 6%;
+        position: absolute;
+        left: 63%;
+        top: 22px;
     }
     .prev-button-home{
         display: none !important;
@@ -5312,9 +5338,16 @@ north Page
         width: 100%;
         float: none;
     }
+    .proj_txt h3 {
+        font-size: 18px;
+        margin-top: 25px;
+    }
     .single_code {
         width: 100%;
         float: none;
+    }
+    .redev-chartslider {
+        top: 73%;
     }
 
 
